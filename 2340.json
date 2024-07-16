@@ -9139,7 +9139,7 @@
       {
         "section": "L1",
         "number": "1023",
-        "remarks": "> Instructor : CHEN, Zaidan and LI, Mingyu\n> Supervisor : Prof.ZHELYAZKOV, Pavel \n> Add/Drop Deadline : 20-Jun-2024",
+        "remarks": "> Instructor : CHEN, Zaidan and LI, Mingyu\n> Supervisor : Prof. ZHELYAZKOV, Pavel \n> Add/Drop Deadline : 20-Jun-2024",
         "quota": 50,
         "enroll": 44,
         "waitlist": 0,
@@ -11470,79 +11470,6 @@
             ],
             "fromTime": "14:00",
             "toTime": "18:50"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "TPG",
-    "subject": "SBMT",
-    "number": "5730",
-    "code": "SBMT5730",
-    "name": "MBA Accelerator - Python",
-    "description": "This pre-program course aims to provide elementary or refreshing knowledge in technical skills to prepare students for the academic demands and rigor of MBA courses. Python is used for creating high-level abstractions for well-written and well-optimized frameworks, where business applications rely on. The course will cover Python programming language for developing business applications, the practical libraries and packages. Graded P or F.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 1,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "L1",
-        "number": "1197",
-        "remarks": "> For Digital MBA students only\n> Add/Drop Deadline : 21-Aug-2024",
-        "quota": 1,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [
-          {
-            "name": "Digital MBA",
-            "quota": 1,
-            "enroll": 0
-          }
-        ],
-        "schedule": [
-          {
-            "instructors": [
-              "KWOK, James Sai Ho"
-            ],
-            "venue": "TBA",
-            "fromDate": "2024-08-20",
-            "toDate": "2024-08-20",
-            "weekdays": [
-              2
-            ],
-            "fromTime": "19:00",
-            "toTime": "22:20"
-          },
-          {
-            "instructors": [
-              "KWOK, James Sai Ho"
-            ],
-            "venue": "TBA",
-            "fromDate": "2024-08-24",
-            "toDate": "2024-08-24",
-            "weekdays": [
-              6
-            ],
-            "fromTime": "09:00",
-            "toTime": "12:20"
-          },
-          {
-            "instructors": [
-              "KWOK, James Sai Ho"
-            ],
-            "venue": "TBA",
-            "fromDate": "2024-08-24",
-            "toDate": "2024-08-24",
-            "weekdays": [
-              6
-            ],
-            "fromTime": "14:00",
-            "toTime": "17:20"
           }
         ]
       }
