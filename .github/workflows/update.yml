@@ -45,6 +45,8 @@ jobs:
           git config --local user.email "bot@ust-rankings.com"
           git config --local user.name "UST Archive Bot"
           git add .
+        # Continue on error to allow empty commits.
+        continue-on-error: true
 
       - name: Commit Data
         working-directory: data
