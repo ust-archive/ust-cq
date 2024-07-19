@@ -7385,6 +7385,69 @@
   {
     "career": "UGRD",
     "subject": "LANG",
+    "number": "1403A",
+    "code": "LANG1403A",
+    "name": "Academic English for University Studies",
+    "description": "This course emphasises the development of academic literacy skills, in addition to developing students’ language proficiency.Students will learn how to find and evaluate sources for academic tasks and will further develop their abilities to be critical in reading and writing, to synthesise ideas and to develop coherent arguments. Collaboration and leadership skills will also be emphasised to further develop skills and habits for autonomous lifelong learning.",
+    "previousCodes": "CORE1403A",
+    "prerequisites": "LANG 1401 OR LANG 1402 OR Level 5 in HKDSE English Language with all papers at or above level 4 OR Overall bandscore of 6.5 in IELTS with all subscores at or above 6.0 OR equivalence of the above",
+    "corequisites": "",
+    "exclusions": "LANG 1003",
+    "credits": 3,
+    "attributes": [
+      {
+        "attribute": "CC22",
+        "value": "22",
+        "attributeDescription": "Students admitted from 2022",
+        "valueDescription": "Common Core (E-Comm) for 30-credit program"
+      }
+    ],
+    "classes": [
+      {
+        "section": "T01",
+        "number": "1332",
+        "remarks": "> Venue : Room 2126D",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "HO, Fiona"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-06-18",
+            "toDate": "2024-06-18",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "HO, Fiona"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-06-19",
+            "toDate": "2024-07-12",
+            "weekdays": [
+              1,
+              3,
+              5
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "LANG",
     "number": "1403I",
     "code": "LANG1403I",
     "name": "Academic English for University Studies",
@@ -7407,7 +7470,7 @@
         "section": "T01",
         "number": "1264",
         "remarks": "> Venue : Room 2404",
-        "quota": 2,
+        "quota": 3,
         "enroll": 3,
         "waitlist": 0,
         "consent": false,
@@ -10399,7 +10462,7 @@
         "number": "1105",
         "remarks": "> For MSc(GMRM) students only.\n> Add/Drop Deadline : 20-Jul-2024",
         "quota": 20,
-        "enroll": 3,
+        "enroll": 4,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
