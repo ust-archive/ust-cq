@@ -5957,6 +5957,109 @@
   {
     "career": "EXEC",
     "subject": "IMBA",
+    "number": "6100B",
+    "code": "IMBA6100B",
+    "name": "Global Field Trip Study",
+    "description": "This course aims to provide students with an opportunity to explore the global business environment. It is delivered in a variety of ways including: partnerships with world-class institutions; collaboration with leading companies; dialogues with local corporate and community leaders. The course may be repeated for credits if the visiting country and theme of the trips are different each time.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1337",
+        "remarks": "> Class Duration/Dates :01-Jul-2024 to 05-Jul-2024\n> Add/Drop Deadline : 01-Jul-2024",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "FONG, Yuk Fai"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-07-01",
+            "toDate": "2024-07-05",
+            "weekdays": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ],
+            "fromTime": "08:30",
+            "toTime": "17:20"
+          }
+        ]
+      },
+      {
+        "section": "L2",
+        "number": "1338",
+        "remarks": "> Class Duration/Dates :08-Jul-2024 to 12-Jul-2024\n> Add/Drop Deadline : 08-Jul-2024",
+        "quota": 46,
+        "enroll": 46,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "FONG, Yuk Fai"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-07-08",
+            "toDate": "2024-07-12",
+            "weekdays": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ],
+            "fromTime": "08:30",
+            "toTime": "17:20"
+          }
+        ]
+      },
+      {
+        "section": "L3",
+        "number": "1339",
+        "remarks": "> Class Duration/Dates :15-Jul-2024 to 19-Jul-2024\n> Add/Drop Deadline : 15-Jul-2024",
+        "quota": 41,
+        "enroll": 41,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "FONG, Yuk Fai"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-07-15",
+            "toDate": "2024-07-19",
+            "weekdays": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ],
+            "fromTime": "08:30",
+            "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "IMBA",
     "number": "6901A",
     "code": "IMBA6901A",
     "name": "People and Organisation",
