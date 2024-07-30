@@ -542,6 +542,45 @@
   {
     "career": "UGRD",
     "subject": "BIEN",
+    "number": "4940",
+    "code": "BIEN4940",
+    "name": "Bioengineering Industrial Project",
+    "description": "This course is intended to provide final-year bioengineering students with practical hands-on training in the form of a full-time or part-time internship or co-op program in a bioengineering company. Credit load may be spread over a year. May be graded PP. For students in the Bioengineering major with approval from the department only.",
+    "previousCodes": "",
+    "prerequisites": "BIEN 3910",
+    "corequisites": "",
+    "exclusions": "BIEN 4920, BIEN 4930",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1341",
+        "remarks": "> Add/Drop Deadline: 22-Jun-2024",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-06-17",
+            "toDate": "2024-08-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "BIEN",
     "number": "4990",
     "code": "BIEN4990",
     "name": "Academic and Professional Development II",
