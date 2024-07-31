@@ -1464,6 +1464,45 @@
     ]
   },
   {
+    "career": "UGRD",
+    "subject": "CIVL",
+    "number": "4900A",
+    "code": "CIVL4900A",
+    "name": "Directed Studies",
+    "description": "Specialist courses where instruction is generally given on a one-to-one basis. Graded P or F.",
+    "previousCodes": "CIVL390A",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1342",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-06-17",
+            "toDate": "2024-08-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "RPG",
     "subject": "CIVL",
     "number": "5840",
@@ -2218,8 +2257,8 @@
         "section": "T1",
         "number": "1247",
         "remarks": "> Add/Drop Deadline: 22-Jun-2024",
-        "quota": 17,
-        "enroll": 17,
+        "quota": 18,
+        "enroll": 18,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -11226,8 +11265,8 @@
         "section": "T1",
         "number": "1307",
         "remarks": " ",
-        "quota": 16,
-        "enroll": 16,
+        "quota": 17,
+        "enroll": 17,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
