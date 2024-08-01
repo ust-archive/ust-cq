@@ -2165,7 +2165,7 @@
         "section": "L1",
         "number": "1011",
         "remarks": "> For FT-MBA; PT-MBA; MBA Exchange; Digital MBA and Bi-weekly MBA Year 2 or above students only\n> Add/Drop Deadline : 02-Sep-2024",
-        "quota": 57,
+        "quota": 59,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -2183,6 +2183,11 @@
           {
             "name": "MBA Bi-weekly",
             "quota": 40,
+            "enroll": 0
+          },
+          {
+            "name": "TLE",
+            "quota": 2,
             "enroll": 0
           }
         ],
@@ -89750,7 +89755,7 @@
         "number": "1530",
         "remarks": " ",
         "quota": 70,
-        "enroll": 60,
+        "enroll": 59,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
