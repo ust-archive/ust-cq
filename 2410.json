@@ -1602,12 +1602,25 @@
             ],
             "venue": "G001, LSK Bldg (70)",
             "fromDate": "2024-10-08",
-            "toDate": "2024-10-15",
+            "toDate": "2024-10-08",
             "weekdays": [
               2
             ],
             "fromTime": "14:30",
             "toTime": "17:50"
+          },
+          {
+            "instructors": [
+              "CHEN, Zhihong"
+            ],
+            "venue": "G003, LSK Bldg (70)",
+            "fromDate": "2024-10-15",
+            "toDate": "2024-10-15",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
           }
         ]
       }
@@ -2079,12 +2092,25 @@
             ],
             "venue": "G001, LSK Bldg (70)",
             "fromDate": "2024-08-28",
-            "toDate": "2024-10-16",
+            "toDate": "2024-10-09",
             "weekdays": [
               3
             ],
             "fromTime": "09:30",
             "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "SHIEH, Tony"
+            ],
+            "venue": "G003, LSK Bldg (70)",
+            "fromDate": "2024-10-16",
+            "toDate": "2024-10-16",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "14:30",
+            "toTime": "17:50"
           }
         ]
       },
@@ -2293,7 +2319,7 @@
             "instructors": [
               "SHI, Han"
             ],
-            "venue": "TBA",
+            "venue": "Lecture Theater H (72)",
             "fromDate": "2024-11-02",
             "toDate": "2024-11-02",
             "weekdays": [
@@ -2306,7 +2332,7 @@
             "instructors": [
               "SHI, Han"
             ],
-            "venue": "TBA",
+            "venue": "Lecture Theater H (72)",
             "fromDate": "2024-11-02",
             "toDate": "2024-11-02",
             "weekdays": [
@@ -2319,7 +2345,7 @@
             "instructors": [
               "SHI, Han"
             ],
-            "venue": "TBA",
+            "venue": "Lecture Theater H (72)",
             "fromDate": "2024-11-16",
             "toDate": "2024-11-16",
             "weekdays": [
@@ -2332,7 +2358,7 @@
             "instructors": [
               "SHI, Han"
             ],
-            "venue": "TBA",
+            "venue": "Lecture Theater H (72)",
             "fromDate": "2024-11-16",
             "toDate": "2024-11-16",
             "weekdays": [
@@ -2345,7 +2371,7 @@
             "instructors": [
               "SHI, Han"
             ],
-            "venue": "TBA",
+            "venue": "Lecture Theater H (72)",
             "fromDate": "2024-11-30",
             "toDate": "2024-11-30",
             "weekdays": [
@@ -2358,7 +2384,7 @@
             "instructors": [
               "SHI, Han"
             ],
-            "venue": "TBA",
+            "venue": "Lecture Theater H (72)",
             "fromDate": "2024-11-30",
             "toDate": "2024-11-30",
             "weekdays": [
@@ -2371,7 +2397,7 @@
             "instructors": [
               "SHI, Han"
             ],
-            "venue": "TBA",
+            "venue": "Lecture Theater H (72)",
             "fromDate": "2024-12-14",
             "toDate": "2024-12-14",
             "weekdays": [
@@ -2384,7 +2410,7 @@
             "instructors": [
               "SHI, Han"
             ],
-            "venue": "TBA",
+            "venue": "Lecture Theater H (72)",
             "fromDate": "2024-12-14",
             "toDate": "2024-12-14",
             "weekdays": [
@@ -22708,7 +22734,7 @@
             "instructors": [
               "RAO, Milind Shankar"
             ],
-            "venue": "TBA",
+            "venue": "G001, LSK Bldg (70)",
             "fromDate": "2024-10-16",
             "toDate": "2024-10-16",
             "weekdays": [
@@ -29652,14 +29678,14 @@
         "number": "1170",
         "remarks": " ",
         "quota": 170,
-        "enroll": 104,
+        "enroll": 107,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECE",
             "quota": 170,
-            "enroll": 104
+            "enroll": 107
           }
         ],
         "schedule": [
@@ -41821,6 +41847,79 @@
   {
     "career": "UGRD",
     "subject": "HUMA",
+    "number": "3900",
+    "code": "HUMA3900",
+    "name": "Philosophical Inquiry into the Modern World",
+    "description": "This intermediate course will introduce students to basic philosophical methods and concepts in order to help them to explore the nature of philosophical inquiry and survey various important fields, problems and issues in the discipline. The change from the Aristotelian world-view, to the Copernican Revolution, and the present Darwinian Revolution, i.e., from a religious and teleological (purposive) view to a non-teleological view, is outlined in the class.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "CORE 3574",
+    "credits": 3,
+    "attributes": [
+      {
+        "attribute": "4Y",
+        "value": "12",
+        "attributeDescription": "Students admitted before 2022",
+        "valueDescription": "Common Core (H) for 36-credit program"
+      },
+      {
+        "attribute": "CC22",
+        "value": "25",
+        "attributeDescription": "Students admitted from 2022",
+        "valueDescription": "Common Core (H) for 30-credit program"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4261",
+        "remarks": " ",
+        "quota": 100,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "SHSS",
+            "quota": 40,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "NELSON, Eric S"
+            ],
+            "venue": "Rm 4620, Lift 31-32 (126)",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "15:00",
+            "toTime": "16:20"
+          },
+          {
+            "instructors": [
+              "NELSON, Eric S"
+            ],
+            "venue": "Rm 4620, Lift 31-32 (126)",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "10:30",
+            "toTime": "11:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "HUMA",
     "number": "4020",
     "code": "HUMA4020",
     "name": "Language and Literature in Modern China",
@@ -51466,14 +51565,14 @@
         "section": "L1",
         "number": "1322",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 02-Sep-2024",
-        "quota": 75,
+        "quota": 80,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ISM",
-            "quota": 75,
+            "quota": 80,
             "enroll": 0
           }
         ],
@@ -51855,14 +51954,14 @@
         "section": "L1",
         "number": "1340",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 04-Nov-2024",
-        "quota": 75,
+        "quota": 70,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ISM",
-            "quota": 75,
+            "quota": 70,
             "enroll": 0
           }
         ],
@@ -51990,14 +52089,14 @@
         "section": "L2",
         "number": "1364",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 04-Nov-2024",
-        "quota": 75,
+        "quota": 70,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ISM",
-            "quota": 75,
+            "quota": 70,
             "enroll": 0
           }
         ],
@@ -52094,14 +52193,14 @@
         "section": "L1",
         "number": "1353",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 04-Nov-2024",
-        "quota": 75,
+        "quota": 70,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ISM",
-            "quota": 75,
+            "quota": 70,
             "enroll": 0
           }
         ],
@@ -52216,7 +52315,7 @@
             "instructors": [
               "ZHENG, Rong"
             ],
-            "venue": "TBA",
+            "venue": "Rm 3001, LSK Bldg",
             "fromDate": "2024-08-31",
             "toDate": "2024-08-31",
             "weekdays": [
@@ -52229,7 +52328,7 @@
             "instructors": [
               "ZHENG, Rong"
             ],
-            "venue": "TBA",
+            "venue": "Rm 3001, LSK Bldg",
             "fromDate": "2024-08-31",
             "toDate": "2024-08-31",
             "weekdays": [
@@ -52242,7 +52341,7 @@
             "instructors": [
               "ZHENG, Rong"
             ],
-            "venue": "TBA",
+            "venue": "Lecture Theater H (72)",
             "fromDate": "2024-09-21",
             "toDate": "2024-09-28",
             "weekdays": [
@@ -52255,7 +52354,7 @@
             "instructors": [
               "ZHENG, Rong"
             ],
-            "venue": "TBA",
+            "venue": "Lecture Theater H (72)",
             "fromDate": "2024-09-21",
             "toDate": "2024-09-28",
             "weekdays": [
@@ -52268,7 +52367,7 @@
             "instructors": [
               "ZHENG, Rong"
             ],
-            "venue": "TBA",
+            "venue": "Lecture Theater H (72)",
             "fromDate": "2024-10-26",
             "toDate": "2024-10-26",
             "weekdays": [
@@ -52281,7 +52380,7 @@
             "instructors": [
               "ZHENG, Rong"
             ],
-            "venue": "TBA",
+            "venue": "Lecture Theater H (72)",
             "fromDate": "2024-10-26",
             "toDate": "2024-10-26",
             "weekdays": [
@@ -52618,7 +52717,7 @@
             "instructors": [
               "PAN, Baoqian"
             ],
-            "venue": "TBA",
+            "venue": "G001, LSK Bldg (70)",
             "fromDate": "2024-10-14",
             "toDate": "2024-10-14",
             "weekdays": [
@@ -53279,7 +53378,7 @@
             "instructors": [
               "HA, Albert Yiu Cheung"
             ],
-            "venue": "TBA",
+            "venue": "Rm 2003, LSK Bldg",
             "fromDate": "2024-10-15",
             "toDate": "2024-10-15",
             "weekdays": [
@@ -57532,7 +57631,7 @@
         "number": "3081",
         "remarks": " ",
         "quota": 20,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -63850,7 +63949,7 @@
     "attributes": [],
     "classes": [
       {
-        "section": "L1",
+        "section": "L01",
         "number": "4258",
         "remarks": " ",
         "quota": 20,
@@ -72302,7 +72401,7 @@
         "schedule": [
           {
             "instructors": [
-              "LAM, Tsz Kin"
+              "MA, Samuel"
             ],
             "venue": "Lecture Theater J (300)",
             "fromDate": "2024-09-02",
@@ -72316,7 +72415,7 @@
           },
           {
             "instructors": [
-              "LAM, Tsz Kin"
+              "MA, Samuel"
             ],
             "venue": "Lecture Theater D (216)",
             "fromDate": "2024-09-02",
@@ -72431,7 +72530,7 @@
         "schedule": [
           {
             "instructors": [
-              "MA, Samuel"
+              "LAM, Tsz Kin"
             ],
             "venue": "Lecture Theater C (211)",
             "fromDate": "2024-09-02",
@@ -72444,7 +72543,7 @@
           },
           {
             "instructors": [
-              "MA, Samuel"
+              "LAM, Tsz Kin"
             ],
             "venue": "Lecture Theater D (216)",
             "fromDate": "2024-09-02",
@@ -72470,7 +72569,7 @@
         "schedule": [
           {
             "instructors": [
-              "LAM, Tsz Kin"
+              "MA, Samuel"
             ],
             "venue": "Rm 4504, Lift 25-26 (54)",
             "fromDate": "2024-09-02",
@@ -72495,7 +72594,7 @@
         "schedule": [
           {
             "instructors": [
-              "LAM, Tsz Kin"
+              "MA, Samuel"
             ],
             "venue": "Rm 1104, Acad Concourse (42)",
             "fromDate": "2024-09-02",
@@ -72520,7 +72619,7 @@
         "schedule": [
           {
             "instructors": [
-              "LAM, Tsz Kin"
+              "MA, Samuel"
             ],
             "venue": "Rm 2407, Lift 17-18 (126)",
             "fromDate": "2024-09-02",
@@ -72545,7 +72644,7 @@
         "schedule": [
           {
             "instructors": [
-              "LAM, Tsz Kin"
+              "MA, Samuel"
             ],
             "venue": "Rm 6580, Lift 27-28 (48)",
             "fromDate": "2024-09-02",
@@ -72770,7 +72869,7 @@
         "schedule": [
           {
             "instructors": [
-              "MA, Samuel"
+              "LAM, Tsz Kin"
             ],
             "venue": "Rm 1410, Lift 25-26 (60)",
             "fromDate": "2024-09-02",
@@ -72795,7 +72894,7 @@
         "schedule": [
           {
             "instructors": [
-              "MA, Samuel"
+              "LAM, Tsz Kin"
             ],
             "venue": "LG3009, Lift 10-12 (88)",
             "fromDate": "2024-09-02",
@@ -72820,7 +72919,7 @@
         "schedule": [
           {
             "instructors": [
-              "MA, Samuel"
+              "LAM, Tsz Kin"
             ],
             "venue": "Rm 6580, Lift 27-28 (48)",
             "fromDate": "2024-09-02",
@@ -72845,7 +72944,7 @@
         "schedule": [
           {
             "instructors": [
-              "MA, Samuel"
+              "LAM, Tsz Kin"
             ],
             "venue": "Rm 1104, Acad Concourse (42)",
             "fromDate": "2024-09-02",
