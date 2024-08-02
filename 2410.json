@@ -12130,7 +12130,7 @@
         "number": "2017",
         "remarks": " ",
         "quota": 95,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -12495,7 +12495,7 @@
         "number": "2041",
         "remarks": "> The class is delivered in a real-time online mode",
         "quota": 150,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -13431,7 +13431,7 @@
         "number": "2077",
         "remarks": " ",
         "quota": 65,
-        "enroll": 2,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -13607,7 +13607,7 @@
         "number": "2086",
         "remarks": " ",
         "quota": 65,
-        "enroll": 2,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -13700,7 +13700,7 @@
         "number": "2091",
         "remarks": " ",
         "quota": 80,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -13776,7 +13776,7 @@
         "number": "2096",
         "remarks": " ",
         "quota": 80,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -15156,7 +15156,7 @@
         "number": "2166",
         "remarks": " ",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -15236,7 +15236,7 @@
         "number": "2171",
         "remarks": " ",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -25203,7 +25203,7 @@
         "number": "2260",
         "remarks": " ",
         "quota": 110,
-        "enroll": 0,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -25229,7 +25229,7 @@
         "number": "2262",
         "remarks": " ",
         "quota": 42,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -25254,7 +25254,7 @@
         "number": "2264",
         "remarks": " ",
         "quota": 42,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -25279,7 +25279,7 @@
         "number": "2265",
         "remarks": " ",
         "quota": 42,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -25304,7 +25304,7 @@
         "number": "2266",
         "remarks": " ",
         "quota": 55,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -25329,7 +25329,7 @@
         "number": "2268",
         "remarks": " ",
         "quota": 55,
-        "enroll": 0,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -26560,7 +26560,7 @@
         "number": "2321",
         "remarks": " ",
         "quota": 110,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -26642,7 +26642,7 @@
         "number": "2326",
         "remarks": " ",
         "quota": 40,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -26717,7 +26717,7 @@
         "number": "2330",
         "remarks": " ",
         "quota": 40,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -46422,14 +46422,14 @@
             "instructors": [
               "SCHARFF, Rob"
             ],
-            "venue": "Rm 2304, Lift 17-18 (76)",
+            "venue": "Rm 2503, Lift 25-26 (87)",
             "fromDate": "2024-09-02",
             "toDate": "2024-11-30",
             "weekdays": [
               5
             ],
-            "fromTime": "09:00",
-            "toTime": "10:20"
+            "fromTime": "12:00",
+            "toTime": "13:20"
           }
         ]
       },
@@ -52862,6 +52862,86 @@
             ],
             "fromTime": "15:00",
             "toTime": "17:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "ISOM",
+    "number": "5600",
+    "code": "ISOM5600",
+    "name": "Business Practice for Business Analytics",
+    "description": "The course consists of twofold: 1) Refreshment of basic accounting and finance, statistics, and programming skills for students to apply to the MSc in Business Analytics program; and 2) Develop and broaden students' creative mindset, business sense, and communication through training in data management, design thinking, and business communication. In-class exercises and assignments may be required depending on individual workshop design. An exemption for partial workshop training may be granted if students fulfill the exemption requirement. Graded PP, P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "4263",
+        "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 14-Sep-2024",
+        "quota": 67,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "BA",
+            "quota": 67,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "BANH, Khai San",
+              "HO, Jason Man Wai",
+              "KATAYAMA, Akihiko",
+              "SAENYASIRI, Ekkachai"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "T2",
+        "number": "4264",
+        "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 14-Sep-2024",
+        "quota": 68,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "BA",
+            "quota": 68,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "BANH, Khai San",
+              "HO, Jason Man Wai",
+              "KATAYAMA, Akihiko",
+              "SAENYASIRI, Ekkachai"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -67349,7 +67429,7 @@
         "number": "3348",
         "remarks": " ",
         "quota": 200,
-        "enroll": 3,
+        "enroll": 4,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -67454,7 +67534,7 @@
         "number": "3354",
         "remarks": " ",
         "quota": 40,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -71911,7 +71991,7 @@
         "number": "3424",
         "remarks": " ",
         "quota": 140,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -72163,7 +72243,7 @@
         "number": "3437",
         "remarks": " ",
         "quota": 35,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -72514,7 +72594,7 @@
         "number": "3451",
         "remarks": "> MATH 1012 is not co-listing with MATH 1013 in Fall 2024-25",
         "quota": 144,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -72829,7 +72909,7 @@
         "number": "3465",
         "remarks": " ",
         "quota": 36,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
