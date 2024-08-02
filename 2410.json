@@ -23291,7 +23291,7 @@
         "number": "1191",
         "remarks": "> For PhD(ECON) students only",
         "quota": 15,
-        "enroll": 11,
+        "enroll": 10,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -29880,7 +29880,7 @@
         "schedule": [
           {
             "instructors": [
-              "CHUN, Daniel"
+              "ZHANG, Rong"
             ],
             "venue": "Rm 5619, Lift 31-32 (60)",
             "fromDate": "2024-09-02",
@@ -29905,7 +29905,7 @@
         "schedule": [
           {
             "instructors": [
-              "ZHANG, Rong"
+              "CHUN, Daniel"
             ],
             "venue": "Rm 6580, Lift 27-28 (48)",
             "fromDate": "2024-09-02",
@@ -30135,9 +30135,11 @@
             "venue": "TBA",
             "fromDate": "2024-09-02",
             "toDate": "2024-11-30",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
+            "weekdays": [
+              5
+            ],
+            "fromTime": "14:00",
+            "toTime": "16:50"
           }
         ]
       }
@@ -38160,7 +38162,7 @@
         "number": "4050",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 200,
-        "enroll": 0,
+        "enroll": 5,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -38185,7 +38187,7 @@
         "number": "4051",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 200,
-        "enroll": 0,
+        "enroll": 4,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -38210,7 +38212,7 @@
         "number": "4052",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 200,
-        "enroll": 0,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -38235,7 +38237,7 @@
         "number": "4053",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 200,
-        "enroll": 0,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -38260,7 +38262,7 @@
         "number": "4054",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 200,
-        "enroll": 0,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -38285,7 +38287,7 @@
         "number": "4055",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 200,
-        "enroll": 0,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -45065,7 +45067,7 @@
         "number": "1288",
         "remarks": "> For MPhil(IIP) students only",
         "quota": 30,
-        "enroll": 6,
+        "enroll": 5,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -45104,7 +45106,7 @@
         "number": "1289",
         "remarks": "> For PhD(IIP) students only",
         "quota": 50,
-        "enroll": 28,
+        "enroll": 27,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -95169,7 +95171,7 @@
         "number": "1557",
         "remarks": " ",
         "quota": 130,
-        "enroll": 121,
+        "enroll": 122,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -96502,14 +96504,14 @@
         "number": "1586",
         "remarks": "> For PhD(PP) students only",
         "quota": 30,
-        "enroll": 19,
+        "enroll": 18,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "PPOL",
             "quota": 30,
-            "enroll": 19
+            "enroll": 18
           }
         ],
         "schedule": [
@@ -97900,11 +97902,37 @@
         "section": "L1",
         "number": "4214",
         "remarks": "> For SBM TPG students only\n> Add/Drop Deadline : 11-Nov-2024",
-        "quota": 45,
+        "quota": 35,
         "enroll": 0,
         "waitlist": 0,
         "consent": true,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "ACCT",
+            "quota": 5,
+            "enroll": 0
+          },
+          {
+            "name": "ECON",
+            "quota": 5,
+            "enroll": 0
+          },
+          {
+            "name": "ISM",
+            "quota": 5,
+            "enroll": 0
+          },
+          {
+            "name": "MARK",
+            "quota": 10,
+            "enroll": 0
+          },
+          {
+            "name": "TLE",
+            "quota": 10,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
