@@ -24708,19 +24708,12 @@
     "corequisites": "(COMP 1021 OR COMP 1022P) AND (MATH 1003 OR MATH 1014 OR MATH 1020 OR MATH 1024)",
     "exclusions": "",
     "credits": 4,
-    "attributes": [
-      {
-        "attribute": "DELI",
-        "value": "BLD",
-        "attributeDescription": "Mode of Delivery",
-        "valueDescription": "[BLD] Blended learning"
-      }
-    ],
+    "attributes": [],
     "classes": [
       {
         "section": "L1",
         "number": "2234",
-        "remarks": "> The class is delivered in a blended learning mode",
+        "remarks": "> The class is delivered in a conventional face-to-face mode",
         "quota": 140,
         "enroll": 0,
         "waitlist": 0,
@@ -24857,19 +24850,12 @@
     "corequisites": "",
     "exclusions": "ELEC 2100H",
     "credits": 4,
-    "attributes": [
-      {
-        "attribute": "DELI",
-        "value": "BLD",
-        "attributeDescription": "Mode of Delivery",
-        "valueDescription": "[BLD] Blended learning"
-      }
-    ],
+    "attributes": [],
     "classes": [
       {
         "section": "L1",
         "number": "2242",
-        "remarks": "> The class is delivered in a blended learning mode",
+        "remarks": "> The class is delivered in a conventional face-to-face mode",
         "quota": 140,
         "enroll": 0,
         "waitlist": 0,
@@ -89281,7 +89267,7 @@
         "section": "L1",
         "number": "3857",
         "remarks": " ",
-        "quota": 30,
+        "quota": 25,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
