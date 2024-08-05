@@ -52886,14 +52886,14 @@
         "number": "4263",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 14-Sep-2024",
         "quota": 67,
-        "enroll": 0,
+        "enroll": 54,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 67,
-            "enroll": 0
+            "enroll": 54
           }
         ],
         "schedule": [
@@ -52918,14 +52918,14 @@
         "number": "4264",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 14-Sep-2024",
         "quota": 68,
-        "enroll": 0,
+        "enroll": 52,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 68,
-            "enroll": 0
+            "enroll": 52
           }
         ],
         "schedule": [
@@ -85715,7 +85715,7 @@
         "section": "L1",
         "number": "1515",
         "remarks": "> For FT-MBA; PT-MBA; MBA Exchange; Bi-weekly MBA and Digital MBA students only\n> Venue : United Conference Centre, 10/F, United Centre, 95 Queensway, Admiralty, Hong Kong \n> Add/Drop Deadline : 04-Nov-2024",
-        "quota": 56,
+        "quota": 61,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -85727,7 +85727,17 @@
           },
           {
             "name": "ECON",
+            "quota": 2,
+            "enroll": 0
+          },
+          {
+            "name": "ISM",
             "quota": 5,
+            "enroll": 0
+          },
+          {
+            "name": "MARK",
+            "quota": 3,
             "enroll": 0
           },
           {
