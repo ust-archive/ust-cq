@@ -83112,6 +83112,48 @@
   {
     "career": "TPG",
     "subject": "MGCS",
+    "number": "5037",
+    "code": "MGCS5037",
+    "name": "Western Classical Music and the World",
+    "description": "In this course students will learn to love everything that is special about Western classical music, from the full impressive power of a concert orchestra to the intimate and mysterious solo piano. This course is designed to introduce students to the wide variety of styles and sounds of Western classical music and to connect that music to history, exoticism, meaning, and representation. The listening and analytical skills demonstrated will bring about a deeper understanding of music as an art form. Prior musical training is NOT required.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4265",
+        "remarks": "> For MSc(GCS) students only",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "DROSCHA, Isaac David"
+            ],
+            "venue": "Rm 3301, Lift 17-18",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [
+              3,
+              5
+            ],
+            "fromTime": "10:30",
+            "toTime": "11:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MGCS",
     "number": "5101",
     "code": "MGCS5101",
     "name": "A Comparative Perspective of Religion in Ancient Civilizations",
