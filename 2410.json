@@ -16320,7 +16320,7 @@
       {
         "section": "LA1",
         "number": "2205",
-        "remarks": "> Classes held in Room 4210",
+        "remarks": " ",
         "quota": 30,
         "enroll": 0,
         "waitlist": 0,
@@ -16334,11 +16334,9 @@
             "venue": "TBA",
             "fromDate": "2024-09-02",
             "toDate": "2024-11-30",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "18:00",
-            "toTime": "21:50"
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -79411,21 +79409,7 @@
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "JIN, Tianling"
-            ],
-            "venue": "Lecture Theater D (216)",
-            "fromDate": "2024-09-02",
-            "toDate": "2024-11-30",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "15:00",
-            "toTime": "15:50"
-          }
-        ]
+        "schedule": []
       }
     ]
   },
