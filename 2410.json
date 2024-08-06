@@ -39882,14 +39882,14 @@
         "section": "L1",
         "number": "2624",
         "remarks": " ",
-        "quota": 100,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SHSS",
-            "quota": 90,
+            "quota": 55,
             "enroll": 0
           }
         ],
@@ -39914,7 +39914,7 @@
         "section": "T1",
         "number": "2625",
         "remarks": " ",
-        "quota": 100,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -91317,7 +91317,7 @@
         "section": "T01",
         "number": "1076",
         "remarks": " ",
-        "quota": 60,
+        "quota": 65,
         "enroll": 0,
         "waitlist": 0,
         "consent": true,
@@ -91331,7 +91331,7 @@
             "fromDate": "2024-09-02",
             "toDate": "2024-11-30",
             "weekdays": [
-              2
+              1
             ],
             "fromTime": "10:00",
             "toTime": "11:50"
@@ -91342,7 +91342,57 @@
         "section": "T02",
         "number": "1077",
         "remarks": " ",
-        "quota": 60,
+        "quota": 65,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "YUEN, Ka Hei"
+            ],
+            "venue": "Rm 6558, Lift 29-30 (72)",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "14:30",
+            "toTime": "16:20"
+          }
+        ]
+      },
+      {
+        "section": "T03",
+        "number": "1078",
+        "remarks": " ",
+        "quota": 65,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "YUEN, Ka Hei"
+            ],
+            "venue": "Rm 6558, Lift 29-30 (72)",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "10:00",
+            "toTime": "11:50"
+          }
+        ]
+      },
+      {
+        "section": "T04",
+        "number": "1079",
+        "remarks": " ",
+        "quota": 65,
         "enroll": 0,
         "waitlist": 0,
         "consent": true,
@@ -91364,60 +91414,10 @@
         ]
       },
       {
-        "section": "T03",
-        "number": "1078",
-        "remarks": " ",
-        "quota": 60,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "YUEN, Ka Hei"
-            ],
-            "venue": "Rm 6558, Lift 29-30 (72)",
-            "fromDate": "2024-09-02",
-            "toDate": "2024-11-30",
-            "weekdays": [
-              3
-            ],
-            "fromTime": "10:00",
-            "toTime": "11:50"
-          }
-        ]
-      },
-      {
-        "section": "T04",
-        "number": "1079",
-        "remarks": " ",
-        "quota": 60,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "YUEN, Ka Hei"
-            ],
-            "venue": "Rm 6558, Lift 29-30 (72)",
-            "fromDate": "2024-09-02",
-            "toDate": "2024-11-30",
-            "weekdays": [
-              3
-            ],
-            "fromTime": "14:30",
-            "toTime": "16:20"
-          }
-        ]
-      },
-      {
         "section": "T05",
         "number": "1080",
         "remarks": " ",
-        "quota": 60,
+        "quota": 65,
         "enroll": 0,
         "waitlist": 0,
         "consent": true,
@@ -91425,13 +91425,13 @@
         "schedule": [
           {
             "instructors": [
-              "FUNG, Mei Yan Miranda"
+              "YUEN, Ka Hei"
             ],
             "venue": "Rm 6558, Lift 29-30 (72)",
             "fromDate": "2024-09-02",
             "toDate": "2024-11-30",
             "weekdays": [
-              4
+              3
             ],
             "fromTime": "10:00",
             "toTime": "11:50"
@@ -91442,7 +91442,57 @@
         "section": "T06",
         "number": "1081",
         "remarks": " ",
-        "quota": 60,
+        "quota": 65,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "YUEN, Ka Hei"
+            ],
+            "venue": "Rm 6558, Lift 29-30 (72)",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "14:30",
+            "toTime": "16:20"
+          }
+        ]
+      },
+      {
+        "section": "T07",
+        "number": "1082",
+        "remarks": " ",
+        "quota": 65,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "FUNG, Mei Yan Miranda"
+            ],
+            "venue": "Rm 6558, Lift 29-30 (72)",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "10:00",
+            "toTime": "11:50"
+          }
+        ]
+      },
+      {
+        "section": "T08",
+        "number": "4268",
+        "remarks": " ",
+        "quota": 65,
         "enroll": 0,
         "waitlist": 0,
         "consent": true,
@@ -91464,10 +91514,10 @@
         ]
       },
       {
-        "section": "T07",
-        "number": "1082",
+        "section": "T09",
+        "number": "4269",
         "remarks": " ",
-        "quota": 60,
+        "quota": 65,
         "enroll": 0,
         "waitlist": 0,
         "consent": true,
@@ -91485,6 +91535,31 @@
             ],
             "fromTime": "10:00",
             "toTime": "11:50"
+          }
+        ]
+      },
+      {
+        "section": "T10",
+        "number": "4270",
+        "remarks": " ",
+        "quota": 65,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "FUNG, Mei Yan Miranda"
+            ],
+            "venue": "Rm 6558, Lift 29-30 (72)",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "14:30",
+            "toTime": "16:20"
           }
         ]
       }
