@@ -13225,7 +13225,7 @@
         "number": "2063",
         "remarks": " ",
         "quota": 150,
-        "enroll": 124,
+        "enroll": 123,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -16507,7 +16507,7 @@
         "number": "2210",
         "remarks": " ",
         "quota": 600,
-        "enroll": 541,
+        "enroll": 540,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -35824,7 +35824,7 @@
       {
         "section": "L1",
         "number": "1254",
-        "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 25-Nov-2024",
+        "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 2-Dec-2024",
         "quota": 70,
         "enroll": 0,
         "waitlist": 0,
@@ -35841,27 +35841,27 @@
             "instructors": [
               "VAN DER LINDE, Herald"
             ],
-            "venue": "Lecture Theater K (106)",
-            "fromDate": "2024-11-23",
-            "toDate": "2024-12-21",
-            "weekdays": [
-              6
-            ],
-            "fromTime": "14:00",
-            "toTime": "17:20"
-          },
-          {
-            "instructors": [
-              "VAN DER LINDE, Herald"
-            ],
             "venue": "G003, LSK Bldg (70)",
-            "fromDate": "2024-12-04",
+            "fromDate": "2024-11-27",
             "toDate": "2024-12-18",
             "weekdays": [
               3
             ],
             "fromTime": "19:00",
             "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "VAN DER LINDE, Herald"
+            ],
+            "venue": "Lecture Theater K (106)",
+            "fromDate": "2024-11-30",
+            "toDate": "2024-12-21",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
           }
         ]
       }
@@ -79404,12 +79404,24 @@
         "section": "T1",
         "number": "1481",
         "remarks": " ",
-        "quota": 30,
+        "quota": 50,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
-        "schedule": []
+        "schedule": [
+          {
+            "instructors": [
+              "JIN, Tianling"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
       }
     ]
   },
@@ -79430,8 +79442,8 @@
       {
         "section": "T1",
         "number": "1482",
-        "remarks": "> Venue: LTD",
-        "quota": 30,
+        "remarks": " ",
+        "quota": 10,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -79444,11 +79456,9 @@
             "venue": "TBA",
             "fromDate": "2024-09-02",
             "toDate": "2024-11-30",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "15:00",
-            "toTime": "15:50"
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -79471,8 +79481,8 @@
       {
         "section": "T1",
         "number": "1483",
-        "remarks": "> Venue: LTD",
-        "quota": 30,
+        "remarks": " ",
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -79485,11 +79495,9 @@
             "venue": "TBA",
             "fromDate": "2024-09-02",
             "toDate": "2024-11-30",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "15:00",
-            "toTime": "15:50"
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -79512,8 +79520,8 @@
       {
         "section": "T1",
         "number": "1484",
-        "remarks": "> Venue: LTD",
-        "quota": 30,
+        "remarks": " ",
+        "quota": 10,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -79523,7 +79531,7 @@
             "instructors": [
               "JIN, Tianling"
             ],
-            "venue": "TBA",
+            "venue": "Lecture Theater D (216)",
             "fromDate": "2024-09-02",
             "toDate": "2024-11-30",
             "weekdays": [
@@ -86893,7 +86901,7 @@
         "section": "L1",
         "number": "1507",
         "remarks": "> For MPhil(MGMT) and PhD(MGMT) students only",
-        "quota": 15,
+        "quota": 14,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
