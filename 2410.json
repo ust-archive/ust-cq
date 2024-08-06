@@ -16240,6 +16240,72 @@
   {
     "career": "UGRD",
     "subject": "COMP",
+    "number": "4521",
+    "code": "COMP4521",
+    "name": "Mobile Application Development",
+    "description": "Principles of application development for mobile and embedded devices. Mobile software development environments and software architectures. Features of typical mobile platforms: user-interface and user-experience design, multimedia, 2D and 3D graphics and data storage support, networking, location and mapping services. Design patterns and application frameworks. Mobile back-end support. Web applications. Students need to design and implement a full-fledged mobile application.",
+    "previousCodes": "",
+    "prerequisites": "(COMP 2611 OR ELEC 2300 OR ELEC 2350) AND COMP 3511",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4271",
+        "remarks": " ",
+        "quota": 60,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "SZETO, Lok Chun"
+            ],
+            "venue": "Rm 2302, Lift 17-18 (74)",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "09:00",
+            "toTime": "11:50"
+          }
+        ]
+      },
+      {
+        "section": "LA1",
+        "number": "4272",
+        "remarks": " ",
+        "quota": 60,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "SZETO, Lok Chun"
+            ],
+            "venue": "Rm 2504, Lift 25-26 (84)",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "16:00",
+            "toTime": "17:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "COMP",
     "number": "4633",
     "code": "COMP4633",
     "name": "Competitive Programming in Cybersecurity III",
