@@ -17427,8 +17427,8 @@
         "section": "R1",
         "number": "2003",
         "remarks": "> The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
-        "quota": 111,
-        "enroll": 111,
+        "quota": 112,
+        "enroll": 112,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -51215,7 +51215,7 @@
         "number": "1308",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 75,
-        "enroll": 0,
+        "enroll": 6,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -78927,6 +78927,29 @@
             "toTime": null
           }
         ]
+      },
+      {
+        "section": "L2",
+        "number": "4273",
+        "remarks": " ",
+        "quota": 25,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LEUNG, Shing Yu"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
       }
     ]
   },
@@ -92798,7 +92821,7 @@
         "section": "L1",
         "number": "3920",
         "remarks": " ",
-        "quota": 100,
+        "quota": 120,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -92824,7 +92847,7 @@
         "section": "L2",
         "number": "3922",
         "remarks": " ",
-        "quota": 100,
+        "quota": 120,
         "enroll": 1,
         "waitlist": 0,
         "consent": false,
@@ -92850,7 +92873,7 @@
         "section": "T1",
         "number": "3924",
         "remarks": " ",
-        "quota": 40,
+        "quota": 48,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -92875,7 +92898,7 @@
         "section": "T2",
         "number": "3926",
         "remarks": " ",
-        "quota": 40,
+        "quota": 48,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -92900,7 +92923,7 @@
         "section": "T3",
         "number": "3927",
         "remarks": " ",
-        "quota": 40,
+        "quota": 48,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -92925,7 +92948,7 @@
         "section": "T4",
         "number": "3928",
         "remarks": " ",
-        "quota": 40,
+        "quota": 48,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -92950,7 +92973,7 @@
         "section": "T5",
         "number": "3929",
         "remarks": " ",
-        "quota": 40,
+        "quota": 48,
         "enroll": 1,
         "waitlist": 0,
         "consent": false,
@@ -93164,7 +93187,7 @@
         "section": "LA1",
         "number": "3938",
         "remarks": " ",
-        "quota": 12,
+        "quota": 16,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -93189,7 +93212,7 @@
         "section": "LA2",
         "number": "3939",
         "remarks": " ",
-        "quota": 12,
+        "quota": 16,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -93214,7 +93237,7 @@
         "section": "LA3",
         "number": "3940",
         "remarks": " ",
-        "quota": 12,
+        "quota": 16,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -93239,7 +93262,7 @@
         "section": "LA4",
         "number": "3941",
         "remarks": " ",
-        "quota": 12,
+        "quota": 16,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -93261,10 +93284,35 @@
         ]
       },
       {
+        "section": "LA5",
+        "number": "4274",
+        "remarks": " ",
+        "quota": 16,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "HAN, Yilong"
+            ],
+            "venue": "Rm 4117A",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "12:30",
+            "toTime": "14:20"
+          }
+        ]
+      },
+      {
         "section": "T1",
         "number": "3944",
         "remarks": " ",
-        "quota": 48,
+        "quota": 80,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -93940,7 +93988,7 @@
         "section": "T1",
         "number": "3967",
         "remarks": " ",
-        "quota": 10,
+        "quota": 15,
         "enroll": 0,
         "waitlist": 0,
         "consent": true,
@@ -94633,8 +94681,8 @@
         "section": "T6",
         "number": "3996",
         "remarks": " ",
-        "quota": 8,
-        "enroll": 8,
+        "quota": 9,
+        "enroll": 9,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -98009,7 +98057,7 @@
       {
         "section": "L1",
         "number": "1592",
-        "remarks": "> For FT-MBA; PT-MBA; MBA Exchange; Bi-weekly MBA and Digital MBA students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 02-Sep-2024",
+        "remarks": "> For FT-MBA; PT-MBA; MBA Exchange; Bi-weekly MBA and Digital MBA students only\n> Venue from 28-Aug-2024 to 09-Oct-2024 and 20-Sep-2024 : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Venue on 23-Oct-2024 : TBA\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 41,
         "enroll": 0,
         "waitlist": 0,
@@ -98054,6 +98102,19 @@
             "toDate": "2024-09-20",
             "weekdays": [
               5
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "LOW, Donald"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-10-23",
+            "toDate": "2024-10-23",
+            "weekdays": [
+              3
             ],
             "fromTime": "19:00",
             "toTime": "22:20"
