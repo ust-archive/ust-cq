@@ -29073,7 +29073,7 @@
             "instructors": [
               "CHEN, Kevin Jing"
             ],
-            "venue": "Rm 3110, Lift 19, 22",
+            "venue": "Rm 3111, Lift 19, 22",
             "fromDate": "2024-09-02",
             "toDate": "2024-11-30",
             "weekdays": [
@@ -29098,11 +29098,11 @@
             "instructors": [
               "CHEN, Kevin Jing"
             ],
-            "venue": "Rm 3110, Lift 19, 22",
+            "venue": "Rm 3111, Lift 19, 22",
             "fromDate": "2024-09-02",
             "toDate": "2024-11-30",
             "weekdays": [
-              4
+              5
             ],
             "fromTime": "14:00",
             "toTime": "16:50"
@@ -51681,7 +51681,7 @@
         "reservedQuota": [
           {
             "name": "ISM",
-            "quota": 80,
+            "quota": 64,
             "enroll": 0
           }
         ],
@@ -51738,7 +51738,7 @@
         "reservedQuota": [
           {
             "name": "ISM",
-            "quota": 75,
+            "quota": 64,
             "enroll": 0
           }
         ],
@@ -51780,12 +51780,25 @@
             ],
             "venue": "Rm 1034, LSK Bldg (80)",
             "fromDate": "2024-08-30",
-            "toDate": "2024-10-18",
+            "toDate": "2024-10-11",
             "weekdays": [
               5
             ],
             "fromTime": "09:00",
             "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "THONG, James Yeong Liang"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-10-18",
+            "toDate": "2024-10-18",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "14:30",
+            "toTime": "17:50"
           }
         ]
       },
@@ -51843,19 +51856,6 @@
             ],
             "fromTime": "09:00",
             "toTime": "12:20"
-          },
-          {
-            "instructors": [
-              "THONG, James Yeong Liang"
-            ],
-            "venue": "TBA",
-            "fromDate": "2024-10-18",
-            "toDate": "2024-10-18",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "09:00",
-            "toTime": "12:20"
           }
         ]
       }
@@ -51878,15 +51878,20 @@
       {
         "section": "L1",
         "number": "1341",
-        "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 04-Nov-2024",
-        "quota": 75,
+        "remarks": "> For MSc(ISM); FT-MBA; PT-MBA and MBA Exchange students only\n> Add/Drop Deadline : 04-Nov-2024",
+        "quota": 73,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ISM",
-            "quota": 75,
+            "quota": 68,
+            "enroll": 0
+          },
+          {
+            "name": "MBA",
+            "quota": 5,
             "enroll": 0
           }
         ],
@@ -52107,14 +52112,14 @@
         "section": "L2",
         "number": "1351",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 04-Nov-2024",
-        "quota": 75,
+        "quota": 73,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ISM",
-            "quota": 75,
+            "quota": 73,
             "enroll": 0
           }
         ],
@@ -52154,14 +52159,19 @@
         "section": "L1",
         "number": "1347",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 04-Nov-2024",
-        "quota": 75,
+        "quota": 73,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ISM",
-            "quota": 75,
+            "quota": 71,
+            "enroll": 0
+          },
+          {
+            "name": "TLE",
+            "quota": 2,
             "enroll": 0
           }
         ],
@@ -52302,14 +52312,19 @@
         "section": "L1",
         "number": "1353",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 04-Nov-2024",
-        "quota": 70,
+        "quota": 75,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ISM",
-            "quota": 70,
+            "quota": 73,
+            "enroll": 0
+          },
+          {
+            "name": "TLE",
+            "quota": 2,
             "enroll": 0
           }
         ],
@@ -52346,14 +52361,14 @@
         "section": "L2",
         "number": "1356",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 04-Nov-2024",
-        "quota": 75,
+        "quota": 70,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ISM",
-            "quota": 75,
+            "quota": 70,
             "enroll": 0
           }
         ],
@@ -52583,15 +52598,30 @@
       {
         "section": "L1",
         "number": "1315",
-        "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 02-Sep-2024",
-        "quota": 60,
+        "remarks": "> For MSc(ISM); FT-MBA; PT-MBA and MBA Exchange students only\n> Add/Drop Deadline : 02-Sep-2024",
+        "quota": 56,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
+            "name": "GO",
+            "quota": 5,
+            "enroll": 0
+          },
+          {
             "name": "ISM",
-            "quota": 60,
+            "quota": 44,
+            "enroll": 0
+          },
+          {
+            "name": "MBA",
+            "quota": 5,
+            "enroll": 0
+          },
+          {
+            "name": "TLE",
+            "quota": 2,
             "enroll": 0
           }
         ],
@@ -101448,7 +101478,7 @@
       {
         "section": "L1",
         "number": "4131",
-        "remarks": " ",
+        "remarks": "> Co-list with SOSC 6030R",
         "quota": 30,
         "enroll": 0,
         "waitlist": 0,
@@ -101803,7 +101833,7 @@
       {
         "section": "L1",
         "number": "4197",
-        "remarks": " ",
+        "remarks": "> Venue : Room 4402\n> Co-list with SOSC 4250",
         "quota": 20,
         "enroll": 0,
         "waitlist": 0,
