@@ -1810,14 +1810,14 @@
         "section": "L3",
         "number": "1015",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(GO) students only\n> Add/Drop Deadline : 04-Nov-2024",
-        "quota": 65,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
-            "quota": 65,
+            "quota": 60,
             "enroll": 0
           }
         ],
@@ -1854,14 +1854,14 @@
         "section": "L4",
         "number": "1017",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(GO) students only\n> Add/Drop Deadline : 04-Nov-2024",
-        "quota": 65,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
-            "quota": 65,
+            "quota": 60,
             "enroll": 0
           }
         ],
@@ -18659,8 +18659,8 @@
         "section": "L1",
         "number": "4254",
         "remarks": "> For DBA students only\n> Add/Drop Deadline : 05-Sep-2024",
-        "quota": 13,
-        "enroll": 13,
+        "quota": 11,
+        "enroll": 11,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -18674,6 +18674,45 @@
             "venue": "TBA",
             "fromDate": "2024-09-05",
             "toDate": "2024-09-06",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "DBAP",
+    "number": "5310",
+    "code": "DBAP5310",
+    "name": "Business Economics: Strategic and Behavioral Approach",
+    "description": "This course uses economic analysis to examine a selection of topics of importance to business management. Topics may include demand analysis, pricing strategies, game theory and applications, asymmetric information, agency theory and applications, organization economics, and mergers and acquisitions.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4286",
+        "remarks": "> For DBA students only\n> Class Duration : 27-Sep-2024 to 28-Sep-2024 and 26-Oct-2024 to 27-Oct-2024\n> Add/Drop Deadline : 27-Sep-2024",
+        "quota": 8,
+        "enroll": 8,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LIM, Woo Young"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
             "weekdays": [],
             "fromTime": null,
             "toTime": null
@@ -22715,14 +22754,14 @@
         "section": "L2",
         "number": "1172",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 02-Sep-2024",
-        "quota": 65,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
-            "quota": 65,
+            "quota": 60,
             "enroll": 0
           }
         ],
@@ -22772,14 +22811,14 @@
         "section": "L3",
         "number": "1173",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 02-Sep-2024",
-        "quota": 65,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
-            "quota": 65,
+            "quota": 60,
             "enroll": 0
           }
         ],
@@ -25723,7 +25762,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "POON, Andrew Wing On"
             ],
             "venue": "Rm 2126A, Lift 19 (28)",
             "fromDate": "2024-09-02",
@@ -25748,7 +25787,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "LAU, Vincent Kin Nang"
             ],
             "venue": "TBA",
             "fromDate": "2024-09-02",
@@ -25773,7 +25812,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "WONG, Man"
             ],
             "venue": "Rm 2126B, Lift 19 (28)",
             "fromDate": "2024-09-02",
@@ -25798,7 +25837,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "LIN, Yen Hung"
             ],
             "venue": "TBA",
             "fromDate": "2024-09-02",
@@ -25823,7 +25862,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "CHEN, Kevin Jing"
             ],
             "venue": "Rm 2126C, Lift 19 (28)",
             "fromDate": "2024-09-02",
@@ -25848,7 +25887,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "FAN, Zhiyong"
             ],
             "venue": "TBA",
             "fromDate": "2024-09-02",
@@ -25873,7 +25912,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "KI, Wing Hung"
             ],
             "venue": "Rm 2126D, Lift 19 (34)",
             "fromDate": "2024-09-02",
@@ -25898,7 +25937,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "SHEN, Shaojie"
             ],
             "venue": "TBA",
             "fromDate": "2024-09-02",
@@ -25923,7 +25962,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "WONG, Kai Sun Albert"
             ],
             "venue": "Rm 2127A, Lift 19 (28)",
             "fromDate": "2024-09-02",
@@ -25948,7 +25987,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "PAN, Ling"
             ],
             "venue": "TBA",
             "fromDate": "2024-09-02",
@@ -25973,7 +26012,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "CHAN, Mansun"
             ],
             "venue": "Rm 2127B, Lift 19 (28)",
             "fromDate": "2024-09-02",
@@ -25998,7 +26037,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "MURCH, Ross"
             ],
             "venue": "TBA",
             "fromDate": "2024-09-02",
@@ -26023,7 +26062,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "WANG, Yiwen"
             ],
             "venue": "Rm 2127C, Lift 19 (28)",
             "fromDate": "2024-09-02",
@@ -46318,7 +46357,7 @@
         "section": "L1",
         "number": "1299",
         "remarks": " ",
-        "quota": 40,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -46328,7 +46367,7 @@
             "instructors": [
               "XIANG, Changying"
             ],
-            "venue": "Rm 2463, Lift 25-26 (42)",
+            "venue": "Rm 5620, Lift 31-32 (70)",
             "fromDate": "2024-09-02",
             "toDate": "2024-11-30",
             "weekdays": [
@@ -46343,7 +46382,7 @@
         "section": "LA1",
         "number": "1300",
         "remarks": " ",
-        "quota": 40,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -52860,14 +52899,14 @@
         "section": "L3",
         "number": "1320",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(GO) students only\n> Add/Drop Deadline : 02-Sep-2024",
-        "quota": 65,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
-            "quota": 65,
+            "quota": 60,
             "enroll": 0
           }
         ],
@@ -52904,14 +52943,14 @@
         "section": "L4",
         "number": "1321",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(GO) students only\n> Add/Drop Deadline : 02-Sep-2024",
-        "quota": 65,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
-            "quota": 65,
+            "quota": 60,
             "enroll": 0
           }
         ],
@@ -53593,14 +53632,14 @@
         "section": "L1",
         "number": "1312",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(GO) students only\n> Add/Drop Deadline : 02-Sep-2024",
-        "quota": 65,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
-            "quota": 65,
+            "quota": 60,
             "enroll": 0
           }
         ],
@@ -53650,14 +53689,14 @@
         "section": "L2",
         "number": "1316",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(GO) students only\n> Add/Drop Deadline : 02-Sep-2024",
-        "quota": 65,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
-            "quota": 65,
+            "quota": 60,
             "enroll": 0
           }
         ],
@@ -53811,14 +53850,14 @@
         "section": "L1",
         "number": "1349",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 04-Nov-2024",
-        "quota": 65,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
-            "quota": 65,
+            "quota": 60,
             "enroll": 0
           }
         ],
@@ -53855,14 +53894,14 @@
         "section": "L2",
         "number": "1359",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 04-Nov-2024",
-        "quota": 65,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
-            "quota": 65,
+            "quota": 60,
             "enroll": 0
           }
         ],
@@ -54029,14 +54068,14 @@
         "section": "L3",
         "number": "1352",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 04-Nov-2024",
-        "quota": 65,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
-            "quota": 65,
+            "quota": 60,
             "enroll": 0
           }
         ],
@@ -54060,14 +54099,14 @@
         "section": "L4",
         "number": "1355",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 04-Nov-2024",
-        "quota": 65,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
-            "quota": 65,
+            "quota": 60,
             "enroll": 0
           }
         ],
@@ -55209,7 +55248,7 @@
               3
             ],
             "fromTime": "09:00",
-            "toTime": "10:30"
+            "toTime": "10:20"
           }
         ]
       },
@@ -56113,6 +56152,32 @@
             "toTime": "13:20"
           }
         ]
+      },
+      {
+        "section": "T25",
+        "number": "4284",
+        "remarks": " ",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "G002, CYT Bldg (30)",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [
+              1,
+              3
+            ],
+            "fromTime": "09:00",
+            "toTime": "10:20"
+          }
+        ]
       }
     ]
   },
@@ -56365,6 +56430,32 @@
             ],
             "fromTime": "10:30",
             "toTime": "11:50"
+          }
+        ]
+      },
+      {
+        "section": "T06",
+        "number": "4285",
+        "remarks": " ",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "G001, CYT Bldg (24)",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [
+              1,
+              3
+            ],
+            "fromTime": "12:00",
+            "toTime": "13:20"
           }
         ]
       }
@@ -62184,7 +62275,7 @@
         "section": "T01",
         "number": "3203",
         "remarks": " ",
-        "quota": 20,
+        "quota": 22,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -62210,7 +62301,7 @@
         "section": "T02",
         "number": "3204",
         "remarks": " ",
-        "quota": 20,
+        "quota": 22,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -62236,7 +62327,7 @@
         "section": "T03",
         "number": "3205",
         "remarks": " ",
-        "quota": 20,
+        "quota": 22,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -62262,7 +62353,7 @@
         "section": "T04",
         "number": "3206",
         "remarks": " ",
-        "quota": 20,
+        "quota": 22,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -62288,7 +62379,7 @@
         "section": "T05",
         "number": "3207",
         "remarks": " ",
-        "quota": 20,
+        "quota": 22,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -62326,7 +62417,7 @@
         "section": "T06",
         "number": "3208",
         "remarks": " ",
-        "quota": 20,
+        "quota": 22,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -62364,7 +62455,7 @@
         "section": "T07",
         "number": "3209",
         "remarks": " ",
-        "quota": 20,
+        "quota": 22,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -62390,7 +62481,7 @@
         "section": "T08",
         "number": "3210",
         "remarks": " ",
-        "quota": 20,
+        "quota": 22,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -62416,7 +62507,7 @@
         "section": "T09",
         "number": "3211",
         "remarks": " ",
-        "quota": 20,
+        "quota": 22,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -62442,7 +62533,7 @@
         "section": "T10",
         "number": "3212",
         "remarks": " ",
-        "quota": 20,
+        "quota": 22,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -62468,7 +62559,7 @@
         "section": "T11",
         "number": "3213",
         "remarks": " ",
-        "quota": 20,
+        "quota": 22,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -66039,7 +66130,7 @@
         "section": "T01",
         "number": "1368",
         "remarks": " ",
-        "quota": 20,
+        "quota": 18,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -66065,7 +66156,7 @@
         "section": "T02",
         "number": "1369",
         "remarks": " ",
-        "quota": 20,
+        "quota": 18,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -66091,7 +66182,7 @@
         "section": "T03",
         "number": "1370",
         "remarks": " ",
-        "quota": 20,
+        "quota": 18,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -66129,7 +66220,7 @@
         "section": "T04",
         "number": "1371",
         "remarks": " ",
-        "quota": 20,
+        "quota": 18,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -66155,7 +66246,7 @@
         "section": "T05",
         "number": "1372",
         "remarks": " ",
-        "quota": 20,
+        "quota": 18,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -66181,7 +66272,7 @@
         "section": "T06",
         "number": "1373",
         "remarks": " ",
-        "quota": 20,
+        "quota": 18,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -66207,7 +66298,7 @@
         "section": "T07",
         "number": "1374",
         "remarks": " ",
-        "quota": 20,
+        "quota": 18,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -66245,7 +66336,7 @@
         "section": "T08",
         "number": "1375",
         "remarks": " ",
-        "quota": 20,
+        "quota": 18,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -85913,14 +86004,14 @@
         "section": "L4",
         "number": "4266",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 02-Sep-2024",
-        "quota": 65,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
-            "quota": 65,
+            "quota": 60,
             "enroll": 0
           }
         ],
@@ -85970,14 +86061,14 @@
         "section": "L5",
         "number": "4267",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 02-Sep-2024",
-        "quota": 65,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
-            "quota": 65,
+            "quota": 60,
             "enroll": 0
           }
         ],
