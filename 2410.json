@@ -1502,14 +1502,14 @@
         "number": "1003",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 65,
-        "enroll": 0,
+        "enroll": 57,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 0
+            "enroll": 57
           }
         ],
         "schedule": [
@@ -1559,14 +1559,14 @@
         "number": "1004",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 65,
-        "enroll": 0,
+        "enroll": 52,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 0
+            "enroll": 52
           }
         ],
         "schedule": [
@@ -1645,14 +1645,14 @@
         "number": "1016",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 65,
-        "enroll": 0,
+        "enroll": 57,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 0
+            "enroll": 57
           }
         ],
         "schedule": [
@@ -1676,14 +1676,14 @@
         "number": "1014",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 65,
-        "enroll": 0,
+        "enroll": 52,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 0
+            "enroll": 52
           }
         ],
         "schedule": [
@@ -6847,7 +6847,6 @@
         "schedule": [
           {
             "instructors": [
-              "JIA, Guocheng",
               "TSANG, Ming Wai Emily"
             ],
             "venue": "Lecture Theater J (300)",
@@ -7140,6 +7139,7 @@
         "schedule": [
           {
             "instructors": [
+              "JIA, Guocheng",
               "LEUNG, Wa Hung"
             ],
             "venue": "Lecture Theater K (106)",
@@ -7153,6 +7153,7 @@
           },
           {
             "instructors": [
+              "JIA, Guocheng",
               "LEUNG, Wa Hung"
             ],
             "venue": "Lecture Theater K (106)",
@@ -29556,6 +29557,53 @@
             "toDate": "2024-11-30",
             "weekdays": [
               3
+            ],
+            "fromTime": "15:00",
+            "toTime": "17:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "ELEC",
+    "number": "6910H",
+    "code": "ELEC6910H",
+    "name": "Advanced AI Chip and System",
+    "description": "Artificial Intelligence (AI) techniques have achieved great success in a wide range of applications like computer vision, natural language processing, and scientific computing. Traditional processors are not optimized for AI tasks, which can result in slow performance and high energy consumption. To unlock the full potential of AI, both academia and industry have developed many AI processors for efficient AI computing from edge to cloud, with specialized architecture for the complex computations of AI applications. This is an introductory course to advanced processor architecture for AI computing. The topics covered include AI algorithm basics, processing element, dataflow, memory system, software-hardware co-design for AI processors. This course will also introduce benchmarking and recent advances of AI processors.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4287",
+        "remarks": " ",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "ECE",
+            "quota": 20,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TU, Fengbin"
+            ],
+            "venue": "Rm 5566, Lift 27-28 (24)",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [
+              2
             ],
             "fromTime": "15:00",
             "toTime": "17:50"
@@ -86483,7 +86531,7 @@
         "section": "L1",
         "number": "1519",
         "remarks": "> For Bi-weekly MBA and Digital MBA students only\n> Add/Drop Deadline : 04-Nov-2024",
-        "quota": 65,
+        "quota": 70,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -86495,7 +86543,7 @@
           },
           {
             "name": "MBA Bi-weekly",
-            "quota": 63,
+            "quota": 68,
             "enroll": 0
           }
         ],
@@ -93722,7 +93770,7 @@
         "number": "3948",
         "remarks": " ",
         "quota": 8,
-        "enroll": 8,
+        "enroll": 9,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -93748,7 +93796,7 @@
         "number": "3949",
         "remarks": " ",
         "quota": 8,
-        "enroll": 8,
+        "enroll": 9,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -95966,7 +96014,7 @@
         "number": "1557",
         "remarks": " ",
         "quota": 130,
-        "enroll": 122,
+        "enroll": 127,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
