@@ -30201,7 +30201,7 @@
     "previousCodes": "",
     "prerequisites": "",
     "corequisites": "",
-    "exclusions": "",
+    "exclusions": "UCMP 6030 / IIMP 6030",
     "credits": 3,
     "attributes": [],
     "classes": [
@@ -34770,7 +34770,7 @@
         "number": "1227",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(FinTech) students only.\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 100,
-        "enroll": 72,
+        "enroll": 75,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -35249,7 +35249,7 @@
         "number": "1237",
         "remarks": "> For MSc(FinTech) students only.\n> Add/Drop Deadline : 28-Oct-2024",
         "quota": 100,
-        "enroll": 77,
+        "enroll": 80,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -78978,6 +78978,45 @@
   {
     "career": "UGRD",
     "subject": "MATH",
+    "number": "4981N",
+    "code": "MATH4981N",
+    "name": "Independent Study",
+    "description": "Advanced undergraduate topics independently studied under the supervision of a faculty member. May be repeated for credit if different topics are studied. May be graded P/F or letter grade.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4288",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "MATH",
     "number": "4992",
     "code": "MATH4992",
     "name": "Capstone Project in Applied Mathematics",
@@ -82861,7 +82900,7 @@
         "number": "1261",
         "remarks": "> For MSc(FinTech) students only.\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 120,
-        "enroll": 86,
+        "enroll": 87,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -82902,7 +82941,7 @@
         "number": "1255",
         "remarks": "> For MSc(FinTech) students only.\n> Will have normal class on 11-Oct-2024 \n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 120,
-        "enroll": 87,
+        "enroll": 88,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -82943,7 +82982,7 @@
         "number": "1260",
         "remarks": "> For MSc(FinTech) students only.\n> Will have normal class on 18-Sep-2024\n> Add/Drop Deadline : 09-Sep-2024",
         "quota": 120,
-        "enroll": 82,
+        "enroll": 86,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -98843,7 +98882,7 @@
     "subject": "SBMT",
     "number": "6300C",
     "code": "SBMT6300C",
-    "name": "Global Study Tour - US Silicon Valley",
+    "name": "Global Study Tour - US",
     "description": "The course aims to expand students' horizon and understanding on the social, economic and business context of different cultures. Led by HKUST faculty, the study tour provides students with the opportunity to learn from leading professionals in selected locations globally through visits to partner universities or corporates, as well as meetings with local business leaders or alumni. Course duration will range from one week to multi-weeks. Students are allowed to repeat this course for credit if the locations of the study tours are different. May be graded by letter or P/F for different offerings.",
     "previousCodes": "",
     "prerequisites": "",
