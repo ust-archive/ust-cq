@@ -5899,6 +5899,45 @@
   {
     "career": "EXEC",
     "subject": "IMBA",
+    "number": "5020",
+    "code": "IMBA5020",
+    "name": "Capstone Management Strategy and Execution",
+    "description": "This course combines a case study and business simulation approach to illustrate strategic management, decision making, and strategy execution in a competitive environment. The students will participate in an intensive team simulation exercise to practise the knowledge they have learned from the HKUST EMBA core modules, including accounting, economics, finance, marketing, and so on.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "MGMT 5410",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1347",
+        "remarks": "> Class Duration/Dates :07-Aug-2024 to 11-Aug-2024\n> Add/Drop Deadline : 07-Aug-2024",
+        "quota": 44,
+        "enroll": 7,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "HUI, Kai Lung"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-08-07",
+            "toDate": "2024-08-11",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "IMBA",
     "number": "5400",
     "code": "IMBA5400",
     "name": "International Management",
@@ -10986,7 +11025,7 @@
         "number": "1345",
         "remarks": " ",
         "quota": 1,
-        "enroll": 1,
+        "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],

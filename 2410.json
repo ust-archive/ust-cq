@@ -16508,7 +16508,7 @@
         "number": "2210",
         "remarks": " ",
         "quota": 600,
-        "enroll": 537,
+        "enroll": 536,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -16541,6 +16541,29 @@
           {
             "instructors": [
               "PAPADOPOULOS, Dimitris"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "T3",
+        "number": "4291",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LEUNG, Wai Ting"
             ],
             "venue": "TBA",
             "fromDate": "2024-09-02",
@@ -38416,7 +38439,7 @@
         "section": "T01",
         "number": "4086",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 94,
+        "quota": 116,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -38467,7 +38490,7 @@
         "section": "T01",
         "number": "2751",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 41,
+        "quota": 56,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -38492,7 +38515,7 @@
         "section": "T02",
         "number": "2752",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 30,
+        "quota": 15,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -39904,14 +39927,14 @@
         "section": "L1",
         "number": "2624",
         "remarks": " ",
-        "quota": 60,
+        "quota": 71,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SHSS",
-            "quota": 55,
+            "quota": 71,
             "enroll": 0
           }
         ],
@@ -39936,7 +39959,7 @@
         "section": "T1",
         "number": "2625",
         "remarks": " ",
-        "quota": 60,
+        "quota": 71,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -52050,8 +52073,8 @@
         "section": "L5",
         "number": "1350",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 04-Nov-2024",
-        "quota": 57,
-        "enroll": 41,
+        "quota": 64,
+        "enroll": 48,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -52188,8 +52211,8 @@
         "section": "L1",
         "number": "1347",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 04-Nov-2024",
-        "quota": 73,
-        "enroll": 0,
+        "quota": 75,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -52628,8 +52651,8 @@
         "section": "L1",
         "number": "1315",
         "remarks": "> For MSc(ISM); FT-MBA; PT-MBA and MBA Exchange students only\n> Add/Drop Deadline : 02-Sep-2024",
-        "quota": 56,
-        "enroll": 7,
+        "quota": 60,
+        "enroll": 11,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -53285,14 +53308,14 @@
         "section": "L1",
         "number": "1361",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 04-Nov-2024",
-        "quota": 60,
+        "quota": 55,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
-            "quota": 60,
+            "quota": 55,
             "enroll": 0
           }
         ],
@@ -53329,14 +53352,14 @@
         "section": "L2",
         "number": "1360",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 04-Nov-2024",
-        "quota": 60,
-        "enroll": 0,
+        "quota": 57,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
-            "quota": 60,
+            "quota": 55,
             "enroll": 0
           }
         ],
@@ -65117,7 +65140,7 @@
         "section": "T06",
         "number": "3301",
         "remarks": " ",
-        "quota": 20,
+        "quota": 21,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -86376,7 +86399,7 @@
         "number": "1516",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 60,
-        "enroll": 3,
+        "enroll": 35,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -86961,7 +86984,7 @@
         "number": "1517",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 33,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -87077,7 +87100,7 @@
         "number": "1501",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 20-Aug-2024",
         "quota": 30,
-        "enroll": 12,
+        "enroll": 25,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -87641,14 +87664,14 @@
         "number": "1590",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 50,
-        "enroll": 5,
+        "enroll": 27,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 3,
-            "enroll": 2
+            "enroll": 3
           },
           {
             "name": "TLE",
@@ -87693,7 +87716,7 @@
         "number": "1589",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 20-Aug-2024",
         "quota": 50,
-        "enroll": 0,
+        "enroll": 33,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -87753,7 +87776,7 @@
         "number": "1593",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 49,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -87794,7 +87817,7 @@
         "number": "1614",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 60,
-        "enroll": 5,
+        "enroll": 43,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -87841,7 +87864,7 @@
         "number": "1613",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 40,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -87882,14 +87905,14 @@
         "number": "1591",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 28-Aug-2024",
         "quota": 60,
-        "enroll": 2,
+        "enroll": 38,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 3,
-            "enroll": 2
+            "enroll": 3
           },
           {
             "name": "MARK",
@@ -87977,14 +88000,14 @@
         "number": "1594",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 40,
-        "enroll": 2,
+        "enroll": 40,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 3,
-            "enroll": 2
+            "enroll": 3
           }
         ],
         "schedule": [
@@ -102464,7 +102487,7 @@
         "section": "L1",
         "number": "2554",
         "remarks": "> The class is delivered in a blended learning mode",
-        "quota": 60,
+        "quota": 71,
         "enroll": 1,
         "waitlist": 0,
         "consent": false,
