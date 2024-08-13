@@ -34772,7 +34772,7 @@
         "quota": 100,
         "enroll": 75,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -35251,7 +35251,7 @@
         "quota": 100,
         "enroll": 80,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -47165,7 +47165,7 @@
         "schedule": [
           {
             "instructors": [
-              "QIU, Liangfei"
+              "QIU, Luying"
             ],
             "venue": "Lecture Theater H (72)",
             "fromDate": "2024-09-02",
@@ -47202,7 +47202,7 @@
         "schedule": [
           {
             "instructors": [
-              "QIU, Liangfei"
+              "QIU, Luying"
             ],
             "venue": "Lecture Theater H (72)",
             "fromDate": "2024-09-02",
@@ -82902,7 +82902,7 @@
         "quota": 120,
         "enroll": 87,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -82943,7 +82943,7 @@
         "quota": 120,
         "enroll": 88,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -82984,7 +82984,7 @@
         "quota": 120,
         "enroll": 86,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -83025,7 +83025,7 @@
         "quota": 50,
         "enroll": 14,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -83148,7 +83148,7 @@
         "quota": 130,
         "enroll": 117,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -97242,6 +97242,100 @@
             ],
             "fromTime": "18:30",
             "toTime": "21:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "PPOL",
+    "number": "6100U",
+    "code": "PPOL6100U",
+    "name": "Reasoning with the Past: History for Policymakers",
+    "description": "This course delves deeply into the opportunities, challenges, barriers, and trajectories of integrating historical thinking and reasoning in policymaking. Students will be encouraged to leverage historical knowledge and evidence to develop innovative approaches to examining current and future policies. Through a comprehensive exploration of theoretical frameworks and historical case studies from Hong Kong and around the globe, students will be trained to scrutinise issues surrounding the “usability” of history, including the use, misuse, and abuse of historical narratives, as well as critical concepts such as causality, contingency, and analogies. By the end of the course, students will be equipped to formulate policy opinions on contemporary issues, grounded in historical context and with clear policy relevance. Inspired by the historian Marc Bloch’s concept of “historical sensibility,” this course aims to instil in students a profound appreciation for how historical perspectives can inform and enhance public policy. Ultimately, this course prepares students to become adept at using history responsibly to shape effective and informed policies for the future, fostering a deeper understanding of the dynamic relationship between the past and present in the realm of public policy.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4289",
+        "remarks": " ",
+        "quota": 40,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "PPOL",
+            "quota": 40,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "LUDOVICE, Nicolo Paolo Pons"
+            ],
+            "venue": "Rm 2463, Lift 25-26 (42)",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "13:30",
+            "toTime": "16:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "PPOL",
+    "number": "6100V",
+    "code": "PPOL6100V",
+    "name": "The Economics and Policy of Climate Change",
+    "description": "Climate change is potentially the most challenging long-term issue that the global community will face in the 21st century. To date, policies and strategies to mitigate global climate change have been insufficient to dramatically lessen the expected damages. The impacts of climate change will amplify the effects of already existing stresses on degraded terrestrial and marine resources and exacerbate income and welfare inequality. At least in the early stages, these impacts will create winners and losers, redistributing crop production, perturbing the hydrological cycle, and altering ecosystem services, among other natural and social consequences. If climate change is allowed to proceed unchecked, in the long-term, the ranks of winners will dwindle as impacts increase in scope and severity. The climate issue is inherently interdisciplinary. The main goal of this course is to challenge students to think across disciplinary boundaries. We will discuss a range of theories and methodologies, some of which may be unfamiliar to some students due to the variety of their educational backgrounds. Although the main methodological approach will be grounded in economic theory, the intent is for students to gain a degree of comfort with different analytical methods in order to question the assumptions, and debate, critique, or justify the use of different methodologies in addressing particular aspects of problems relating to scientific, policy, and social dimensions of the broad climate issue.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4290",
+        "remarks": " ",
+        "quota": 40,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "PPOL",
+            "quota": 40,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "CHOW, Jeffrey"
+            ],
+            "venue": "LG3009, Lift 10-12 (88)",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "13:30",
+            "toTime": "16:20"
           }
         ]
       }
