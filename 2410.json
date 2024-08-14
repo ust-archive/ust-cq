@@ -2599,6 +2599,54 @@
             "instructors": [
               "LI, Larry"
             ],
+            "venue": "LG3009, Lift 10-12 (88)",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "19:00",
+            "toTime": "21:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "AESF",
+    "number": "5330",
+    "code": "AESF5330",
+    "name": "Advanced Aircraft Design",
+    "description": "Flight mission requirements, aircraft size and layout, airfoil/wing geometry, aerodynamics, engine selection, airframe−engine integration, fuselage design, electrical and hydraulic systems, landing gear arrangement, flight stability and control, structures and materials, avionics and navigation systems, human factors, safety, manufacturing processes, and cost analysis.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4293",
+        "remarks": " ",
+        "quota": 75,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "AESF",
+            "quota": 75,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "ZHANG, Xin",
+              "ZHOU, Peng"
+            ],
             "venue": "Rm 2406, Lift 17-18 (76)",
             "fromDate": "2024-09-02",
             "toDate": "2024-11-30",
@@ -3585,7 +3633,10 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "LAM, Henry Hei Ning",
+              "LAM, Leung Yuk Frank",
+              "LIU, Y.S. Marshal",
+              "WONG, Tsz Wai"
             ],
             "venue": "Rm 5506, Lift 25-26 (30)",
             "fromDate": "2024-09-02",
@@ -3949,7 +4000,10 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "LAM, Henry Hei Ning",
+              "LAM, Leung Yuk Frank",
+              "LIU, Y.S. Marshal",
+              "WONG, Tsz Wai"
             ],
             "venue": "Rm 2610, Lift 31-32 (26)",
             "fromDate": "2024-09-02",
@@ -5513,7 +5567,10 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "LAM, Henry Hei Ning",
+              "LAM, Leung Yuk Frank",
+              "LIU, Y.S. Marshal",
+              "WONG, Tsz Wai"
             ],
             "venue": "G010, CYT Bldg (140)",
             "fromDate": "2024-09-02",
@@ -6104,7 +6161,10 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "LAM, Henry Hei Ning",
+              "LAM, Leung Yuk Frank",
+              "LIU, Y.S. Marshal",
+              "WONG, Tsz Wai"
             ],
             "venue": "G010, CYT Bldg (140)",
             "fromDate": "2024-09-02",
@@ -30320,7 +30380,10 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "LAM, Henry Hei Ning",
+              "LAM, Leung Yuk Frank",
+              "LIU, Y.S. Marshal",
+              "WONG, Tsz Wai"
             ],
             "venue": "Rm 5508, Lift 25-26 (30)",
             "fromDate": "2024-09-02",
@@ -30508,7 +30571,10 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "LAM, Henry Hei Ning",
+              "LAM, Leung Yuk Frank",
+              "LIU, Y.S. Marshal",
+              "WONG, Tsz Wai"
             ],
             "venue": "Rm 5506, Lift 25-26 (30)",
             "fromDate": "2024-09-02",
@@ -38306,7 +38372,7 @@
         "number": "4052",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 200,
-        "enroll": 40,
+        "enroll": 162,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -38331,7 +38397,7 @@
         "number": "4053",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 200,
-        "enroll": 93,
+        "enroll": 172,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -38356,7 +38422,7 @@
         "number": "4054",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 200,
-        "enroll": 79,
+        "enroll": 172,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -38381,7 +38447,7 @@
         "number": "4055",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 200,
-        "enroll": 99,
+        "enroll": 174,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -87261,7 +87327,7 @@
         "section": "L1",
         "number": "1507",
         "remarks": "> For MPhil(MGMT) and PhD(MGMT) students only",
-        "quota": 14,
+        "quota": 13,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
