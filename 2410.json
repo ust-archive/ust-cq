@@ -23748,7 +23748,7 @@
         "quota": 87,
         "enroll": 73,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [
           {
             "name": "EESM",
@@ -23795,7 +23795,7 @@
         "quota": 88,
         "enroll": 79,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [
           {
             "name": "EESM",
@@ -23843,7 +23843,7 @@
         "quota": 87,
         "enroll": 73,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [
           {
             "name": "EESM",
@@ -23897,7 +23897,7 @@
         "quota": 87,
         "enroll": 78,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [
           {
             "name": "EESM",
@@ -23944,7 +23944,7 @@
         "quota": 50,
         "enroll": 37,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [
           {
             "name": "EESM",
@@ -23975,7 +23975,7 @@
         "quota": 45,
         "enroll": 42,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [
           {
             "name": "EESM",
@@ -24435,7 +24435,7 @@
         "number": "1144",
         "remarks": " ",
         "quota": 86,
-        "enroll": 0,
+        "enroll": 79,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -41619,6 +41619,79 @@
             ],
             "fromTime": "13:30",
             "toTime": "14:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "HUMA",
+    "number": "2680",
+    "code": "HUMA2680",
+    "name": "Understanding Western Architecture",
+    "description": "This course gives students fundamental knowledge of the masterpieces of Western architecture and the variation in styles in different epochs and cultures, from ancient Greece to the 21st century.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "CORE 2654",
+    "credits": 3,
+    "attributes": [
+      {
+        "attribute": "4Y",
+        "value": "12",
+        "attributeDescription": "Students admitted before 2022",
+        "valueDescription": "Common Core (H) for 36-credit program"
+      },
+      {
+        "attribute": "4Y",
+        "value": "16",
+        "attributeDescription": "Students admitted before 2022",
+        "valueDescription": "Common Core (Arts) for 36-credit program"
+      },
+      {
+        "attribute": "CC22",
+        "value": "24",
+        "attributeDescription": "Students admitted from 2022",
+        "valueDescription": "Common Core (A) for 30-credit program"
+      },
+      {
+        "attribute": "CC22",
+        "value": "25",
+        "attributeDescription": "Students admitted from 2022",
+        "valueDescription": "Common Core (H) for 30-credit program"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4294",
+        "remarks": " ",
+        "quota": 60,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "SHSS",
+            "quota": 30,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "KWONG, Yee Ngan"
+            ],
+            "venue": "Lecture Theater H (72)",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [
+              2,
+              4
+            ],
+            "fromTime": "15:00",
+            "toTime": "16:20"
           }
         ]
       }
