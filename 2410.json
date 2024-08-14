@@ -16660,6 +16660,45 @@
   {
     "career": "UGRD",
     "subject": "COMP",
+    "number": "4971C",
+    "code": "COMP4971C",
+    "name": "Independent Work",
+    "description": "Independent studies or projects under the directed guidance of a faculty member on a computer science topic. A written report, presentation, and/or an examination are required. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. May be repeated for credits.",
+    "previousCodes": "COMP390C",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4292",
+        "remarks": " ",
+        "quota": 2,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "ROSSITER, David"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "COMP",
     "number": "4981",
     "code": "COMP4981",
     "name": "Final Year Project",
@@ -88086,14 +88125,14 @@
         "number": "1700",
         "remarks": " ",
         "quota": 160,
-        "enroll": 0,
+        "enroll": 69,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BDT",
             "quota": 160,
-            "enroll": 0
+            "enroll": 69
           }
         ],
         "schedule": [
@@ -88133,14 +88172,14 @@
         "number": "1701",
         "remarks": " ",
         "quota": 160,
-        "enroll": 0,
+        "enroll": 79,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BDT",
             "quota": 160,
-            "enroll": 0
+            "enroll": 79
           }
         ],
         "schedule": [
@@ -90468,7 +90507,7 @@
         "section": "T1",
         "number": "1720",
         "remarks": " ",
-        "quota": 800,
+        "quota": 900,
         "enroll": 800,
         "waitlist": 53,
         "consent": false,
