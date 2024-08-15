@@ -6671,7 +6671,7 @@
         "number": "1072",
         "remarks": " ",
         "quota": 5,
-        "enroll": 0,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -16568,7 +16568,7 @@
         "number": "2210",
         "remarks": " ",
         "quota": 535,
-        "enroll": 535,
+        "enroll": 534,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -16696,7 +16696,7 @@
         "section": "R1",
         "number": "2213",
         "remarks": " ",
-        "quota": 1,
+        "quota": 0,
         "enroll": 0,
         "waitlist": 0,
         "consent": true,
@@ -16775,7 +16775,7 @@
         "number": "2214",
         "remarks": "> The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
         "quota": 162,
-        "enroll": 162,
+        "enroll": 161,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -45134,6 +45134,45 @@
   {
     "career": "RPG",
     "subject": "IEDA",
+    "number": "6900A",
+    "code": "IEDA6900A",
+    "name": "Research Project",
+    "description": "An independent research project carried out under the supervision of a faculty member. This course is only available for exchange, visiting and visiting internship students.",
+    "previousCodes": "IELM6900A,IELM690A",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4296",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "IEDA",
     "number": "6990",
     "code": "IEDA6990",
     "name": "MPhil Thesis Research",
@@ -69163,6 +69202,45 @@
   {
     "career": "RPG",
     "subject": "LIFS",
+    "number": "6420A",
+    "code": "LIFS6420A",
+    "name": "Project Research",
+    "description": "Project research in one of the life science research laboratories under the supervision of a faculty member. Graded P or F. (for Visiting Internship Postgraduate student)",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4295",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "LIFS",
     "number": "6990",
     "code": "LIFS6990",
     "name": "MPhil Thesis Research",
@@ -73623,7 +73701,7 @@
         "number": "3472",
         "remarks": "> MATH 1013 is not co-listing with MATH 1012 in Fall 2024-25",
         "quota": 140,
-        "enroll": 1,
+        "enroll": 105,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -73893,7 +73971,7 @@
         "number": "3494",
         "remarks": " ",
         "quota": 35,
-        "enroll": 1,
+        "enroll": 32,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -73918,7 +73996,7 @@
         "number": "3496",
         "remarks": " ",
         "quota": 35,
-        "enroll": 0,
+        "enroll": 32,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -73943,7 +74021,7 @@
         "number": "3497",
         "remarks": " ",
         "quota": 35,
-        "enroll": 0,
+        "enroll": 31,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -73968,7 +74046,7 @@
         "number": "3498",
         "remarks": " ",
         "quota": 35,
-        "enroll": 0,
+        "enroll": 10,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -90768,7 +90846,7 @@
         "number": "1290",
         "remarks": " ",
         "quota": 300,
-        "enroll": 167,
+        "enroll": 166,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
