@@ -7399,7 +7399,7 @@
         "section": "LA1",
         "number": "1865",
         "remarks": " ",
-        "quota": 48,
+        "quota": 34,
         "enroll": 1,
         "waitlist": 0,
         "consent": false,
@@ -7425,7 +7425,7 @@
         "section": "LA2",
         "number": "1866",
         "remarks": " ",
-        "quota": 48,
+        "quota": 34,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -18776,7 +18776,7 @@
         "number": "4286",
         "remarks": "> For DBA students only\n> Class Duration : 27-Sep-2024 to 28-Sep-2024 and 26-Oct-2024 to 27-Oct-2024\n> Add/Drop Deadline : 27-Sep-2024",
         "quota": 8,
-        "enroll": 8,
+        "enroll": 9,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -69852,6 +69852,47 @@
   {
     "career": "TPG",
     "subject": "MAFS",
+    "number": "6010C",
+    "code": "MAFS6010C",
+    "name": "Introduction to Blockchain Technology",
+    "description": "This course introduces basic concepts and technologies of blockchain, such as the hash function and digital signature, as well as the blockchain applications, especially in Fintech. The students will learn the consensus protocols and algorithms, the incentives and politics of the block chain community, the mechanics of Bitcoin and Bitcoin mining. The course also covers the limitations and possible improvements of the blockchain system.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4297",
+        "remarks": "> Venue: LTK\n> Co-list with MSBD 5017\n> For MSc(MAFM) students only.",
+        "quota": 10,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LEI, Zhibin"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "10:00",
+            "toTime": "12:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MAFS",
     "number": "6010D",
     "code": "MAFS6010D",
     "name": "Financial Innovations in Web 3.0",
@@ -88259,7 +88300,7 @@
         "section": "L1",
         "number": "1594",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 02-Sep-2024",
-        "quota": 43,
+        "quota": 41,
         "enroll": 40,
         "waitlist": 0,
         "consent": false,
@@ -88662,7 +88703,7 @@
       {
         "section": "L1",
         "number": "1707",
-        "remarks": " ",
+        "remarks": "> Co-list with MAFS 6010C",
         "quota": 90,
         "enroll": 0,
         "waitlist": 0,
