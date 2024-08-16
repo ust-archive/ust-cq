@@ -29557,10 +29557,10 @@
   {
     "career": "RPG",
     "subject": "ELEC",
-    "number": "5510",
-    "code": "ELEC5510",
-    "name": "Switch Mode Power Converters",
-    "description": "DC-DC conversion: topologies, continuous and discontinuous conduction modes, steady state analysis, loop gain analysis and relevant mathematical tools, stability and compensation; AC-DC conversion: power factor correctors.",
+    "number": "5520",
+    "code": "ELEC5520",
+    "name": "Power Management Integrated Circuit Design",
+    "description": "Integrated circuit techniques for power management components such as voltage references, linear voltage regulators, low dropout regulators, switch mode power converters and switched-capacitor power converters.",
     "previousCodes": "",
     "prerequisites": "",
     "corequisites": "",
@@ -29570,7 +29570,7 @@
     "classes": [
       {
         "section": "L1",
-        "number": "1159",
+        "number": "4308",
         "remarks": " ",
         "quota": 20,
         "enroll": 0,
@@ -30543,6 +30543,45 @@
             ],
             "fromTime": "18:00",
             "toTime": "19:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "EMIA",
+    "number": "4900C",
+    "code": "EMIA4900C",
+    "name": "Independent Study",
+    "description": "Independent studies or projects under the directed guidance of a faculty member. Course requirements include readings on the relevant topic and a research or survey project specifically defined for the research topic. Credits assigned depend on the workload and may be repeated if different topics are taken. For students with approval from instructor for enrolling in the course. May be graded by letter, P/F or DI/PA/F for different offerings.",
+    "previousCodes": "IIMP4900C",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4309",
+        "remarks": " ",
+        "quota": 3,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "ZHANG, Rong"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -87723,7 +87762,7 @@
         "section": "L1",
         "number": "1507",
         "remarks": "> For MPhil(MGMT) and PhD(MGMT) students only",
-        "quota": 13,
+        "quota": 10,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
