@@ -16567,8 +16567,8 @@
         "section": "T1",
         "number": "2210",
         "remarks": " ",
-        "quota": 535,
-        "enroll": 535,
+        "quota": 536,
+        "enroll": 536,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -16592,8 +16592,8 @@
         "section": "T2",
         "number": "2211",
         "remarks": " ",
-        "quota": 98,
-        "enroll": 98,
+        "quota": 97,
+        "enroll": 97,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -18719,6 +18719,124 @@
   {
     "career": "TPG",
     "subject": "DBAP",
+    "number": "5010",
+    "code": "DBAP5010",
+    "name": "Introduction to Applied Business Research",
+    "description": "This course explores the fundamental issues in business research, including the purpose of business research, the role business research plays in helping managers in decision making, the process involved in the scientific inquiry applied to business including identifying interesting and practically significant research questions, deducing testable hypotheses, conducting systematic research using appropriate methodology, drawing conclusions, and making theoretical and practical contributions. Practical and ethical issues involved in conducting business research will also be discussed.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4307",
+        "remarks": "> For DBA students only\n> Class Duration : 05-Sep-2024 to 08-Sep-2024\n> Add/Drop Deadline : 05-Sep-2024",
+        "quota": 6,
+        "enroll": 6,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "GONG, Yaping",
+              "HONG, Jiewen"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-05",
+            "toDate": "2024-09-08",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "DBAP",
+    "number": "5020",
+    "code": "DBAP5020",
+    "name": "Applied Statistics and Regression",
+    "description": "The course introduces various applications of statistics in business, in particular, regression analysis and its applications. The main topics to be covered include data exploration methods, inference, and regression.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4305",
+        "remarks": "> For DBA students only\n> Class Duration : 19-Oct-2024 to 20-Oct-2024\n> Add/Drop Deadline : 19-Oct-2024",
+        "quota": 7,
+        "enroll": 7,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "ZHENG, Xinghua"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-10-19",
+            "toDate": "2024-10-20",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "DBAP",
+    "number": "5060",
+    "code": "DBAP5060",
+    "name": "Economics Foundation for Applied Business Research",
+    "description": "This course is designed to provide students with a comprehensive understanding of applied microeconomic theory at the DBA level. Through rigorous training of key concepts and methodologies, students will develop the skills necessary to comprehend, analyze, and construct theoretical models in various business contexts. The course will delve into foundational topics such as consumer theory, game theory, and industrial organization. Topics covered under industrial organization include information economics, classical models of competition among firms, and platform competition. Emphasis will be placed on practical applications of theoretical frameworks in business research.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4304",
+        "remarks": "> For DBA students only\n> Class Duration : 28-Nov-2024 to 29-Nov-2024\n> Add/Drop Deadline : 28-Nov-2024",
+        "quota": 7,
+        "enroll": 7,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "FONG, Yuk Fai"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-11-28",
+            "toDate": "2024-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "DBAP",
     "number": "5120",
     "code": "DBAP5120",
     "name": "Frontiers in Economics Research",
@@ -18760,6 +18878,45 @@
   {
     "career": "TPG",
     "subject": "DBAP",
+    "number": "5140",
+    "code": "DBAP5140",
+    "name": "Frontiers in Information Systems Research",
+    "description": "This course introduces students to information systems research in terms of the intersection between technology, society, organization, people, and policy. It analyzes frontier IS research topics such as online social media, digital platforms and competitions, and network strategy and economics.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4306",
+        "remarks": "> For DBA students only\n> Class Duration : 17-Oct-2024 to 18-Oct-2024\n> Add/Drop Deadline : 17-Oct-2024",
+        "quota": 7,
+        "enroll": 7,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "KOH, Tat Koon"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-10-17",
+            "toDate": "2024-10-18",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "DBAP",
     "number": "5310",
     "code": "DBAP5310",
     "name": "Business Economics: Strategic and Behavioral Approach",
@@ -18788,6 +18945,84 @@
             "venue": "TBA",
             "fromDate": "2024-09-02",
             "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "DBAP",
+    "number": "5720",
+    "code": "DBAP5720",
+    "name": "Strategic Management and Organization Theory",
+    "description": "This course exposes students to major theoretical foundations and topics in strategic management and organization theory with the aim of promoting effective strategic decision making, execution, and organizations that promote ﬁrm performance and interests of various stakeholders. Students are expected to develop a good and comprehensive understanding of strategy research, identify an interesting and practically important research question in a topic of choice, and write an executable research proposal to address the question.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4303",
+        "remarks": "> For DBA students only\n> Class Duration : 24-Oct-2024 to 25-Oct-2024\n> Add/Drop Deadline : 24-Oct-2024",
+        "quota": 9,
+        "enroll": 9,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "ZHENG, Yanfeng"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-10-24",
+            "toDate": "2024-10-25",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "DBAP",
+    "number": "5830",
+    "code": "DBAP5830",
+    "name": "Managing Customers in the Digital Economy",
+    "description": "This course introduces students to academic research on customer management in the digital economy. The course draws on both economics and psychology principles and relies on empirical, analytical, and experimental methods.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4302",
+        "remarks": "> For DBA students only\n> Class Duration : 12-Dec-2024 to 15-Dec-2024\n> Add/Drop Deadline : 12-Dec-2024",
+        "quota": 7,
+        "enroll": 7,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "SHI, Mengze"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-12-12",
+            "toDate": "2024-12-15",
             "weekdays": [],
             "fromTime": null,
             "toTime": null
@@ -53303,14 +53538,14 @@
         "number": "4263",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 14-Sep-2024",
         "quota": 67,
-        "enroll": 54,
+        "enroll": 56,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 67,
-            "enroll": 54
+            "enroll": 56
           }
         ],
         "schedule": [
@@ -53335,14 +53570,14 @@
         "number": "4264",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 14-Sep-2024",
         "quota": 68,
-        "enroll": 56,
+        "enroll": 59,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 68,
-            "enroll": 56
+            "enroll": 59
           }
         ],
         "schedule": [
