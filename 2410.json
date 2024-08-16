@@ -52621,14 +52621,14 @@
         "number": "1353",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 75,
-        "enroll": 53,
+        "enroll": 56,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ISM",
             "quota": 73,
-            "enroll": 53
+            "enroll": 54
           },
           {
             "name": "TLE",
@@ -52670,14 +52670,14 @@
         "number": "1356",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 71,
-        "enroll": 50,
+        "enroll": 53,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ISM",
             "quota": 71,
-            "enroll": 52
+            "enroll": 53
           }
         ],
         "schedule": [
@@ -83618,7 +83618,7 @@
       {
         "section": "L1",
         "number": "1736",
-        "remarks": "> For MSc(GCS) students only\n> MGCS 5010 L1 is not co-listing with MASS 5020 in Fall 2024-25",
+        "remarks": "> For MSc(GCS) students only\n> MGCS 5010 L1 is not co-listing with MASS 5020 in Fall 2024-25\n> The class is delivered in a real-time online mode",
         "quota": 40,
         "enroll": 0,
         "waitlist": 0,
@@ -83629,7 +83629,7 @@
             "instructors": [
               "TIAN, Bing"
             ],
-            "venue": "LG3008, Lift 10-12 (82)",
+            "venue": "TBA",
             "fromDate": "2024-09-02",
             "toDate": "2024-11-30",
             "weekdays": [
@@ -83643,7 +83643,7 @@
       {
         "section": "L2",
         "number": "1738",
-        "remarks": "> For MSc(GCS) students only\n> MGCS 5010 L2 is not co-listing with MASS 5020 in Fall 2024-25",
+        "remarks": "> For MSc(GCS) students only\n> MGCS 5010 L2 is not co-listing with MASS 5020 in Fall 2024-25\n> The class is delivered in a real-time online mode",
         "quota": 40,
         "enroll": 0,
         "waitlist": 0,
@@ -83654,7 +83654,7 @@
             "instructors": [
               "TIAN, Bing"
             ],
-            "venue": "Rm 2304, Lift 17-18 (76)",
+            "venue": "TBA",
             "fromDate": "2024-09-02",
             "toDate": "2024-11-30",
             "weekdays": [
@@ -83675,19 +83675,6 @@
         "consent": false,
         "reservedQuota": [],
         "schedule": [
-          {
-            "instructors": [
-              "TIAN, Bing"
-            ],
-            "venue": "LG3008, Lift 10-12 (82)",
-            "fromDate": "2024-09-02",
-            "toDate": "2024-11-30",
-            "weekdays": [
-              3
-            ],
-            "fromTime": "21:00",
-            "toTime": "21:50"
-          },
           {
             "instructors": [
               "TIAN, Bing"
@@ -83725,19 +83712,6 @@
             ],
             "fromTime": "20:00",
             "toTime": "20:50"
-          },
-          {
-            "instructors": [
-              "TIAN, Bing"
-            ],
-            "venue": "Rm 2304, Lift 17-18 (76)",
-            "fromDate": "2024-09-02",
-            "toDate": "2024-11-30",
-            "weekdays": [
-              6
-            ],
-            "fromTime": "21:00",
-            "toTime": "21:50"
           }
         ]
       }
@@ -101196,8 +101170,8 @@
             "weekdays": [
               5
             ],
-            "fromTime": "15:00",
-            "toTime": "17:50"
+            "fromTime": "13:30",
+            "toTime": "16:20"
           }
         ]
       }
