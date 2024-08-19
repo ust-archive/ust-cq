@@ -11009,6 +11009,45 @@
   {
     "career": "RPG",
     "subject": "PDEV",
+    "number": "6770E",
+    "code": "PDEV6770E",
+    "name": "Professional Development for Research Postgraduate Students",
+    "description": "This course aims at equipping research postgraduate students with transferrable skills conducive to their professional development. Students are required to attend 3 hours of mandatory training on Professional Conduct, and complete 12 hours of workshops, at their own choice, under the themes of Communication Skills, Research Competency, Entrepreneurship, Self‐Management, and Career Development. Graded PP, P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "CHEM 6770, ENVS 6770, LIFS 6770 (prior to 2023-24), MATH 6770, PHYS 6770, BIEN 6770 (prior to 2022-23), CENG 6770 (prior to 2020-21), CIVL 6770 (prior to 2023-24), COMP 6770 (prior to 2022-23), ELEC 6770, ENGG 6770, EVNG 6770 (prior to 2023-24), IEDA 6770 (prior to 2023-24), MECH 6770, SBMT 6770 (prior to 2022-23), SHSS 6770 (prior to 2022-23), IDPO 6770, ENVR 6770",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1350",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-06-17",
+            "toDate": "2024-08-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "PDEV",
     "number": "6800A",
     "code": "PDEV6800A",
     "name": "Introduction to Teaching and Learning in Higher Education",
