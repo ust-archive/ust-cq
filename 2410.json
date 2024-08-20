@@ -11808,6 +11808,45 @@
   {
     "career": "RPG",
     "subject": "CIVL",
+    "number": "6010A",
+    "code": "CIVL6010A",
+    "name": "Directed Studies",
+    "description": "Specialist courses where instruction is generally on a one-to-one basis. Graded P or F.",
+    "previousCodes": "CIVL610A",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4314",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "CIVL",
     "number": "6010G",
     "code": "CIVL6010G",
     "name": "Directed Studies",
@@ -16698,6 +16737,45 @@
         "remarks": " ",
         "quota": 0,
         "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "COMP",
+    "number": "4971A",
+    "code": "COMP4971A",
+    "name": "Independent Work",
+    "description": "Independent studies or projects under the directed guidance of a faculty member on a computer science topic. A written report, presentation, and/or an examination are required. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. May be repeated for credits.",
+    "previousCodes": "COMP390A",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4315",
+        "remarks": " ",
+        "quota": 9,
+        "enroll": 9,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -29142,6 +29220,84 @@
     ]
   },
   {
+    "career": "UGRD",
+    "subject": "ELEC",
+    "number": "4940C",
+    "code": "ELEC4940C",
+    "name": "Independent Study",
+    "description": "Selected topics in electronic and computer engineering studied under the supervision of a faculty member. Enrollment subject to approval by the department.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4317",
+        "remarks": " ",
+        "quota": 5,
+        "enroll": 5,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ELEC",
+    "number": "4940F",
+    "code": "ELEC4940F",
+    "name": "Independent Study",
+    "description": "Selected topics in electronic and computer engineering studied under the supervision of a faculty member. Enrollment subject to approval by the department.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4316",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "RPG",
     "subject": "ELEC",
     "number": "5010",
@@ -37453,7 +37609,7 @@
         "number": "4148",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 22,
-        "enroll": 20,
+        "enroll": 22,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -37833,7 +37989,7 @@
         "number": "4158",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 22,
-        "enroll": 20,
+        "enroll": 22,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -38289,7 +38445,7 @@
         "number": "4170",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 22,
-        "enroll": 20,
+        "enroll": 22,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -38441,7 +38597,7 @@
         "number": "4174",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 21,
-        "enroll": 20,
+        "enroll": 21,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -38479,7 +38635,7 @@
         "number": "4175",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 13,
-        "enroll": 12,
+        "enroll": 13,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -74151,8 +74307,8 @@
         "section": "L01",
         "number": "3472",
         "remarks": "> MATH 1013 is not co-listing with MATH 1012 in Fall 2024-25",
-        "quota": 125,
-        "enroll": 125,
+        "quota": 129,
+        "enroll": 129,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -74421,8 +74577,8 @@
         "section": "T01A",
         "number": "3494",
         "remarks": " ",
-        "quota": 32,
-        "enroll": 32,
+        "quota": 33,
+        "enroll": 33,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -74471,8 +74627,8 @@
         "section": "T01C",
         "number": "3497",
         "remarks": " ",
-        "quota": 31,
-        "enroll": 31,
+        "quota": 32,
+        "enroll": 32,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -74496,8 +74652,8 @@
         "section": "T01D",
         "number": "3498",
         "remarks": " ",
-        "quota": 30,
-        "enroll": 30,
+        "quota": 32,
+        "enroll": 32,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -82989,8 +83145,8 @@
         "section": "R1",
         "number": "4250",
         "remarks": " ",
-        "quota": 1,
-        "enroll": 1,
+        "quota": 6,
+        "enroll": 6,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -95042,7 +95198,7 @@
         "number": "3966",
         "remarks": " ",
         "quota": 10,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -100443,7 +100599,7 @@
         "number": "4235",
         "remarks": " ",
         "quota": 20,
-        "enroll": 15,
+        "enroll": 16,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
