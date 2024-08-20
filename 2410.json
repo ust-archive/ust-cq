@@ -1398,14 +1398,14 @@
         "number": "1009",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For PT-MBA Year 1 students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 60,
-        "enroll": 46,
+        "enroll": 47,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MBA",
             "quota": 60,
-            "enroll": 46
+            "enroll": 47
           }
         ],
         "schedule": [
@@ -21605,6 +21605,45 @@
   {
     "career": "UGRD",
     "subject": "ECON",
+    "number": "3800",
+    "code": "ECON3800",
+    "name": "ECON UG Honors Thesis I",
+    "description": "This course is a supervised course which trains student to do proper economic research. This course is Part I of the ECON UG Honors Thesis that consists of two parts (ECON3800: Honors Thesis I and ECON4800: Honors Thesis II). This course is designed to help students brainstorm their research idea by providing structured information session and continuous mentorship. Students need to submit a research proposal and share it through the final presentation. Students are expected to synthesize and apply skills and knowledge learnt from the course, and findings from their individual thesis would be useful to understand real-life phenomena. Graded P or F. Instructor's approval is required for taking the course. For BBA(ECON), BSc(ECOF) and BSc(MAEC) students, including students taking an additional major in any of these programs.",
+    "previousCodes": "",
+    "prerequisites": "[(ECON 3014 AND ECON 3024) OR (ECON 3133 AND ECON 3143)] AND ECON 3334",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4320",
+        "remarks": " ",
+        "quota": 10,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "AU, Pak Hung"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ECON",
     "number": "4114",
     "code": "ECON4114",
     "name": "Industrial Organization and Competitive Strategy",
@@ -22256,6 +22295,45 @@
     ]
   },
   {
+    "career": "UGRD",
+    "subject": "ECON",
+    "number": "4800",
+    "code": "ECON4800",
+    "name": "ECON UG Honors Thesis II",
+    "description": "This course is a supervised course which trains student to do proper economic research. This course is Part II of the ECON UG Honors Thesis that consists of two parts (ECON3800: Honors Thesis I and ECON4800: Honors Thesis II). This course is designed to help students to produce a tangible research output in the form of a written thesis. An individual faculty supervisor will be assigned to each student. The research output will be disseminated via the end-of-the-semester UG research workshop where all students taking this course are invited to present their work.  Instructor's approval is required for taking the course. For BBA(ECON), BSc(ECOF) and BSc(MAEC) students in their fourth-year of study, including students taking an additional major in any of these programs.",
+    "previousCodes": "",
+    "prerequisites": "ECON 3800",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4321",
+        "remarks": " ",
+        "quota": 10,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "AU, Pak Hung"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "TPG",
     "subject": "ECON",
     "number": "5040",
@@ -22601,14 +22679,14 @@
         "number": "1175",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For PT-MBA Year 1 students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 60,
-        "enroll": 49,
+        "enroll": 50,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MBA",
             "quota": 60,
-            "enroll": 49
+            "enroll": 50
           }
         ],
         "schedule": [
@@ -51937,14 +52015,14 @@
         "number": "1363",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For PT-MBA Year 1 students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 60,
-        "enroll": 52,
+        "enroll": 53,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MBA",
             "quota": 60,
-            "enroll": 51
+            "enroll": 52
           }
         ],
         "schedule": [
@@ -71784,14 +71862,14 @@
         "number": "1451",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For PT-MBA Year 1 students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 65,
-        "enroll": 57,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MBA",
             "quota": 65,
-            "enroll": 56
+            "enroll": 57
           }
         ],
         "schedule": [
@@ -90989,6 +91067,45 @@
             ],
             "fromTime": "13:30",
             "toTime": "14:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "OCES",
+    "number": "4910A",
+    "code": "OCES4910A",
+    "name": "Independent Study",
+    "description": "Independent studies or projects under the directed guidance of a faculty member. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. Students may repeat the course up to two times if different topics are taken. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4322",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
