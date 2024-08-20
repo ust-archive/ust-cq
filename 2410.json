@@ -1502,14 +1502,14 @@
         "number": "1003",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 65,
-        "enroll": 57,
+        "enroll": 54,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 57
+            "enroll": 54
           }
         ],
         "schedule": [
@@ -1559,14 +1559,14 @@
         "number": "1004",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 65,
-        "enroll": 52,
+        "enroll": 51,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 52
+            "enroll": 51
           }
         ],
         "schedule": [
@@ -22725,7 +22725,7 @@
         "section": "L1",
         "number": "1192",
         "remarks": "> For MSc(ECON); MPhil and PhD students in SBM only",
-        "quota": 150,
+        "quota": 110,
         "enroll": 94,
         "waitlist": 0,
         "consent": false,
@@ -22832,7 +22832,7 @@
         "section": "L2",
         "number": "1193",
         "remarks": "> For MSc(ECON); MPhil and PhD students in SBM only",
-        "quota": 150,
+        "quota": 110,
         "enroll": 95,
         "waitlist": 0,
         "consent": false,
@@ -23756,6 +23756,45 @@
             ],
             "fromTime": "09:00",
             "toTime": "12:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "ECON",
+    "number": "6980",
+    "code": "ECON6980",
+    "name": "Independent Project",
+    "description": "For MSc(ECON) students opting for the Research Preparation concentration only. This course aims to acquire students with research skills through producing a term paper under the supervision of a faculty member in the Department.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 6,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4319",
+        "remarks": "> For MSc(ECON) Year 2 students opted to the Research Preparation Concentration only\n> Add/Drop Deadline : 16-Sep-2024",
+        "quota": 7,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -35436,14 +35475,14 @@
         "number": "1241",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(ACCT) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 65,
-        "enroll": 57,
+        "enroll": 52,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 57
+            "enroll": 52
           }
         ],
         "schedule": [
@@ -38710,8 +38749,8 @@
         "section": "T35",
         "number": "4177",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 14,
-        "enroll": 14,
+        "quota": 15,
+        "enroll": 15,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -76371,14 +76410,14 @@
             "instructors": [
               "HO, Hon Ming"
             ],
-            "venue": "Rm 1027, LSK Bldg (40)",
+            "venue": "Rm 1033, LSK Bldg (51)",
             "fromDate": "2024-09-02",
             "toDate": "2024-11-30",
             "weekdays": [
-              2
+              5
             ],
-            "fromTime": "18:00",
-            "toTime": "18:50"
+            "fromTime": "13:30",
+            "toTime": "14:20"
           }
         ]
       },
