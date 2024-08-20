@@ -2065,6 +2065,37 @@
             "toTime": "12:50"
           }
         ]
+      },
+      {
+        "section": "L2",
+        "number": "4326",
+        "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 04-Nov-2024",
+        "quota": 65,
+        "enroll": 30,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "ACCT",
+            "quota": 65,
+            "enroll": 30
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TAN, Jing"
+            ],
+            "venue": "Rm 1034, LSK Bldg (80)",
+            "fromDate": "2024-11-01",
+            "toDate": "2024-12-20",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "14:30",
+            "toTime": "17:50"
+          }
+        ]
       }
     ]
   },
@@ -21713,91 +21744,6 @@
             "instructors": [
               "AU, Pak Hung"
             ],
-            "venue": "Rm 1409, Lift 25-26 (60)",
-            "fromDate": "2024-09-02",
-            "toDate": "2024-11-30",
-            "weekdays": [
-              1
-            ],
-            "fromTime": "18:00",
-            "toTime": "18:50"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "UGRD",
-    "subject": "ECON",
-    "number": "4134",
-    "code": "ECON4134",
-    "name": "Economics of Uncertainty and Information",
-    "description": "All human endeavors are constrained by limited knowledge about the laws of nature, external events in the past, present and future, how other people (including ourselves) are going to behave, etc. Life is filled with decision problems without perfect information of their consequences. In view of these, research on the decision making and strategic interaction under risk and uncertainty have been extremely active for the past few decades. This course aims to provide an introduction to this exciting field of research and suggestions for further exploration. The first part of the course is devoted to the economics of uncertainty and covers topics including the expected-utility model, market allocation of risks and asset pricing. The second part of the course is devoted to the economics of information and covers topics including moral hazard, bargaining, auction theory, mechanism design, and information aggregation in the market.",
-    "previousCodes": "ECON4999T",
-    "prerequisites": "ECON 3014 OR (ECON 3113 AND ECON 3133)",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 4,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "L1",
-        "number": "2514",
-        "remarks": " ",
-        "quota": 50,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ECON",
-            "quota": 50,
-            "enroll": 0
-          }
-        ],
-        "schedule": [
-          {
-            "instructors": [
-              "AU, Pak Hung"
-            ],
-            "venue": "Rm 1007, LSK Bldg (80)",
-            "fromDate": "2024-09-02",
-            "toDate": "2024-11-30",
-            "weekdays": [
-              1
-            ],
-            "fromTime": "15:00",
-            "toTime": "16:20"
-          },
-          {
-            "instructors": [
-              "AU, Pak Hung"
-            ],
-            "venue": "Rm 1007, LSK Bldg (80)",
-            "fromDate": "2024-09-02",
-            "toDate": "2024-11-30",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "10:30",
-            "toTime": "11:50"
-          }
-        ]
-      },
-      {
-        "section": "T1",
-        "number": "2515",
-        "remarks": " ",
-        "quota": 50,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "AU, Pak Hung"
-            ],
             "venue": "G001, LSK Bldg (70)",
             "fromDate": "2024-09-02",
             "toDate": "2024-11-30",
@@ -36715,7 +36661,7 @@
       {
         "section": "L1",
         "number": "1217",
-        "remarks": "> For FT-MBA; PT-MBA; Digital MBA and MBA Exchange students only\n> Venue on 13-Sep-2024 : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 02-Sep-2024",
+        "remarks": "> For FT-MBA; PT-MBA; Digital MBA and MBA Exchange students only\n> Venue on 13-Sep-2024 : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 09-Sep-2024",
         "quota": 44,
         "enroll": 0,
         "waitlist": 0,
@@ -38105,7 +38051,7 @@
         "section": "T16",
         "number": "4158",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 22,
+        "quota": 24,
         "enroll": 22,
         "waitlist": 0,
         "consent": false,
@@ -54091,14 +54037,14 @@
         "number": "1332",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 68,
-        "enroll": 60,
+        "enroll": 59,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 68,
-            "enroll": 60
+            "enroll": 59
           }
         ],
         "schedule": [
@@ -54815,14 +54761,14 @@
         "number": "1310",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 68,
-        "enroll": 59,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 68,
-            "enroll": 59
+            "enroll": 58
           }
         ],
         "schedule": [
@@ -70641,8 +70587,21 @@
               "ZHANG, James"
             ],
             "venue": "Lecture Theater C (211)",
-            "fromDate": "2024-09-02",
-            "toDate": "2024-11-30",
+            "fromDate": "2024-09-01",
+            "toDate": "2024-09-01",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "10:00",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "ZHANG, James"
+            ],
+            "venue": "Lecture Theater C (211)",
+            "fromDate": "2024-09-15",
+            "toDate": "2024-11-24",
             "weekdays": [
               7
             ],
@@ -103788,8 +103747,8 @@
         "section": "T1",
         "number": "2759",
         "remarks": " ",
-        "quota": 29,
-        "enroll": 29,
+        "quota": 30,
+        "enroll": 30,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
