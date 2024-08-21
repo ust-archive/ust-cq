@@ -11878,6 +11878,45 @@
   {
     "career": "RPG",
     "subject": "CIVL",
+    "number": "6010C",
+    "code": "CIVL6010C",
+    "name": "Directed Studies",
+    "description": "Specialist courses where instruction is generally on a one-to-one basis. Graded P or F.",
+    "previousCodes": "CIVL610C",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "4329",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LU, Mengqian"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "CIVL",
     "number": "6010G",
     "code": "CIVL6010G",
     "name": "Directed Studies",
@@ -16668,7 +16707,7 @@
         "number": "2210",
         "remarks": " ",
         "quota": 536,
-        "enroll": 536,
+        "enroll": 531,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -35369,14 +35408,14 @@
         "number": "1224",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 70,
-        "enroll": 66,
+        "enroll": 67,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 70,
-            "enroll": 66
+            "enroll": 67
           }
         ],
         "schedule": [
@@ -35413,14 +35452,14 @@
         "number": "1228",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Venue on 19-Oct-2024 : LT-A\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 70,
-        "enroll": 64,
+        "enroll": 65,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 70,
-            "enroll": 64
+            "enroll": 65
           }
         ],
         "schedule": [
@@ -35457,14 +35496,14 @@
         "number": "1230",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Venue on 19-Oct-2024 : LT-A\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 70,
-        "enroll": 66,
+        "enroll": 67,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 70,
-            "enroll": 66
+            "enroll": 67
           }
         ],
         "schedule": [
@@ -35739,14 +35778,14 @@
         "number": "1243",
         "remarks": "> For MSc(FINA); MSc(FA); MSc(IM); FT-MBA; PT-MBA and MBA exchange students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 70,
-        "enroll": 35,
+        "enroll": 37,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 60,
-            "enroll": 35
+            "enroll": 37
           },
           {
             "name": "MBA",
@@ -35791,14 +35830,14 @@
         "number": "1225",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 70,
-        "enroll": 66,
+        "enroll": 67,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 70,
-            "enroll": 66
+            "enroll": 67
           }
         ],
         "schedule": [
@@ -35835,14 +35874,14 @@
         "number": "1226",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Venue on 19-Oct-2024 : LT-A\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 70,
-        "enroll": 63,
+        "enroll": 64,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 70,
-            "enroll": 63
+            "enroll": 64
           }
         ],
         "schedule": [
@@ -35879,14 +35918,14 @@
         "number": "1231",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Venue on 19-Oct-2024 : LT-A\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 70,
-        "enroll": 67,
+        "enroll": 68,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 70,
-            "enroll": 67
+            "enroll": 68
           }
         ],
         "schedule": [
@@ -36065,14 +36104,14 @@
         "number": "1246",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 70,
-        "enroll": 66,
+        "enroll": 68,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 70,
-            "enroll": 66
+            "enroll": 68
           }
         ],
         "schedule": [
@@ -36159,14 +36198,14 @@
         "number": "1222",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 70,
-        "enroll": 67,
+        "enroll": 68,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 70,
-            "enroll": 67
+            "enroll": 68
           }
         ],
         "schedule": [
@@ -36206,14 +36245,14 @@
         "number": "1218",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 70,
-        "enroll": 61,
+        "enroll": 63,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 70,
-            "enroll": 61
+            "enroll": 63
           }
         ],
         "schedule": [
@@ -36250,14 +36289,14 @@
         "number": "1219",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 02-Sep-2024\n> Venue on 14-Oct-2024 : LT-A",
         "quota": 70,
-        "enroll": 66,
+        "enroll": 67,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 70,
-            "enroll": 66
+            "enroll": 67
           }
         ],
         "schedule": [
@@ -36354,14 +36393,14 @@
         "number": "1245",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 70,
-        "enroll": 64,
+        "enroll": 66,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 70,
-            "enroll": 64
+            "enroll": 66
           }
         ],
         "schedule": [
@@ -36398,14 +36437,14 @@
         "number": "1249",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 70,
-        "enroll": 64,
+        "enroll": 65,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 70,
-            "enroll": 64
+            "enroll": 65
           }
         ],
         "schedule": [
@@ -36489,14 +36528,14 @@
         "number": "1238",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 70,
-        "enroll": 62,
+        "enroll": 64,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 70,
-            "enroll": 62
+            "enroll": 64
           }
         ],
         "schedule": [
@@ -36533,14 +36572,14 @@
         "number": "1239",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 70,
-        "enroll": 65,
+        "enroll": 66,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 70,
-            "enroll": 65
+            "enroll": 66
           }
         ],
         "schedule": [
@@ -36624,14 +36663,14 @@
         "number": "1250",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 70,
-        "enroll": 68,
+        "enroll": 69,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 70,
-            "enroll": 68
+            "enroll": 69
           }
         ],
         "schedule": [
@@ -39008,7 +39047,7 @@
         "number": "4050",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 200,
-        "enroll": 151,
+        "enroll": 150,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -39033,7 +39072,7 @@
         "number": "4051",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 200,
-        "enroll": 173,
+        "enroll": 172,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -39108,7 +39147,7 @@
         "number": "4054",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 200,
-        "enroll": 172,
+        "enroll": 167,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -99694,37 +99733,6 @@
     "attributes": [],
     "classes": [
       {
-        "section": "L1",
-        "number": "1617",
-        "remarks": "> For FT-MBA; PT-MBA; MBA Exchange and Bi-weekly MBA students only\n> Add/Drop Deadline : 04-Nov-2024",
-        "quota": 45,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MBA",
-            "quota": 45,
-            "enroll": 0
-          }
-        ],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 1001, LSK Bldg (70)",
-            "fromDate": "2024-11-02",
-            "toDate": "2024-12-21",
-            "weekdays": [
-              6
-            ],
-            "fromTime": "14:00",
-            "toTime": "17:20"
-          }
-        ]
-      },
-      {
         "section": "L2",
         "number": "1615",
         "remarks": "> Instructor : SUH, Jung\n> For FT-MBA; PT-MBA; MBA Exchange; Bi-weekly MBA and Digital MBA students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 04-Nov-2024",
@@ -103850,7 +103858,7 @@
         "number": "2759",
         "remarks": " ",
         "quota": 30,
-        "enroll": 30,
+        "enroll": 29,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
