@@ -1502,14 +1502,14 @@
         "number": "1003",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 65,
-        "enroll": 54,
+        "enroll": 55,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 54
+            "enroll": 55
           }
         ],
         "schedule": [
@@ -1559,14 +1559,14 @@
         "number": "1004",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 65,
-        "enroll": 51,
+        "enroll": 52,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 51
+            "enroll": 52
           }
         ],
         "schedule": [
@@ -1645,14 +1645,14 @@
         "number": "1016",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 65,
-        "enroll": 57,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 57
+            "enroll": 58
           }
         ],
         "schedule": [
@@ -1676,14 +1676,14 @@
         "number": "1014",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 65,
-        "enroll": 52,
+        "enroll": 53,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 52
+            "enroll": 53
           }
         ],
         "schedule": [
@@ -1736,14 +1736,14 @@
         "number": "1020",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(ACCT) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 65,
-        "enroll": 57,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 57
+            "enroll": 58
           }
         ],
         "schedule": [
@@ -1767,14 +1767,14 @@
         "number": "1019",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(ACCT) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 65,
-        "enroll": 52,
+        "enroll": 53,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 52
+            "enroll": 53
           }
         ],
         "schedule": [
@@ -1902,14 +1902,14 @@
         "number": "1018",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 65,
-        "enroll": 56,
+        "enroll": 57,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 56
+            "enroll": 57
           }
         ],
         "schedule": [
@@ -1993,14 +1993,14 @@
         "number": "1002",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 65,
-        "enroll": 42,
+        "enroll": 43,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 42
+            "enroll": 43
           }
         ],
         "schedule": [
@@ -2040,14 +2040,14 @@
         "number": "1021",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 65,
-        "enroll": 56,
+        "enroll": 57,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 56
+            "enroll": 57
           }
         ],
         "schedule": [
@@ -2118,14 +2118,14 @@
         "number": "1005",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 65,
-        "enroll": 56,
+        "enroll": 57,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 56
+            "enroll": 57
           }
         ],
         "schedule": [
@@ -2162,14 +2162,14 @@
         "number": "1006",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 65,
-        "enroll": 17,
+        "enroll": 18,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 17
+            "enroll": 18
           }
         ],
         "schedule": [
@@ -13421,7 +13421,13 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "CSE",
+            "quota": 108,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -14364,7 +14370,13 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "CSE",
+            "quota": 135,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -15282,7 +15294,13 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "CSE",
+            "quota": 117,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -15473,7 +15491,13 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "CSE",
+            "quota": 84,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -16644,7 +16668,7 @@
         "number": "2210",
         "remarks": " ",
         "quota": 536,
-        "enroll": 535,
+        "enroll": 536,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -16819,7 +16843,14 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "CHEN, Hao",
+              "CHEN, Long",
+              "MA, Xiaojuan",
+              "QU, Huamin",
+              "WANG, Shuai",
+              "WEI, Victor Junqiu",
+              "YI, Ke",
+              "ZHOU, Xiaofeng"
             ],
             "venue": "TBA",
             "fromDate": "2024-09-02",
@@ -28115,8 +28146,8 @@
         "section": "T10",
         "number": "2364",
         "remarks": "> Classes held in Room 2127A",
-        "quota": 8,
-        "enroll": 8,
+        "quota": 7,
+        "enroll": 7,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -35583,14 +35614,14 @@
         "number": "1241",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(ACCT) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 65,
-        "enroll": 52,
+        "enroll": 53,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 52
+            "enroll": 53
           }
         ],
         "schedule": [
@@ -35614,14 +35645,14 @@
         "number": "1242",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(ACCT) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 65,
-        "enroll": 52,
+        "enroll": 53,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 52
+            "enroll": 53
           }
         ],
         "schedule": [
@@ -37603,7 +37634,7 @@
         "section": "T02",
         "number": "4144",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 21,
+        "quota": 20,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -37717,7 +37748,7 @@
         "section": "T05",
         "number": "4147",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 21,
+        "quota": 20,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -37831,7 +37862,7 @@
         "section": "T08",
         "number": "4150",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 21,
+        "quota": 20,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -37869,7 +37900,7 @@
         "section": "T09",
         "number": "4151",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 21,
+        "quota": 20,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -37907,7 +37938,7 @@
         "section": "T10",
         "number": "4152",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 21,
+        "quota": 20,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -37945,7 +37976,7 @@
         "section": "T11",
         "number": "4153",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 21,
+        "quota": 20,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -38021,7 +38052,7 @@
         "section": "T13",
         "number": "4155",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 21,
+        "quota": 20,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -38059,7 +38090,7 @@
         "section": "T14",
         "number": "4156",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 21,
+        "quota": 20,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -38097,7 +38128,7 @@
         "section": "T15",
         "number": "4157",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 21,
+        "quota": 20,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -38211,7 +38242,7 @@
         "section": "T18",
         "number": "4160",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 21,
+        "quota": 20,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -38249,7 +38280,7 @@
         "section": "T19",
         "number": "4161",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 21,
+        "quota": 20,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -38325,7 +38356,7 @@
         "section": "T21",
         "number": "4163",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 21,
+        "quota": 20,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -38363,7 +38394,7 @@
         "section": "T22",
         "number": "4164",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 21,
+        "quota": 20,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -38401,7 +38432,7 @@
         "section": "T23",
         "number": "4165",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 21,
+        "quota": 20,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -38439,7 +38470,7 @@
         "section": "T24",
         "number": "4166",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 21,
+        "quota": 20,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -38781,7 +38812,7 @@
         "section": "T33",
         "number": "4175",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 13,
+        "quota": 19,
         "enroll": 13,
         "waitlist": 0,
         "consent": false,
@@ -38819,7 +38850,7 @@
         "section": "T34",
         "number": "4176",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 13,
+        "quota": 18,
         "enroll": 13,
         "waitlist": 0,
         "consent": false,
@@ -38857,7 +38888,7 @@
         "section": "T35",
         "number": "4177",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 15,
+        "quota": 16,
         "enroll": 15,
         "waitlist": 0,
         "consent": false,
@@ -39126,7 +39157,7 @@
         "section": "T07",
         "number": "4056",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 50,
+        "quota": 23,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -39151,7 +39182,7 @@
         "section": "T08",
         "number": "4057",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 50,
+        "quota": 34,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -52687,14 +52718,14 @@
         "number": "1324",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 65,
-        "enroll": 47,
+        "enroll": 48,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 47
+            "enroll": 48
           }
         ],
         "schedule": [
@@ -52731,14 +52762,14 @@
         "number": "1325",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 65,
-        "enroll": 39,
+        "enroll": 40,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 39
+            "enroll": 40
           }
         ],
         "schedule": [
@@ -74632,7 +74663,7 @@
         "section": "L07",
         "number": "3484",
         "remarks": "> MATH 1013 is not co-listing with MATH 1012 in Fall 2024-25",
-        "quota": 150,
+        "quota": 151,
         "enroll": 1,
         "waitlist": 0,
         "consent": false,
@@ -75197,7 +75228,7 @@
         "section": "T07A",
         "number": "3514",
         "remarks": " ",
-        "quota": 50,
+        "quota": 51,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -87779,14 +87810,14 @@
         "number": "1513",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 40,
-        "enroll": 32,
+        "enroll": 34,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 40,
-            "enroll": 32
+            "enroll": 34
           }
         ],
         "schedule": [
