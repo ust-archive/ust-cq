@@ -24315,14 +24315,14 @@
         "number": "1129",
         "remarks": " ",
         "quota": 87,
-        "enroll": 74,
+        "enroll": 75,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
           {
             "name": "EESM",
             "quota": 87,
-            "enroll": 74
+            "enroll": 75
           }
         ],
         "schedule": [
@@ -24362,14 +24362,14 @@
         "number": "1130",
         "remarks": " ",
         "quota": 88,
-        "enroll": 80,
+        "enroll": 81,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
           {
             "name": "EESM",
             "quota": 88,
-            "enroll": 80
+            "enroll": 81
           }
         ],
         "schedule": [
@@ -24410,14 +24410,14 @@
         "number": "1131",
         "remarks": " ",
         "quota": 87,
-        "enroll": 74,
+        "enroll": 75,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
           {
             "name": "EESM",
             "quota": 87,
-            "enroll": 74
+            "enroll": 75
           }
         ],
         "schedule": [
@@ -24464,14 +24464,14 @@
         "number": "1132",
         "remarks": "> The class is delivered in a blended learning mode",
         "quota": 87,
-        "enroll": 79,
+        "enroll": 80,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
           {
             "name": "EESM",
             "quota": 87,
-            "enroll": 79
+            "enroll": 80
           }
         ],
         "schedule": [
@@ -25570,11 +25570,11 @@
             "instructors": [
               "MURCH, Ross"
             ],
-            "venue": "Rm 2464, Lift 25-26 (122)",
+            "venue": "Rm 2503, Lift 25-26 (87)",
             "fromDate": "2024-09-02",
             "toDate": "2024-11-30",
             "weekdays": [
-              2
+              4
             ],
             "fromTime": "18:00",
             "toTime": "18:50"
@@ -38205,7 +38205,7 @@
         "section": "T16",
         "number": "4158",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 24,
+        "quota": 22,
         "enroll": 22,
         "waitlist": 0,
         "consent": false,
@@ -38281,7 +38281,7 @@
         "section": "T18",
         "number": "4160",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 21,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -38319,7 +38319,7 @@
         "section": "T19",
         "number": "4161",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 21,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -56265,58 +56265,6 @@
             "toTime": "10:20"
           }
         ]
-      },
-      {
-        "section": "T02",
-        "number": "2985",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2128C, Lift 19 (28)",
-            "fromDate": "2024-09-02",
-            "toDate": "2024-11-30",
-            "weekdays": [
-              2,
-              4
-            ],
-            "fromTime": "10:30",
-            "toTime": "11:50"
-          }
-        ]
-      },
-      {
-        "section": "T03",
-        "number": "2986",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2130A, Lift 19 (28)",
-            "fromDate": "2024-09-02",
-            "toDate": "2024-11-30",
-            "weekdays": [
-              1,
-              3
-            ],
-            "fromTime": "10:30",
-            "toTime": "11:50"
-          }
-        ]
       }
     ]
   },
@@ -59983,6 +59931,58 @@
             ],
             "fromTime": "09:00",
             "toTime": "10:20"
+          }
+        ]
+      },
+      {
+        "section": "T85",
+        "number": "4330",
+        "remarks": " ",
+        "quota": 21,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 2128C, Lift 19 (28)",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [
+              2,
+              4
+            ],
+            "fromTime": "10:30",
+            "toTime": "11:50"
+          }
+        ]
+      },
+      {
+        "section": "T86",
+        "number": "4331",
+        "remarks": " ",
+        "quota": 21,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 2130A, Lift 19 (28)",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [
+              1,
+              3
+            ],
+            "fromTime": "10:30",
+            "toTime": "11:50"
           }
         ]
       }
@@ -71854,15 +71854,15 @@
         "section": "L1",
         "number": "1447",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(MARK) students only\n> Add/Drop Deadline : 04-Nov-2024",
-        "quota": 55,
-        "enroll": 50,
+        "quota": 54,
+        "enroll": 51,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
-            "quota": 55,
-            "enroll": 50
+            "quota": 54,
+            "enroll": 51
           }
         ],
         "schedule": [
@@ -71898,14 +71898,14 @@
         "section": "L2",
         "number": "1450",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(MARK) students only\n> Add/Drop Deadline : 04-Nov-2024",
-        "quota": 55,
+        "quota": 54,
         "enroll": 54,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
-            "quota": 55,
+            "quota": 54,
             "enroll": 54
           }
         ],
@@ -72007,14 +72007,14 @@
         "section": "L1",
         "number": "1449",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 04-Nov-2024",
-        "quota": 55,
+        "quota": 54,
         "enroll": 54,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
-            "quota": 55,
+            "quota": 54,
             "enroll": 54
           }
         ],
@@ -72124,15 +72124,15 @@
         "section": "L1",
         "number": "1432",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 02-Sep-2024",
-        "quota": 55,
-        "enroll": 50,
+        "quota": 54,
+        "enroll": 51,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
-            "quota": 55,
-            "enroll": 50
+            "quota": 54,
+            "enroll": 51
           }
         ],
         "schedule": [
@@ -72194,14 +72194,14 @@
         "section": "L2",
         "number": "1433",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 02-Sep-2024",
-        "quota": 55,
+        "quota": 54,
         "enroll": 54,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
-            "quota": 55,
+            "quota": 54,
             "enroll": 54
           }
         ],
@@ -72350,14 +72350,14 @@
         "section": "L1",
         "number": "1439",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 02-Sep-2024",
-        "quota": 55,
+        "quota": 54,
         "enroll": 54,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
-            "quota": 55,
+            "quota": 54,
             "enroll": 54
           }
         ],
@@ -72381,15 +72381,15 @@
         "section": "L2",
         "number": "1438",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 02-Sep-2024",
-        "quota": 55,
-        "enroll": 50,
+        "quota": 54,
+        "enroll": 51,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
-            "quota": 55,
-            "enroll": 50
+            "quota": 54,
+            "enroll": 51
           }
         ],
         "schedule": [
@@ -72467,15 +72467,15 @@
         "section": "L1",
         "number": "1434",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 02-Sep-2024",
-        "quota": 55,
-        "enroll": 48,
+        "quota": 54,
+        "enroll": 49,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
-            "quota": 55,
-            "enroll": 48
+            "quota": 54,
+            "enroll": 49
           }
         ],
         "schedule": [
@@ -72537,14 +72537,14 @@
         "section": "L2",
         "number": "1435",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 02-Sep-2024",
-        "quota": 55,
+        "quota": 54,
         "enroll": 54,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
-            "quota": 55,
+            "quota": 54,
             "enroll": 54
           }
         ],
@@ -72623,7 +72623,7 @@
         "section": "L1",
         "number": "1437",
         "remarks": "> For FT-MBA; PT-MBA; MBA Exchange and MSc(MARK) students only\n> Add/Drop Deadline : 02-Sep-2024",
-        "quota": 60,
+        "quota": 59,
         "enroll": 50,
         "waitlist": 0,
         "consent": false,
@@ -72635,7 +72635,7 @@
           },
           {
             "name": "MARK",
-            "quota": 49,
+            "quota": 48,
             "enroll": 47
           },
           {
@@ -72685,14 +72685,14 @@
         "section": "L1",
         "number": "1445",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 04-Nov-2024",
-        "quota": 65,
+        "quota": 63,
         "enroll": 61,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
-            "quota": 65,
+            "quota": 63,
             "enroll": 61
           }
         ],
@@ -72784,14 +72784,14 @@
         "section": "L1",
         "number": "1431",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 02-Sep-2024",
-        "quota": 50,
+        "quota": 48,
         "enroll": 48,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
-            "quota": 50,
+            "quota": 48,
             "enroll": 48
           }
         ],
@@ -72926,7 +72926,7 @@
         "section": "L1",
         "number": "1446",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 04-Nov-2024",
-        "quota": 65,
+        "quota": 64,
         "enroll": 52,
         "waitlist": 0,
         "consent": false,
@@ -72938,7 +72938,7 @@
           },
           {
             "name": "MARK",
-            "quota": 60,
+            "quota": 59,
             "enroll": 50
           },
           {
