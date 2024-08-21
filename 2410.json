@@ -29337,8 +29337,8 @@
         "section": "R1",
         "number": "2406",
         "remarks": "> The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
-        "quota": 147,
-        "enroll": 147,
+        "quota": 148,
+        "enroll": 148,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -35184,7 +35184,7 @@
         "reservedQuota": [
           {
             "name": "FINA",
-            "quota": 65,
+            "quota": 41,
             "enroll": 0
           }
         ],
@@ -39072,7 +39072,7 @@
         "number": "4051",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 200,
-        "enroll": 172,
+        "enroll": 171,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -48032,12 +48032,12 @@
         "reservedQuota": [
           {
             "name": "ENVR",
-            "quota": 1,
+            "quota": 2,
             "enroll": 0
           },
           {
             "name": "SBM",
-            "quota": 60,
+            "quota": 59,
             "enroll": 0
           }
         ],
@@ -49139,17 +49139,17 @@
         "reservedQuota": [
           {
             "name": "BIBU",
-            "quota": 39,
+            "quota": 11,
             "enroll": 0
           },
           {
             "name": "ENVR",
-            "quota": 30,
+            "quota": 15,
             "enroll": 0
           },
           {
             "name": "SBM",
-            "quota": 11,
+            "quota": 54,
             "enroll": 0
           }
         ],
@@ -50748,7 +50748,7 @@
           },
           {
             "name": "IS",
-            "quota": 20,
+            "quota": 18,
             "enroll": 0
           },
           {
@@ -50758,7 +50758,7 @@
           },
           {
             "name": "RMBI",
-            "quota": 10,
+            "quota": 12,
             "enroll": 0
           }
         ],
@@ -50795,7 +50795,7 @@
           },
           {
             "name": "IS",
-            "quota": 22,
+            "quota": 18,
             "enroll": 0
           },
           {
@@ -50805,7 +50805,7 @@
           },
           {
             "name": "RMBI",
-            "quota": 8,
+            "quota": 12,
             "enroll": 0
           }
         ],
@@ -51156,7 +51156,12 @@
         "reservedQuota": [
           {
             "name": "OM",
-            "quota": 40,
+            "quota": 37,
+            "enroll": 0
+          },
+          {
+            "name": "RMBI",
+            "quota": 3,
             "enroll": 0
           }
         ],
@@ -51188,7 +51193,12 @@
         "reservedQuota": [
           {
             "name": "OM",
-            "quota": 40,
+            "quota": 37,
+            "enroll": 0
+          },
+          {
+            "name": "RMBI",
+            "quota": 3,
             "enroll": 0
           }
         ],
@@ -53154,7 +53164,7 @@
         "number": "1347",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 74,
-        "enroll": 73,
+        "enroll": 74,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -53203,7 +53213,7 @@
         "number": "1364",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 70,
-        "enroll": 67,
+        "enroll": 66,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -70809,8 +70819,13 @@
         "consent": false,
         "reservedQuota": [
           {
+            "name": "BIBU",
+            "quota": 2,
+            "enroll": 0
+          },
+          {
             "name": "SBM",
-            "quota": 60,
+            "quota": 58,
             "enroll": 0
           }
         ],
@@ -70841,8 +70856,13 @@
         "consent": false,
         "reservedQuota": [
           {
+            "name": "BIBU",
+            "quota": 3,
+            "enroll": 0
+          },
+          {
             "name": "SBM",
-            "quota": 60,
+            "quota": 57,
             "enroll": 1
           }
         ],
@@ -70905,8 +70925,13 @@
         "consent": false,
         "reservedQuota": [
           {
+            "name": "BIBU",
+            "quota": 4,
+            "enroll": 0
+          },
+          {
             "name": "SBM",
-            "quota": 60,
+            "quota": 56,
             "enroll": 0
           }
         ],
@@ -70969,8 +70994,13 @@
         "consent": false,
         "reservedQuota": [
           {
+            "name": "BIBU",
+            "quota": 15,
+            "enroll": 0
+          },
+          {
             "name": "SBM",
-            "quota": 60,
+            "quota": 45,
             "enroll": 1
           }
         ],
@@ -72008,14 +72038,14 @@
         "number": "1449",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 54,
-        "enroll": 54,
+        "enroll": 53,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
             "quota": 54,
-            "enroll": 54
+            "enroll": 53
           }
         ],
         "schedule": [
@@ -72195,14 +72225,14 @@
         "number": "1433",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 54,
-        "enroll": 54,
+        "enroll": 53,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
             "quota": 54,
-            "enroll": 54
+            "enroll": 53
           }
         ],
         "schedule": [
@@ -72351,14 +72381,14 @@
         "number": "1439",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 54,
-        "enroll": 54,
+        "enroll": 53,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
             "quota": 54,
-            "enroll": 54
+            "enroll": 53
           }
         ],
         "schedule": [
@@ -72844,7 +72874,7 @@
         "section": "L1",
         "number": "1440",
         "remarks": "> For MPhil(MARK) and PhD(MARK) students only",
-        "quota": 20,
+        "quota": 18,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
