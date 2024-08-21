@@ -16643,7 +16643,7 @@
         "section": "T1",
         "number": "2210",
         "remarks": " ",
-        "quota": 535,
+        "quota": 536,
         "enroll": 535,
         "waitlist": 0,
         "consent": false,
@@ -16668,8 +16668,8 @@
         "section": "T2",
         "number": "2211",
         "remarks": " ",
-        "quota": 97,
-        "enroll": 97,
+        "quota": 96,
+        "enroll": 96,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -17317,6 +17317,84 @@
             ],
             "fromTime": "16:00",
             "toTime": "16:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "COMP",
+    "number": "6921M",
+    "code": "COMP6921M",
+    "name": "Research Project",
+    "description": "An independent research project carried out under the supervision of a faculty member. This course is only available for exchange, visiting and visiting internship students.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4327",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "QU, Huamin"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "COMP",
+    "number": "6922C",
+    "code": "COMP6922C",
+    "name": "Research Project",
+    "description": "An independent research project carried out under the supervision of a faculty member. This course is only available for exchange, visiting and visiting internship students.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4328",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CHEN, Hao"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -18295,7 +18373,7 @@
         "number": "1655",
         "remarks": " ",
         "quota": 40,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -26892,7 +26970,7 @@
         "number": "2309",
         "remarks": " ",
         "quota": 333,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -52308,14 +52386,14 @@
         "number": "1317",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 68,
-        "enroll": 56,
+        "enroll": 59,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 68,
-            "enroll": 56
+            "enroll": 59
           }
         ],
         "schedule": [
@@ -52352,14 +52430,14 @@
         "number": "1319",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 68,
-        "enroll": 59,
+        "enroll": 61,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 68,
-            "enroll": 59
+            "enroll": 61
           }
         ],
         "schedule": [
@@ -52793,14 +52871,14 @@
         "number": "1338",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 68,
-        "enroll": 56,
+        "enroll": 60,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 68,
-            "enroll": 56
+            "enroll": 60
           }
         ],
         "schedule": [
@@ -52837,14 +52915,14 @@
         "number": "1339",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 68,
-        "enroll": 60,
+        "enroll": 61,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 68,
-            "enroll": 60
+            "enroll": 61
           }
         ],
         "schedule": [
@@ -53541,14 +53619,14 @@
         "number": "1323",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(BA) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 68,
-        "enroll": 57,
+        "enroll": 61,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 68,
-            "enroll": 57
+            "enroll": 61
           }
         ],
         "schedule": [
@@ -53598,14 +53676,14 @@
         "number": "1331",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(BA) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 68,
-        "enroll": 60,
+        "enroll": 61,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 68,
-            "enroll": 60
+            "enroll": 61
           }
         ],
         "schedule": [
@@ -53921,14 +53999,14 @@
         "number": "1354",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 68,
-        "enroll": 59,
+        "enroll": 61,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 68,
-            "enroll": 59
+            "enroll": 61
           }
         ],
         "schedule": [
@@ -53965,14 +54043,14 @@
         "number": "1365",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 68,
-        "enroll": 59,
+        "enroll": 62,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 68,
-            "enroll": 59
+            "enroll": 62
           }
         ],
         "schedule": [
@@ -54012,14 +54090,14 @@
         "number": "1326",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 68,
-        "enroll": 57,
+        "enroll": 61,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 68,
-            "enroll": 57
+            "enroll": 61
           }
         ],
         "schedule": [
@@ -54043,14 +54121,14 @@
         "number": "1332",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 68,
-        "enroll": 59,
+        "enroll": 60,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 68,
-            "enroll": 59
+            "enroll": 60
           }
         ],
         "schedule": [
@@ -54103,14 +54181,14 @@
         "number": "1361",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 45,
-        "enroll": 37,
+        "enroll": 39,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 45,
-            "enroll": 37
+            "enroll": 39
           }
         ],
         "schedule": [
@@ -54147,14 +54225,14 @@
         "number": "1360",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 47,
-        "enroll": 40,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 47,
-            "enroll": 38
+            "enroll": 39
           }
         ],
         "schedule": [
@@ -54264,14 +54342,14 @@
         "number": "1348",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 50,
-        "enroll": 42,
+        "enroll": 43,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 50,
-            "enroll": 42
+            "enroll": 43
           }
         ],
         "schedule": [
@@ -54308,14 +54386,14 @@
         "number": "1358",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 50,
-        "enroll": 44,
+        "enroll": 46,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 50,
-            "enroll": 44
+            "enroll": 46
           }
         ],
         "schedule": [
@@ -54723,14 +54801,14 @@
         "number": "1309",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 68,
-        "enroll": 56,
+        "enroll": 59,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 68,
-            "enroll": 56
+            "enroll": 59
           }
         ],
         "schedule": [
@@ -54767,14 +54845,14 @@
         "number": "1310",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 68,
-        "enroll": 58,
+        "enroll": 60,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 68,
-            "enroll": 58
+            "enroll": 60
           }
         ],
         "schedule": [
@@ -54941,14 +55019,14 @@
         "number": "1346",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 04-Nov-2024\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central",
         "quota": 50,
-        "enroll": 47,
+        "enroll": 49,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 50,
-            "enroll": 47
+            "enroll": 49
           }
         ],
         "schedule": [
