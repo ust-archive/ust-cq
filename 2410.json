@@ -2209,8 +2209,8 @@
         "number": "1011",
         "remarks": "> For FT-MBA; PT-MBA; MBA Exchange; Digital MBA and Bi-weekly MBA Year 2 or above students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 62,
-        "enroll": 23,
-        "waitlist": 16,
+        "enroll": 24,
+        "waitlist": 15,
         "consent": false,
         "reservedQuota": [
           {
@@ -2221,7 +2221,7 @@
           {
             "name": "MBA",
             "quota": 15,
-            "enroll": 14
+            "enroll": 15
           },
           {
             "name": "MBA Bi-weekly",
@@ -2342,8 +2342,8 @@
         "number": "1022",
         "remarks": "> For FT-MBA; PT-MBA; MBA Exchange and Bi-weekly MBA Year 2 or above students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 55,
-        "enroll": 13,
-        "waitlist": 6,
+        "enroll": 14,
+        "waitlist": 5,
         "consent": false,
         "reservedQuota": [
           {
@@ -2354,7 +2354,7 @@
           {
             "name": "MBA",
             "quota": 5,
-            "enroll": 4
+            "enroll": 5
           },
           {
             "name": "MBA Bi-weekly",
@@ -4235,47 +4235,6 @@
             ],
             "fromTime": "15:00",
             "toTime": "16:20"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "RPG",
-    "subject": "BIEN",
-    "number": "6910A",
-    "code": "BIEN6910A",
-    "name": "Bioengineering Colloquia",
-    "description": "Bioengineering Colloquia is a seminar course that brings prominent researchers in the field of bioengineering to share their research with BIEN colleagues and students. The course aims to provide a platform for discussions and exchange of ideas on the lates advancements in the field of bioengineering. Students will have the opportunity to engage with the speakers and ask questions, fostering a deeper understanding of the research presented. The course will cover a broad range of topics, including chemical engineering, biotechnology, material sciences, synthetic biology and more. Grade P or F.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 1,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "L1",
-        "number": "1061",
-        "remarks": " ",
-        "quota": 60,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 4502, Lift 25-26 (60)",
-            "fromDate": "2024-09-02",
-            "toDate": "2024-11-30",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "16:30",
-            "toTime": "17:20"
           }
         ]
       }
@@ -6596,47 +6555,6 @@
             ],
             "fromTime": "09:00",
             "toTime": "11:50"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "RPG",
-    "subject": "CENG",
-    "number": "6000O",
-    "code": "CENG6000O",
-    "name": "Chemical and Biological Engineering Colloquia",
-    "description": "Chemical and Biological Engineering Colloquia is a seminar course that brings prominent researchers in the field of chemical and biological engineering to share their research with CBE colleagues and students. The course aims to provide a platform for discussions and exchange of ideas on the lates advancements in the field of chemical and biological engineering. Students will have the opportunity to engage with the speakers and ask questions, fostering a deeper understanding of the research presented. The course will cover a broad range of topics, including chemical engineering, biotechnology, materials science, synthetic biology, and more. Grade P or F.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 1,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "L1",
-        "number": "1070",
-        "remarks": " ",
-        "quota": 100,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Lecture Theater D (216)",
-            "fromDate": "2024-09-02",
-            "toDate": "2024-11-30",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "16:30",
-            "toTime": "17:20"
           }
         ]
       }
@@ -19236,7 +19154,7 @@
         "section": "L1",
         "number": "4286",
         "remarks": "> For DBA students only\n> Class Duration : 27-Sep-2024 to 28-Sep-2024 and 26-Oct-2024 to 27-Oct-2024\n> Add/Drop Deadline : 27-Sep-2024",
-        "quota": 8,
+        "quota": 9,
         "enroll": 9,
         "waitlist": 0,
         "consent": false,
@@ -23231,7 +23149,7 @@
         "remarks": "> For FT-MBA; PT-MBA; MBA Exchange; Bi-weekly MBA and Digital MBA students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 62,
         "enroll": 57,
-        "waitlist": 2,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [
           {
@@ -32173,8 +32091,8 @@
         "section": "T1",
         "number": "1665",
         "remarks": " ",
-        "quota": 984,
-        "enroll": 984,
+        "quota": 989,
+        "enroll": 989,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -33452,6 +33370,47 @@
             ],
             "fromTime": "19:00",
             "toTime": "21:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "ENVR",
+    "number": "6090H",
+    "code": "ENVR6090H",
+    "name": "Social Sustainability: Risk and Challenges",
+    "description": "Social sustainability is the least defined and least understood of the different ways of approaching sustainability. Nevertheless, reflecting on countries or regions where internal conflicts are fierce, it is clear that environmental or economic sustainability would be difficult without social stability or sustainability. In this course, referencing the Sustainable Development Goals (SDG) championed by the United Nations, we shall examine the challenges regarding social sustainability. This course shall first provide a review of the SDGs, highlighting the SDGs related to social sustainability and using them to discuss how their progress is measured and improved in various counties. The course shall also discuss existing and emerging challenges to social sustainability and the risks and impacts when countries fail to improve upon these goals. Case studies and quantitative analyses will be used as much as possible.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4338",
+        "remarks": "> For MPhil/PhD (ESPM) and MSc/PGD (EVSM) students only",
+        "quota": 40,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 6602, Lift 31-32 (60)",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "14:00",
+            "toTime": "16:50"
           }
         ]
       }
@@ -39021,7 +38980,7 @@
         "number": "4084",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 600,
-        "enroll": 560,
+        "enroll": 561,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -39094,7 +39053,7 @@
         "number": "4050",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 200,
-        "enroll": 191,
+        "enroll": 190,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -49237,14 +49196,14 @@
         "section": "L1",
         "number": "2951",
         "remarks": "> Add/Drop Deadline : 09-Sep-2024",
-        "quota": 100,
+        "quota": 90,
         "enroll": 82,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
-            "quota": 100,
+            "quota": 90,
             "enroll": 82
           }
         ],
@@ -49268,14 +49227,14 @@
         "section": "L2",
         "number": "2953",
         "remarks": "> Add/Drop Deadline : 09-Sep-2024",
-        "quota": 100,
+        "quota": 90,
         "enroll": 83,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
-            "quota": 100,
+            "quota": 90,
             "enroll": 83
           }
         ],
@@ -49299,14 +49258,14 @@
         "section": "L3",
         "number": "2955",
         "remarks": "> Add/Drop Deadline : 09-Sep-2024",
-        "quota": 100,
+        "quota": 90,
         "enroll": 82,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
-            "quota": 100,
+            "quota": 90,
             "enroll": 82
           }
         ],
@@ -49330,14 +49289,14 @@
         "section": "L4",
         "number": "2957",
         "remarks": "> Add/Drop Deadline : 09-Sep-2024",
-        "quota": 100,
+        "quota": 90,
         "enroll": 83,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
-            "quota": 100,
+            "quota": 90,
             "enroll": 83
           }
         ],
@@ -49361,14 +49320,14 @@
         "section": "L5",
         "number": "2959",
         "remarks": "> Add/Drop Deadline : 09-Sep-2024",
-        "quota": 100,
+        "quota": 90,
         "enroll": 82,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
-            "quota": 100,
+            "quota": 90,
             "enroll": 82
           }
         ],
@@ -49392,14 +49351,14 @@
         "section": "L6",
         "number": "2961",
         "remarks": "> Add/Drop Deadline : 09-Sep-2024",
-        "quota": 94,
+        "quota": 85,
         "enroll": 77,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
-            "quota": 94,
+            "quota": 85,
             "enroll": 77
           }
         ],
@@ -49423,7 +49382,7 @@
         "section": "LA1",
         "number": "2963",
         "remarks": " ",
-        "quota": 65,
+        "quota": 60,
         "enroll": 55,
         "waitlist": 0,
         "consent": false,
@@ -49448,7 +49407,7 @@
         "section": "LA2",
         "number": "2965",
         "remarks": " ",
-        "quota": 65,
+        "quota": 60,
         "enroll": 55,
         "waitlist": 0,
         "consent": false,
@@ -49473,7 +49432,7 @@
         "section": "LA3",
         "number": "2966",
         "remarks": " ",
-        "quota": 70,
+        "quota": 60,
         "enroll": 55,
         "waitlist": 0,
         "consent": false,
@@ -49498,7 +49457,7 @@
         "section": "LA4",
         "number": "2967",
         "remarks": " ",
-        "quota": 70,
+        "quota": 60,
         "enroll": 55,
         "waitlist": 0,
         "consent": false,
@@ -49523,7 +49482,7 @@
         "section": "LA5",
         "number": "2968",
         "remarks": " ",
-        "quota": 65,
+        "quota": 60,
         "enroll": 55,
         "waitlist": 0,
         "consent": false,
@@ -49548,7 +49507,7 @@
         "section": "LA6",
         "number": "2969",
         "remarks": " ",
-        "quota": 65,
+        "quota": 60,
         "enroll": 55,
         "waitlist": 0,
         "consent": false,
@@ -49573,7 +49532,7 @@
         "section": "LA7",
         "number": "2970",
         "remarks": " ",
-        "quota": 65,
+        "quota": 55,
         "enroll": 51,
         "waitlist": 0,
         "consent": false,
@@ -49598,7 +49557,7 @@
         "section": "LA8",
         "number": "2971",
         "remarks": " ",
-        "quota": 65,
+        "quota": 60,
         "enroll": 55,
         "waitlist": 0,
         "consent": false,
@@ -49623,7 +49582,7 @@
         "section": "LA9",
         "number": "2972",
         "remarks": " ",
-        "quota": 65,
+        "quota": 60,
         "enroll": 53,
         "waitlist": 0,
         "consent": false,
@@ -53165,7 +53124,7 @@
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 70,
         "enroll": 70,
-        "waitlist": 15,
+        "waitlist": 16,
         "consent": false,
         "reservedQuota": [
           {
@@ -53595,7 +53554,7 @@
         "remarks": "> The class is delivered in a real-time online mode\n> For FT-MBA; PT-MBA; MBA Exchange; Bi-weekly MBA and Digital MBA Year 2 students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 50,
         "enroll": 29,
-        "waitlist": 18,
+        "waitlist": 19,
         "consent": false,
         "reservedQuota": [
           {
@@ -71073,14 +71032,14 @@
         "number": "3379",
         "remarks": " ",
         "quota": 60,
-        "enroll": 50,
+        "enroll": 49,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
             "quota": 60,
-            "enroll": 50
+            "enroll": 49
           }
         ],
         "schedule": [
@@ -72132,7 +72091,7 @@
         "number": "1452",
         "remarks": "> For FT-MBA; PT-MBA; MBA Exchange, Bi-weekly MBA and Digital MBA  students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 49,
-        "enroll": 29,
+        "enroll": 28,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -72144,7 +72103,7 @@
           {
             "name": "MBA",
             "quota": 45,
-            "enroll": 28
+            "enroll": 27
           },
           {
             "name": "MBA Bi-weekly",
@@ -72701,8 +72660,8 @@
         "number": "1437",
         "remarks": "> For FT-MBA; PT-MBA; MBA Exchange and MSc(MARK) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 59,
-        "enroll": 52,
-        "waitlist": 0,
+        "enroll": 51,
+        "waitlist": 1,
         "consent": false,
         "reservedQuota": [
           {
@@ -72713,7 +72672,7 @@
           {
             "name": "MARK",
             "quota": 48,
-            "enroll": 48
+            "enroll": 47
           },
           {
             "name": "MBA",
@@ -72764,7 +72723,7 @@
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 63,
         "enroll": 63,
-        "waitlist": 2,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [
           {
@@ -72863,7 +72822,7 @@
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 48,
         "enroll": 48,
-        "waitlist": 16,
+        "waitlist": 17,
         "consent": false,
         "reservedQuota": [
           {
@@ -73005,7 +72964,7 @@
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 64,
         "enroll": 61,
-        "waitlist": 1,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [
           {
@@ -75760,7 +75719,7 @@
         "number": "3537",
         "remarks": " ",
         "quota": 121,
-        "enroll": 121,
+        "enroll": 120,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -75798,7 +75757,7 @@
         "number": "3539",
         "remarks": " ",
         "quota": 40,
-        "enroll": 40,
+        "enroll": 39,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -78775,7 +78734,7 @@
             "instructors": [
               "CHANG, Huai-Liang"
             ],
-            "venue": "LG5202, Lift 10-12 (98)",
+            "venue": "Rm 6591, Lift 31-32 (88)",
             "fromDate": "2024-09-02",
             "toDate": "2024-11-30",
             "weekdays": [
@@ -81069,7 +81028,7 @@
         "number": "1481",
         "remarks": " ",
         "quota": 50,
-        "enroll": 44,
+        "enroll": 45,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -83788,7 +83747,7 @@
         "number": "1500",
         "remarks": " ",
         "quota": 200,
-        "enroll": 176,
+        "enroll": 178,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -85756,7 +85715,7 @@
         "number": "3795",
         "remarks": " ",
         "quota": 65,
-        "enroll": 46,
+        "enroll": 45,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -94519,7 +94478,7 @@
         "number": "3913",
         "remarks": " ",
         "quota": 22,
-        "enroll": 22,
+        "enroll": 21,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -94644,7 +94603,7 @@
         "number": "3918",
         "remarks": " ",
         "quota": 20,
-        "enroll": 20,
+        "enroll": 19,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -94669,7 +94628,7 @@
         "number": "3919",
         "remarks": " ",
         "quota": 144,
-        "enroll": 126,
+        "enroll": 124,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -94910,7 +94869,7 @@
         "number": "3931",
         "remarks": " ",
         "quota": 80,
-        "enroll": 60,
+        "enroll": 59,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -94936,7 +94895,7 @@
         "number": "3932",
         "remarks": " ",
         "quota": 80,
-        "enroll": 60,
+        "enroll": 59,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -98298,7 +98257,7 @@
             "instructors": [
               "SHARIF, Naubahar"
             ],
-            "venue": "Rm 4504, Lift 25-26 (54)",
+            "venue": "Rm 6591, Lift 31-32 (88)",
             "fromDate": "2024-09-02",
             "toDate": "2024-11-30",
             "weekdays": [
@@ -104173,8 +104132,8 @@
         "section": "T1",
         "number": "2759",
         "remarks": " ",
-        "quota": 30,
-        "enroll": 30,
+        "quota": 31,
+        "enroll": 31,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
