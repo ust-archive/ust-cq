@@ -619,14 +619,14 @@
         "number": "1042",
         "remarks": "> The class is delivered in a blended learning mode",
         "quota": 75,
-        "enroll": 50,
+        "enroll": 49,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 75,
-            "enroll": 50
+            "enroll": 49
           }
         ],
         "schedule": [
@@ -853,14 +853,14 @@
         "number": "1056",
         "remarks": "> Class Duration/Dates: 11-Sep-2024 to 16-Oct-2024",
         "quota": 200,
-        "enroll": 150,
+        "enroll": 149,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 200,
-            "enroll": 150
+            "enroll": 149
           }
         ],
         "schedule": [
@@ -1736,14 +1736,14 @@
         "number": "1020",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(ACCT) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 65,
-        "enroll": 56,
+        "enroll": 55,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 56
+            "enroll": 55
           }
         ],
         "schedule": [
@@ -1767,14 +1767,14 @@
         "number": "1019",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(ACCT) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 65,
-        "enroll": 56,
+        "enroll": 57,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 56
+            "enroll": 57
           }
         ],
         "schedule": [
@@ -1949,14 +1949,14 @@
         "number": "1001",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 65,
-        "enroll": 42,
+        "enroll": 43,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 42
+            "enroll": 43
           }
         ],
         "schedule": [
@@ -1993,14 +1993,14 @@
         "number": "1002",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 65,
-        "enroll": 57,
+        "enroll": 56,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 57
+            "enroll": 56
           }
         ],
         "schedule": [
@@ -2071,14 +2071,14 @@
         "number": "4326",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 65,
-        "enroll": 32,
+        "enroll": 31,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 32
+            "enroll": 31
           }
         ],
         "schedule": [
@@ -2162,14 +2162,14 @@
         "number": "1006",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 65,
-        "enroll": 24,
+        "enroll": 23,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 24
+            "enroll": 23
           }
         ],
         "schedule": [
@@ -2343,7 +2343,7 @@
         "remarks": "> For FT-MBA; PT-MBA; MBA Exchange and Bi-weekly MBA Year 2 or above students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 55,
         "enroll": 14,
-        "waitlist": 5,
+        "waitlist": 6,
         "consent": false,
         "reservedQuota": [
           {
@@ -4235,6 +4235,47 @@
             ],
             "fromTime": "15:00",
             "toTime": "16:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "BIEN",
+    "number": "6910B",
+    "code": "BIEN6910B",
+    "name": "Bioengineering and Synthetic Biology Colloquia",
+    "description": "The Bioengineering and Synthetic Biology Colloquia showcases groundbreaking research in the field of bioengineering and synthetic biology. This program invites leading researchers to interact with BIEN faculty, staff, and students, sharing their latest findings and insights. The primary goal is to establish a vibrant forum where participants can delve into the most recent advances in the field, fostering collaboration. The curriculum spans a comprehensive range of topics, including biological engineering, biotechnology, synthetic biology, and so on. Grade P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4340",
+        "remarks": " ",
+        "quota": 60,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 4502, Lift 25-26 (60)",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "16:30",
+            "toTime": "17:20"
           }
         ]
       }
@@ -6563,6 +6604,47 @@
   {
     "career": "RPG",
     "subject": "CENG",
+    "number": "6000P",
+    "code": "CENG6000P",
+    "name": "Chemical and Biomolecular Engineering Colloquia",
+    "description": "The Chemical and Biomolecular Engineering Colloquia invites distinguished researchers from chemical and biomolecular engineering to present their groundbreaking work, offering CBE faculty, staff, and students a unique opportunity to delve into the latest advancements in the field. The primary objective is to foster an environment conducive to intellectual discourse and idea exchange, encouraging participants to engage in thoughtful discussions and debates. Throughout the course, students will have direct access to these speakers, enabling them to gain a deeper appreciation for the complexities and nuances of the field. The curriculum encompasses a diverse array of topics, spanning chemical engineering, biotechnology, materials science, synthetic biology, and so on. Grade P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4339",
+        "remarks": " ",
+        "quota": 100,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Lecture Theater D (216)",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "16:30",
+            "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "CENG",
     "number": "6800A",
     "code": "CENG6800A",
     "name": "Chemical and Biomolecular Engineering Seminar",
@@ -8493,7 +8575,7 @@
         "number": "1091",
         "remarks": " ",
         "quota": 40,
-        "enroll": 11,
+        "enroll": 12,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -11976,7 +12058,7 @@
         "number": "1113",
         "remarks": " ",
         "quota": 80,
-        "enroll": 19,
+        "enroll": 20,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -12015,7 +12097,7 @@
         "number": "1114",
         "remarks": " ",
         "quota": 140,
-        "enroll": 132,
+        "enroll": 135,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -19595,7 +19677,7 @@
         "number": "3420",
         "remarks": " ",
         "quota": 125,
-        "enroll": 125,
+        "enroll": 124,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -25608,7 +25690,7 @@
         "number": "2242",
         "remarks": "> The class is delivered in a conventional face-to-face mode",
         "quota": 140,
-        "enroll": 129,
+        "enroll": 128,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -25671,7 +25753,7 @@
         "number": "2246",
         "remarks": " ",
         "quota": 47,
-        "enroll": 42,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -25746,7 +25828,7 @@
         "number": "2250",
         "remarks": " ",
         "quota": 70,
-        "enroll": 64,
+        "enroll": 63,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -25787,7 +25869,7 @@
         "number": "2251",
         "remarks": " ",
         "quota": 160,
-        "enroll": 154,
+        "enroll": 153,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -25813,7 +25895,7 @@
         "number": "2253",
         "remarks": " ",
         "quota": 55,
-        "enroll": 54,
+        "enroll": 53,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -25888,7 +25970,7 @@
         "number": "2257",
         "remarks": " ",
         "quota": 80,
-        "enroll": 79,
+        "enroll": 78,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -26263,7 +26345,7 @@
         "number": "2276",
         "remarks": " ",
         "quota": 102,
-        "enroll": 86,
+        "enroll": 84,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -26289,7 +26371,7 @@
         "number": "2278",
         "remarks": " ",
         "quota": 51,
-        "enroll": 38,
+        "enroll": 37,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -26314,7 +26396,7 @@
         "number": "2280",
         "remarks": " ",
         "quota": 51,
-        "enroll": 48,
+        "enroll": 47,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -26339,7 +26421,7 @@
         "number": "2281",
         "remarks": " ",
         "quota": 51,
-        "enroll": 37,
+        "enroll": 36,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -26364,7 +26446,7 @@
         "number": "2283",
         "remarks": " ",
         "quota": 51,
-        "enroll": 49,
+        "enroll": 48,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -30545,14 +30627,14 @@
         "number": "1170",
         "remarks": " ",
         "quota": 170,
-        "enroll": 107,
+        "enroll": 108,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECE",
             "quota": 170,
-            "enroll": 107
+            "enroll": 108
           }
         ],
         "schedule": [
@@ -32217,6 +32299,48 @@
   {
     "career": "UGRD",
     "subject": "ENTR",
+    "number": "4000C",
+    "code": "ENTR4000C",
+    "name": "Tech Startup and Entrepreneur’s Ecosystem: Growth and Innovation",
+    "description": "This course provides hands-on, practical experience in developing and implementing growth strategies for technology startups and innovative digital services in early stages. Focused on the unique challenges of the entrepreneurial and startups’ ecosystem, students will explore cutting-edge business models and frameworks designed to navigate the uncertain and resource-constrained environment that startups face. The course emphasizes experiential learning through case studies, projects, and interactive workshops, interaction with real practitioners including successful and unsuccessful tech entrepreneurs, venture capitalists, and industry experts, ensuring students gain practical skills that can be applied in entrepreneurial ventures. Instructor's approval is required for enrollment in the course.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "GBUS 2030, TEMG 3950",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4341",
+        "remarks": " ",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "PUIG GARRIGO, Coral"
+            ],
+            "venue": "Rm 4504, Lift 25-26 (54)",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [
+              2,
+              4
+            ],
+            "fromTime": "10:30",
+            "toTime": "11:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENTR",
     "number": "4901A",
     "code": "ENTR4901A",
     "name": "Student-led Entrepreneurship Acceleration Project",
@@ -33393,7 +33517,7 @@
         "section": "L1",
         "number": "4338",
         "remarks": "> For MPhil/PhD (ESPM) and MSc/PGD (EVSM) students only",
-        "quota": 40,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -35659,14 +35783,14 @@
         "number": "1241",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(ACCT) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 65,
-        "enroll": 53,
+        "enroll": 52,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 53
+            "enroll": 52
           }
         ],
         "schedule": [
@@ -35690,14 +35814,14 @@
         "number": "1242",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(ACCT) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 65,
-        "enroll": 55,
+        "enroll": 56,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 55
+            "enroll": 56
           }
         ],
         "schedule": [
@@ -35785,7 +35909,7 @@
         "remarks": "> For MSc(FINA); MSc(FA); MSc(IM); FT-MBA; PT-MBA and MBA exchange students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 70,
         "enroll": 66,
-        "waitlist": 1,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [
           {
@@ -37907,8 +38031,8 @@
         "section": "T08",
         "number": "4150",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
-        "enroll": 20,
+        "quota": 21,
+        "enroll": 21,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -37945,8 +38069,8 @@
         "section": "T09",
         "number": "4151",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
-        "enroll": 20,
+        "quota": 21,
+        "enroll": 21,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -37983,8 +38107,8 @@
         "section": "T10",
         "number": "4152",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
-        "enroll": 20,
+        "quota": 21,
+        "enroll": 21,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -38021,8 +38145,8 @@
         "section": "T11",
         "number": "4153",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
-        "enroll": 20,
+        "quota": 21,
+        "enroll": 21,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -38097,8 +38221,8 @@
         "section": "T13",
         "number": "4155",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
-        "enroll": 20,
+        "quota": 21,
+        "enroll": 21,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -38135,8 +38259,8 @@
         "section": "T14",
         "number": "4156",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
-        "enroll": 20,
+        "quota": 21,
+        "enroll": 21,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -38173,8 +38297,8 @@
         "section": "T15",
         "number": "4157",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
-        "enroll": 20,
+        "quota": 21,
+        "enroll": 21,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -39053,7 +39177,7 @@
         "number": "4050",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 200,
-        "enroll": 190,
+        "enroll": 198,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -45639,7 +45763,7 @@
         "number": "2732",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 3; Spring: 3",
         "quota": 36,
-        "enroll": 31,
+        "enroll": 30,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -45959,7 +46083,7 @@
         "number": "1285",
         "remarks": " ",
         "quota": 20,
-        "enroll": 12,
+        "enroll": 14,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -52412,14 +52536,14 @@
         "number": "1330",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 60,
-        "enroll": 50,
+        "enroll": 51,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ISM",
             "quota": 60,
-            "enroll": 50
+            "enroll": 51
           }
         ],
         "schedule": [
@@ -52472,14 +52596,14 @@
         "number": "1317",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 68,
-        "enroll": 62,
+        "enroll": 63,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 68,
-            "enroll": 62
+            "enroll": 63
           }
         ],
         "schedule": [
@@ -52516,14 +52640,14 @@
         "number": "1319",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 68,
-        "enroll": 58,
+        "enroll": 57,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 68,
-            "enroll": 58
+            "enroll": 57
           }
         ],
         "schedule": [
@@ -52563,7 +52687,7 @@
         "number": "1333",
         "remarks": "> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> For FT-MBA; PT-MBA; MBA Exchange; Bi-weekly MBA and Digital MBA students only\n> Add/Drop Deadline : 09-Sep-2024",
         "quota": 60,
-        "enroll": 12,
+        "enroll": 11,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -52575,7 +52699,7 @@
           {
             "name": "MBA",
             "quota": 25,
-            "enroll": 3
+            "enroll": 2
           },
           {
             "name": "MBA Bi-weekly",
@@ -52817,14 +52941,14 @@
         "number": "1325",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 65,
-        "enroll": 36,
+        "enroll": 35,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 36
+            "enroll": 35
           }
         ],
         "schedule": [
@@ -53418,7 +53542,7 @@
         "section": "L1",
         "number": "1327",
         "remarks": "> For FT-MBA; PT-MBA; MBA Exchange; Digital MBA and Bi-weekly MBA students only\n> Add/Drop Deadline : 02-Sep-2024",
-        "quota": 57,
+        "quota": 60,
         "enroll": 11,
         "waitlist": 7,
         "consent": false,
@@ -53435,7 +53559,7 @@
           },
           {
             "name": "MBA",
-            "quota": 5,
+            "quota": 8,
             "enroll": 5
           },
           {
@@ -53706,7 +53830,7 @@
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(BA) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 68,
         "enroll": 68,
-        "waitlist": 0,
+        "waitlist": 1,
         "consent": false,
         "reservedQuota": [
           {
@@ -54177,7 +54301,7 @@
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 68,
         "enroll": 68,
-        "waitlist": 2,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [
           {
@@ -70093,7 +70217,7 @@
         "number": "1427",
         "remarks": " ",
         "quota": 195,
-        "enroll": 150,
+        "enroll": 152,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -72318,7 +72442,7 @@
         "remarks": "> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> For FT-MBA; PT-MBA; MBA Exchange; Bi-weekly MBA and Digital MBA Year 3 or above students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 65,
         "enroll": 24,
-        "waitlist": 15,
+        "waitlist": 16,
         "consent": false,
         "reservedQuota": [
           {
@@ -72660,8 +72784,8 @@
         "number": "1437",
         "remarks": "> For FT-MBA; PT-MBA; MBA Exchange and MSc(MARK) students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 59,
-        "enroll": 51,
-        "waitlist": 1,
+        "enroll": 52,
+        "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
@@ -72672,7 +72796,7 @@
           {
             "name": "MARK",
             "quota": 48,
-            "enroll": 47
+            "enroll": 48
           },
           {
             "name": "MBA",
@@ -72723,7 +72847,7 @@
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 63,
         "enroll": 63,
-        "waitlist": 3,
+        "waitlist": 4,
         "consent": false,
         "reservedQuota": [
           {
@@ -76068,7 +76192,7 @@
         "number": "3556",
         "remarks": " ",
         "quota": 140,
-        "enroll": 122,
+        "enroll": 121,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -76444,7 +76568,7 @@
         "number": "3573",
         "remarks": " ",
         "quota": 35,
-        "enroll": 31,
+        "enroll": 30,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -76910,7 +77034,7 @@
         "number": "3595",
         "remarks": " ",
         "quota": 120,
-        "enroll": 112,
+        "enroll": 111,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -76974,7 +77098,7 @@
         "number": "3599",
         "remarks": " ",
         "quota": 120,
-        "enroll": 111,
+        "enroll": 110,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -77112,7 +77236,7 @@
         "number": "3606",
         "remarks": " ",
         "quota": 40,
-        "enroll": 38,
+        "enroll": 37,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -77262,7 +77386,7 @@
         "number": "3612",
         "remarks": " ",
         "quota": 40,
-        "enroll": 40,
+        "enroll": 39,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -81383,7 +81507,7 @@
         "number": "1489",
         "remarks": " ",
         "quota": 40,
-        "enroll": 27,
+        "enroll": 28,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -83184,7 +83308,7 @@
         "number": "3776",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 3; Spring: 3",
         "quota": 100,
-        "enroll": 99,
+        "enroll": 98,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -87706,7 +87830,7 @@
         "remarks": "> The class is delivered in a real-time online mode\n> For FT-MBA; PT-MBA; MBA Exchange; Bi-weekly MBA and Digital MBA Year 3 or above students only\n> Add/Drop Deadline : 02-Sep-2024",
         "quota": 60,
         "enroll": 32,
-        "waitlist": 3,
+        "waitlist": 4,
         "consent": false,
         "reservedQuota": [
           {
@@ -88062,7 +88186,7 @@
         "number": "1502",
         "remarks": "> The class is delivered in a real-time online mode\n> For FT-MBA; PT-MBA Year 2 or above; MBA Exchange and Digital MBA Year 3 or above students only\n> Add/Drop Deadline : 28-Aug-2024",
         "quota": 40,
-        "enroll": 32,
+        "enroll": 33,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -88074,7 +88198,7 @@
           {
             "name": "MBA",
             "quota": 20,
-            "enroll": 17
+            "enroll": 18
           }
         ],
         "schedule": [
@@ -88538,53 +88662,6 @@
             ],
             "fromTime": "14:00",
             "toTime": "17:20"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "TPG",
-    "subject": "MGMT",
-    "number": "6501I",
-    "code": "MGMT6501I",
-    "name": "Interpersonal Dynamics, Networking and the Art of Influencing Business Leaders",
-    "description": "This is a course about working effectively with clients. Strong analytical skills and business knowledge are foundational to making an impact, but not enough on their own. Influencing others also requires productive working relationships. This course is designed for full-time MBA students who may spend part of their careers in roles where they will advise clients: consultants (including “in-house”), investment bankers, client relationship managers, etc. The lessons can also be applied to a range of other business relationships you will need (with supervisors, colleagues, direct reports, JV partners, etc.). You may also hire advisors in the future. Understanding the principles of effective advisory relationships can help you choose the right advisors and establish productive relationships. The course will primarily focus on the ‘day-to-day’ client relationship practices that will help establish you as a competent professional, a trusted advisor, and an influential change leader. As a secondary benefit, you will gain an appreciation for how high performing professional service firms operate. To maximize your learning, we will identify specific ways you can put these insights to work during internships or your first job after graduation. Graded P or F.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 1,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "L1",
-        "number": "1514",
-        "remarks": "> For FT-MBA and MBA Exchange students only\n> Add/Drop Deadline : 04-Nov-2024",
-        "quota": 40,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MBA",
-            "quota": 40,
-            "enroll": 0
-          }
-        ],
-        "schedule": [
-          {
-            "instructors": [
-              "SHIH, Stephen Lee"
-            ],
-            "venue": "TBA",
-            "fromDate": "2024-10-31",
-            "toDate": "2024-12-01",
-            "weekdays": [
-              4
-            ],
-            "fromTime": "10:30",
-            "toTime": "12:20"
           }
         ]
       }
@@ -91028,7 +91105,7 @@
         "number": "3851",
         "remarks": " ",
         "quota": 175,
-        "enroll": 144,
+        "enroll": 143,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -91497,8 +91574,8 @@
         "section": "R1",
         "number": "4322",
         "remarks": " ",
-        "quota": 1,
-        "enroll": 1,
+        "quota": 2,
+        "enroll": 2,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -93732,7 +93809,7 @@
         "number": "3876",
         "remarks": " ",
         "quota": 150,
-        "enroll": 41,
+        "enroll": 40,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -93758,7 +93835,7 @@
         "number": "3878",
         "remarks": " ",
         "quota": 50,
-        "enroll": 14,
+        "enroll": 13,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -93882,7 +93959,7 @@
         "number": "3884",
         "remarks": " ",
         "quota": 122,
-        "enroll": 122,
+        "enroll": 121,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -94237,7 +94314,7 @@
         "number": "3904",
         "remarks": " ",
         "quota": 42,
-        "enroll": 40,
+        "enroll": 39,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -100012,7 +100089,7 @@
         "number": "1615",
         "remarks": "> Instructor : SUH, Jung\n> For FT-MBA; PT-MBA; MBA Exchange; Bi-weekly MBA and Digital MBA students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 49,
-        "enroll": 13,
+        "enroll": 14,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -100024,7 +100101,7 @@
           {
             "name": "MBA",
             "quota": 45,
-            "enroll": 13
+            "enroll": 14
           },
           {
             "name": "MBA Bi-weekly",
@@ -100094,9 +100171,9 @@
         "section": "L1",
         "number": "1592",
         "remarks": "> For FT-MBA; PT-MBA; MBA Exchange; Bi-weekly MBA and Digital MBA students only\n> Venue from 28-Aug-2024 to 09-Oct-2024 and 20-Sep-2024 : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Venue on 23-Oct-2024 : TBA\n> Add/Drop Deadline : 02-Sep-2024",
-        "quota": 46,
+        "quota": 49,
         "enroll": 41,
-        "waitlist": 1,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [
           {
@@ -100106,7 +100183,7 @@
           },
           {
             "name": "MBA",
-            "quota": 40,
+            "quota": 43,
             "enroll": 40
           },
           {
