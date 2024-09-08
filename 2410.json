@@ -866,7 +866,7 @@
         "remarks": " ",
         "quota": 65,
         "enroll": 65,
-        "waitlist": 3,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -904,7 +904,7 @@
         "remarks": " ",
         "quota": 70,
         "enroll": 70,
-        "waitlist": 6,
+        "waitlist": 5,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -33561,14 +33561,14 @@
         "number": "1201",
         "remarks": " ",
         "quota": 100,
-        "enroll": 100,
+        "enroll": 99,
         "waitlist": 13,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ENVR",
             "quota": 85,
-            "enroll": 84
+            "enroll": 83
           },
           {
             "name": "EVEM",
