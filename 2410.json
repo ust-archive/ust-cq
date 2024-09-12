@@ -10222,7 +10222,7 @@
         "remarks": " ",
         "quota": 35,
         "enroll": 35,
-        "waitlist": 1,
+        "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -10300,7 +10300,7 @@
         "remarks": " ",
         "quota": 87,
         "enroll": 87,
-        "waitlist": 6,
+        "waitlist": 7,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -10679,7 +10679,7 @@
         "remarks": " ",
         "quota": 98,
         "enroll": 98,
-        "waitlist": 1,
+        "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -10705,7 +10705,7 @@
         "remarks": " ",
         "quota": 84,
         "enroll": 75,
-        "waitlist": 3,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -12654,7 +12654,7 @@
         "remarks": "> The class is delivered in a real-time online mode",
         "quota": 148,
         "enroll": 138,
-        "waitlist": 6,
+        "waitlist": 7,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -14407,7 +14407,7 @@
         "remarks": " ",
         "quota": 110,
         "enroll": 108,
-        "waitlist": 4,
+        "waitlist": 5,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -14433,7 +14433,7 @@
         "remarks": " ",
         "quota": 122,
         "enroll": 119,
-        "waitlist": 7,
+        "waitlist": 8,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -14459,7 +14459,7 @@
         "remarks": " ",
         "quota": 123,
         "enroll": 104,
-        "waitlist": 0,
+        "waitlist": 1,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -14943,7 +14943,7 @@
         "remarks": " ",
         "quota": 60,
         "enroll": 60,
-        "waitlist": 8,
+        "waitlist": 9,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -14969,7 +14969,7 @@
         "remarks": " ",
         "quota": 65,
         "enroll": 56,
-        "waitlist": 1,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -26069,7 +26069,7 @@
         "remarks": " ",
         "quota": 70,
         "enroll": 69,
-        "waitlist": 5,
+        "waitlist": 6,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -26094,7 +26094,7 @@
         "remarks": " ",
         "quota": 70,
         "enroll": 64,
-        "waitlist": 4,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -26687,7 +26687,7 @@
         "remarks": " ",
         "quota": 51,
         "enroll": 51,
-        "waitlist": 2,
+        "waitlist": 4,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -27785,7 +27785,7 @@
         "remarks": " ",
         "quota": 40,
         "enroll": 28,
-        "waitlist": 4,
+        "waitlist": 5,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -28119,7 +28119,7 @@
         "remarks": " ",
         "quota": 40,
         "enroll": 40,
-        "waitlist": 1,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -48588,7 +48588,7 @@
         "remarks": " ",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 1,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -65350,6 +65350,32 @@
             "toTime": "16:20"
           }
         ]
+      },
+      {
+        "section": "L02",
+        "number": "4427",
+        "remarks": " ",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 2132C, Lift 19 (28)",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [
+              2,
+              4
+            ],
+            "fromTime": "13:30",
+            "toTime": "14:50"
+          }
+        ]
       }
     ]
   },
@@ -65467,7 +65493,7 @@
         "section": "L01",
         "number": "3282",
         "remarks": " ",
-        "quota": 20,
+        "quota": 40,
         "enroll": 20,
         "waitlist": 36,
         "consent": false,
@@ -65484,7 +65510,7 @@
               2
             ],
             "fromTime": "09:00",
-            "toTime": "10:20"
+            "toTime": "10:30"
           }
         ]
       },
@@ -65507,6 +65533,31 @@
             "toDate": "2024-11-30",
             "weekdays": [
               4
+            ],
+            "fromTime": "15:00",
+            "toTime": "16:20"
+          }
+        ]
+      },
+      {
+        "section": "T02",
+        "number": "4428",
+        "remarks": " ",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 2126A, Lift 19 (28)",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [
+              2
             ],
             "fromTime": "15:00",
             "toTime": "16:20"
@@ -65543,7 +65594,7 @@
             "instructors": [
               "TBA"
             ],
-            "venue": "LG3009, Lift 10-12 (88)",
+            "venue": "TBA",
             "fromDate": "2024-09-02",
             "toDate": "2024-11-30",
             "weekdays": [
@@ -65557,8 +65608,8 @@
       {
         "section": "T01",
         "number": "3285",
-        "remarks": " ",
-        "quota": 20,
+        "remarks": "> Class cancelled",
+        "quota": 0,
         "enroll": 7,
         "waitlist": 0,
         "consent": false,
@@ -65568,7 +65619,7 @@
             "instructors": [
               "TBA"
             ],
-            "venue": "Rm 2126A, Lift 19 (28)",
+            "venue": "TBA",
             "fromDate": "2024-09-02",
             "toDate": "2024-11-30",
             "weekdays": [
@@ -65598,7 +65649,7 @@
       {
         "section": "L01",
         "number": "3286",
-        "remarks": " ",
+        "remarks": "> Venue : Room LG3009, Lift 10-12",
         "quota": 20,
         "enroll": 17,
         "waitlist": 0,
@@ -65609,7 +65660,7 @@
             "instructors": [
               "TBA"
             ],
-            "venue": "LG3009, Lift 10-12 (88)",
+            "venue": "TBA",
             "fromDate": "2024-09-02",
             "toDate": "2024-11-30",
             "weekdays": [
@@ -78286,7 +78337,7 @@
         "remarks": " ",
         "quota": 40,
         "enroll": 40,
-        "waitlist": 12,
+        "waitlist": 11,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -78336,7 +78387,7 @@
         "remarks": " ",
         "quota": 40,
         "enroll": 40,
-        "waitlist": 7,
+        "waitlist": 6,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -79215,7 +79266,7 @@
         "remarks": " ",
         "quota": 30,
         "enroll": 30,
-        "waitlist": 4,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -79240,7 +79291,7 @@
         "remarks": " ",
         "quota": 30,
         "enroll": 30,
-        "waitlist": 1,
+        "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -86728,7 +86779,7 @@
         "number": "3805",
         "remarks": " ",
         "quota": 65,
-        "enroll": 64,
+        "enroll": 65,
         "waitlist": 5,
         "consent": false,
         "reservedQuota": [],
@@ -86853,8 +86904,8 @@
         "number": "3810",
         "remarks": " ",
         "quota": 65,
-        "enroll": 66,
-        "waitlist": 5,
+        "enroll": 65,
+        "waitlist": 6,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -94798,7 +94849,7 @@
         "remarks": " ",
         "quota": 45,
         "enroll": 45,
-        "waitlist": 20,
+        "waitlist": 22,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -94823,7 +94874,7 @@
         "remarks": " ",
         "quota": 45,
         "enroll": 45,
-        "waitlist": 26,
+        "waitlist": 27,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -94848,7 +94899,7 @@
         "remarks": " ",
         "quota": 45,
         "enroll": 45,
-        "waitlist": 14,
+        "waitlist": 15,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -94873,7 +94924,7 @@
         "remarks": " ",
         "quota": 45,
         "enroll": 45,
-        "waitlist": 2,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -95023,7 +95074,7 @@
         "remarks": " ",
         "quota": 45,
         "enroll": 45,
-        "waitlist": 3,
+        "waitlist": 4,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -95073,7 +95124,7 @@
         "remarks": " ",
         "quota": 45,
         "enroll": 45,
-        "waitlist": 1,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
