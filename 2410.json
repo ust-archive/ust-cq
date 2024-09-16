@@ -17108,7 +17108,7 @@
         "number": "1120",
         "remarks": " ",
         "quota": 82,
-        "enroll": 82,
+        "enroll": 81,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -17579,7 +17579,7 @@
         "section": "R1",
         "number": "4425",
         "remarks": " ",
-        "quota": 1,
+        "quota": 2,
         "enroll": 1,
         "waitlist": 0,
         "consent": false,
@@ -25274,14 +25274,14 @@
         "number": "4241",
         "remarks": " ",
         "quota": 90,
-        "enroll": 57,
+        "enroll": 56,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "EESM",
             "quota": 90,
-            "enroll": 57
+            "enroll": 56
           }
         ],
         "schedule": [
@@ -31320,6 +31320,45 @@
             ],
             "fromTime": "18:00",
             "toTime": "19:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "EMIA",
+    "number": "4900B",
+    "code": "EMIA4900B",
+    "name": "Independent Study",
+    "description": "Independent studies or projects under the directed guidance of a faculty member. Course requirements include readings on the relevant topic and a research or survey project specifically defined for the research topic. Credits assigned depend on the workload and may be repeated if different topics are taken. For students with approval from instructor for enrolling in the course. May be graded by letter, P/F or DI/PA/F for different offerings.",
+    "previousCodes": "IIMP4900B",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4436",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -55707,7 +55746,18 @@
         "enroll": 75,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "CIEM",
+            "quota": 7,
+            "enroll": 4
+          },
+          {
+            "name": "EVEM",
+            "quota": 73,
+            "enroll": 64
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -70327,7 +70377,7 @@
         "number": "1458",
         "remarks": "> For MSc(MAED) students only.",
         "quota": 120,
-        "enroll": 45,
+        "enroll": 44,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -72484,32 +72534,6 @@
             ],
             "venue": "G001, LSK Bldg (75)",
             "fromDate": "2024-09-13",
-            "toDate": "2024-09-13",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "14:00",
-            "toTime": "17:20"
-          },
-          {
-            "instructors": [
-              "HELSEN, Kristiaan"
-            ],
-            "venue": "G001, LSK Bldg (75)",
-            "fromDate": "2024-09-20",
-            "toDate": "2024-09-20",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "19:00",
-            "toTime": "22:20"
-          },
-          {
-            "instructors": [
-              "HELSEN, Kristiaan"
-            ],
-            "venue": "G001, LSK Bldg (75)",
-            "fromDate": "2024-09-27",
             "toDate": "2024-10-11",
             "weekdays": [
               5
@@ -81199,7 +81223,7 @@
         "number": "1477",
         "remarks": " ",
         "quota": 60,
-        "enroll": 52,
+        "enroll": 51,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -88438,32 +88462,6 @@
             ],
             "venue": "TBA",
             "fromDate": "2024-10-31",
-            "toDate": "2024-11-28",
-            "weekdays": [
-              4
-            ],
-            "fromTime": "19:00",
-            "toTime": "22:20"
-          },
-          {
-            "instructors": [
-              "WONG, Kin Fai Ellick"
-            ],
-            "venue": "TBA",
-            "fromDate": "2024-11-20",
-            "toDate": "2024-11-20",
-            "weekdays": [
-              3
-            ],
-            "fromTime": "19:00",
-            "toTime": "22:20"
-          },
-          {
-            "instructors": [
-              "WONG, Kin Fai Ellick"
-            ],
-            "venue": "TBA",
-            "fromDate": "2024-12-12",
             "toDate": "2024-12-19",
             "weekdays": [
               4
