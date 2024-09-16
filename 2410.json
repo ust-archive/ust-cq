@@ -17214,14 +17214,14 @@
         "number": "1123",
         "remarks": " ",
         "quota": 75,
-        "enroll": 75,
+        "enroll": 74,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
           {
             "name": "CSE",
             "quota": 40,
-            "enroll": 40
+            "enroll": 39
           }
         ],
         "schedule": [
@@ -19367,7 +19367,7 @@
       {
         "section": "L1",
         "number": "4254",
-        "remarks": "> For DBA students only\n> Add/Drop Deadline : 05-Sep-2024",
+        "remarks": "> For DBA students only\n> Class Duration : 05-Sep-2024 to 06-Sep-2024\n> Add/Drop Deadline : 05-Sep-2024",
         "quota": 10,
         "enroll": 9,
         "waitlist": 0,
@@ -19486,7 +19486,7 @@
       {
         "section": "L1",
         "number": "4303",
-        "remarks": "> For DBA students only\n> Class Duration : 24-Oct-2024 to 25-Oct-2024\n> Add/Drop Deadline : 24-Oct-2024",
+        "remarks": "> For DBA students only\n> Class Duration : 24-Oct-2024 to 25-Oct-2024 and 30-Nov-2024 to 01-Dec-2024\n> Add/Drop Deadline : 24-Oct-2024",
         "quota": 9,
         "enroll": 7,
         "waitlist": 0,
@@ -19499,7 +19499,7 @@
             ],
             "venue": "TBA",
             "fromDate": "2024-10-24",
-            "toDate": "2024-10-25",
+            "toDate": "2024-12-01",
             "weekdays": [],
             "fromTime": null,
             "toTime": null
@@ -26322,7 +26322,7 @@
         "number": "2260",
         "remarks": " ",
         "quota": 114,
-        "enroll": 114,
+        "enroll": 113,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -26398,7 +26398,7 @@
         "number": "2265",
         "remarks": " ",
         "quota": 42,
-        "enroll": 27,
+        "enroll": 26,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -26423,7 +26423,7 @@
         "number": "2266",
         "remarks": " ",
         "quota": 59,
-        "enroll": 49,
+        "enroll": 48,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -29146,7 +29146,7 @@
         "number": "2385",
         "remarks": " ",
         "quota": 30,
-        "enroll": 13,
+        "enroll": 12,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -29171,7 +29171,7 @@
         "number": "2386",
         "remarks": " ",
         "quota": 30,
-        "enroll": 13,
+        "enroll": 12,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -29196,7 +29196,7 @@
         "number": "2387",
         "remarks": " ",
         "quota": 30,
-        "enroll": 13,
+        "enroll": 12,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -29237,7 +29237,7 @@
         "number": "2388",
         "remarks": " ",
         "quota": 45,
-        "enroll": 45,
+        "enroll": 44,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -29263,7 +29263,7 @@
         "number": "2389",
         "remarks": " ",
         "quota": 45,
-        "enroll": 45,
+        "enroll": 44,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -31400,6 +31400,7 @@
         "schedule": [
           {
             "instructors": [
+              "HUI, Pan",
               "ZHANG, Rong"
             ],
             "venue": "TBA",
@@ -70542,7 +70543,7 @@
         "number": "1459",
         "remarks": "> For MSc(MAFM) students only.",
         "quota": 130,
-        "enroll": 78,
+        "enroll": 77,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
