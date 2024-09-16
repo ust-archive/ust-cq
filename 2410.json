@@ -14746,7 +14746,7 @@
             "fromDate": "2024-09-02",
             "toDate": "2024-11-30",
             "weekdays": [
-              2
+              4
             ],
             "fromTime": "14:30",
             "toTime": "16:20"
@@ -14796,7 +14796,7 @@
             "fromDate": "2024-09-02",
             "toDate": "2024-11-30",
             "weekdays": [
-              4
+              2
             ],
             "fromTime": "14:30",
             "toTime": "16:20"
@@ -17705,6 +17705,45 @@
           {
             "instructors": [
               "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "COMP",
+    "number": "6931B",
+    "code": "COMP6931B",
+    "name": "Independent Studies",
+    "description": "An independent research project carried out under the supervision of a faculty member. (Only one independent studies course may be used to satisfy the course requirements for any postgraduate program.)",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4435",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CHEN, Qifeng"
             ],
             "venue": "TBA",
             "fromDate": "2024-09-02",
@@ -65524,72 +65563,6 @@
               "TBA"
             ],
             "venue": "Rm 2126A, Lift 19 (28)",
-            "fromDate": "2024-09-02",
-            "toDate": "2024-11-30",
-            "weekdays": [
-              2
-            ],
-            "fromTime": "15:00",
-            "toTime": "16:20"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "UGRD",
-    "subject": "LANG",
-    "number": "2062G",
-    "code": "LANG2062G",
-    "name": "Professional Speaking for the Workplace",
-    "description": "This course equips students with the language and communication skills and strategies to speak and present professionally in internal and external business settings. It increases student awareness of how speaking and presenting creates change and convinces one to take action. As students explore and analyze spoken genres using language and communication theories, they learn how to shape and adapt their language skills, strategies and communication practices to influence various internal and external audiences including customers, co-workers and supervisors. Students will also develop ways to express themselves in multimodal settings. The course develops in students particularly with soft skills to handle sensitive business situations and incidents including a crisis, and how to communicate interculturally in diverse settings. Students will develop a repertoire of language and communication skills and strategies to meet various workplace needs. For GBUS students only.",
-    "previousCodes": "",
-    "prerequisites": "LANG 1403 OR LANG 1404",
-    "corequisites": "",
-    "exclusions": "LABU 2040, LABU 2060",
-    "credits": 3,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "L01",
-        "number": "3284",
-        "remarks": "> Class cancelled",
-        "quota": 0,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2024-09-02",
-            "toDate": "2024-11-30",
-            "weekdays": [
-              2
-            ],
-            "fromTime": "09:00",
-            "toTime": "10:20"
-          }
-        ]
-      },
-      {
-        "section": "T01",
-        "number": "3285",
-        "remarks": "> Class cancelled",
-        "quota": 0,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
             "fromDate": "2024-09-02",
             "toDate": "2024-11-30",
             "weekdays": [
