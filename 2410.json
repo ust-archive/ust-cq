@@ -31940,7 +31940,7 @@
         "number": "4074",
         "remarks": " ",
         "quota": 900,
-        "enroll": 733,
+        "enroll": 734,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -36754,6 +36754,52 @@
             "toDate": "2024-12-13",
             "weekdays": [
               5
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          }
+        ]
+      },
+      {
+        "section": "L2",
+        "number": "4444",
+        "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 04-Nov-2024",
+        "quota": 70,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "FINA",
+            "quota": 70,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "CHOI, C.K. Katy",
+              "NG, Billy"
+            ],
+            "venue": "G003, LSK Bldg (75)",
+            "fromDate": "2024-11-02",
+            "toDate": "2024-11-16",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "CHOI, C.K. Katy",
+              "NG, Billy"
+            ],
+            "venue": "G003, LSK Bldg (75)",
+            "fromDate": "2024-11-19",
+            "toDate": "2024-12-17",
+            "weekdays": [
+              2
             ],
             "fromTime": "19:00",
             "toTime": "22:20"
@@ -47198,7 +47244,7 @@
         "number": "1301",
         "remarks": " ",
         "quota": 40,
-        "enroll": 9,
+        "enroll": 8,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -91765,14 +91811,14 @@
         "number": "1525",
         "remarks": "> OCES 5001 is not co-listing with ENVR 6050 in Fall 2024-25",
         "quota": 60,
-        "enroll": 48,
+        "enroll": 47,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ENVR",
             "quota": 20,
-            "enroll": 14
+            "enroll": 13
           },
           {
             "name": "OCES",
