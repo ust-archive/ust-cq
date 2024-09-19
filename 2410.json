@@ -4036,7 +4036,7 @@
         "number": "1075",
         "remarks": " ",
         "quota": 25,
-        "enroll": 24,
+        "enroll": 23,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -4062,7 +4062,7 @@
         "number": "1058",
         "remarks": " ",
         "quota": 25,
-        "enroll": 24,
+        "enroll": 23,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -36723,7 +36723,35 @@
             ],
             "venue": "G003, LSK Bldg (75)",
             "fromDate": "2024-11-01",
-            "toDate": "2024-12-20",
+            "toDate": "2024-11-15",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "CHOI, C.K. Katy",
+              "NG, Billy"
+            ],
+            "venue": "G003, LSK Bldg (75)",
+            "fromDate": "2024-11-20",
+            "toDate": "2024-11-20",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "CHOI, C.K. Katy",
+              "NG, Billy"
+            ],
+            "venue": "G003, LSK Bldg (75)",
+            "fromDate": "2024-11-22",
+            "toDate": "2024-12-13",
             "weekdays": [
               5
             ],
