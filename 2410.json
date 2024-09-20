@@ -29823,7 +29823,7 @@
         "number": "1149",
         "remarks": " ",
         "quota": 40,
-        "enroll": 36,
+        "enroll": 35,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -55354,7 +55354,7 @@
         "number": "1679",
         "remarks": " ",
         "quota": 80,
-        "enroll": 77,
+        "enroll": 76,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -55371,7 +55371,7 @@
           {
             "name": "EVEM",
             "quota": 69,
-            "enroll": 66
+            "enroll": 65
           }
         ],
         "schedule": [
@@ -76063,7 +76063,8 @@
         "schedule": [
           {
             "instructors": [
-              "SU, Wei"
+              "SU, Wei",
+              "TAN, Ziyue"
             ],
             "venue": "Rm 1104, Acad Concourse (42)",
             "fromDate": "2024-09-02",
@@ -76088,7 +76089,8 @@
         "schedule": [
           {
             "instructors": [
-              "SU, Wei"
+              "SU, Wei",
+              "TAN, Ziyue"
             ],
             "venue": "Rm 6602, Lift 31-32 (60)",
             "fromDate": "2024-09-02",
@@ -81623,6 +81625,45 @@
           {
             "instructors": [
               "FONG, Tsz Ho"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "MATH",
+    "number": "6912K",
+    "code": "MATH6912K",
+    "name": "Reading Course: Low-Rank Tensor Recovery and Applications",
+    "description": "We will study both theory and applications of low-rank tensor recovery. The low-rank property of the tensors under our consideration is the low-tensor-train rank, and the applications include quantum state tomography and image reconstruction. Students should seek approval from the course instructor to take this reading course.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4447",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CAI, Jianfeng"
             ],
             "venue": "TBA",
             "fromDate": "2024-09-02",
