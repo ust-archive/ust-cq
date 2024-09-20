@@ -11835,7 +11835,7 @@
         "number": "1112",
         "remarks": " ",
         "quota": 80,
-        "enroll": 58,
+        "enroll": 57,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -39654,6 +39654,52 @@
         "remarks": " ",
         "quota": 3,
         "enroll": 2,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "HMMA",
+    "number": "6200B",
+    "code": "HMMA6200B",
+    "name": "Independent Study",
+    "description": "For MA(CC) students only. Students are required to conduct an independent study in a designated subject under the supervision of a faculty member. It may require readings, tutorial discussions, and submission of research paper(s). It may be repeated for credit if different topics are studied.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "HUMA6100",
+    "credits": 3,
+    "attributes": [
+      {
+        "attribute": "READ",
+        "value": "C",
+        "attributeDescription": "Reading Material",
+        "valueDescription": "[C] Require Chinese reading"
+      }
+    ],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4446",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
