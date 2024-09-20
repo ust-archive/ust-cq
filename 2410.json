@@ -24392,14 +24392,14 @@
         "number": "1619",
         "remarks": " ",
         "quota": 91,
-        "enroll": 89,
+        "enroll": 87,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "EEM",
             "quota": 91,
-            "enroll": 89
+            "enroll": 87
           }
         ],
         "schedule": [
@@ -31252,7 +31252,7 @@
         "number": "4347",
         "remarks": " ",
         "quota": 40,
-        "enroll": 37,
+        "enroll": 38,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -67023,7 +67023,7 @@
         "number": "1386",
         "remarks": "> The class is delivered in a blended learning mode\n> For students under SENG and SSCI research postgraduate programs",
         "quota": 20,
-        "enroll": 20,
+        "enroll": 19,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -72310,7 +72310,7 @@
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 65,
         "enroll": 65,
-        "waitlist": 13,
+        "waitlist": 14,
         "consent": false,
         "reservedQuota": [
           {
@@ -79876,8 +79876,8 @@
         "section": "L1",
         "number": "3726",
         "remarks": " ",
-        "quota": 81,
-        "enroll": 81,
+        "quota": 82,
+        "enroll": 82,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -79928,8 +79928,8 @@
         "section": "T1B",
         "number": "3730",
         "remarks": " ",
-        "quota": 40,
-        "enroll": 40,
+        "quota": 41,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -84116,7 +84116,7 @@
         "number": "1499",
         "remarks": " ",
         "quota": 35,
-        "enroll": 22,
+        "enroll": 23,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -84155,7 +84155,7 @@
         "number": "1500",
         "remarks": " ",
         "quota": 200,
-        "enroll": 185,
+        "enroll": 184,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -98268,8 +98268,21 @@
               "TYRALA, Michael"
             ],
             "venue": "Rm 2463, Lift 25-26 (42)",
-            "fromDate": "2024-09-02",
-            "toDate": "2024-11-30",
+            "fromDate": "2024-09-05",
+            "toDate": "2024-09-19",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "18:30",
+            "toTime": "21:20"
+          },
+          {
+            "instructors": [
+              "TYRALA, Michael"
+            ],
+            "venue": "LG3009, Lift 10-12 (88)",
+            "fromDate": "2024-09-26",
+            "toDate": "2024-11-28",
             "weekdays": [
               4
             ],
@@ -103545,14 +103558,14 @@
         "number": "1781",
         "remarks": "> For MPhil(SOSC) students only",
         "quota": 20,
-        "enroll": 3,
+        "enroll": 4,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SOSC",
             "quota": 20,
-            "enroll": 3
+            "enroll": 4
           }
         ],
         "schedule": [
@@ -103590,14 +103603,14 @@
         "number": "1782",
         "remarks": "> For PhD(SOSC) students only",
         "quota": 20,
-        "enroll": 9,
+        "enroll": 8,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SOSC",
             "quota": 20,
-            "enroll": 9
+            "enroll": 8
           }
         ],
         "schedule": [
