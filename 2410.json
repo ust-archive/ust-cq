@@ -7169,7 +7169,7 @@
         "number": "1860",
         "remarks": " ",
         "quota": 100,
-        "enroll": 80,
+        "enroll": 81,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -11481,7 +11481,7 @@
             "instructors": [
               "LI, Sen"
             ],
-            "venue": "G003, CYT Bldg (30)",
+            "venue": "Rm 5562, Lift 27-28 (30)",
             "fromDate": "2024-09-02",
             "toDate": "2024-11-30",
             "weekdays": [
@@ -18637,7 +18637,7 @@
             "instructors": [
               "TBA"
             ],
-            "venue": "Lecture Theater B (317)",
+            "venue": "TBA",
             "fromDate": "2024-10-14",
             "toDate": "2024-11-30",
             "weekdays": [
@@ -32655,7 +32655,7 @@
         "number": "2541",
         "remarks": " ",
         "quota": 40,
-        "enroll": 40,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -36820,7 +36820,7 @@
           {
             "name": "FINA",
             "quota": 70,
-            "enroll": 37
+            "enroll": 38
           }
         ],
         "schedule": [
@@ -42360,7 +42360,7 @@
         "number": "2666",
         "remarks": " ",
         "quota": 100,
-        "enroll": 82,
+        "enroll": 83,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -42385,7 +42385,7 @@
         "number": "2667",
         "remarks": " ",
         "quota": 100,
-        "enroll": 82,
+        "enroll": 83,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -49107,7 +49107,7 @@
         "number": "2955",
         "remarks": "> Add/Drop Deadline : 09-Sep-2024",
         "quota": 90,
-        "enroll": 85,
+        "enroll": 86,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -49185,7 +49185,7 @@
         "number": "2961",
         "remarks": "> Add/Drop Deadline : 09-Sep-2024",
         "quota": 85,
-        "enroll": 75,
+        "enroll": 74,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -50115,7 +50115,7 @@
         "number": "2893",
         "remarks": "> The class is delivered in a conventional face-to-face mode",
         "quota": 65,
-        "enroll": 44,
+        "enroll": 45,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -50141,7 +50141,7 @@
         "number": "2895",
         "remarks": " ",
         "quota": 45,
-        "enroll": 42,
+        "enroll": 43,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -65107,7 +65107,7 @@
         "number": "3282",
         "remarks": " ",
         "quota": 40,
-        "enroll": 25,
+        "enroll": 27,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -65158,7 +65158,7 @@
         "number": "4428",
         "remarks": " ",
         "quota": 20,
-        "enroll": 5,
+        "enroll": 7,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -67978,7 +67978,7 @@
       {
         "section": "L1",
         "number": "3340",
-        "remarks": "> The class is delivered in a blended learning mode",
+        "remarks": "> The class is delivered in a conventional face-to-face mode",
         "quota": 180,
         "enroll": 177,
         "waitlist": 0,
@@ -68005,7 +68005,7 @@
       {
         "section": "L2",
         "number": "3341",
-        "remarks": "> The class is delivered in a blended learning mode",
+        "remarks": "> The class is delivered in a conventional face-to-face mode",
         "quota": 150,
         "enroll": 102,
         "waitlist": 0,
@@ -69231,7 +69231,7 @@
         "number": "1419",
         "remarks": "> For MPhil & PhD (LIFS) students only.",
         "quota": 120,
-        "enroll": 98,
+        "enroll": 99,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -69568,7 +69568,7 @@
         "number": "1426",
         "remarks": " ",
         "quota": 80,
-        "enroll": 53,
+        "enroll": 54,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -70247,7 +70247,7 @@
         "number": "1464",
         "remarks": "> For MSc(MAFM) students only.",
         "quota": 130,
-        "enroll": 55,
+        "enroll": 56,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -70475,7 +70475,7 @@
         "number": "4434",
         "remarks": "> Students should seek the instructor's approval to take this course.",
         "quota": 8,
-        "enroll": 4,
+        "enroll": 6,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -70514,7 +70514,7 @@
         "number": "4443",
         "remarks": "> Students should seek the instructor's approval to take this course.",
         "quota": 1,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -97479,6 +97479,45 @@
   {
     "career": "RPG",
     "subject": "PHYS",
+    "number": "6100A",
+    "code": "PHYS6100A",
+    "name": "Individual Study in Physics",
+    "description": "This course covers in-depth study on topics selected by the instructor on the basis of individual postgraduate student's request. The instructor's approval is required for taking this course.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4448",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "PHYS",
     "number": "6100B",
     "code": "PHYS6100B",
     "name": "Individual Study in Physics",
@@ -102083,7 +102122,7 @@
         "number": "4107",
         "remarks": " ",
         "quota": 120,
-        "enroll": 114,
+        "enroll": 115,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -104300,7 +104339,7 @@
         "number": "4189",
         "remarks": " ",
         "quota": 220,
-        "enroll": 189,
+        "enroll": 190,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -104339,7 +104378,7 @@
         "number": "4190",
         "remarks": " ",
         "quota": 100,
-        "enroll": 59,
+        "enroll": 60,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
