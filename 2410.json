@@ -54862,7 +54862,7 @@
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 60,
         "enroll": 60,
-        "waitlist": 1,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [
           {
@@ -61913,8 +61913,49 @@
               "MAK, Linda Y O"
             ],
             "venue": "Rm 5504, Lift 25-26 (24)",
-            "fromDate": "2024-09-02",
-            "toDate": "2024-11-30",
+            "fromDate": "2024-09-04",
+            "toDate": "2024-09-20",
+            "weekdays": [
+              3,
+              5
+            ],
+            "fromTime": "16:30",
+            "toTime": "17:50"
+          },
+          {
+            "instructors": [
+              "MAK, Linda Y O"
+            ],
+            "venue": "Rm 2126A, Lift 19 (28)",
+            "fromDate": "2024-09-25",
+            "toDate": "2024-09-27",
+            "weekdays": [
+              3,
+              5
+            ],
+            "fromTime": "16:30",
+            "toTime": "17:50"
+          },
+          {
+            "instructors": [
+              "MAK, Linda Y O"
+            ],
+            "venue": "Rm 5504, Lift 25-26 (24)",
+            "fromDate": "2024-10-02",
+            "toDate": "2024-10-02",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "16:30",
+            "toTime": "17:50"
+          },
+          {
+            "instructors": [
+              "MAK, Linda Y O"
+            ],
+            "venue": "Rm 2126A, Lift 19 (28)",
+            "fromDate": "2024-10-04",
+            "toDate": "2024-11-29",
             "weekdays": [
               3,
               5
@@ -92037,7 +92078,7 @@
         "number": "1719",
         "remarks": " ",
         "quota": 30,
-        "enroll": 13,
+        "enroll": 12,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
