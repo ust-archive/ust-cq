@@ -11715,8 +11715,8 @@
         "section": "R1",
         "number": "4314",
         "remarks": " ",
-        "quota": 1,
-        "enroll": 1,
+        "quota": 2,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -30534,14 +30534,14 @@
         "number": "1167",
         "remarks": " ",
         "quota": 55,
-        "enroll": 55,
+        "enroll": 54,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECE",
             "quota": 54,
-            "enroll": 54
+            "enroll": 53
           }
         ],
         "schedule": [
@@ -89475,7 +89475,7 @@
         "number": "1509",
         "remarks": "> For MPhil(MGMT) and PhD(MGMT) students only",
         "quota": 15,
-        "enroll": 8,
+        "enroll": 7,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -103745,6 +103745,45 @@
             "enroll": 2
           }
         ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "SOSC",
+    "number": "6100C",
+    "code": "SOSC6100C",
+    "name": "Independent Study",
+    "description": "Independent study in a designated subject under the supervision of a faculty member; may require readings, tutorial discussions, and submission of research paper(s); may be repeated for credit if different topics are studied. Regular students are required to enroll in 3-credit course. Enrollment in course below 3 credits require the Division's approval.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4449",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
