@@ -32320,8 +32320,8 @@
         "section": "T1",
         "number": "4073",
         "remarks": " ",
-        "quota": 940,
-        "enroll": 940,
+        "quota": 941,
+        "enroll": 941,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -41358,6 +41358,7 @@
         "schedule": [
           {
             "instructors": [
+              "LI, Chong",
               "ZHANG, Lok Cheung Lawrence"
             ],
             "venue": "Rm 2407, Lift 17-18 (126)",
@@ -42957,6 +42958,7 @@
         "schedule": [
           {
             "instructors": [
+              "MISHRA, Anish",
               "PROOI, Dennis"
             ],
             "venue": "Rm 2306, Lift 17-18 (111)",
@@ -42983,6 +42985,7 @@
         "schedule": [
           {
             "instructors": [
+              "MISHRA, Anish",
               "PROOI, Dennis"
             ],
             "venue": "Rm 2502, Lift 25-26 (120)",
@@ -101164,6 +101167,51 @@
             ],
             "fromTime": "19:00",
             "toTime": "22:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "SBMT",
+    "number": "6100A",
+    "code": "SBMT6100A",
+    "name": "Field Study Project",
+    "description": "This is a supervised study of a real-life issue faced by an organization, including identification of strategic questions, design of studies, collection and analysis of data, development and reporting recommendation.  The projects selected should bring a meaningful economic performance impact to the sponsoring companies. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "MIMT 6200",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4452",
+        "remarks": "> For FT-MBA students only\n> Add/Drop Deadline : 27-Sep-2024",
+        "quota": 5,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "MBA",
+            "quota": 5,
+            "enroll": 1
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-26",
+            "toDate": "2024-10-18",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
