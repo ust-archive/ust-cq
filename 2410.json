@@ -48157,6 +48157,7 @@
         "schedule": [
           {
             "instructors": [
+              "IEONG, Chao",
               "JAISINGH, Jeevan"
             ],
             "venue": "Rm 1014, LSK Bldg (80)",
@@ -50249,7 +50250,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "NG, Ka Wai Tommy"
             ],
             "venue": "G005, LSK Bldg",
             "fromDate": "2024-09-02",
@@ -50316,7 +50317,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "CHAN, Wing Yan"
             ],
             "venue": "G011, LSK Bldg",
             "fromDate": "2024-09-02",
@@ -50341,7 +50342,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "NG, Ka Wai Tommy"
             ],
             "venue": "G011, LSK Bldg",
             "fromDate": "2024-09-02",
@@ -50503,7 +50504,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "TSE, Chris"
             ],
             "venue": "Rm 1005, LSK Bldg (75)",
             "fromDate": "2024-09-02",
@@ -50528,7 +50529,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "TSE, Chris"
             ],
             "venue": "G011, LSK Bldg",
             "fromDate": "2024-09-02",
@@ -50553,7 +50554,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "TSE, Chris"
             ],
             "venue": "Rm 1033, LSK Bldg (51)",
             "fromDate": "2024-09-02",
@@ -50578,7 +50579,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "TSE, Chris"
             ],
             "venue": "Rm 1009, LSK Bldg (80)",
             "fromDate": "2024-09-02",
@@ -50671,7 +50672,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "GU, Jiaying"
             ],
             "venue": "G021, LSK Bldg",
             "fromDate": "2024-09-02",
@@ -50696,7 +50697,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "GU, Jiaying"
             ],
             "venue": "G021, LSK Bldg",
             "fromDate": "2024-09-02",
@@ -50721,7 +50722,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "WAN, On Yu"
             ],
             "venue": "G021, LSK Bldg",
             "fromDate": "2024-09-02",
@@ -50787,7 +50788,8 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "LAI, Sum Yu",
+              "TSE, Chris"
             ],
             "venue": "G005, LSK Bldg",
             "fromDate": "2024-09-02",
@@ -50812,7 +50814,8 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "LAI, Sum Yu",
+              "TSE, Chris"
             ],
             "venue": "G005, LSK Bldg",
             "fromDate": "2024-09-02",
@@ -72178,12 +72181,38 @@
             ],
             "venue": "G001, LSK Bldg (75)",
             "fromDate": "2024-11-01",
+            "toDate": "2024-11-01",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "HONG, Jiewen"
+            ],
+            "venue": "G001, LSK Bldg (75)",
+            "fromDate": "2024-11-15",
             "toDate": "2024-12-20",
             "weekdays": [
               5
             ],
             "fromTime": "14:00",
             "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "HONG, Jiewen"
+            ],
+            "venue": "Rm 1003, LSK Bldg (75)",
+            "fromDate": "2024-11-26",
+            "toDate": "2024-11-26",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
           }
         ]
       },
@@ -84806,7 +84835,7 @@
         "number": "1498",
         "remarks": " ",
         "quota": 30,
-        "enroll": 20,
+        "enroll": 19,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -103621,8 +103650,8 @@
         "section": "L1",
         "number": "4124",
         "remarks": " ",
-        "quota": 30,
-        "enroll": 30,
+        "quota": 31,
+        "enroll": 31,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
