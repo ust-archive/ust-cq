@@ -17059,7 +17059,7 @@
         "number": "4315",
         "remarks": " ",
         "quota": 15,
-        "enroll": 15,
+        "enroll": 14,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -53754,12 +53754,12 @@
         "reservedQuota": [
           {
             "name": "Digital MBA",
-            "quota": 2,
+            "quota": 1,
             "enroll": 0
           },
           {
             "name": "MBA",
-            "quota": 41,
+            "quota": 42,
             "enroll": 41
           },
           {
@@ -70279,11 +70279,11 @@
         "schedule": [
           {
             "instructors": [
-              "HIRANO, Yukinori",
               "ISHIBASHI, Toyotaka",
               "PARK, Hyo Keun",
               "TSIM, Karl Wah Keung",
-              "WONG, Joseph Tin Yum"
+              "WONG, Joseph Tin Yum",
+              "YAN, Yan"
             ],
             "venue": "TBA",
             "fromDate": "2024-09-02",
@@ -101259,17 +101259,17 @@
         "reservedQuota": [
           {
             "name": "Digital MBA",
-            "quota": 2,
+            "quota": 1,
             "enroll": 0
           },
           {
             "name": "MBA",
-            "quota": 46,
+            "quota": 48,
             "enroll": 46
           },
           {
             "name": "MBA Bi-weekly",
-            "quota": 2,
+            "quota": 1,
             "enroll": 1
           }
         ],
