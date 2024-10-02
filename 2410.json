@@ -17682,8 +17682,8 @@
         "section": "R1",
         "number": "4416",
         "remarks": " ",
-        "quota": 1,
-        "enroll": 1,
+        "quota": 2,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -17878,7 +17878,7 @@
         "number": "4425",
         "remarks": " ",
         "quota": 2,
-        "enroll": 1,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -31372,15 +31372,15 @@
         "section": "R1",
         "number": "1170",
         "remarks": " ",
-        "quota": 181,
-        "enroll": 181,
+        "quota": 182,
+        "enroll": 182,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECE",
-            "quota": 180,
-            "enroll": 180
+            "quota": 182,
+            "enroll": 181
           }
         ],
         "schedule": [
