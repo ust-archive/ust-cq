@@ -31451,14 +31451,14 @@
         "number": "1170",
         "remarks": " ",
         "quota": 182,
-        "enroll": 182,
+        "enroll": 181,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECE",
             "quota": 182,
-            "enroll": 181
+            "enroll": 180
           }
         ],
         "schedule": [
@@ -55667,14 +55667,28 @@
               "HO, Cheuk Fan Edmond",
               "ZHANG, Hongtao"
             ],
-            "venue": "G010, LSK Bldg",
-            "fromDate": "2024-10-31",
-            "toDate": "2024-12-12",
+            "venue": "G005, LSK Bldg",
+            "fromDate": "2024-10-30",
+            "toDate": "2024-10-30",
             "weekdays": [
-              4
+              3
             ],
-            "fromTime": "09:30",
-            "toTime": "12:50"
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "HO, Cheuk Fan Edmond",
+              "ZHANG, Hongtao"
+            ],
+            "venue": "G005, LSK Bldg",
+            "fromDate": "2024-11-08",
+            "toDate": "2024-12-13",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
           },
           {
             "instructors": [
@@ -93916,7 +93930,7 @@
         "number": "1721",
         "remarks": " ",
         "quota": 500,
-        "enroll": 395,
+        "enroll": 394,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
