@@ -52639,6 +52639,51 @@
   {
     "career": "TPG",
     "subject": "ISOM",
+    "number": "5010",
+    "code": "ISOM5010",
+    "name": "IS Enrichment Workshops",
+    "description": "A series of workshops will be offered to develop students’ essential business skills and knowledge especially in Information Systems Management field. Different seasoned speakers or practitioners will be invited in this course. No assignment and exam will be needed. Students are expected to attend regularly in accordance with the course requirements. Graded PP, P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "4455",
+        "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 14-Sep-2024",
+        "quota": 4,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "IS",
+            "quota": 4,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "ISOM",
     "number": "5020",
     "code": "ISOM5020",
     "name": "Information and Technology Management",
