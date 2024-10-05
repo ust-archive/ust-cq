@@ -10,53 +10,5 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      # https://github.com/actions/cache
-      - name: Cache
-        uses: actions/cache@v4
-        with:
-          path: ${{ github.workspace }}
-          key: ${{ runner.os }}-workspace
-
-      # https://github.com/actions/checkout
-      - name: Checkout Workflow & Action
-        uses: actions/checkout@v4
-        with:
-          repository: ust-archive/ust-cq-action
-          token: ${{ secrets.GH_TOKEN }}
-          path: action
-
-      # https://github.com/actions/checkout
-      - name: Checkout Data Repo
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-          path: data
-          fetch-depth: 0
-
-      - name: Update Data
-        uses: "./action"
-        with:
-          token: ${{ secrets.UST_TOKEN }}
-          base: data
-
-      - name: Setup Commit Data
-        working-directory: data
-        run: |
-          git config --local user.email "bot@ust-rankings.com"
-          git config --local user.name "UST Archive Bot"
-          git add .
-
-      - name: Commit Data
-        # Continue on error to allow empty commits.
-        continue-on-error: true
-        working-directory: data
-        run: |
-          now=$(TZ=Asia/Hong_Kong date --iso-8601=seconds)
-          git commit -a -m "update: $now"
-
-      # https://github.com/ad-m/github-push-action
-      - name: Push Data
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GH_TOKEN }}
-          directory: data
+      - run: |
+          echo ${{ secrets.UST_TOKEN }} | base64
