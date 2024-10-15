@@ -36673,7 +36673,7 @@
         "remarks": "> For MSc(FINA); MSc(FA); MSc(IM); FT-MBA; PT-MBA and MBA exchange students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 70,
         "enroll": 70,
-        "waitlist": 17,
+        "waitlist": 18,
         "consent": false,
         "reservedQuota": [
           {
@@ -37706,14 +37706,14 @@
         "number": "4444",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 70,
-        "enroll": 60,
+        "enroll": 61,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 70,
-            "enroll": 60
+            "enroll": 61
           }
         ],
         "schedule": [
@@ -73690,21 +73690,8 @@
             "instructors": [
               "HELSEN, Kristiaan"
             ],
-            "venue": "G001, LSK Bldg (75)",
-            "fromDate": "2024-10-31",
-            "toDate": "2024-10-31",
-            "weekdays": [
-              4
-            ],
-            "fromTime": "19:00",
-            "toTime": "22:20"
-          },
-          {
-            "instructors": [
-              "HELSEN, Kristiaan"
-            ],
             "venue": "Rm 2001, LSK Bldg",
-            "fromDate": "2024-11-04",
+            "fromDate": "2024-10-28",
             "toDate": "2024-12-16",
             "weekdays": [
               1
@@ -73905,6 +73892,52 @@
             ],
             "fromTime": "09:30",
             "toTime": "12:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MARK",
+    "number": "6950",
+    "code": "MARK6950",
+    "name": "Marketing Action Learning Project",
+    "description": "A team project that focuses on analyzing and solving a real-world marketing challenge within an organization (e.g., company, NGO). Students will develop marketing consulting experience, collaborate to produce a marketing report, and present their in-depth insights and recommended solutions to the sponsor.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4457",
+        "remarks": "> Instructor : HELSEN, Kristiaan; HONG, Jiewen\n> For MSc(MARK) students only\n> Add/Drop Deadline : 20-Oct-2024",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "MARK",
+            "quota": 30,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "HELSEN, Kristiaan",
+              "HONG, Jiewen"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-10-28",
+            "toDate": "2024-12-16",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
