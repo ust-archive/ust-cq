@@ -11395,6 +11395,45 @@
   {
     "career": "UGRD",
     "subject": "CIVL",
+    "number": "4900A",
+    "code": "CIVL4900A",
+    "name": "Directed Studies",
+    "description": "Specialist courses where instruction is generally given on a one-to-one basis. Graded P or F.",
+    "previousCodes": "CIVL390A",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4456",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "CIVL",
     "number": "4910",
     "code": "CIVL4910",
     "name": "Civil and Environmental Engineering Final Year Project",
@@ -31948,7 +31987,7 @@
         "section": "R1",
         "number": "4436",
         "remarks": " ",
-        "quota": 1,
+        "quota": 2,
         "enroll": 2,
         "waitlist": 0,
         "consent": true,
@@ -37420,7 +37459,7 @@
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 70,
         "enroll": 70,
-        "waitlist": 1,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [
           {
@@ -37608,7 +37647,7 @@
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 70,
         "enroll": 70,
-        "waitlist": 1,
+        "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
@@ -37667,14 +37706,14 @@
         "number": "4444",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 70,
-        "enroll": 59,
+        "enroll": 60,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 70,
-            "enroll": 59
+            "enroll": 60
           }
         ],
         "schedule": [
@@ -37759,7 +37798,7 @@
               "DIAO, Liangke",
               "VAN DER LINDE, Herald"
             ],
-            "venue": "Lecture Theater K (106)",
+            "venue": "G003, LSK Bldg (75)",
             "fromDate": "2024-11-30",
             "toDate": "2024-12-21",
             "weekdays": [
@@ -55055,7 +55094,7 @@
         "number": "1348",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 50,
-        "enroll": 42,
+        "enroll": 44,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -89021,23 +89060,12 @@
       {
         "section": "L2",
         "number": "1522",
-        "remarks": "> For FT-MBA; PT-MBA and Bi-weekly MBA Year 2 or above students only\n> Add/Drop Deadline : 04-Nov-2024",
-        "quota": 24,
+        "remarks": "> The class is cancelled",
+        "quota": 0,
         "enroll": 10,
         "waitlist": 1,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MBA",
-            "quota": 8,
-            "enroll": 8
-          },
-          {
-            "name": "MBA Bi-weekly",
-            "quota": 16,
-            "enroll": 2
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
