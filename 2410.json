@@ -36659,14 +36659,14 @@
         "number": "1247",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 70,
-        "enroll": 67,
+        "enroll": 66,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 70,
-            "enroll": 67
+            "enroll": 66
           }
         ],
         "schedule": [
@@ -37682,7 +37682,7 @@
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 70,
         "enroll": 70,
-        "waitlist": 0,
+        "waitlist": 1,
         "consent": false,
         "reservedQuota": [
           {
@@ -73753,12 +73753,25 @@
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2024-10-28",
+            "toDate": "2024-10-28",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "HELSEN, Kristiaan"
+            ],
+            "venue": "Rm 1210, Lift 19",
+            "fromDate": "2024-11-04",
             "toDate": "2024-12-16",
             "weekdays": [
               1
             ],
             "fromTime": "09:30",
-            "toTime": "12:50"
+            "toTime": "12:20"
           }
         ]
       }
