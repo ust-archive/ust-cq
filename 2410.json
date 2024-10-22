@@ -37588,7 +37588,7 @@
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 70,
         "enroll": 70,
-        "waitlist": 1,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [
           {
@@ -55574,6 +55574,34 @@
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2024-10-31",
+            "toDate": "2024-12-05",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "DENG, Stacy",
+              "GURUMURTHI, Suri"
+            ],
+            "venue": "Rm 1001, LSK Bldg (75)",
+            "fromDate": "2024-12-12",
+            "toDate": "2024-12-12",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "DENG, Stacy",
+              "GURUMURTHI, Suri"
+            ],
+            "venue": "Rm 2001, LSK Bldg",
+            "fromDate": "2024-12-19",
             "toDate": "2024-12-19",
             "weekdays": [
               4
@@ -89851,6 +89879,20 @@
             ],
             "venue": "Rm 2003, LSK Bldg",
             "fromDate": "2024-11-01",
+            "toDate": "2024-11-01",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "NASON, Stephen William",
+              "TSUI, Yuen Ling Ginnie"
+            ],
+            "venue": "Rm 2003, LSK Bldg",
+            "fromDate": "2024-11-15",
             "toDate": "2024-12-06",
             "weekdays": [
               5
@@ -89871,6 +89913,20 @@
             ],
             "fromTime": "09:30",
             "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "NASON, Stephen William",
+              "TSUI, Yuen Ling Ginnie"
+            ],
+            "venue": "Rm 2001, LSK Bldg",
+            "fromDate": "2024-12-12",
+            "toDate": "2024-12-12",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "14:30",
+            "toTime": "17:50"
           },
           {
             "instructors": [
