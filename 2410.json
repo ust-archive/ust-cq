@@ -20099,6 +20099,45 @@
   },
   {
     "career": "TPG",
+    "subject": "DBAP",
+    "number": "6300C",
+    "code": "DBAP6300C",
+    "name": "DBA Residential Program",
+    "description": "Students will conduct research under the supervision of their faculty advisors. Students need to be on campus for at least two days for research activities in each regular term. In addition, there should be at least 10 contact hours with the advisors during the term. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4458",
+        "remarks": "> For DBA students only\n> Add/Drop Deadline : 30-Nov-2024",
+        "quota": 9,
+        "enroll": 9,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
     "subject": "DRAP",
     "number": "5001",
     "code": "DRAP5001",
