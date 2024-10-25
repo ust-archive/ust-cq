@@ -4250,7 +4250,7 @@
         "number": "4340",
         "remarks": " ",
         "quota": 70,
-        "enroll": 65,
+        "enroll": 66,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -53845,6 +53845,48 @@
             ],
             "venue": "Rm 2003, LSK Bldg",
             "fromDate": "2024-10-30",
+            "toDate": "2024-11-27",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "HONG, Weiyin",
+              "LAI, Sum Yu"
+            ],
+            "venue": "G012, LSK Bldg (199)",
+            "fromDate": "2024-12-04",
+            "toDate": "2024-12-04",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "HONG, Weiyin",
+              "LAI, Sum Yu"
+            ],
+            "venue": "Lecture Theater J (300)",
+            "fromDate": "2024-12-11",
+            "toDate": "2024-12-11",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "HONG, Weiyin",
+              "LAI, Sum Yu"
+            ],
+            "venue": "Rm 2003, LSK Bldg",
+            "fromDate": "2024-12-18",
             "toDate": "2024-12-18",
             "weekdays": [
               3
@@ -54266,8 +54308,8 @@
         "number": "1357",
         "remarks": "> The class is delivered in a real-time online mode\n> For FT-MBA; PT-MBA; MBA Exchange; Bi-weekly MBA and Digital MBA Year 2 students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 56,
-        "enroll": 55,
-        "waitlist": 4,
+        "enroll": 56,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [
           {
@@ -54283,7 +54325,7 @@
           {
             "name": "MBA Bi-weekly",
             "quota": 20,
-            "enroll": 19
+            "enroll": 20
           }
         ],
         "schedule": [
