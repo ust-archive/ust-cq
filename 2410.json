@@ -2037,7 +2037,7 @@
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 50,
         "enroll": 54,
-        "waitlist": 4,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [
           {
@@ -23340,7 +23340,7 @@
         "remarks": "> For MSc(ECON) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 55,
         "enroll": 55,
-        "waitlist": 29,
+        "waitlist": 27,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -37109,7 +37109,7 @@
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 70,
         "enroll": 70,
-        "waitlist": 30,
+        "waitlist": 29,
         "consent": false,
         "reservedQuota": [
           {
@@ -37185,7 +37185,7 @@
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 70,
         "enroll": 70,
-        "waitlist": 10,
+        "waitlist": 11,
         "consent": false,
         "reservedQuota": [
           {
@@ -37667,7 +37667,7 @@
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 70,
         "enroll": 70,
-        "waitlist": 3,
+        "waitlist": 4,
         "consent": false,
         "reservedQuota": [
           {
@@ -53828,7 +53828,7 @@
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 70,
         "enroll": 70,
-        "waitlist": 20,
+        "waitlist": 21,
         "consent": false,
         "reservedQuota": [
           {
@@ -54853,14 +54853,14 @@
         "number": "1354",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 68,
-        "enroll": 64,
+        "enroll": 65,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 68,
-            "enroll": 63
+            "enroll": 64
           }
         ],
         "schedule": [
@@ -54898,14 +54898,14 @@
         "number": "1365",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 68,
-        "enroll": 65,
+        "enroll": 64,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 68,
-            "enroll": 65
+            "enroll": 64
           }
         ],
         "schedule": [
@@ -55838,7 +55838,7 @@
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 60,
         "enroll": 60,
-        "waitlist": 9,
+        "waitlist": 8,
         "consent": false,
         "reservedQuota": [
           {
@@ -56038,7 +56038,7 @@
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 04-Nov-2024\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 14,
+        "waitlist": 13,
         "consent": false,
         "reservedQuota": [
           {
@@ -73846,14 +73846,14 @@
         "number": "1444",
         "remarks": "> For FT-MBA; PT-MBA; MBA Exchange and MSc(MARK) students only\n> Add/Drop Deadline : 30-Oct-2024",
         "quota": 65,
-        "enroll": 55,
-        "waitlist": 6,
+        "enroll": 54,
+        "waitlist": 5,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
             "quota": 60,
-            "enroll": 51
+            "enroll": 50
           },
           {
             "name": "MBA",
@@ -83194,6 +83194,45 @@
   {
     "career": "RPG",
     "subject": "MATH",
+    "number": "6912L",
+    "code": "MATH6912L",
+    "name": "Reading Course: Deep Learning Methods with Their Applications",
+    "description": "The topics covered in this reading course include: 1. Network structure: Residual networks; 2. Transformers; 3. Graph neural networks; 4. Deep Generative models: GANs, Normalizing flows, and Variational autoencoders; 5. Deep Generative models:  Diffusion models; 6. Deep reinforcement learning; 7. Deep learning and its  applications in Science. Students should seek approval from the course instructor to take this reading course.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4459",
+        "remarks": "> Students should seek approval from the course instructor to take this course.",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "YANG, Can"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "MATH",
     "number": "6913L",
     "code": "MATH6913L",
     "name": "Reading Course: Turbulent Flows",
@@ -89401,7 +89440,7 @@
         "remarks": "> For FT-MBA students only\n> Add/Drop Deadline : 12-Nov-2024",
         "quota": 24,
         "enroll": 24,
-        "waitlist": 1,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [
           {
@@ -89938,7 +89977,7 @@
         "number": "1516",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 60,
-        "enroll": 42,
+        "enroll": 44,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -90509,7 +90548,7 @@
         "number": "1520",
         "remarks": "> The class is delivered in a real-time online mode\n> For FT-MBA; PT-MBA; MBA Exchange; Digital MBA Year 3 or above students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 60,
-        "enroll": 33,
+        "enroll": 32,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -90526,7 +90565,7 @@
           {
             "name": "MBA",
             "quota": 25,
-            "enroll": 20
+            "enroll": 19
           }
         ],
         "schedule": [
@@ -90567,7 +90606,7 @@
         "number": "1517",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 60,
-        "enroll": 35,
+        "enroll": 34,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -101981,7 +102020,7 @@
         "remarks": "> For SBM TPG students only\n> Add/Drop Deadline : 11-Nov-2024",
         "quota": 46,
         "enroll": 46,
-        "waitlist": 1,
+        "waitlist": 0,
         "consent": true,
         "reservedQuota": [
           {
