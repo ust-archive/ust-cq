@@ -36612,14 +36612,14 @@
         "number": "1241",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(ACCT) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 65,
-        "enroll": 50,
+        "enroll": 49,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 50
+            "enroll": 49
           }
         ],
         "schedule": [
@@ -36644,14 +36644,14 @@
         "number": "1242",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(ACCT) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 65,
-        "enroll": 61,
+        "enroll": 62,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 61
+            "enroll": 62
           }
         ],
         "schedule": [
@@ -36741,7 +36741,7 @@
         "remarks": "> For MSc(FINA); MSc(FA); MSc(IM); FT-MBA; PT-MBA and MBA exchange students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 70,
         "enroll": 70,
-        "waitlist": 19,
+        "waitlist": 20,
         "consent": false,
         "reservedQuota": [
           {
@@ -37185,7 +37185,7 @@
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 70,
         "enroll": 70,
-        "waitlist": 11,
+        "waitlist": 10,
         "consent": false,
         "reservedQuota": [
           {
@@ -37714,14 +37714,14 @@
         "number": "1250",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 70,
-        "enroll": 69,
+        "enroll": 70,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 70,
-            "enroll": 69
+            "enroll": 70
           }
         ],
         "schedule": [
@@ -50214,7 +50214,7 @@
         "number": "2957",
         "remarks": "> Add/Drop Deadline : 09-Sep-2024",
         "quota": 90,
-        "enroll": 74,
+        "enroll": 73,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -50317,7 +50317,7 @@
         "number": "2965",
         "remarks": " ",
         "quota": 60,
-        "enroll": 59,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -55838,7 +55838,7 @@
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 60,
         "enroll": 60,
-        "waitlist": 8,
+        "waitlist": 9,
         "consent": false,
         "reservedQuota": [
           {
@@ -57147,7 +57147,19 @@
             "fromDate": "2024-09-02",
             "toDate": "2024-11-30",
             "weekdays": [
-              3,
+              3
+            ],
+            "fromTime": "16:30",
+            "toTime": "17:50"
+          },
+          {
+            "instructors": [
+              "LI, Eugene"
+            ],
+            "venue": "Rm 3494, Lift 25-26 (20)",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [
               5
             ],
             "fromTime": "16:30",
