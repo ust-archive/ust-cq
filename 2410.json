@@ -2036,14 +2036,14 @@
         "number": "1021",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 50,
-        "enroll": 53,
+        "enroll": 52,
         "waitlist": 4,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 50,
-            "enroll": 53
+            "enroll": 52
           }
         ],
         "schedule": [
@@ -102057,7 +102057,7 @@
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2024-11-04",
-            "toDate": "2024-12-16",
+            "toDate": "2024-11-25",
             "weekdays": [
               1
             ],
@@ -102073,6 +102073,32 @@
             "toDate": "2024-11-19",
             "weekdays": [
               2
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "PEREIRA, Kevin"
+            ],
+            "venue": "Rm 2001, LSK Bldg",
+            "fromDate": "2024-12-03",
+            "toDate": "2024-12-03",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "PEREIRA, Kevin"
+            ],
+            "venue": "Rm 2001, LSK Bldg",
+            "fromDate": "2024-12-09",
+            "toDate": "2024-12-16",
+            "weekdays": [
+              1
             ],
             "fromTime": "19:00",
             "toTime": "22:20"
