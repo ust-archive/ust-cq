@@ -1898,14 +1898,14 @@
         "number": "1018",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 65,
-        "enroll": 55,
+        "enroll": 54,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 55
+            "enroll": 54
           }
         ],
         "schedule": [
@@ -2036,14 +2036,14 @@
         "number": "1021",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 50,
-        "enroll": 52,
+        "enroll": 51,
         "waitlist": 4,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 50,
-            "enroll": 52
+            "enroll": 51
           }
         ],
         "schedule": [
@@ -37185,7 +37185,7 @@
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 70,
         "enroll": 69,
-        "waitlist": 3,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [
           {
@@ -37714,14 +37714,14 @@
         "number": "1250",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 70,
-        "enroll": 49,
+        "enroll": 48,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 70,
-            "enroll": 49
+            "enroll": 48
           }
         ],
         "schedule": [
@@ -37774,14 +37774,14 @@
         "number": "4444",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 70,
-        "enroll": 39,
+        "enroll": 40,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 70,
-            "enroll": 39
+            "enroll": 40
           }
         ],
         "schedule": [
@@ -47211,6 +47211,123 @@
   {
     "career": "EXEC",
     "subject": "IMBA",
+    "number": "5120",
+    "code": "IMBA5120",
+    "name": "Managing Emerging Technologies",
+    "description": "This course provides a managerial overview of several cornerstone technologies, including blockchain,  business analytics, and fintech, that fuel this digital transformation. We will provide students with a solid technical foundation and working knowledge of these new technologies and how they interact with each other to transform businesses. Analysis will be drawn from exemplary cases to develop guidance and insights on how to strategically utilize and manage these new technological innovations.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "ISOM 5020",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4465",
+        "remarks": "> Class Duration/Dates : 26-Oct-2024 to 27-Oct-2024\n> Add/Drop Deadline : 26-Oct-2024",
+        "quota": 38,
+        "enroll": 38,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "HUI, Kai Lung"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-10-26",
+            "toDate": "2024-10-27",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "IMBA",
+    "number": "5510",
+    "code": "IMBA5510",
+    "name": "Digital and Social Media Strategy",
+    "description": "This course will prepare executives for opportunities and challenges in a technology-driven economy, and focus on how firms can use digital and social media to effectively connect with consumers. We will discuss how firms can develop holistic digital and social media strategies and optimize campaign budget across different digital channels and tools,execute viral strategies, engage customers through social media and mobile technologies, and enhance performances of their digital campaign activities.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4463",
+        "remarks": "> Class Duration/Dates : 23-Oct-2024\n> Add/Drop Deadline : 23-Oct-2024",
+        "quota": 29,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "KOH, Tat Koon"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "IMBA",
+    "number": "5560",
+    "code": "IMBA5560",
+    "name": "Corporate Governance",
+    "description": "This course covers the principles and practices of corporate governance, focusing especially on boards of directors, institutional investors, and executive compensation. It will also cover the latest developments in the field, using academic papers and real-life cases.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4464",
+        "remarks": "> Class Duration/Dates : 24-Oct-2024 to 25-Oct-2024\n> Add/Drop Deadline : 24-Oct-2024",
+        "quota": 34,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CHEN, Tai-Yuan"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-10-24",
+            "toDate": "2024-10-25",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "IMBA",
     "number": "5590",
     "code": "IMBA5590",
     "name": "Leadership and Decision Making",
@@ -55084,14 +55201,14 @@
         "number": "1360",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 47,
-        "enroll": 23,
+        "enroll": 22,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 47,
-            "enroll": 21
+            "enroll": 20
           }
         ],
         "schedule": [
@@ -55142,14 +55259,14 @@
         "number": "1362",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 65,
-        "enroll": 61,
+        "enroll": 60,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 65,
-            "enroll": 61
+            "enroll": 60
           }
         ],
         "schedule": [
@@ -90338,14 +90455,14 @@
         "number": "1513",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 04-Nov-2024",
         "quota": 41,
-        "enroll": 37,
+        "enroll": 38,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 41,
-            "enroll": 37
+            "enroll": 38
           }
         ],
         "schedule": [
