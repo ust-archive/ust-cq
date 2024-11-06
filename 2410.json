@@ -8621,6 +8621,45 @@
   {
     "career": "RPG",
     "subject": "CHEM",
+    "number": "6980B",
+    "code": "CHEM6980B",
+    "name": "Research Project",
+    "description": "An independent research project carried out under the supervision of a faculty member. This course is only available for exchange, visiting and visiting internship students.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4467",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "CHEM",
     "number": "6990",
     "code": "CHEM6990",
     "name": "MPhil Thesis Research",
@@ -83335,6 +83374,45 @@
           {
             "instructors": [
               "YANG, Can"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "MATH",
+    "number": "6912M",
+    "code": "MATH6912M",
+    "name": "Reading Course: Time Series Analysis",
+    "description": "The topics covered in this reading course include: 1. Nonlinear Models and Their Applications; 2. Multivariate Time Series Analysis and Its Applications; 3. Co-integration Time Series and Its Applications; 4. Multivariate Volatility Models and Their Applications. Students should seek approval from the course instructor to take this reading course.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4466",
+        "remarks": "> Students should seek approval from the course instructor to take this course.",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LING, Shiqing"
             ],
             "venue": "TBA",
             "fromDate": "2024-09-02",
