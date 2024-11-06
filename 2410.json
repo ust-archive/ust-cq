@@ -37876,7 +37876,7 @@
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 2-Dec-2024",
         "quota": 70,
         "enroll": 70,
-        "waitlist": 35,
+        "waitlist": 36,
         "consent": false,
         "reservedQuota": [
           {
@@ -38586,6 +38586,84 @@
             ],
             "fromTime": "18:00",
             "toTime": "19:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "GFIN",
+    "number": "5020",
+    "code": "GFIN5020",
+    "name": "Foundations of Corporate Finance",
+    "description": "The aim of the course is to provide students with a comprehensive overview of the financing and investment decisions made by firms.  It covers capital budgeting, dividend policy, financing policy and managerial incentives.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4468",
+        "remarks": "> For MSc(GFIN) students only\n> Class Duration : 11-Nov-2024 to 13-Nov-2024\n> Add/Drop Deadline : 11-Nov-2024",
+        "quota": 20,
+        "enroll": 15,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "NIELSEN, Kasper Meisner"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "GFIN",
+    "number": "5200",
+    "code": "GFIN5200",
+    "name": "Global Macro & Asian Markets",
+    "description": "This course introduces students to macroeconomic forces that affect global and Asian financial markets. Students will discuss various global macroeconomic concepts, the influences of global finance on long-run economic growth, and the structure/size of foreign exchange markets. This course will also cover recent developments in global/Asian financial markets, macroeconomics in a post-crises world, and exchange rates.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4469",
+        "remarks": "> For MSc(GFIN) students only\n> Class Duration : 14-Nov-2024 to 16-Nov-2024\n> Add/Drop Deadline : 14-Nov-2024",
+        "quota": 21,
+        "enroll": 16,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "RAO, Milind Shankar"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
