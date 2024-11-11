@@ -70465,6 +70465,45 @@
   {
     "career": "UGRD",
     "subject": "LIFS",
+    "number": "4910D",
+    "code": "LIFS4910D",
+    "name": "Independent Study",
+    "description": "The course will cover review topics restricted to life sciences. Enrolled students will conduct research project or literature review exercise on a mutually agreed topic under the supervision of a faculty member. For third year LIFS students and visiting interns only. Approval of the course instructor is needed for students to enroll in this course. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "4472",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "LIFS",
     "number": "4960",
     "code": "LIFS4960",
     "name": "Biological Science Capstone Project",
@@ -102397,14 +102436,14 @@
         "number": "1605",
         "remarks": "> For Digital MBA Year 3 or above students only\n> Add/Drop Deadline : 05-Dec-2024",
         "quota": 35,
-        "enroll": 33,
+        "enroll": 32,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "Digital MBA",
             "quota": 35,
-            "enroll": 33
+            "enroll": 32
           }
         ],
         "schedule": [
