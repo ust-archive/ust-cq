@@ -37875,14 +37875,14 @@
         "number": "1254",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 2-Dec-2024",
         "quota": 70,
-        "enroll": 70,
+        "enroll": 69,
         "waitlist": 33,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 70,
-            "enroll": 70
+            "enroll": 69
           }
         ],
         "schedule": [
@@ -38610,7 +38610,7 @@
         "number": "4468",
         "remarks": "> For MSc(GFIN) students only\n> Class Duration : 11-Nov-2024 to 13-Nov-2024\n> Add/Drop Deadline : 11-Nov-2024",
         "quota": 20,
-        "enroll": 15,
+        "enroll": 17,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -38649,7 +38649,7 @@
         "number": "4469",
         "remarks": "> For MSc(GFIN) students only\n> Class Duration : 14-Nov-2024 to 16-Nov-2024\n> Add/Drop Deadline : 14-Nov-2024",
         "quota": 21,
-        "enroll": 16,
+        "enroll": 18,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -47320,6 +47320,90 @@
             "weekdays": [],
             "fromTime": null,
             "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "IMBA",
+    "number": "5030",
+    "code": "IMBA5030",
+    "name": "Accounting Foundations",
+    "description": "Provides essential foundation tools of financial accounting and analysis from a management perspective, including balance sheets, income statements, cash flow statements, accrual concepts, revenue and expense recognition, asset and liability accounting.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "ACCT 5100, ACCT 5150",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4470",
+        "remarks": "> Class Duration/Dates : 17-Oct-2024 to 18-Oct-2024\n> Add/Drop Deadline : 17-Oct-2024",
+        "quota": 45,
+        "enroll": 45,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CHEN, Tai-Yuan"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-10-17",
+            "toDate": "2024-10-18",
+            "weekdays": [
+              4,
+              5
+            ],
+            "fromTime": "08:30",
+            "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "IMBA",
+    "number": "5040",
+    "code": "IMBA5040",
+    "name": "Managerial Economics",
+    "description": "This course focuses on understanding individual economic behavior, competition, and market characteristics that are relevant to business and management.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "ECON 5110",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4471",
+        "remarks": "> Class Duration/Dates : 19-Oct-2024 to 20-Oct-2024\n> Add/Drop Deadline : 19-Oct-2024",
+        "quota": 45,
+        "enroll": 45,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "FONG, Yuk Fai"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-10-19",
+            "toDate": "2024-10-20",
+            "weekdays": [
+              6,
+              7
+            ],
+            "fromTime": "08:30",
+            "toTime": "17:20"
           }
         ]
       }
