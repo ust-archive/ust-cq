@@ -47451,21 +47451,6 @@
   {
     "career": "EXEC",
     "subject": "IMBA",
-    "number": "5510",
-    "code": "IMBA5510",
-    "name": "Digital and Social Media Strategy",
-    "description": "This course will prepare executives for opportunities and challenges in a technology-driven economy, and focus on how firms can use digital and social media to effectively connect with consumers. We will discuss how firms can develop holistic digital and social media strategies and optimize campaign budget across different digital channels and tools,execute viral strategies, engage customers through social media and mobile technologies, and enhance performances of their digital campaign activities.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "IMBA 6900W",
-    "credits": 1,
-    "attributes": [],
-    "classes": []
-  },
-  {
-    "career": "EXEC",
-    "subject": "IMBA",
     "number": "5560",
     "code": "IMBA5560",
     "name": "Corporate Governance",
@@ -47572,6 +47557,45 @@
             "venue": "TBA",
             "fromDate": "2024-09-21",
             "toDate": "2024-09-22",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "IMBA",
+    "number": "6900W",
+    "code": "IMBA6900W",
+    "name": "Digital and Social Media Strategy",
+    "description": "Digital and social media are key channels that help firms reach, acquire, and engage customers. Yet, for every success story of digital and social media implementation that we read, there are many untold tales where firms failed to achieve their desired goals. To prepare executives for opportunities and challenges in a technology-driven economy, this course focuses on how firms can use digital and social media to effectively connect with consumers. In addition, we will go through hands-on analytical exercises for some of the strategies that we will discuss.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "IMBA 5510",
+    "credits": 0.5,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4473",
+        "remarks": "> Class Duration/Dates : 23-Oct-2024\n> Add/Drop Deadline : 23-Oct-2024",
+        "quota": 29,
+        "enroll": 28,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "KOH, Tat Koon"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-09-02",
+            "toDate": "2024-11-30",
             "weekdays": [],
             "fromTime": null,
             "toTime": null
