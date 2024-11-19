@@ -2310,6 +2310,92 @@
     ]
   },
   {
+    "career": "TPG",
+    "subject": "ISOM",
+    "number": "5745",
+    "code": "ISOM5745",
+    "name": "Business and Operations Transformation in a Nutshell",
+    "description": "The course introduces the business and operations transformation approach by discussing the challenges and learning from real-life business cases. It helps students bridge the gaps between academic knowledge and real-life transformation experiences. Sharing and discussing the differences and similarities of transformation across different industry sectors will be covered.",
+    "previousCodes": "ISOM6790K",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1064",
+        "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 10-Jan-2025",
+        "quota": 60,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "GO",
+            "quota": 60,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "HUANG, Xin"
+            ],
+            "venue": "Rm 1003, LSK Bldg (75)",
+            "fromDate": "2025-01-10",
+            "toDate": "2025-01-10",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "HUANG, Xin"
+            ],
+            "venue": "Rm 1003, LSK Bldg (75)",
+            "fromDate": "2025-01-10",
+            "toDate": "2025-01-10",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "HUANG, Xin"
+            ],
+            "venue": "Rm 1003, LSK Bldg (75)",
+            "fromDate": "2025-01-13",
+            "toDate": "2025-01-13",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "HUANG, Xin"
+            ],
+            "venue": "Rm 1003, LSK Bldg (75)",
+            "fromDate": "2025-01-13",
+            "toDate": "2025-01-13",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "UGRD",
     "subject": "LIFS",
     "number": "2011",
