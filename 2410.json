@@ -43797,7 +43797,7 @@
         "section": "L1",
         "number": "2672",
         "remarks": " ",
-        "quota": 3,
+        "quota": 4,
         "enroll": 3,
         "waitlist": 0,
         "consent": true,
@@ -91015,20 +91015,6 @@
               "CHAN, Lap Cheung",
               "NEW, Mitya"
             ],
-            "venue": "Rm 3001, LSK Bldg",
-            "fromDate": "2024-12-19",
-            "toDate": "2024-12-19",
-            "weekdays": [
-              4
-            ],
-            "fromTime": "14:00",
-            "toTime": "17:20"
-          },
-          {
-            "instructors": [
-              "CHAN, Lap Cheung",
-              "NEW, Mitya"
-            ],
             "venue": "Rm 2003, LSK Bldg",
             "fromDate": "2024-12-06",
             "toDate": "2024-12-20",
@@ -91037,6 +91023,20 @@
             ],
             "fromTime": "09:30",
             "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "CHAN, Lap Cheung",
+              "NEW, Mitya"
+            ],
+            "venue": "Rm 3001, LSK Bldg",
+            "fromDate": "2024-12-19",
+            "toDate": "2024-12-19",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
           }
         ]
       }
