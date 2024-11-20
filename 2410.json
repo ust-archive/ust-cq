@@ -47529,6 +47529,45 @@
   {
     "career": "EXEC",
     "subject": "IMBA",
+    "number": "6100A",
+    "code": "IMBA6100A",
+    "name": "Global Field Trip Study",
+    "description": "This course aims to provide students with an opportunity to explore the global business environment. It is delivered in a variety of ways including: partnerships with world-class institutions; collaboration with leading companies; dialogues with local corporate and community leaders. The course may be repeated for credits if the visiting country and theme of the trips are different each time.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4474",
+        "remarks": "> Class Duration/Dates : 04-Nov-2024 to 08-Nov-2024\n> Add/Drop Deadline : 04-Nov-2024",
+        "quota": 9,
+        "enroll": 9,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "WANG, Caroline"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-11-04",
+            "toDate": "2024-11-08",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "IMBA",
     "number": "6900U",
     "code": "IMBA6900U",
     "name": "Global Macroeconomics",
@@ -90950,12 +90989,26 @@
             ],
             "venue": "Rm 2003, LSK Bldg",
             "fromDate": "2024-11-15",
-            "toDate": "2024-12-20",
+            "toDate": "2024-11-22",
             "weekdays": [
               5
             ],
             "fromTime": "09:30",
             "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "CHAN, Lap Cheung",
+              "NEW, Mitya"
+            ],
+            "venue": "Rm 1005, LSK Bldg (75)",
+            "fromDate": "2024-12-11",
+            "toDate": "2024-12-11",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
           },
           {
             "instructors": [
@@ -90970,6 +91023,20 @@
             ],
             "fromTime": "14:00",
             "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "CHAN, Lap Cheung",
+              "NEW, Mitya"
+            ],
+            "venue": "Rm 2003, LSK Bldg",
+            "fromDate": "2024-12-06",
+            "toDate": "2024-12-20",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
           }
         ]
       }
