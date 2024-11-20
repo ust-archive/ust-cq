@@ -642,6 +642,48 @@
     ]
   },
   {
+    "career": "RPG",
+    "subject": "ECON",
+    "number": "6120X",
+    "code": "ECON6120X",
+    "name": "Topic in Econometrics, Applied Spatial and Network Econometric Models",
+    "description": "Application of spatial autoregressive model, spatial Panel Models; Network outcome models.",
+    "previousCodes": "",
+    "prerequisites": "ECON 5300",
+    "corequisites": "",
+    "exclusions": "ECON 6120J",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1065",
+        "remarks": "> For PhD(ECON) students only\n> Add/Drop Deadline : 10-Jan-2025",
+        "quota": 10,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LEE, Lung-fei"
+            ],
+            "venue": "Rm 1027, LSK Bldg (40)",
+            "fromDate": "2025-01-09",
+            "toDate": "2025-01-23",
+            "weekdays": [
+              2,
+              4
+            ],
+            "fromTime": "14:00",
+            "toTime": "16:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "TPG",
     "subject": "EESM",
     "number": "6970",
