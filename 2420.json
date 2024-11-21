@@ -197,7 +197,7 @@
         "number": "1012",
         "remarks": "> Add/Drop Deadline: 04-Jan-2025",
         "quota": 50,
-        "enroll": 2,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -220,7 +220,7 @@
         "number": "1013",
         "remarks": " ",
         "quota": 50,
-        "enroll": 2,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1427,7 +1427,7 @@
         "number": "1030",
         "remarks": "> Add/Drop Deadline : 07-Jan-2025",
         "quota": 80,
-        "enroll": 37,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1579,7 +1579,7 @@
         "number": "1031",
         "remarks": "> Add/Drop Deadline : 03-Jan-2025",
         "quota": 100,
-        "enroll": 49,
+        "enroll": 50,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1671,7 +1671,7 @@
           {
             "name": "IS",
             "quota": 40,
-            "enroll": 2
+            "enroll": 3
           },
           {
             "name": "SBM",
@@ -1765,14 +1765,14 @@
         "number": "1035",
         "remarks": "> The class is delivered in a conventional face-to-face mode \n> Add/Drop Deadline : 04-Jan-2025",
         "quota": 60,
-        "enroll": 2,
-        "waitlist": 4,
+        "enroll": 6,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [
           {
             "name": "OM",
             "quota": 60,
-            "enroll": 2
+            "enroll": 6
           }
         ],
         "schedule": [
