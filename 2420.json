@@ -259,7 +259,7 @@
         "number": "1015",
         "remarks": "> Add/Drop Deadline: 04-Jan-2025",
         "quota": 50,
-        "enroll": 1,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -282,7 +282,7 @@
         "number": "1016",
         "remarks": " ",
         "quota": 50,
-        "enroll": 1,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1509,7 +1509,7 @@
         "number": "1034",
         "remarks": "> Add/Drop Deadline : 04-Jan-2025",
         "quota": 180,
-        "enroll": 97,
+        "enroll": 98,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1664,14 +1664,14 @@
         "number": "1032",
         "remarks": "> Add/Drop Deadline : 04-Jan-2025",
         "quota": 60,
-        "enroll": 31,
+        "enroll": 30,
         "waitlist": 3,
         "consent": false,
         "reservedQuota": [
           {
             "name": "IS",
             "quota": 40,
-            "enroll": 10
+            "enroll": 9
           },
           {
             "name": "SBM",
@@ -1715,7 +1715,7 @@
         "number": "1033",
         "remarks": " ",
         "quota": 60,
-        "enroll": 31,
+        "enroll": 30,
         "waitlist": 3,
         "consent": false,
         "reservedQuota": [],
@@ -2370,14 +2370,14 @@
         "number": "1064",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 10-Jan-2025",
         "quota": 60,
-        "enroll": 34,
+        "enroll": 35,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 60,
-            "enroll": 34
+            "enroll": 35
           }
         ],
         "schedule": [
