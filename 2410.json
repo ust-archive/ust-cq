@@ -47412,6 +47412,84 @@
   {
     "career": "EXEC",
     "subject": "IMBA",
+    "number": "5060",
+    "code": "IMBA5060",
+    "name": "Accounting for Decision Making and Control",
+    "description": "This course covers the use of accounting information in decision-making, planning, control, and performance evaluation for managers of the corporation. It also discusses the use of accounting information in valuation and credit analysis for users external to the corporation.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "ACCT 5210",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4476",
+        "remarks": "> Class Duration/Dates : 16-Nov-2024 to 17-Nov-2024\n> Add/Drop Deadline : 16-Nov-2024",
+        "quota": 47,
+        "enroll": 47,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "SHIEH, Tony"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-11-16",
+            "toDate": "2024-11-17",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "IMBA",
+    "number": "5100",
+    "code": "IMBA5100",
+    "name": "Statistical Decision Analysis",
+    "description": "This course introduces the applications of elementary probability theory in business decision-making under the conditions or uncertainty and explores the method of regression analysis and the use of sample data for the purpose of modeling, estimating, forecasting, and decision-making.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "ISOM 5510",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4475",
+        "remarks": "> Class Duration/Dates : 14-Nov-2024 to 15-Nov-2024\n> Add/Drop Deadline : 14-Nov-2024",
+        "quota": 52,
+        "enroll": 52,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LI, Yingying"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-11-14",
+            "toDate": "2024-11-15",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "IMBA",
     "number": "5120",
     "code": "IMBA5120",
     "name": "Managing Emerging Technologies",
