@@ -1141,6 +1141,123 @@
     ]
   },
   {
+    "career": "TPG",
+    "subject": "GFIN",
+    "number": "5010",
+    "code": "GFIN5010",
+    "name": "Foundations of Investments",
+    "description": "This course provides an introduction to modern asset pricing theory. We begin by briefly reviewing portfolio theory. We then move on to discussing current determinants of asset prices such as cash risk and liquidity. One of the course's goals is to apply asset pricing theories to investment decision-making. A second goal is to prepare students for upcoming courses. A third goal is to build a fundamental knowledge of fixed income and derivatives products.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1066",
+        "remarks": "> For MSc(GFIN) students only\n> Class Duration : 10-Jan-2025 to 12-Jan-2025\n> Add/Drop Deadline : 10-Jan-2025",
+        "quota": 24,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "YU, Jialin"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-01-10",
+            "toDate": "2025-01-12",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "GFIN",
+    "number": "5400",
+    "code": "GFIN5400",
+    "name": "Asset Allocation",
+    "description": "The course builds on GFIN 5010 Foundations of Investments to provide students with tools and knowledge in global asset allocation. Topics include major investable markets and players, asset allocation, performance evaluation, strategies and performance of hedge funds, and factor models.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "GFIN 5030 (Prior to 2019-20)",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1067",
+        "remarks": "> For MSc(GFIN) students only\n> Class Duration : 13-Jan-2025 to 14-Jan-2025\n> Add/Drop Deadline : 13-Jan-2025",
+        "quota": 23,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "BHATTACHARYA, Utpal"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-01-13",
+            "toDate": "2025-01-14",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "GFIN",
+    "number": "5500",
+    "code": "GFIN5500",
+    "name": "Behavioral Finance",
+    "description": "A growing strand of research suggests that the standard economic paradigm - rational investors in an efficient market - does not adequately describe behavior in financial markets. Behavioral finance combines the latest findings of behavioral and cognitive psychological theory with conventional economics and finance to provide alternative explanations of financial market behavior. We will examine how psychology of decision making under conditions of risk and uncertainty affects the traditional paradigm, while paying attention to practical applications for portfolio and investment management.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "FINA 5420 (prior to 2020-21)",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1068",
+        "remarks": "> For MSc(GFIN) students only\n> Class Duration : 14-Jan-2025 to 15-Jan-2025\n> Add/Drop Deadline : 14-Jan-2025",
+        "quota": 23,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "MUKHERJEE, Abhiroop"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-01-14",
+            "toDate": "2025-01-15",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "UGRD",
     "subject": "IEDA",
     "number": "4920",
