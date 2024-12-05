@@ -1,5 +1,44 @@
 [
   {
+    "career": "TPG",
+    "subject": "BEHI",
+    "number": "6101B",
+    "code": "BEHI6101B",
+    "name": "Independent Project",
+    "description": "An independent research project carried out under the supervision of a faculty member. May be graded PP.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1071",
+        "remarks": "> Add/Drop Deadline : 04-Jan-2025\n> Extended Drop Deadline : 11-Jan-2025",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-01-02",
+            "toDate": "2025-01-28",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "UGRD",
     "subject": "CIVL",
     "number": "3020",
