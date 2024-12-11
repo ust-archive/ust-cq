@@ -1814,7 +1814,7 @@
         "remarks": "> Add/Drop Deadline : 03-Jan-2025",
         "quota": 100,
         "enroll": 100,
-        "waitlist": 119,
+        "waitlist": 120,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -2863,14 +2863,14 @@
         "number": "1050",
         "remarks": "> For PT-MBA Year 1 students only\n> Add/Drop Deadline : 06-Jan-2025",
         "quota": 52,
-        "enroll": 51,
-        "waitlist": 1,
+        "enroll": 52,
+        "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MBA",
             "quota": 52,
-            "enroll": 50
+            "enroll": 51
           }
         ],
         "schedule": [
