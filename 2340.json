@@ -3778,6 +3778,84 @@
   {
     "career": "EXEC",
     "subject": "EMBA",
+    "number": "5150",
+    "code": "EMBA5150",
+    "name": "Negotiation",
+    "description": "Develops negotiation and dispute resolution skills through simulations set in dyads, groups, and multilateral contexts within and between organizations and across cultures.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1357",
+        "remarks": "> For Kellogg-HKUST EMBA students only\n> Class Duration/Dates : 01-Aug-2024 to 31-Aug-2024\n> Add/Drop Deadline : 01-Aug-2024",
+        "quota": 34,
+        "enroll": 13,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-08-01",
+            "toDate": "2024-08-31",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "EMBA",
+    "number": "5400",
+    "code": "EMBA5400",
+    "name": "Crisis Management",
+    "description": "Explores crisis management from the point of view of managers and consultants.  Understands the motivations and strategic capabilities of stakeholders, and the importance of value-based management in preventing and managing corporate crises.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1358",
+        "remarks": "> For Kellogg-HKUST EMBA students only\n> Class Duration/Dates : 01-Aug-2024 to 31-Aug-2024\n> Add/Drop Deadline : 31-Aug-2024",
+        "quota": 34,
+        "enroll": 4,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-08-01",
+            "toDate": "2024-08-31",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "EMBA",
     "number": "6000A",
     "code": "EMBA6000A",
     "name": "Family Business",
