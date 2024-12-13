@@ -361,7 +361,7 @@
         "remarks": "> Add/Drop Deadline: 04-Jan-2025",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 5,
+        "waitlist": 6,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -384,7 +384,7 @@
         "remarks": " ",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 5,
+        "waitlist": 6,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -2613,14 +2613,14 @@
         "number": "1064",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 10-Jan-2025",
         "quota": 60,
-        "enroll": 51,
+        "enroll": 52,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 60,
-            "enroll": 51
+            "enroll": 52
           }
         ],
         "schedule": [
