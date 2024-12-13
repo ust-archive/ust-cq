@@ -405,6 +405,45 @@
   },
   {
     "career": "UGRD",
+    "subject": "COMP",
+    "number": "4910",
+    "code": "COMP4910",
+    "name": "Co-op Program",
+    "description": "Students in this co-op program will be engaged in practical hands-on training for a period of at least 5 months working in an organization or company that provides qualified training relevant to the computer engineering profession. Students are required to complete a final year project under the supervision of an industrial supervisor and a faculty member during the co-op. May be graded PP. For COMP and COSC students in their third or fourth year of study only. Approval of the course coordinator is required for enrollment in the course.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "COMP 4981, COMP 4981H",
+    "credits": 6,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1073",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-01-02",
+            "toDate": "2025-01-28",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
     "subject": "CPEG",
     "number": "4910",
     "code": "CPEG4910",
