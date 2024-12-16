@@ -499,8 +499,8 @@
         "section": "L1",
         "number": "1056",
         "remarks": "> For DBA students only\n> Class Duration/Dates : 9-Jan-2025 and 22-Feb-2025\n> Add/Drop Deadline : 9-Jan-2025",
-        "quota": 14,
-        "enroll": 14,
+        "quota": 15,
+        "enroll": 15,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -538,8 +538,8 @@
         "section": "L1",
         "number": "1057",
         "remarks": "> For DBA students only\n> Class Duration/Dates : 10-Jan-2025 and 23-Feb-2025\n> Add/Drop Deadline : 10-Jan-2025",
-        "quota": 14,
-        "enroll": 14,
+        "quota": 15,
+        "enroll": 15,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1182,6 +1182,53 @@
   {
     "career": "UGRD",
     "subject": "ENVR",
+    "number": "2811",
+    "code": "ENVR2811",
+    "name": "Environmental Management and Technology Study Trip II",
+    "description": "This course is the second of two study trip courses directed at Division of Environment and Sustainability students in their second or third years of study. The course is a study trip that will provide students with the opportunity to travel with a faculty member to various study sites that have a diversity of environmental or sustainability issues and see and discuss issues at the site with practitioners. Students will prepare an in-depth presentation on one particular site and prepare a reflective report on their experience. Approval from instructor is needed for enrolling in the course. The course may be repeated once for credit if the study sites are different. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1074",
+        "remarks": " ",
+        "quota": 7,
+        "enroll": 7,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "DELINA, Laurence L.",
+              "LAU, Pui Sang"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-01-05",
+            "toDate": "2025-01-10",
+            "weekdays": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              7
+            ],
+            "fromTime": "09:00",
+            "toTime": "17:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENVR",
     "number": "3001",
     "code": "ENVR3001",
     "name": "Academic and Professional Development II",
@@ -1213,6 +1260,53 @@
             "weekdays": [],
             "fromTime": null,
             "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "ENVR",
+    "number": "6100B",
+    "code": "ENVR6100B",
+    "name": "Independent Study",
+    "description": "Study on selected topics in environmental science under the supervision of a faculty member. The course may be repeated once for credits if the topic is different. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1075",
+        "remarks": " ",
+        "quota": 29,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "DELINA, Laurence L.",
+              "LAU, Pui Sang"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-01-05",
+            "toDate": "2025-01-10",
+            "weekdays": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              7
+            ],
+            "fromTime": "09:00",
+            "toTime": "17:50"
           }
         ]
       }
