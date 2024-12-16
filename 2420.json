@@ -840,6 +840,45 @@
     ]
   },
   {
+    "career": "UGRD",
+    "subject": "ELEC",
+    "number": "4940A",
+    "code": "ELEC4940A",
+    "name": "Independent Study",
+    "description": "Selected topics in electronic and computer engineering studied under the supervision of a faculty member. Enrollment subject to approval by the department.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1076",
+        "remarks": "> Add/Drop Deadline: 04-Jan-2025",
+        "quota": 3,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "WOO, Kam Tim"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-01-02",
+            "toDate": "2025-01-28",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "RPG",
     "subject": "EMIA",
     "number": "6500I",
