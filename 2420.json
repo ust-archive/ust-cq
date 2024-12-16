@@ -237,7 +237,7 @@
         "remarks": "> Add/Drop Deadline: 04-Jan-2025",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 0,
+        "waitlist": 1,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -260,7 +260,7 @@
         "remarks": " ",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 0,
+        "waitlist": 1,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -361,7 +361,7 @@
         "remarks": "> Add/Drop Deadline: 04-Jan-2025",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 9,
+        "waitlist": 10,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -384,7 +384,7 @@
         "remarks": " ",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 9,
+        "waitlist": 10,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -2516,7 +2516,7 @@
         "number": "1048",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 06-Jan-2025",
         "quota": 60,
-        "enroll": 30,
+        "enroll": 32,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -2528,7 +2528,7 @@
           {
             "name": "IS",
             "quota": 55,
-            "enroll": 25
+            "enroll": 27
           }
         ],
         "schedule": [
@@ -2594,7 +2594,7 @@
         "number": "1049",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 08-Jan-2025",
         "quota": 60,
-        "enroll": 56,
+        "enroll": 54,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -2606,7 +2606,7 @@
           {
             "name": "IS",
             "quota": 55,
-            "enroll": 52
+            "enroll": 50
           }
         ],
         "schedule": [
