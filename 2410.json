@@ -47646,6 +47646,45 @@
   {
     "career": "EXEC",
     "subject": "IMBA",
+    "number": "5070",
+    "code": "IMBA5070",
+    "name": "Corporate Finance",
+    "description": "Explores the strategic financial decisions an organization makes for value creation. The topics include an analysis of capital spending, capital structure, risk management, financial statement analysis and forecasting, corporate restructuring, and understanding and impact of financial institutions on financial decisions.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "FINA 5120",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4487",
+        "remarks": "> Class Duration/Dates : 14-Dec-2024 to 15-Dec-2024\n> Add/Drop Deadline : 14-Dec-2024",
+        "quota": 51,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "NIELSEN, Kasper Meisner"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-12-14",
+            "toDate": "2024-12-15",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "IMBA",
     "number": "5100",
     "code": "IMBA5100",
     "name": "Statistical Decision Analysis",
@@ -47758,6 +47797,45 @@
             ],
             "fromTime": "08:30",
             "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "IMBA",
+    "number": "5340",
+    "code": "IMBA5340",
+    "name": "Investment Analysis",
+    "description": "An introduction to fundamental concepts in investment analysis. The first part covers risk and return tradeoff, portfolio diversification, and modern portfolio theory including the capital asset pricing model and arbitrage pricing theory. The second part covers basic analytical tools used in analyzing fixed income securities.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4486",
+        "remarks": "> Class Duration/Dates : 12-Dec-2024 to 13-Dec-2024\n> Add/Drop Deadline : 12-Dec-2024",
+        "quota": 51,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CHEN, Zhanhui"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-12-12",
+            "toDate": "2024-12-13",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
