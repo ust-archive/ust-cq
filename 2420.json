@@ -39,6 +39,45 @@
     ]
   },
   {
+    "career": "RPG",
+    "subject": "CENG",
+    "number": "6900C",
+    "code": "CENG6900C",
+    "name": "Independent Study",
+    "description": "Selected topics in chemical engineering studied under the supervision of a faculty member. Graded P or F.",
+    "previousCodes": "CENG690C",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "CENG 6800",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1081",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-01-02",
+            "toDate": "2025-01-28",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "UGRD",
     "subject": "CIVL",
     "number": "3020",
