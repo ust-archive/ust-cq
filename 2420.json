@@ -838,6 +838,47 @@
   },
   {
     "career": "TPG",
+    "subject": "DBAP",
+    "number": "6300D",
+    "code": "DBAP6300D",
+    "name": "DBA Residential Program",
+    "description": "Students will conduct research under the supervision of their faculty advisors. Students need to be on campus for at least two days for research activities in each regular term. In addition, there should be at least 10 contact hours with the advisors during the term. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1083",
+        "remarks": "> For DBA students only\n> Class Duration/Dates : 18-Jan-2025\n> Add/Drop Deadline : 18-Jan-2025",
+        "quota": 10,
+        "enroll": 10,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-01-18",
+            "toDate": "2025-01-18",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "09:00",
+            "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
     "subject": "ECON",
     "number": "5341",
     "code": "ECON5341",
