@@ -1344,6 +1344,45 @@
   {
     "career": "UGRD",
     "subject": "ENGG",
+    "number": "2010",
+    "code": "ENGG2010",
+    "name": "Engineering Seminar Series",
+    "description": "This course is designed for non-freshman students in the School of Engineering to promote the awareness of the role of engineers and the impact of engineering in the society. As a continuation of ENGG 1010, students are required to attend a few seminars from a series of seminars offered by the school each year. The seminars cover areas including the ethical and environmental responsibilities as an engineer, the importance and the considerations of safety and health related issues in engineering designs and solutions, and in general the impact of engineering to the society. This course helps to provide the needed components for meeting the accreditation requirement and also helps to broaden the students' horizon in different engineering disciplines. For SENG students not in their first year of study only. Graded P or F. May be graded PP.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1087",
+        "remarks": " ",
+        "quota": 4,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-01-02",
+            "toDate": "2025-01-28",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENGG",
     "number": "3960E",
     "code": "ENGG3960E",
     "name": "Robotics Special Project: Development of Robot Design Contest Course",
@@ -2115,7 +2154,7 @@
         "remarks": "> Add/Drop Deadline : 07-Jan-2025",
         "quota": 80,
         "enroll": 80,
-        "waitlist": 42,
+        "waitlist": 41,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -2274,7 +2313,7 @@
         "number": "1034",
         "remarks": "> Add/Drop Deadline : 04-Jan-2025",
         "quota": 199,
-        "enroll": 198,
+        "enroll": 199,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
