@@ -3856,6 +3856,45 @@
   {
     "career": "EXEC",
     "subject": "EMBA",
+    "number": "5640",
+    "code": "EMBA5640",
+    "name": "Strategic Decisions in Operations",
+    "description": "The goal of the course is to understand how strategic decisions in operations impact the performance of the firm. The key will be to understand the link between operations configurations, the customer experience, and the financial performance of the firm.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1359",
+        "remarks": "> Class Duration/Dates : 01-Aug-2024 to 31-Aug-2024\n> Add/Drop Deadline : 01-Aug-2024",
+        "quota": 32,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2024-08-01",
+            "toDate": "2024-08-31",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "EMBA",
     "number": "6000A",
     "code": "EMBA6000A",
     "name": "Family Business",
