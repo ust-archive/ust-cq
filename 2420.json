@@ -56,8 +56,8 @@
         "section": "R1",
         "number": "1081",
         "remarks": " ",
-        "quota": 1,
-        "enroll": 1,
+        "quota": 2,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -99,6 +99,45 @@
         "enroll": 28,
         "waitlist": 0,
         "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-01-02",
+            "toDate": "2025-01-28",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "CIVL",
+    "number": "6010A",
+    "code": "CIVL6010A",
+    "name": "Directed Studies",
+    "description": "Specialist courses where instruction is generally on a one-to-one basis. Graded P or F.",
+    "previousCodes": "CIVL610A",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1088",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -277,7 +316,7 @@
         "remarks": "> Add/Drop Deadline: 04-Jan-2025",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 4,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -300,7 +339,7 @@
         "remarks": " ",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 4,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -581,8 +620,8 @@
         "section": "R1",
         "number": "1078",
         "remarks": " ",
-        "quota": 2,
-        "enroll": 2,
+        "quota": 3,
+        "enroll": 3,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -1360,7 +1399,7 @@
         "number": "1087",
         "remarks": " ",
         "quota": 4,
-        "enroll": 4,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2123,6 +2162,45 @@
   },
   {
     "career": "UGRD",
+    "subject": "ISDN",
+    "number": "4900A",
+    "code": "ISDN4900A",
+    "name": "Independent Study",
+    "description": "Independent studies or projects under the directed guidance of a faculty member on an integrative systems and design topic. A written report, presentation, and/or an examination are required. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. May be repeated for credits. Graded P or F. May be graded PP.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1089",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-01-02",
+            "toDate": "2025-01-28",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
     "subject": "ISOM",
     "number": "1090",
     "code": "ISOM1090",
@@ -2154,7 +2232,7 @@
         "remarks": "> Add/Drop Deadline : 07-Jan-2025",
         "quota": 80,
         "enroll": 80,
-        "waitlist": 41,
+        "waitlist": 39,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -2231,7 +2309,7 @@
         "remarks": "> Add/Drop Deadline : 07-Jan-2025",
         "quota": 80,
         "enroll": 80,
-        "waitlist": 66,
+        "waitlist": 65,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -2313,7 +2391,7 @@
         "number": "1034",
         "remarks": "> Add/Drop Deadline : 04-Jan-2025",
         "quota": 199,
-        "enroll": 191,
+        "enroll": 189,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2470,7 +2548,7 @@
         "number": "1032",
         "remarks": "> Add/Drop Deadline : 04-Jan-2025",
         "quota": 60,
-        "enroll": 43,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2510,7 +2588,7 @@
         "number": "1033",
         "remarks": " ",
         "quota": 60,
-        "enroll": 43,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2843,7 +2921,7 @@
         "number": "1047",
         "remarks": "> For MSc(ISM) students only\n> Venue from 08-Jan-2025 to 22-Jan-2025 : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 06-Jan-2025",
         "quota": 50,
-        "enroll": 50,
+        "enroll": 49,
         "waitlist": 2,
         "consent": false,
         "reservedQuota": [
@@ -2855,7 +2933,7 @@
           {
             "name": "IS",
             "quota": 49,
-            "enroll": 49
+            "enroll": 48
           }
         ],
         "schedule": [
@@ -3005,7 +3083,7 @@
         "number": "1049",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 08-Jan-2025",
         "quota": 60,
-        "enroll": 46,
+        "enroll": 45,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -3017,7 +3095,7 @@
           {
             "name": "IS",
             "quota": 55,
-            "enroll": 42
+            "enroll": 41
           }
         ],
         "schedule": [
