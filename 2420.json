@@ -2387,7 +2387,7 @@
         "remarks": "> Add/Drop Deadline : 07-Jan-2025",
         "quota": 80,
         "enroll": 80,
-        "waitlist": 52,
+        "waitlist": 50,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -2637,9 +2637,10 @@
             ],
             "venue": "Rm 1007, LSK Bldg (80)",
             "fromDate": "2025-01-02",
-            "toDate": "2025-01-02",
+            "toDate": "2025-01-03",
             "weekdays": [
-              4
+              4,
+              5
             ],
             "fromTime": "14:00",
             "toTime": "17:20"
@@ -2649,7 +2650,7 @@
               "JIA, Jia"
             ],
             "venue": "G001, LSK Bldg (75)",
-            "fromDate": "2025-01-02",
+            "fromDate": "2025-01-07",
             "toDate": "2025-01-23",
             "weekdays": [
               2,
@@ -2658,6 +2659,19 @@
             ],
             "fromTime": "14:00",
             "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "JIA, Jia"
+            ],
+            "venue": "G001, LSK Bldg (75)",
+            "fromDate": "2025-01-24",
+            "toDate": "2025-01-24",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:50"
           }
         ]
       },
@@ -2999,7 +3013,7 @@
         "number": "1047",
         "remarks": "> For MSc(ISM) students only\n> Venue from 08-Jan-2025 to 22-Jan-2025 : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 06-Jan-2025",
         "quota": 50,
-        "enroll": 49,
+        "enroll": 47,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -3011,7 +3025,7 @@
           {
             "name": "IS",
             "quota": 49,
-            "enroll": 48
+            "enroll": 46
           }
         ],
         "schedule": [
@@ -3080,7 +3094,7 @@
         "number": "1048",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 06-Jan-2025",
         "quota": 60,
-        "enroll": 28,
+        "enroll": 23,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -3092,7 +3106,7 @@
           {
             "name": "IS",
             "quota": 55,
-            "enroll": 25
+            "enroll": 20
           }
         ],
         "schedule": [
@@ -3161,7 +3175,7 @@
         "number": "1049",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 08-Jan-2025",
         "quota": 60,
-        "enroll": 42,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -3173,7 +3187,7 @@
           {
             "name": "IS",
             "quota": 55,
-            "enroll": 38
+            "enroll": 37
           }
         ],
         "schedule": [
