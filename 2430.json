@@ -37528,6 +37528,53 @@
   {
     "career": "RPG",
     "subject": "FINA",
+    "number": "7900O",
+    "code": "FINA7900O",
+    "name": "Behavioral Asset Pricing",
+    "description": "This course covers the sources of misevaluation, how investors can exploit market inefficiency in their portfolio decisions, how managers should address market inefficiency in corporate financing and investment decisions, and how managers can deal with their own biases to avoid making mistakes.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4313",
+        "remarks": "> For MPhil(FINA) and PhD(FINA) students only",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "FINA",
+            "quota": 20,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "YU, Jianfeng"
+            ],
+            "venue": "Rm 1032, LSK Bldg (45)",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "13:30",
+            "toTime": "16:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "FINA",
     "number": "7980B",
     "code": "FINA7980B",
     "name": "Finance Workshops",
@@ -44968,6 +45015,45 @@
             ],
             "fromTime": "09:00",
             "toTime": "11:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "HUMA",
+    "number": "6100C",
+    "code": "HUMA6100C",
+    "name": "Independent Study",
+    "description": "Independent study on a particular subject under the supervision of a faculty member; requires readings, tutorial discussions, and submission of one or more research papers; may be repeated for credit if different topics are studied. Regular students are required to enroll in a 3-credit course. Enrollment in a course below 3 credits requires the Division's approval.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "HMMA 6200",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4314",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "SHAN, Yafeng"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
