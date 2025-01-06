@@ -24777,19 +24777,12 @@
     "corequisites": "(COMP 1021 OR COMP 1022P) AND (MATH 1003 OR MATH 1014 OR MATH 1020 OR MATH 1024)",
     "exclusions": "",
     "credits": 4,
-    "attributes": [
-      {
-        "attribute": "DELI",
-        "value": "BLD",
-        "attributeDescription": "Mode of Delivery",
-        "valueDescription": "[BLD] Blended learning"
-      }
-    ],
+    "attributes": [],
     "classes": [
       {
         "section": "L1",
         "number": "2201",
-        "remarks": "> The class is delivered in a blended learning mode",
+        "remarks": "> The class is delivered in a conventional face-to-face mode",
         "quota": 140,
         "enroll": 0,
         "waitlist": 0,
@@ -24944,19 +24937,12 @@
     "corequisites": "",
     "exclusions": "ELEC 2100H",
     "credits": 4,
-    "attributes": [
-      {
-        "attribute": "DELI",
-        "value": "BLD",
-        "attributeDescription": "Mode of Delivery",
-        "valueDescription": "[BLD] Blended learning"
-      }
-    ],
+    "attributes": [],
     "classes": [
       {
         "section": "L1",
         "number": "2209",
-        "remarks": "> The class is delivered in a blended learning mode",
+        "remarks": "> The class is delivered in a conventional face-to-face mode",
         "quota": 100,
         "enroll": 0,
         "waitlist": 0,
@@ -31706,7 +31692,7 @@
       {
         "section": "L1",
         "number": "2458",
-        "remarks": "> Co-list with COMP 5911",
+        "remarks": " ",
         "quota": 10,
         "enroll": 0,
         "waitlist": 0,
@@ -32351,7 +32337,7 @@
       {
         "section": "L1",
         "number": "2471",
-        "remarks": "> Co-list with ENVR 5330",
+        "remarks": " ",
         "quota": 25,
         "enroll": 0,
         "waitlist": 0,
@@ -32679,7 +32665,7 @@
       {
         "section": "L1",
         "number": "4248",
-        "remarks": "> For MPhil/PhD (AES/ESPM) students only\n> Co-list with ENVR 4330\n> Venue: Room 4402",
+        "remarks": "> For MPhil/PhD (AES/ESPM) students only",
         "quota": 10,
         "enroll": 0,
         "waitlist": 0,
