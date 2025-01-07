@@ -2145,6 +2145,45 @@
   {
     "career": "RPG",
     "subject": "ACCT",
+    "number": "6970A",
+    "code": "ACCT6970A",
+    "name": "Independent Study",
+    "description": "Study of selected accounting issues under the supervision of a faculty member.  (Special permission from the Associate Dean is required for MBA students to take this course.)",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4315",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "ACCT",
     "number": "6990",
     "code": "ACCT6990",
     "name": "MPhil Thesis Research",
