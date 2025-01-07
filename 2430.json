@@ -17884,10 +17884,10 @@
         "section": "R1",
         "number": "2001",
         "remarks": "> The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
-        "quota": 115,
-        "enroll": 71,
+        "quota": 116,
+        "enroll": 116,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -17926,7 +17926,7 @@
         "quota": 1,
         "enroll": 1,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -17963,9 +17963,9 @@
         "number": "2003",
         "remarks": " ",
         "quota": 3,
-        "enroll": 2,
+        "enroll": 3,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -18002,9 +18002,9 @@
         "number": "2004",
         "remarks": "> The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
         "quota": 25,
-        "enroll": 14,
+        "enroll": 20,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -18043,7 +18043,7 @@
         "quota": 2,
         "enroll": 2,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -53357,7 +53357,7 @@
       {
         "section": "LA1",
         "number": "2911",
-        "remarks": " ",
+        "remarks": "> The credit load will usually be spread in the following pattern: Fall: 3; Spring: 3",
         "quota": 15,
         "enroll": 0,
         "waitlist": 0,
@@ -100076,8 +100076,8 @@
         "section": "T1",
         "number": "4056",
         "remarks": " ",
-        "quota": 13,
-        "enroll": 13,
+        "quota": 16,
+        "enroll": 16,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -100101,8 +100101,8 @@
         "section": "T2",
         "number": "4058",
         "remarks": " ",
-        "quota": 12,
-        "enroll": 12,
+        "quota": 9,
+        "enroll": 9,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
