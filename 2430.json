@@ -28926,17 +28926,11 @@
         "section": "L1",
         "number": "1133",
         "remarks": " ",
-        "quota": 30,
+        "quota": 20,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ECE",
-            "quota": 30,
-            "enroll": 0
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -28957,7 +28951,7 @@
         "section": "LA1",
         "number": "1135",
         "remarks": " ",
-        "quota": 15,
+        "quota": 20,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -28975,31 +28969,6 @@
             ],
             "fromTime": "18:00",
             "toTime": "20:50"
-          }
-        ]
-      },
-      {
-        "section": "LA2",
-        "number": "1137",
-        "remarks": " ",
-        "quota": 15,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "SHEN, Shaojie"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              4
-            ],
-            "fromTime": "13:30",
-            "toTime": "16:20"
           }
         ]
       }
