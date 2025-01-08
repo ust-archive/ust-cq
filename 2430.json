@@ -16007,54 +16007,6 @@
   {
     "career": "RPG",
     "subject": "COMP",
-    "number": "6211K",
-    "code": "COMP6211K",
-    "name": "Generative AI for Language and Science",
-    "description": "This course explores the transformative impact of generative AI in language and scientific domains, focusing on its ability to learn from data and create realistic, innovative outputs. Students will study key generative models, including normalizing flows, variational autoencoders, GANs, diffusion models, and sequence generation, alongside their mathematical foundations. Emphasis will be placed on the theoretical foundations, principles, and interdisciplinary use cases, showcasing how generative AI drives advancements in natural language processing and scientific research.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 3,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "L1",
-        "number": "1097",
-        "remarks": " ",
-        "quota": 60,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [
-          {
-            "name": "CSE",
-            "quota": 40,
-            "enroll": 0
-          }
-        ],
-        "schedule": [
-          {
-            "instructors": [
-              "FUNG, May"
-            ],
-            "venue": "Rm 2304, Lift 17-18 (76)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              2,
-              4
-            ],
-            "fromTime": "09:00",
-            "toTime": "10:20"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "RPG",
-    "subject": "COMP",
     "number": "6411C",
     "code": "COMP6411C",
     "name": "Advanced Topics in Multimodal Machine Learning",
@@ -71638,6 +71590,48 @@
   {
     "career": "UGRD",
     "subject": "LIFS",
+    "number": "4000C",
+    "code": "LIFS4000C",
+    "name": "Advances in Aquaculture Biotechnology",
+    "description": "Overview of aquaculture in relation to food production and biotechnology. Microalgal biotechnology Aquaculture, biology and practices. Hand-on practical in microalgal culture and isolation. Molecular marker analysis and characterization. For year 4 students only.",
+    "previousCodes": "",
+    "prerequisites": "LIFS 3260 AND (LIFS 2040 OR LIFS 2060) AND LIFS 2070",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4316",
+        "remarks": " ",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "WONG, Joseph Tin Yum"
+            ],
+            "venue": "G001, CYT Bldg (24)",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [
+              1,
+              3
+            ],
+            "fromTime": "10:30",
+            "toTime": "11:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "LIFS",
     "number": "4060",
     "code": "LIFS4060",
     "name": "Immunobiology",
@@ -97919,7 +97913,7 @@
         "number": "1533",
         "remarks": " ",
         "quota": 110,
-        "enroll": 104,
+        "enroll": 105,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
