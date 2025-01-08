@@ -23071,6 +23071,66 @@
     ]
   },
   {
+    "career": "RPG",
+    "subject": "ECON",
+    "number": "6121A",
+    "code": "ECON6121A",
+    "name": "Topics in Economic dynamics I",
+    "description": "The 7-week macroeconomics course covering solution methods in business cycle and DSGE models, bounded rationality - adaptive learning vs. rational expectations, equilibrium determinacy and expectational stability applied to monetary policy rules, and introductions to both financial frictions macro and tractable HANK (Heterogenous Agent New Keynesian) models.",
+    "previousCodes": "",
+    "prerequisites": "ECON 5250 AND ECON 5260",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4319",
+        "remarks": "> For MPhil(ECON) and PhD(ECON) students only\n> Add/Drop Deadline : 10-Feb-2025",
+        "quota": 10,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "ECON",
+            "quota": 10,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "KITNEY, Paul"
+            ],
+            "venue": "Rm 1026, LSK Bldg (28)",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-03-10",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:50"
+          },
+          {
+            "instructors": [
+              "KITNEY, Paul"
+            ],
+            "venue": "Rm 1026, LSK Bldg (28)",
+            "fromDate": "2025-03-17",
+            "toDate": "2025-03-17",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "14:00",
+            "toTime": "15:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "TPG",
     "subject": "ECON",
     "number": "6950",
