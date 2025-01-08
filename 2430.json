@@ -23131,6 +23131,131 @@
     ]
   },
   {
+    "career": "RPG",
+    "subject": "ECON",
+    "number": "6121B",
+    "code": "ECON6121B",
+    "name": "Topics in Economic dynamics II",
+    "description": "This 7-week course will cover macro policies including taxation, government debt, and monetary policy. We will discuss optimal policies, the implementations, how they interact with each other, and their implications on asset prices and exchange rates.",
+    "previousCodes": "",
+    "prerequisites": "ECON 5250, ECON 5260 AND ECON 6121A",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4320",
+        "remarks": "> For MPhil(ECON) and PhD(ECON) students only\n> Add/Drop Deadline : 24-Mar-2025",
+        "quota": 10,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "ECON",
+            "quota": 10,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "LU, Yang"
+            ],
+            "venue": "Rm 1026, LSK Bldg (28)",
+            "fromDate": "2025-03-17",
+            "toDate": "2025-03-17",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "10:00",
+            "toTime": "11:50"
+          },
+          {
+            "instructors": [
+              "LU, Yang"
+            ],
+            "venue": "Rm 1026, LSK Bldg (28)",
+            "fromDate": "2025-03-24",
+            "toDate": "2025-04-14",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "10:00",
+            "toTime": "11:50"
+          },
+          {
+            "instructors": [
+              "LU, Yang"
+            ],
+            "venue": "Rm 1026, LSK Bldg (28)",
+            "fromDate": "2025-04-28",
+            "toDate": "2025-04-28",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "10:00",
+            "toTime": "11:50"
+          },
+          {
+            "instructors": [
+              "LU, Yang"
+            ],
+            "venue": "Rm 1026, LSK Bldg (28)",
+            "fromDate": "2025-05-12",
+            "toDate": "2025-05-12",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "10:00",
+            "toTime": "11:50"
+          },
+          {
+            "instructors": [
+              "LU, Yang"
+            ],
+            "venue": "Rm 1026, LSK Bldg (28)",
+            "fromDate": "2025-03-24",
+            "toDate": "2025-04-14",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "13:00",
+            "toTime": "14:50"
+          },
+          {
+            "instructors": [
+              "LU, Yang"
+            ],
+            "venue": "Rm 1026, LSK Bldg (28)",
+            "fromDate": "2025-04-28",
+            "toDate": "2025-04-28",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "13:00",
+            "toTime": "14:50"
+          },
+          {
+            "instructors": [
+              "LU, Yang"
+            ],
+            "venue": "Rm 1026, LSK Bldg (28)",
+            "fromDate": "2025-05-12",
+            "toDate": "2025-05-12",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "13:00",
+            "toTime": "14:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "TPG",
     "subject": "ECON",
     "number": "6950",
