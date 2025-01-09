@@ -1013,7 +1013,7 @@
         "number": "1028",
         "remarks": "> For MSc(ECON) students only\n> Add/Drop Deadline : 09-Jan-2025",
         "quota": 120,
-        "enroll": 105,
+        "enroll": 104,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1492,6 +1492,45 @@
             ],
             "fromTime": "09:00",
             "toTime": "12:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENEG",
+    "number": "2910",
+    "code": "ENEG2910",
+    "name": "Industrial Training",
+    "description": "This course is mainly for the module of internship and plant visits for Sustainable Energy Engineering students, offering practical training to students in the industry sectors.  Students are required to take both internship for a duration in the industry sectors and plant visits, learning solid skills to solve technical problems in the working environment.  For students in the Sustainable Energy Engineering Program only.  Graded P, PP or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1095",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAM, Leung Yuk Frank"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-01-02",
+            "toDate": "2025-01-28",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
