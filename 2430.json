@@ -16575,7 +16575,7 @@
         "number": "1104",
         "remarks": " ",
         "quota": 210,
-        "enroll": 207,
+        "enroll": 209,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -29703,14 +29703,14 @@
         "number": "1149",
         "remarks": " ",
         "quota": 200,
-        "enroll": 156,
+        "enroll": 158,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECE",
             "quota": 200,
-            "enroll": 156
+            "enroll": 158
           }
         ],
         "schedule": [
@@ -47671,7 +47671,7 @@
         "number": "1279",
         "remarks": " ",
         "quota": 20,
-        "enroll": 17,
+        "enroll": 18,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -75587,7 +75587,7 @@
       {
         "section": "L1",
         "number": "1425",
-        "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 10-Feb-2025",
+        "remarks": "> For For FT-MBA; PT-MBA; MBA Exchange and MSc(MARK) students only \n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 65,
         "enroll": 0,
         "waitlist": 0,
@@ -75595,7 +75595,12 @@
         "reservedQuota": [
           {
             "name": "MARK",
-            "quota": 65,
+            "quota": 62,
+            "enroll": 0
+          },
+          {
+            "name": "MBA",
+            "quota": 3,
             "enroll": 0
           }
         ],
@@ -75675,15 +75680,30 @@
       {
         "section": "L1",
         "number": "1430",
-        "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 07-Apr-2025",
+        "remarks": "> For FT-MBA; PT-MBA; MBA Exchange and MSc(MARK) students only\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 65,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
+            "name": "BA",
+            "quota": 5,
+            "enroll": 0
+          },
+          {
+            "name": "ISM",
+            "quota": 5,
+            "enroll": 0
+          },
+          {
             "name": "MARK",
-            "quota": 65,
+            "quota": 50,
+            "enroll": 0
+          },
+          {
+            "name": "MBA",
+            "quota": 5,
             "enroll": 0
           }
         ],
@@ -75781,8 +75801,18 @@
         "consent": false,
         "reservedQuota": [
           {
+            "name": "BA",
+            "quota": 5,
+            "enroll": 0
+          },
+          {
+            "name": "ISM",
+            "quota": 5,
+            "enroll": 0
+          },
+          {
             "name": "MARK",
-            "quota": 65,
+            "quota": 55,
             "enroll": 0
           }
         ],
@@ -75873,7 +75903,7 @@
       {
         "section": "L1",
         "number": "1432",
-        "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 07-Apr-2025",
+        "remarks": "> For FT-MBA; PT-MBA; MBA Exchange and MSc(MARK) students only\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 65,
         "enroll": 0,
         "waitlist": 0,
@@ -75881,7 +75911,12 @@
         "reservedQuota": [
           {
             "name": "MARK",
-            "quota": 65,
+            "quota": 60,
+            "enroll": 0
+          },
+          {
+            "name": "MBA",
+            "quota": 5,
             "enroll": 0
           }
         ],
@@ -75953,8 +75988,13 @@
         "consent": false,
         "reservedQuota": [
           {
+            "name": "ACCT",
+            "quota": 2,
+            "enroll": 0
+          },
+          {
             "name": "MARK",
-            "quota": 65,
+            "quota": 63,
             "enroll": 0
           }
         ],
@@ -84835,7 +84875,7 @@
         "number": "1474",
         "remarks": " ",
         "quota": 190,
-        "enroll": 171,
+        "enroll": 172,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
