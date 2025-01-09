@@ -3805,7 +3805,7 @@
         "number": "1034",
         "remarks": " ",
         "quota": 40,
-        "enroll": 9,
+        "enroll": 17,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6024,7 +6024,7 @@
         "number": "1045",
         "remarks": " ",
         "quota": 100,
-        "enroll": 15,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -11199,7 +11199,7 @@
         "number": "1081",
         "remarks": " ",
         "quota": 160,
-        "enroll": 26,
+        "enroll": 92,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -16575,7 +16575,7 @@
         "number": "1104",
         "remarks": " ",
         "quota": 210,
-        "enroll": 86,
+        "enroll": 152,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -29703,14 +29703,14 @@
         "number": "1149",
         "remarks": " ",
         "quota": 200,
-        "enroll": 51,
+        "enroll": 104,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECE",
             "quota": 200,
-            "enroll": 53
+            "enroll": 105
           }
         ],
         "schedule": [
@@ -33752,7 +33752,7 @@
         "number": "1084",
         "remarks": " ",
         "quota": 30,
-        "enroll": 3,
+        "enroll": 5,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -47671,7 +47671,7 @@
         "number": "1279",
         "remarks": " ",
         "quota": 20,
-        "enroll": 6,
+        "enroll": 10,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -64108,32 +64108,6 @@
         ]
       },
       {
-        "section": "T13",
-        "number": "3174",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2130B, Lift 19 (28)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              2,
-              4
-            ],
-            "fromTime": "10:30",
-            "toTime": "11:50"
-          }
-        ]
-      },
-      {
         "section": "T14",
         "number": "3175",
         "remarks": " ",
@@ -64525,6 +64499,32 @@
             ],
             "fromTime": "15:00",
             "toTime": "16:20"
+          }
+        ]
+      },
+      {
+        "section": "T07",
+        "number": "4325",
+        "remarks": " ",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 2130B, Lift 19 (28)",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [
+              2,
+              4
+            ],
+            "fromTime": "10:30",
+            "toTime": "11:50"
           }
         ]
       }
@@ -84835,7 +84835,7 @@
         "number": "1474",
         "remarks": " ",
         "quota": 190,
-        "enroll": 34,
+        "enroll": 90,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
