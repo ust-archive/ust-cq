@@ -85945,6 +85945,84 @@
   {
     "career": "TPG",
     "subject": "MGCS",
+    "number": "6200",
+    "code": "MGCS6200",
+    "name": "Independent Study",
+    "description": "For MSc(GCS) students opting for the Academic Research concentration only. Students are required to conduct an independent study in a designated subject under the supervision of a faculty member. It may require readings, tutorial discussions, and submission of research paper(s).",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4327",
+        "remarks": "> For MSc(GCS) students only",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "ZWEIG, David Stephen"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MGCS",
+    "number": "6980",
+    "code": "MGCS6980",
+    "name": "Research Project in Global China Studies I",
+    "description": "For MSc(GCS) students opting for the Academic Research concentration only. This course provides a skill-based training in an independent research project on chosen topic conducted under the supervision of a faculty of the School of Humanities and Social Science. The student is required to complete a research prospectus and an oral research prospectus examination. The prospectus should be a research plan that (a) clearly articulates a problem in a way that (b) displays the student's knowledge of the problem's place in the corresponding research area and of the attempts to resolve the problem and (c) gives as clear an indication as the student can give of how he/she intends to organize the research paper, and of what he/she expects his/her contribution to be, that is, of what he/she can add to the existing literature.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 6,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4328",
+        "remarks": "> For MSc(GCS) students only",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "ZWEIG, David Stephen"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MGCS",
     "number": "6982",
     "code": "MGCS6982",
     "name": "Research Project in Global China Studies II",
