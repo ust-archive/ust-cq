@@ -76823,7 +76823,7 @@
         "number": "3517",
         "remarks": " ",
         "quota": 188,
-        "enroll": 175,
+        "enroll": 177,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -77246,7 +77246,7 @@
         "number": "3545",
         "remarks": " ",
         "quota": 47,
-        "enroll": 42,
+        "enroll": 44,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -92385,27 +92385,15 @@
             "instructors": [
               "LIU, Hongbin"
             ],
-            "venue": "Rm 5508, Lift 25-26 (30)",
+            "venue": "Rm 1409, Lift 25-26 (60)",
             "fromDate": "2025-02-03",
             "toDate": "2025-05-10",
             "weekdays": [
-              1
+              2,
+              4
             ],
-            "fromTime": "13:30",
-            "toTime": "14:50"
-          },
-          {
-            "instructors": [
-              "LIU, Hongbin"
-            ],
-            "venue": "Rm 5508, Lift 25-26 (30)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "09:00",
-            "toTime": "10:20"
+            "fromTime": "10:30",
+            "toTime": "11:50"
           }
         ]
       }
