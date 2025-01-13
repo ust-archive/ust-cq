@@ -73342,8 +73342,8 @@
       {
         "section": "L1",
         "number": "1447",
-        "remarks": "> For MSc(MAFM) students only.",
-        "quota": 130,
+        "remarks": "> For MSc(MAFM) students only.\n> Co-list with MSBD 6000M",
+        "quota": 115,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -91217,6 +91217,53 @@
             ],
             "fromTime": "19:30",
             "toTime": "22:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MSBD",
+    "number": "6000M",
+    "code": "MSBD6000M",
+    "name": "Reinforcement Learning with Financial Applications",
+    "description": "With the application of artificial intelligence (AI) growing rapidly in finance industries and related sectors, this course introduces the use of reinforcement learning techniques in financial applications. Topics include finite action space and finite state space problem, classical RL algorithms, Q learning, policy gradient methods, and deep Q learning.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4346",
+        "remarks": "> Co-list with MAFS 5370\n> Venue: LTG",
+        "quota": 15,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "BDT",
+            "quota": 15,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "WONG, Chak Kei Jack"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "14:30",
+            "toTime": "17:20"
           }
         ]
       }
