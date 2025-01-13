@@ -11160,7 +11160,7 @@
         "number": "1080",
         "remarks": " ",
         "quota": 80,
-        "enroll": 29,
+        "enroll": 28,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -29972,14 +29972,14 @@
         "number": "1148",
         "remarks": " ",
         "quota": 50,
-        "enroll": 9,
+        "enroll": 8,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECE",
             "quota": 50,
-            "enroll": 9
+            "enroll": 8
           }
         ],
         "schedule": [
@@ -38162,14 +38162,14 @@
         "number": "1213",
         "remarks": "> For PhD(FINA) students only",
         "quota": 10,
-        "enroll": 3,
+        "enroll": 4,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 10,
-            "enroll": 3
+            "enroll": 4
           }
         ],
         "schedule": [
@@ -65339,7 +65339,7 @@
         "section": "T01",
         "number": "3200",
         "remarks": " ",
-        "quota": 20,
+        "quota": 21,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -65377,7 +65377,7 @@
         "section": "T02",
         "number": "3201",
         "remarks": " ",
-        "quota": 20,
+        "quota": 21,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -68536,96 +68536,6 @@
         ]
       },
       {
-        "section": "T02",
-        "number": "3343",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2130B, Lift 19 (28)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              2,
-              4
-            ],
-            "fromTime": "12:00",
-            "toTime": "13:20"
-          }
-        ]
-      },
-      {
-        "section": "T03",
-        "number": "3344",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2126A, Lift 19 (28)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              1
-            ],
-            "fromTime": "15:00",
-            "toTime": "16:20"
-          },
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2126A, Lift 19 (28)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "10:30",
-            "toTime": "11:50"
-          }
-        ]
-      },
-      {
-        "section": "T04",
-        "number": "3345",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2126B, Lift 19 (28)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              3,
-              5
-            ],
-            "fromTime": "13:30",
-            "toTime": "14:50"
-          }
-        ]
-      },
-      {
         "section": "T05",
         "number": "3346",
         "remarks": " ",
@@ -68690,32 +68600,6 @@
         ]
       },
       {
-        "section": "T07",
-        "number": "3348",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2129A, Lift 19 (28)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              2,
-              4
-            ],
-            "fromTime": "15:00",
-            "toTime": "16:20"
-          }
-        ]
-      },
-      {
         "section": "T08",
         "number": "3349",
         "remarks": " ",
@@ -68740,32 +68624,6 @@
             "toTime": "14:50"
           }
         ]
-      },
-      {
-        "section": "T09",
-        "number": "3350",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2131C, Lift 19 (28)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              2,
-              4
-            ],
-            "fromTime": "16:30",
-            "toTime": "17:50"
-          }
-        ]
       }
     ]
   },
@@ -68783,96 +68641,6 @@
     "credits": 3,
     "attributes": [],
     "classes": [
-      {
-        "section": "T01",
-        "number": "3351",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2132C, Lift 19 (28)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              2,
-              4
-            ],
-            "fromTime": "12:00",
-            "toTime": "13:20"
-          }
-        ]
-      },
-      {
-        "section": "T02",
-        "number": "3352",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2126B, Lift 19 (28)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              1
-            ],
-            "fromTime": "13:30",
-            "toTime": "14:50"
-          },
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2126B, Lift 19 (28)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "09:00",
-            "toTime": "10:20"
-          }
-        ]
-      },
-      {
-        "section": "T03",
-        "number": "3353",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 5504, Lift 25-26 (24)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              3,
-              5
-            ],
-            "fromTime": "13:30",
-            "toTime": "14:50"
-          }
-        ]
-      },
       {
         "section": "T04",
         "number": "3354",
@@ -68954,58 +68722,6 @@
         ]
       },
       {
-        "section": "T02",
-        "number": "3356",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2612B, Lift 31-32 (29)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              3,
-              5
-            ],
-            "fromTime": "16:30",
-            "toTime": "17:50"
-          }
-        ]
-      },
-      {
-        "section": "T03",
-        "number": "3357",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 5504, Lift 25-26 (24)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              2,
-              4
-            ],
-            "fromTime": "10:30",
-            "toTime": "11:50"
-          }
-        ]
-      },
-      {
         "section": "T04",
         "number": "3358",
         "remarks": " ",
@@ -69047,32 +68763,6 @@
     "credits": 3,
     "attributes": [],
     "classes": [
-      {
-        "section": "T01",
-        "number": "3359",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 1,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2126A, Lift 19 (28)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              2,
-              4
-            ],
-            "fromTime": "13:30",
-            "toTime": "14:50"
-          }
-        ]
-      },
       {
         "section": "T02",
         "number": "3360",
@@ -69126,70 +68816,6 @@
         ]
       },
       {
-        "section": "T05",
-        "number": "3363",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2126A, Lift 19 (28)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              1,
-              3
-            ],
-            "fromTime": "12:00",
-            "toTime": "13:20"
-          }
-        ]
-      },
-      {
-        "section": "T06",
-        "number": "3364",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2610, Lift 31-32 (26)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              1
-            ],
-            "fromTime": "15:00",
-            "toTime": "16:20"
-          },
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2610, Lift 31-32 (26)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "10:30",
-            "toTime": "11:50"
-          }
-        ]
-      },
-      {
         "section": "T07",
         "number": "3365",
         "remarks": " ",
@@ -69212,44 +68838,6 @@
             ],
             "fromTime": "16:30",
             "toTime": "17:50"
-          }
-        ]
-      },
-      {
-        "section": "T08",
-        "number": "3366",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2126C, Lift 19 (28)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              1
-            ],
-            "fromTime": "13:30",
-            "toTime": "14:50"
-          },
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2126C, Lift 19 (28)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "09:00",
-            "toTime": "10:20"
           }
         ]
       },
@@ -69411,6 +68999,31 @@
             ],
             "fromTime": "12:00",
             "toTime": "13:50"
+          }
+        ]
+      },
+      {
+        "section": "T02",
+        "number": "4345",
+        "remarks": " ",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 5504, Lift 25-26 (24)",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "13:00",
+            "toTime": "14:50"
           }
         ]
       }
@@ -69601,6 +69214,44 @@
             "toTime": "10:20"
           }
         ]
+      },
+      {
+        "section": "T03",
+        "number": "4344",
+        "remarks": " ",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 2610, Lift 31-32 (26)",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "15:00",
+            "toTime": "16:20"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 2610, Lift 31-32 (26)",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "10:30",
+            "toTime": "11:50"
+          }
+        ]
       }
     ]
   },
@@ -69737,6 +69388,44 @@
             ],
             "fromTime": "16:30",
             "toTime": "17:50"
+          }
+        ]
+      },
+      {
+        "section": "T02",
+        "number": "4343",
+        "remarks": " ",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 2126B, Lift 19 (28)",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "13:30",
+            "toTime": "14:50"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 2126B, Lift 19 (28)",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "09:00",
+            "toTime": "10:20"
           }
         ]
       }
@@ -73219,7 +72908,7 @@
         "number": "1407",
         "remarks": " ",
         "quota": 200,
-        "enroll": 185,
+        "enroll": 183,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
