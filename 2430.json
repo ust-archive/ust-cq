@@ -16536,7 +16536,7 @@
         "number": "1103",
         "remarks": " ",
         "quota": 100,
-        "enroll": 26,
+        "enroll": 27,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -16574,8 +16574,8 @@
         "section": "R1",
         "number": "1104",
         "remarks": " ",
-        "quota": 210,
-        "enroll": 208,
+        "quota": 230,
+        "enroll": 211,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -29972,14 +29972,14 @@
         "number": "1148",
         "remarks": " ",
         "quota": 50,
-        "enroll": 8,
+        "enroll": 9,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECE",
             "quota": 50,
-            "enroll": 8
+            "enroll": 9
           }
         ],
         "schedule": [
@@ -30017,14 +30017,14 @@
         "number": "1149",
         "remarks": " ",
         "quota": 200,
-        "enroll": 158,
+        "enroll": 159,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECE",
             "quota": 200,
-            "enroll": 158
+            "enroll": 159
           }
         ],
         "schedule": [
@@ -30377,7 +30377,7 @@
         "quota": 250,
         "enroll": 0,
         "waitlist": 0,
-        "consent": true,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -47985,7 +47985,7 @@
         "number": "1279",
         "remarks": " ",
         "quota": 20,
-        "enroll": 18,
+        "enroll": 19,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -69273,7 +69273,7 @@
         "section": "T01",
         "number": "3379",
         "remarks": " ",
-        "quota": 20,
+        "quota": 25,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -69283,7 +69283,7 @@
             "instructors": [
               "TBA"
             ],
-            "venue": "Rm 5504, Lift 25-26 (24)",
+            "venue": "Rm 2126A, Lift 19 (28)",
             "fromDate": "2025-02-03",
             "toDate": "2025-05-10",
             "weekdays": [
@@ -69292,60 +69292,6 @@
             ],
             "fromTime": "13:30",
             "toTime": "14:50"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "UGRD",
-    "subject": "LANG",
-    "number": "4033",
-    "code": "LANG4033",
-    "name": "Technical Communication II for Civil and Environmental Engineering",
-    "description": "A one-term, major-specific language course for all students of the CIVL Department undertaking the Final Year Project and Capstone Project. The course focuses on Final Year Project report writing and presentations, and communication in professional contexts relevant to the CIVL Capstone Project. For CIVL and CIEV students in their third or fourth year of study only.",
-    "previousCodes": "",
-    "prerequisites": "(For DDP only) LANG 1403 OR LANG 1404 OR LANG 1003 (Prior to 2022-23); (For all others) LANG 2030",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 3,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "T01",
-        "number": "3384",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2132A, Lift 19 (28)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              1
-            ],
-            "fromTime": "13:30",
-            "toTime": "14:50"
-          },
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2132A, Lift 19 (28)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "09:00",
-            "toTime": "10:20"
           }
         ]
       }
@@ -98162,7 +98108,7 @@
         "number": "1535",
         "remarks": " ",
         "quota": 100,
-        "enroll": 62,
+        "enroll": 63,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
