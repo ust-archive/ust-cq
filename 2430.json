@@ -5143,7 +5143,7 @@
             "weekdays": [
               4
             ],
-            "fromTime": "10:30",
+            "fromTime": "11:00",
             "toTime": "11:50"
           }
         ]
@@ -30056,14 +30056,14 @@
         "number": "1149",
         "remarks": " ",
         "quota": 200,
-        "enroll": 159,
+        "enroll": 158,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECE",
             "quota": 200,
-            "enroll": 159
+            "enroll": 158
           }
         ],
         "schedule": [
@@ -30788,6 +30788,45 @@
           {
             "instructors": [
               "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "EMIA",
+    "number": "6950O",
+    "code": "EMIA6950O",
+    "name": "Independent Study",
+    "description": "Independent studies or projects under the direct guidance of a faculty member. Course requirements include readings on the relevant topic and a research or survey project specifically defined for the research topic. Credits assigned depend on the workload and may be repeated if different topics are taken. May be graded by letter, P/F or PP for different offerings.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4348",
+        "remarks": " ",
+        "quota": 6,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LUO, Wenhan"
             ],
             "venue": "TBA",
             "fromDate": "2025-02-03",
@@ -54484,8 +54523,13 @@
             "enroll": 0
           },
           {
+            "name": "FinTech",
+            "quota": 5,
+            "enroll": 0
+          },
+          {
             "name": "ISM",
-            "quota": 50,
+            "quota": 45,
             "enroll": 0
           }
         ],
@@ -56798,8 +56842,13 @@
         "consent": false,
         "reservedQuota": [
           {
+            "name": "FinTech",
+            "quota": 10,
+            "enroll": 0
+          },
+          {
             "name": "ISM",
-            "quota": 60,
+            "quota": 50,
             "enroll": 0
           }
         ],
@@ -56886,8 +56935,18 @@
             "enroll": 0
           },
           {
+            "name": "FinTech",
+            "quota": 5,
+            "enroll": 0
+          },
+          {
             "name": "ISM",
-            "quota": 52,
+            "quota": 37,
+            "enroll": 0
+          },
+          {
+            "name": "TLE",
+            "quota": 10,
             "enroll": 0
           }
         ],
@@ -56995,8 +57054,18 @@
             "enroll": 0
           },
           {
+            "name": "FinTech",
+            "quota": 5,
+            "enroll": 0
+          },
+          {
             "name": "ISM",
-            "quota": 50,
+            "quota": 35,
+            "enroll": 0
+          },
+          {
+            "name": "TLE",
+            "quota": 10,
             "enroll": 0
           }
         ],
@@ -93448,7 +93517,7 @@
         "number": "1678",
         "remarks": " ",
         "quota": 1000,
-        "enroll": 820,
+        "enroll": 818,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -93712,7 +93781,7 @@
         "number": "1679",
         "remarks": " ",
         "quota": 500,
-        "enroll": 500,
+        "enroll": 499,
         "waitlist": 107,
         "consent": false,
         "reservedQuota": [],
