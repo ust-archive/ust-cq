@@ -30725,6 +30725,47 @@
   {
     "career": "RPG",
     "subject": "EMIA",
+    "number": "6500P",
+    "code": "EMIA6500P",
+    "name": "Interdisciplinary Game Design",
+    "description": "This postgraduate course offers a comprehensive exploration of game design and prototyping, tailored for students from diverse academic backgrounds. Students will delve into the fundamental concepts of games, examining their structure, rules, and the psychological factors that contribute to enjoyment and engagement. Through hands-on experience, students will apply game design principles in the creation of their own playable games, while also gaining insights into the importance of playtesting in refining game mechanics. Additionally, the course will encourage critical thinking through the presentation of research papers, allowing students to investigate the role of games in their respective fields or to explore the latest advancements in game design. By the end of the course, students will be equipped with both theoretical knowledge and practical skills to navigate the evolving landscape of game design and prototyping.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4349",
+        "remarks": " ",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "FU, Hongbo"
+            ],
+            "venue": "Rm 5508, Lift 25-26 (30)",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "09:00",
+            "toTime": "11:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "EMIA",
     "number": "6950A",
     "code": "EMIA6950A",
     "name": "Independent Study",
@@ -37371,14 +37412,14 @@
         "section": "L1",
         "number": "1237",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 07-Apr-2025",
-        "quota": 62,
+        "quota": 60,
         "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECON",
-            "quota": 3,
+            "quota": 1,
             "enroll": 1
           },
           {
