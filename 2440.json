@@ -4111,7 +4111,12 @@
         "reservedQuota": [
           {
             "name": "ACCT",
-            "quota": 60,
+            "quota": 57,
+            "enroll": 0
+          },
+          {
+            "name": "ISM",
+            "quota": 3,
             "enroll": 0
           }
         ],

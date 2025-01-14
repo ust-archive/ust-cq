@@ -23574,6 +23574,45 @@
     ]
   },
   {
+    "career": "RPG",
+    "subject": "ECON",
+    "number": "6970A",
+    "code": "ECON6970A",
+    "name": "Independent Study",
+    "description": "Study of selected economic issues under the supervision of a faculty member in the Department. (Special permission from the Associate Dean is required for MBA students to take this course.)",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4347",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LI, Yao Amber"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "TPG",
     "subject": "ECON",
     "number": "6970G",
@@ -31096,6 +31135,7 @@
         "schedule": [
           {
             "instructors": [
+              "GUAN, Isabel",
               "WONG, Kai Sun Albert"
             ],
             "venue": "G010, CYT Bldg (140)",
@@ -31121,6 +31161,7 @@
         "schedule": [
           {
             "instructors": [
+              "GUAN, Isabel",
               "WONG, Kai Sun Albert"
             ],
             "venue": "Rm 4582, Lift 27-28 (66)",
@@ -31146,6 +31187,7 @@
         "schedule": [
           {
             "instructors": [
+              "GUAN, Isabel",
               "WONG, Kai Sun Albert"
             ],
             "venue": "Rm 4582, Lift 27-28 (66)",
@@ -57636,58 +57678,6 @@
     "attributes": [],
     "classes": [
       {
-        "section": "T01",
-        "number": "2947",
-        "remarks": " ",
-        "quota": 24,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2128B, Lift 19 (28)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              2,
-              4
-            ],
-            "fromTime": "13:30",
-            "toTime": "14:50"
-          }
-        ]
-      },
-      {
-        "section": "T02",
-        "number": "2948",
-        "remarks": " ",
-        "quota": 24,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2128C, Lift 19 (28)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              2,
-              4
-            ],
-            "fromTime": "12:00",
-            "toTime": "13:20"
-          }
-        ]
-      },
-      {
         "section": "T03",
         "number": "2949",
         "remarks": " ",
@@ -57840,32 +57830,6 @@
             "toTime": "13:20"
           }
         ]
-      },
-      {
-        "section": "T09",
-        "number": "2955",
-        "remarks": " ",
-        "quota": 24,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2132C, Lift 19 (28)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              2,
-              4
-            ],
-            "fromTime": "16:30",
-            "toTime": "17:50"
-          }
-        ]
       }
     ]
   },
@@ -57974,32 +57938,6 @@
     "credits": 3,
     "attributes": [],
     "classes": [
-      {
-        "section": "T01",
-        "number": "2959",
-        "remarks": " ",
-        "quota": 24,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2126A, Lift 19 (28)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              2,
-              4
-            ],
-            "fromTime": "12:00",
-            "toTime": "13:20"
-          }
-        ]
-      },
       {
         "section": "T02",
         "number": "2960",
@@ -58607,32 +58545,6 @@
         ]
       },
       {
-        "section": "T28",
-        "number": "2986",
-        "remarks": " ",
-        "quota": 24,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2130C, Lift 19 (28)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              2,
-              4
-            ],
-            "fromTime": "12:00",
-            "toTime": "13:20"
-          }
-        ]
-      },
-      {
         "section": "T29",
         "number": "2987",
         "remarks": " ",
@@ -58667,44 +58579,6 @@
             ],
             "fromTime": "10:30",
             "toTime": "11:50"
-          }
-        ]
-      },
-      {
-        "section": "T30",
-        "number": "2988",
-        "remarks": " ",
-        "quota": 24,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2130C, Lift 19 (28)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              1
-            ],
-            "fromTime": "16:30",
-            "toTime": "17:50"
-          },
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2130C, Lift 19 (28)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "12:00",
-            "toTime": "13:20"
           }
         ]
       },
@@ -75175,14 +75049,14 @@
         "number": "1420",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 55,
-        "enroll": 50,
+        "enroll": 49,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
             "quota": 55,
-            "enroll": 50
+            "enroll": 49
           }
         ],
         "schedule": [
@@ -75284,14 +75158,14 @@
         "number": "1424",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 55,
-        "enroll": 52,
+        "enroll": 51,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
             "quota": 55,
-            "enroll": 52
+            "enroll": 51
           }
         ],
         "schedule": [
@@ -90250,7 +90124,7 @@
         "number": "1593",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 50,
-        "enroll": 11,
+        "enroll": 10,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
