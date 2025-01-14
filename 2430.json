@@ -30398,6 +30398,45 @@
   {
     "career": "UGRD",
     "subject": "EMIA",
+    "number": "4900D",
+    "code": "EMIA4900D",
+    "name": "Independent Study",
+    "description": "Independent studies or projects under the directed guidance of a faculty member. Course requirements include readings on the relevant topic and a research or survey project specifically defined for the research topic. Credits assigned depend on the workload and may be repeated if different topics are taken. For students with approval from instructor for enrolling in the course. May be graded by letter, P/F or DI/PA/F for different offerings.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4350",
+        "remarks": " ",
+        "quota": 3,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "ZHANG, Rong"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "EMIA",
     "number": "4990",
     "code": "EMIA4990",
     "name": "Interdisciplinary Capstone Design",
@@ -57028,7 +57067,7 @@
         "number": "1309",
         "remarks": "> For MSc(ISM) students only\n> Instructor : ZHANG, Dennis\n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 60,
-        "enroll": 2,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -57045,7 +57084,7 @@
           {
             "name": "MARK",
             "quota": 5,
-            "enroll": 2
+            "enroll": 3
           }
         ],
         "schedule": [
@@ -88519,7 +88558,7 @@
         "number": "1488",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 65,
-        "enroll": 1,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -88531,7 +88570,7 @@
           {
             "name": "MARK",
             "quota": 1,
-            "enroll": 1
+            "enroll": 3
           }
         ],
         "schedule": [
@@ -90193,7 +90232,7 @@
         "number": "1590",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 40,
-        "enroll": 12,
+        "enroll": 15,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -90234,7 +90273,7 @@
         "number": "1593",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 50,
-        "enroll": 10,
+        "enroll": 11,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -90738,7 +90777,7 @@
         "number": "1603",
         "remarks": "> For MSc(IMT) students only\n> Instructor : WONG, Gilbert\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 40,
-        "enroll": 1,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -101251,7 +101290,7 @@
         "number": "4261",
         "remarks": "> For SBM TPG students only\n> Add/Drop Deadline : 01-Apr-2025",
         "quota": 18,
-        "enroll": 0,
+        "enroll": 5,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
