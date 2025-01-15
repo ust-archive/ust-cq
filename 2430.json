@@ -5971,6 +5971,47 @@
   {
     "career": "RPG",
     "subject": "CENG",
+    "number": "6810A",
+    "code": "CENG6810A",
+    "name": "Chemical and Biological Engineering Colloquia",
+    "description": "Chemical and Biological Engineering Colloquia is a seminar course that brings prominent researchers in the field of chemical and biological engineering to share their research with CBE colleagues and students. The course aims to provide a platform for discussions and exchange of ideas on the latest advancements in the field of chemical and biological engineering. Students will have the opportunity to engage with the speakers and ask questions, fostering a deeper understanding of the research presented. The course will cover a broad range of topics, including chemical engineering, biotechnology, materials science, synthetic biology, and more. Students are expected to attend regularly. Grade P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "4362",
+        "remarks": " ",
+        "quota": 150,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "SUN, Fei"
+            ],
+            "venue": "Lecture Theater J (300)",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "16:30",
+            "toTime": "17:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "CENG",
     "number": "6900C",
     "code": "CENG6900C",
     "name": "Independent Study",
@@ -12107,7 +12148,7 @@
         "number": "2039",
         "remarks": " ",
         "quota": 130,
-        "enroll": 130,
+        "enroll": 129,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -15086,7 +15127,7 @@
         "number": "2171",
         "remarks": " ",
         "quota": 513,
-        "enroll": 513,
+        "enroll": 512,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -31691,7 +31732,7 @@
         "number": "4118",
         "remarks": " ",
         "quota": 900,
-        "enroll": 489,
+        "enroll": 488,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -45928,7 +45969,7 @@
         "number": "4360",
         "remarks": " ",
         "quota": 2,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -57578,14 +57619,14 @@
         "number": "1320",
         "remarks": "> For MSc(BA) students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 50,
-        "enroll": 47,
+        "enroll": 46,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 50,
-            "enroll": 47
+            "enroll": 46
           }
         ],
         "schedule": [
@@ -77144,7 +77185,7 @@
         "number": "3517",
         "remarks": " ",
         "quota": 177,
-        "enroll": 177,
+        "enroll": 176,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -77492,7 +77533,7 @@
         "number": "3541",
         "remarks": " ",
         "quota": 47,
-        "enroll": 45,
+        "enroll": 46,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -77517,7 +77558,7 @@
         "number": "3543",
         "remarks": " ",
         "quota": 47,
-        "enroll": 44,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -77567,7 +77608,7 @@
         "number": "3545",
         "remarks": " ",
         "quota": 47,
-        "enroll": 44,
+        "enroll": 45,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
