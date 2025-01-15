@@ -24769,7 +24769,7 @@
         "quota": 20,
         "enroll": 20,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [
           {
             "name": "EESM",
@@ -24863,7 +24863,7 @@
         "quota": 20,
         "enroll": 0,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -24902,7 +24902,7 @@
         "quota": 45,
         "enroll": 40,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [
           {
             "name": "EESM",
@@ -24948,7 +24948,7 @@
         "quota": 45,
         "enroll": 42,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [
           {
             "name": "EESM",
@@ -92142,14 +92142,14 @@
         "number": "1677",
         "remarks": " ",
         "quota": 40,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
           {
             "name": "MTLE",
             "quota": 40,
-            "enroll": 0
+            "enroll": 1
           }
         ],
         "schedule": [
