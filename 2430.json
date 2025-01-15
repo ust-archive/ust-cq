@@ -3750,6 +3750,47 @@
   {
     "career": "RPG",
     "subject": "BIEN",
+    "number": "6810A",
+    "code": "BIEN6810A",
+    "name": "Bioengineering Colloquia",
+    "description": "Bioengineering Colloquia is a seminar course that brings prominent researchers in the field of bioengineering to share their research with BIEN colleagues and students. The course aims to provide a platform for discussions and exchange of ideas on the lates advancements in the field of bioengineering. Students will have the opportunity to engage with the speakers and ask questions, fostering a deeper understanding of the research presented. The course will cover a broad range of topics, including chemical engineering, biotechnology, material sciences, synthetic biology and more. Students are expected to attend regularly. Grade P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "4361",
+        "remarks": " ",
+        "quota": 80,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "SUN, Fei"
+            ],
+            "venue": "Lecture Theater J (300)",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "16:30",
+            "toTime": "17:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "BIEN",
     "number": "6990",
     "code": "BIEN6990",
     "name": "MPhil Thesis Research",
@@ -45871,29 +45912,30 @@
   {
     "career": "RPG",
     "subject": "HUMA",
-    "number": "6100C",
-    "code": "HUMA6100C",
+    "number": "6100A",
+    "code": "HUMA6100A",
     "name": "Independent Study",
     "description": "Independent study on a particular subject under the supervision of a faculty member; requires readings, tutorial discussions, and submission of one or more research papers; may be repeated for credit if different topics are studied. Regular students are required to enroll in a 3-credit course. Enrollment in a course below 3 credits requires the Division's approval.",
     "previousCodes": "",
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "HMMA 6200",
-    "credits": 2,
+    "credits": 3,
     "attributes": [],
     "classes": [
       {
         "section": "R1",
-        "number": "4314",
+        "number": "4360",
         "remarks": " ",
-        "quota": 1,
+        "quota": 2,
         "enroll": 0,
         "waitlist": 0,
-        "consent": true,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
+              "QIN, Zhen",
               "SHAN, Yafeng"
             ],
             "venue": "TBA",
@@ -45925,14 +45967,14 @@
         "section": "T1",
         "number": "1271",
         "remarks": " ",
-        "quota": 20,
+        "quota": 6,
         "enroll": 5,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "HUMA",
-            "quota": 20,
+            "quota": 6,
             "enroll": 5
           }
         ],
@@ -45970,14 +46012,14 @@
         "section": "T1",
         "number": "1272",
         "remarks": " ",
-        "quota": 20,
+        "quota": 7,
         "enroll": 7,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "HUMA",
-            "quota": 20,
+            "quota": 7,
             "enroll": 7
           }
         ],
@@ -54619,7 +54661,7 @@
       {
         "section": "T1",
         "number": "1310",
-        "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 15-Feb-2025",
+        "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 10-May-2025",
         "quota": 115,
         "enroll": 115,
         "waitlist": 0,
@@ -57464,7 +57506,8 @@
         "schedule": [
           {
             "instructors": [
-              "YANG, Xiaodong"
+              "YANG, Xiaodong",
+              "ZHENG, Rong"
             ],
             "venue": "TBA",
             "fromDate": "2025-02-03",
