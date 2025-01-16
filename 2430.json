@@ -3215,7 +3215,7 @@
         "number": "4366",
         "remarks": " ",
         "quota": 50,
-        "enroll": 0,
+        "enroll": 22,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -3254,9 +3254,9 @@
         "number": "4367",
         "remarks": " ",
         "quota": 2,
-        "enroll": 0,
+        "enroll": 2,
         "waitlist": 0,
-        "consent": true,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -8910,7 +8910,7 @@
         "number": "4368",
         "remarks": " ",
         "quota": 190,
-        "enroll": 120,
+        "enroll": 121,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -34083,6 +34083,53 @@
             ],
             "fromTime": "19:00",
             "toTime": "21:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "ENVR",
+    "number": "5430",
+    "code": "ENVR5430",
+    "name": "Environmental Control Technologies for Urban Settings",
+    "description": "Maintaining a healthy and livable urban environment is a significant challenge that demands innovative approaches and new technologies. This course will explore control measures for mitigating environmental issues to promote the health and well-being of residents and the environment.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4383",
+        "remarks": "> For MPhil/PhD (AES/ESPM) and MSc/PGD (EVSM) students only",
+        "quota": 60,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "ENVR",
+            "quota": 60,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "YEUNG, King Lun"
+            ],
+            "venue": "Rm 4502, Lift 25-26 (60)",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "15:00",
+            "toTime": "17:50"
           }
         ]
       }
@@ -77720,8 +77767,8 @@
         "section": "L01",
         "number": "3517",
         "remarks": " ",
-        "quota": 181,
-        "enroll": 178,
+        "quota": 182,
+        "enroll": 182,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -78069,7 +78116,7 @@
         "number": "3541",
         "remarks": " ",
         "quota": 47,
-        "enroll": 45,
+        "enroll": 46,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -78094,7 +78141,7 @@
         "number": "3543",
         "remarks": " ",
         "quota": 47,
-        "enroll": 44,
+        "enroll": 46,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -78119,7 +78166,7 @@
         "number": "3544",
         "remarks": " ",
         "quota": 47,
-        "enroll": 44,
+        "enroll": 45,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -104068,7 +104115,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "LEI, Yu-Hsiang"
             ],
             "venue": "G010, CYT Bldg (140)",
             "fromDate": "2025-02-03",
