@@ -49767,6 +49767,68 @@
   {
     "career": "UGRD",
     "subject": "ISDN",
+    "number": "3001",
+    "code": "ISDN3001",
+    "name": "Third Year Design Project I",
+    "description": "This course is the first part of a one-year project course offered to third year students. Each student is assigned a component of a large project, which is sponsored by industry. The project is expected to be of increased technical complexity compared with the second year project. Project planning. Distribution of tasks among the team members. Identification of the problem through interactions with the staff of the sponsored company. Ideation. Design concept generation. Selection of ideas. Prototyping. Testing and redesigning. In addition, students have to consider sustainability, manufacturability, and marketability of the proposed product solutions, which have to fulfill needs of the client under a budgetary constraint. Students are expected to spend less time on planning and idea generation as they have already gained these experiences in the second year but more time on prototyping and testing, as this project requires application and integration of more advance technologies and design. Instructor's approval is required for enrollment in the course.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4394",
+        "remarks": " ",
+        "quota": 10,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "LA1",
+        "number": "4395",
+        "remarks": " ",
+        "quota": 10,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ISDN",
     "number": "3002",
     "code": "ISDN3002",
     "name": "Third Year Design Project II",
@@ -83258,6 +83320,45 @@
             ],
             "fromTime": "15:00",
             "toTime": "17:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "MATH",
+    "number": "6912P",
+    "code": "MATH6912P",
+    "name": "Reading Course: Degenerate Parabolic Equations",
+    "description": "The topics covered in this reading course include: 1. Weak solutions and local energy estimates 2. Holder continuity of solutions of degenerate parabolic equations\n3. Holder continuity of solutions of singular parabolic equations 4. Holder gradient estimates. Students should seek approval from the course instructor to take this reading course.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4396",
+        "remarks": "> Students should seek approval from the course instructor to take this course.",
+        "quota": 2,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "JIN, Tianling"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
