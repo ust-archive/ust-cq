@@ -2710,9 +2710,9 @@
         "number": "4364",
         "remarks": " ",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 37,
         "waitlist": 0,
-        "consent": true,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -3217,7 +3217,7 @@
         "quota": 50,
         "enroll": 0,
         "waitlist": 0,
-        "consent": true,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -3948,7 +3948,7 @@
     "number": "6810A",
     "code": "BIEN6810A",
     "name": "Bioengineering Colloquia",
-    "description": "Bioengineering Colloquia is a seminar course that brings prominent researchers in the field of bioengineering to share their research with BIEN colleagues and students. The course aims to provide a platform for discussions and exchange of ideas on the lates advancements in the field of bioengineering. Students will have the opportunity to engage with the speakers and ask questions, fostering a deeper understanding of the research presented. The course will cover a broad range of topics, including chemical engineering, biotechnology, material sciences, synthetic biology and more. Students are expected to attend regularly. Grade P or F.",
+    "description": "Bioengineering Colloquia is a seminar course that brings prominent researchers in the field of bioengineering to share their research with BIEN colleagues and students. The course aims to provide a platform for discussions and exchange of ideas on the late advancements in the field of bioengineering. Students will have the opportunity to engage with the speakers and ask questions, fostering a deeper understanding of the research presented. The course will cover a broad range of topics, including chemical engineering, biotechnology, material sciences, synthetic biology and more. Students are expected to attend regularly. Grade P or F.",
     "previousCodes": "",
     "prerequisites": "",
     "corequisites": "",
@@ -8910,9 +8910,9 @@
         "number": "4368",
         "remarks": " ",
         "quota": 190,
-        "enroll": 0,
+        "enroll": 87,
         "waitlist": 0,
-        "consent": true,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -30174,14 +30174,14 @@
         "section": "L1",
         "number": "1139",
         "remarks": "> The class is delivered in a blended learning mode",
-        "quota": 20,
+        "quota": 19,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECE",
-            "quota": 20,
+            "quota": 19,
             "enroll": 0
           }
         ],
@@ -32059,7 +32059,7 @@
         "number": "4117",
         "remarks": " ",
         "quota": 900,
-        "enroll": 875,
+        "enroll": 874,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -37972,53 +37972,6 @@
             ],
             "fromTime": "14:00",
             "toTime": "17:20"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "TPG",
-    "subject": "FINA",
-    "number": "5680",
-    "code": "FINA5680",
-    "name": "Asia's Stock Markets",
-    "description": "This course is highly relevant to students interested to become macro-traders, portfolio managers, buy/sell-side analysts or work at a hedge fund, with a particular focus on Asia. The course will teach students the characteristics of the larger, liquid stock markets across Asia, from China and Hong Kong to Korea, Taiwan, India and ASEAN markets. Students will learn what drives these markets, what they have in common and how they behave.",
-    "previousCodes": "",
-    "prerequisites": "FINA 5210",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 2,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "L1",
-        "number": "1236",
-        "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 07-Apr-2025",
-        "quota": 65,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [
-          {
-            "name": "FINA",
-            "quota": 65,
-            "enroll": 0
-          }
-        ],
-        "schedule": [
-          {
-            "instructors": [
-              "VAN DER LINDE, Herald"
-            ],
-            "venue": "G001, LSK Bldg (75)",
-            "fromDate": "2025-04-01",
-            "toDate": "2025-05-20",
-            "weekdays": [
-              2
-            ],
-            "fromTime": "19:00",
-            "toTime": "22:20"
           }
         ]
       }
@@ -45984,6 +45937,53 @@
   {
     "career": "RPG",
     "subject": "HUMA",
+    "number": "5341",
+    "code": "HUMA5341",
+    "name": "The Body in Buddhist and Daoist Literature",
+    "description": "This course engages with the diversity of experiences of the body and the responses it triggered throughout human history. By exploring visions of the corpus in early and medieval Buddhist and Daoist literature, the class challenges the predominant and seemingly “natural” model of a dichotomy between the body and soul/psyche as developed in a Euro-Christian context that also crystallized in the modern disciplines of medicine and psychology. In other words, it emphasizes the cultural and historical situatedness of any understanding of the body throughout human history.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "4382",
+        "remarks": " ",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "HUMA",
+            "quota": 20,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "ZUERN, Tobias Benedikt"
+            ],
+            "venue": "Rm 5566, Lift 27-28 (24)",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "15:00",
+            "toTime": "17:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "HUMA",
     "number": "5370",
     "code": "HUMA5370",
     "name": "Animation Theories",
@@ -46933,9 +46933,9 @@
         "number": "4373",
         "remarks": " ",
         "quota": 90,
-        "enroll": 0,
+        "enroll": 42,
         "waitlist": 0,
-        "consent": true,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -57441,7 +57441,7 @@
         "number": "4381",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 63,
-        "enroll": 0,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -58667,9 +58667,9 @@
         "number": "4374",
         "remarks": " ",
         "quota": 80,
-        "enroll": 0,
+        "enroll": 14,
         "waitlist": 0,
-        "consent": true,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -82542,7 +82542,7 @@
         "section": "L1",
         "number": "1451",
         "remarks": " ",
-        "quota": 20,
+        "quota": 18,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -83544,9 +83544,9 @@
         "number": "4376",
         "remarks": " ",
         "quota": 90,
-        "enroll": 0,
+        "enroll": 25,
         "waitlist": 0,
-        "consent": true,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -86148,9 +86148,9 @@
         "number": "4378",
         "remarks": " ",
         "quota": 90,
-        "enroll": 0,
+        "enroll": 67,
         "waitlist": 0,
-        "consent": true,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -92307,9 +92307,7 @@
             "venue": "TBA",
             "fromDate": "2025-02-03",
             "toDate": "2025-05-10",
-            "weekdays": [
-              1
-            ],
+            "weekdays": [],
             "fromTime": null,
             "toTime": null
           }
@@ -92348,9 +92346,7 @@
             "venue": "TBA",
             "fromDate": "2025-02-03",
             "toDate": "2025-05-10",
-            "weekdays": [
-              1
-            ],
+            "weekdays": [],
             "fromTime": null,
             "toTime": null
           }
