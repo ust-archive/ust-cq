@@ -28706,8 +28706,8 @@
         "section": "T14",
         "number": "2324",
         "remarks": "> Classes held in Room 2127C",
-        "quota": 7,
-        "enroll": 7,
+        "quota": 8,
+        "enroll": 8,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -93241,15 +93241,15 @@
         "section": "L1",
         "number": "1677",
         "remarks": " ",
-        "quota": 40,
-        "enroll": 2,
+        "quota": 46,
+        "enroll": 46,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
           {
             "name": "MTLE",
-            "quota": 40,
-            "enroll": 2
+            "quota": 46,
+            "enroll": 46
           }
         ],
         "schedule": [
@@ -102474,7 +102474,7 @@
         "quota": 55,
         "enroll": 16,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
