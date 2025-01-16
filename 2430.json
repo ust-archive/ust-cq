@@ -32225,7 +32225,7 @@
         "number": "4118",
         "remarks": " ",
         "quota": 900,
-        "enroll": 488,
+        "enroll": 487,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -83225,6 +83225,47 @@
   {
     "career": "RPG",
     "subject": "MATH",
+    "number": "6912O",
+    "code": "MATH6912O",
+    "name": "Reading Course: Derived Categories and Geometric Invariant Theory",
+    "description": "This reading course is ideal for students enroled in Algebraic Geometry II or those pursuing algebraic geometry studies independently. It primarily addresses two topics: I. Derived Categories and II. Geometric invariant theory (GIT). Additionally, the course explores the connections between these topics, focusing on III. Derived categories of GIT quotients, as developed by Halpern-Leistner [HL] and Ballard, Favero and Katzarkov [BFK]. Derived categories, first introduced by Grothendieck and Verdier for studying Grothendieck’s duality, have since become indispensable tools in algebraic geometry, representing fundamental invariants of algebraic varieties. Geometric Invariant Theory (GIT) plays a critical role in studying quotients in algebraic geometry and constructing moduli spaces. A seminal result in the study of GIT quotients is the Kirwan surjectivity theorem, which establishes a surjective map from the equivariant cohomology of a space X to its GIT quotient X//G, with an explicitly y understood kernel. This reading course aims to explore a categorification of this surjectivity, as developed by [HL] and [BFK], which has broad implications in algebraic geometry, representation theory, and mathematical physics. This course will operate in a seminar/presentation format, where each participant is expected to lead one or two sessions. Each session will span approximately 2 to 3 hours. Students should seek approval from the course instructor to take this reading course.",
+    "previousCodes": "",
+    "prerequisites": "MATH 5251",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4393",
+        "remarks": "> Students should seek approval from the course instructor to take this course.",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "JIANG, Qingyuan"
+            ],
+            "venue": "Rm 5510, Lift 25-26 (30)",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "15:00",
+            "toTime": "17:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "MATH",
     "number": "6915",
     "code": "MATH6915",
     "name": "Scientific Computation Seminar",
@@ -106791,7 +106832,7 @@
         "number": "2726",
         "remarks": " ",
         "quota": 47,
-        "enroll": 41,
+        "enroll": 40,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
