@@ -2712,7 +2712,7 @@
         "quota": 60,
         "enroll": 37,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -3217,7 +3217,7 @@
         "quota": 50,
         "enroll": 22,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -3256,7 +3256,7 @@
         "quota": 2,
         "enroll": 2,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -8912,7 +8912,7 @@
         "quota": 190,
         "enroll": 121,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -28290,7 +28290,7 @@
         "section": "T01",
         "number": "2311",
         "remarks": "> Classes held in Room 2126A",
-        "quota": 7,
+        "quota": 8,
         "enroll": 7,
         "waitlist": 0,
         "consent": false,
@@ -28540,7 +28540,7 @@
         "section": "T13",
         "number": "2323",
         "remarks": "> Classes held in Room 2127C",
-        "quota": 7,
+        "quota": 8,
         "enroll": 7,
         "waitlist": 0,
         "consent": false,
@@ -28565,8 +28565,8 @@
         "section": "T14",
         "number": "2324",
         "remarks": "> Classes held in Room 2127C",
-        "quota": 6,
-        "enroll": 6,
+        "quota": 7,
+        "enroll": 7,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -28590,8 +28590,8 @@
         "section": "T15",
         "number": "2325",
         "remarks": "> Classes held in Room 2128A",
-        "quota": 6,
-        "enroll": 6,
+        "quota": 7,
+        "enroll": 7,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -28690,7 +28690,7 @@
         "section": "T20",
         "number": "2330",
         "remarks": "> Classes held in Room 2128C",
-        "quota": 6,
+        "quota": 7,
         "enroll": 6,
         "waitlist": 0,
         "consent": false,
@@ -28765,7 +28765,7 @@
         "section": "T23",
         "number": "2333",
         "remarks": "> Classes held in Room 2129B",
-        "quota": 7,
+        "quota": 8,
         "enroll": 7,
         "waitlist": 0,
         "consent": false,
@@ -46982,7 +46982,7 @@
         "quota": 90,
         "enroll": 42,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -57017,6 +57017,51 @@
   {
     "career": "TPG",
     "subject": "ISOM",
+    "number": "5690",
+    "code": "ISOM5690",
+    "name": "BA Enrichment Workshops",
+    "description": "The BA enrichment workshops aim to develop students’ business mindset and understand the landscape of analytics works across different industries. Students are expected to attend the workshops regularly in accordance with the course requirements. No assignment or exam will be required. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "4384",
+        "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 15-Feb-2025",
+        "quota": 126,
+        "enroll": 47,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "ISOM",
+            "quota": 126,
+            "enroll": 51
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "ISOM",
     "number": "5700",
     "code": "ISOM5700",
     "name": "Operations Management",
@@ -58716,7 +58761,7 @@
         "quota": 80,
         "enroll": 46,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -83593,7 +83638,7 @@
         "quota": 90,
         "enroll": 75,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -86197,7 +86242,7 @@
         "quota": 90,
         "enroll": 67,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -89290,14 +89335,14 @@
         "section": "L1",
         "number": "1479",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For FT-MBA Year 1 students only\n> Add/Drop Deadline : 10-Feb-2025",
-        "quota": 57,
+        "quota": 58,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MBA",
-            "quota": 57,
+            "quota": 58,
             "enroll": 0
           }
         ],
@@ -89321,14 +89366,14 @@
         "section": "L2",
         "number": "1493",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For PT-MBA Year 1 students only\n> Add/Drop Deadline : 07-Apr-2025",
-        "quota": 55,
+        "quota": 56,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MBA",
-            "quota": 55,
+            "quota": 56,
             "enroll": 0
           }
         ],
