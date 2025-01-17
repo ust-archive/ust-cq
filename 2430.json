@@ -21852,17 +21852,12 @@
         "reservedQuota": [
           {
             "name": "ECON",
-            "quota": 22,
+            "quota": 23,
             "enroll": 0
           },
           {
             "name": "FINA",
             "quota": 27,
-            "enroll": 0
-          },
-          {
-            "name": "SBM",
-            "quota": 1,
             "enroll": 0
           }
         ],
@@ -22565,7 +22560,7 @@
         "reservedQuota": [
           {
             "name": "ECON",
-            "quota": 50,
+            "quota": 76,
             "enroll": 0
           }
         ],
@@ -36631,7 +36626,12 @@
         "reservedQuota": [
           {
             "name": "FINA",
-            "quota": 65,
+            "quota": 53,
+            "enroll": 0
+          },
+          {
+            "name": "SBM",
+            "quota": 12,
             "enroll": 0
           }
         ],
@@ -36663,7 +36663,12 @@
         "reservedQuota": [
           {
             "name": "FINA",
-            "quota": 65,
+            "quota": 54,
+            "enroll": 0
+          },
+          {
+            "name": "SBM",
+            "quota": 11,
             "enroll": 0
           }
         ],
@@ -82886,6 +82891,45 @@
             ],
             "fromTime": "17:00",
             "toTime": "17:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "MATH",
+    "number": "4999",
+    "code": "MATH4999",
+    "name": "Independent Capstone Project",
+    "description": "A capstone project conducted under the supervision of a faculty member. A written report is required. Students need to individually seek a faculty mentor's consent prior to enrollment in this course.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "MATH 4991, MATH 4992, MATH 4993, MATH 4994",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L01",
+        "number": "4398",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LEUNG, Shing Yu"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
