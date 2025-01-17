@@ -425,7 +425,13 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "ACCT",
+            "quota": 68,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -451,7 +457,13 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "ACCT",
+            "quota": 68,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -477,7 +489,13 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "ACCT",
+            "quota": 68,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -519,7 +537,13 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "ACCT",
+            "quota": 68,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -545,7 +569,13 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "ACCT",
+            "quota": 68,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -571,7 +601,13 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "ACCT",
+            "quota": 68,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -722,7 +758,13 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "ACCT",
+            "quota": 65,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -760,7 +802,13 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "ACCT",
+            "quota": 65,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -798,7 +846,13 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "ACCT",
+            "quota": 65,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -852,7 +906,13 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "ACCT",
+            "quota": 65,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -890,7 +950,13 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "ACCT",
+            "quota": 65,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -928,7 +994,13 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "ACCT",
+            "quota": 65,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -9722,7 +9794,7 @@
         "reservedQuota": [
           {
             "name": "CIVL",
-            "quota": 180,
+            "quota": 179,
             "enroll": 0
           }
         ],
@@ -9823,7 +9895,7 @@
         "reservedQuota": [
           {
             "name": "CIVL",
-            "quota": 180,
+            "quota": 179,
             "enroll": 0
           }
         ],
@@ -9921,7 +9993,7 @@
         "reservedQuota": [
           {
             "name": "CIVL",
-            "quota": 180,
+            "quota": 179,
             "enroll": 2
           }
         ],
@@ -10141,7 +10213,7 @@
         "reservedQuota": [
           {
             "name": "CIVL",
-            "quota": 160,
+            "quota": 157,
             "enroll": 0
           }
         ],
@@ -10239,7 +10311,7 @@
         "reservedQuota": [
           {
             "name": "CIVL",
-            "quota": 180,
+            "quota": 178,
             "enroll": 0
           }
         ],
@@ -10412,7 +10484,7 @@
         "reservedQuota": [
           {
             "name": "CIVL",
-            "quota": 30,
+            "quota": 28,
             "enroll": 0
           }
         ],
@@ -10513,7 +10585,7 @@
         "reservedQuota": [
           {
             "name": "CIVL",
-            "quota": 160,
+            "quota": 158,
             "enroll": 0
           }
         ],
@@ -10611,7 +10683,7 @@
         "reservedQuota": [
           {
             "name": "CIVL",
-            "quota": 180,
+            "quota": 177,
             "enroll": 0
           }
         ],
@@ -10709,7 +10781,7 @@
         "reservedQuota": [
           {
             "name": "CIVL",
-            "quota": 30,
+            "quota": 25,
             "enroll": 0
           }
         ],
@@ -10798,7 +10870,7 @@
         "reservedQuota": [
           {
             "name": "CIVL",
-            "quota": 50,
+            "quota": 47,
             "enroll": 0
           }
         ],
@@ -10998,7 +11070,7 @@
           },
           {
             "name": "CIVL",
-            "quota": 50,
+            "quota": 45,
             "enroll": 0
           }
         ],
@@ -14025,7 +14097,7 @@
         "reservedQuota": [
           {
             "name": "CSE",
-            "quota": 75,
+            "quota": 74,
             "enroll": 0
           }
         ],
@@ -18695,8 +18767,8 @@
     "subject": "CSIT",
     "number": "5710",
     "code": "CSIT5710",
-    "name": "Cryptography and Cybersecurity",
-    "description": "The design and analysis of encryption schemes, public-key cryptography, digital signatures, user authentication, data integrity, cryptographic protocols, public-key infrastructure, key management, systems security, network and Web security.",
+    "name": "Cryptography",
+    "description": "The design and analysis of encryption schemes, public-key cryptography, digital signatures, user authentication, data integrity, cryptographic protocols, public-key infrastructure, key management, and their applications to systems security, network and Web security.",
     "previousCodes": "",
     "prerequisites": "",
     "corequisites": "",
@@ -21809,7 +21881,18 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "ECON",
+            "quota": 39,
+            "enroll": 0
+          },
+          {
+            "name": "FINA",
+            "quota": 11,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -48553,7 +48636,7 @@
         "reservedQuota": [
           {
             "name": "IELM",
-            "quota": 30,
+            "quota": 26,
             "enroll": 0
           }
         ],
@@ -55763,7 +55846,7 @@
         "number": "1329",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 60,
-        "enroll": 2,
+        "enroll": 9,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -55773,13 +55856,18 @@
             "enroll": 2
           },
           {
+            "name": "FINA",
+            "quota": 2,
+            "enroll": 2
+          },
+          {
             "name": "GO",
             "quota": 5,
-            "enroll": 0
+            "enroll": 5
           },
           {
             "name": "ISM",
-            "quota": 53,
+            "quota": 51,
             "enroll": 0
           }
         ],
@@ -56740,14 +56828,14 @@
         "section": "L1",
         "number": "1321",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(ISM) students only\n> Venue on 29-Mar-2025 : LSKG012\n> Add/Drop Deadline : 10-Feb-2025",
-        "quota": 70,
+        "quota": 66,
         "enroll": 64,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ISM",
-            "quota": 70,
+            "quota": 66,
             "enroll": 64
           }
         ],
@@ -56784,14 +56872,14 @@
         "section": "L2",
         "number": "1328",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(ISM) students only\n> Add/Drop Deadline : 10-Feb-2025",
-        "quota": 70,
+        "quota": 66,
         "enroll": 65,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ISM",
-            "quota": 70,
+            "quota": 66,
             "enroll": 65
           }
         ],
@@ -93184,7 +93272,7 @@
     "number": "5058",
     "code": "MSDM5058",
     "name": "Information Science",
-    "description": "This course will cover: (1) decision theory and its applications to ﬁnance; options and payoff diagrams, binomial trees; (2) portfolio management of financial time series using mean variance analysis; (3) evolutionary computation for optimization, with applications in ﬁnding good prediction rules in finance; (4) measure of information, various information entropies, and methods of maximum entropy; (5) game theory and its applications in competitive situations; (6) multi-agent systems modeling and applications to social networks and financial systems.",
+    "description": "This course will cover: (1) decision theory and its applications to finance; options and payoff diagrams, binomial trees, Wiener Process, Ito Lemma, Black-Scholes-Merton Model; (2) portfolio management of financial time series using mean variance analysis; (3) evolutionary computation for optimization, with applications in finding good prediction rules in finance; (4) measure of information, various information entropies, and methods of maximum entropy; (5) Nonlinear time series: Hurst exponent, multifractality in time series, detrending and decomposing a nonlinear time series; (6) Causality and information flow.",
     "previousCodes": "",
     "prerequisites": "",
     "corequisites": "",
