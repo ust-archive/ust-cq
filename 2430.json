@@ -12595,7 +12595,7 @@
         "section": "R2",
         "number": "2039",
         "remarks": " ",
-        "quota": 129,
+        "quota": 128,
         "enroll": 128,
         "waitlist": 0,
         "consent": true,
@@ -12618,7 +12618,7 @@
         "section": "R3",
         "number": "2040",
         "remarks": " ",
-        "quota": 62,
+        "quota": 61,
         "enroll": 61,
         "waitlist": 0,
         "consent": true,
@@ -15574,7 +15574,7 @@
         "section": "T1",
         "number": "2171",
         "remarks": " ",
-        "quota": 512,
+        "quota": 510,
         "enroll": 510,
         "waitlist": 0,
         "consent": false,
@@ -103446,6 +103446,51 @@
       {
         "section": "R1",
         "number": "1582",
+        "remarks": "> For FT-MBA students only\n> Add/Drop Deadline : 31-May-2025",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [
+          {
+            "name": "MBA",
+            "quota": 30,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-31",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "SBMT",
+    "number": "6360A",
+    "code": "SBMT6360A",
+    "name": "MBA Career Development Program",
+    "description": "The course provides students access to practical and customized learning opportunities to be equipped with knowledge, skills and attributes to further advance in their careers. Workshops and training sessions such as recruitment talks and executive sharing can keep students exposed to valuable career connections, abreast with the latest development in the commercial world and trends in the job market. Through these career development activities, students will get to evaluate their own strengths and weaknesses, identify areas for improvement, collect feedback on interview techniques, further improve and formulate a personalized strategy to develop their career goals. Consent of instructor is required. Graded PP, P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4399",
         "remarks": "> For FT-MBA students only\n> Add/Drop Deadline : 31-May-2025",
         "quota": 30,
         "enroll": 0,
