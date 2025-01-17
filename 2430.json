@@ -4332,7 +4332,7 @@
         "number": "1383",
         "remarks": " ",
         "quota": 68,
-        "enroll": 0,
+        "enroll": 37,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -4470,7 +4470,7 @@
         "number": "1385",
         "remarks": " ",
         "quota": 68,
-        "enroll": 0,
+        "enroll": 37,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -4510,7 +4510,7 @@
         "number": "1381",
         "remarks": " ",
         "quota": 68,
-        "enroll": 0,
+        "enroll": 35,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -4639,7 +4639,7 @@
         "number": "1382",
         "remarks": " ",
         "quota": 68,
-        "enroll": 0,
+        "enroll": 35,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -4784,7 +4784,7 @@
         "number": "1408",
         "remarks": " ",
         "quota": 40,
-        "enroll": 0,
+        "enroll": 23,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -4835,7 +4835,7 @@
         "number": "1409",
         "remarks": " ",
         "quota": 40,
-        "enroll": 0,
+        "enroll": 23,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -4902,7 +4902,7 @@
         "number": "1410",
         "remarks": " ",
         "quota": 30,
-        "enroll": 0,
+        "enroll": 11,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5026,7 +5026,7 @@
         "number": "1411",
         "remarks": "> Additional tutorial hours to be arranged by Division",
         "quota": 30,
-        "enroll": 0,
+        "enroll": 11,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5166,7 +5166,7 @@
         "number": "1386",
         "remarks": " ",
         "quota": 25,
-        "enroll": 0,
+        "enroll": 6,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5189,7 +5189,7 @@
         "number": "1387",
         "remarks": " ",
         "quota": 25,
-        "enroll": 0,
+        "enroll": 6,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5228,7 +5228,7 @@
         "number": "1388",
         "remarks": " ",
         "quota": 25,
-        "enroll": 0,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5251,7 +5251,7 @@
         "number": "1389",
         "remarks": " ",
         "quota": 25,
-        "enroll": 0,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5290,7 +5290,7 @@
         "number": "1390",
         "remarks": " ",
         "quota": 25,
-        "enroll": 0,
+        "enroll": 7,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5313,7 +5313,7 @@
         "number": "1391",
         "remarks": " ",
         "quota": 25,
-        "enroll": 0,
+        "enroll": 7,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -21852,7 +21852,17 @@
         "reservedQuota": [
           {
             "name": "ECON",
-            "quota": 50,
+            "quota": 22,
+            "enroll": 0
+          },
+          {
+            "name": "FINA",
+            "quota": 27,
+            "enroll": 0
+          },
+          {
+            "name": "SBM",
+            "quota": 1,
             "enroll": 0
           }
         ],
@@ -50731,12 +50741,12 @@
           },
           {
             "name": "RMBI",
-            "quota": 6,
+            "quota": 7,
             "enroll": 0
           },
           {
             "name": "SBM",
-            "quota": 92,
+            "quota": 91,
             "enroll": 0
           }
         ],
@@ -50773,12 +50783,12 @@
           },
           {
             "name": "RMBI",
-            "quota": 6,
+            "quota": 7,
             "enroll": 0
           },
           {
             "name": "SBM",
-            "quota": 92,
+            "quota": 91,
             "enroll": 0
           }
         ],
@@ -50810,7 +50820,7 @@
         "reservedQuota": [
           {
             "name": "BIBU",
-            "quota": 7,
+            "quota": 9,
             "enroll": 0
           },
           {
@@ -50820,7 +50830,7 @@
           },
           {
             "name": "SBM",
-            "quota": 92,
+            "quota": 90,
             "enroll": 0
           }
         ],
@@ -50857,12 +50867,12 @@
           },
           {
             "name": "RMBI",
-            "quota": 6,
+            "quota": 9,
             "enroll": 0
           },
           {
             "name": "SBM",
-            "quota": 92,
+            "quota": 89,
             "enroll": 0
           }
         ],
@@ -73787,14 +73797,14 @@
         "number": "1399",
         "remarks": "> For MPhil & PhD (LIFS) students only.",
         "quota": 20,
-        "enroll": 0,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "LIFS",
             "quota": 20,
-            "enroll": 0
+            "enroll": 3
           }
         ],
         "schedule": [
