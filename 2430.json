@@ -4332,7 +4332,7 @@
         "number": "1383",
         "remarks": " ",
         "quota": 68,
-        "enroll": 37,
+        "enroll": 67,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -4470,7 +4470,7 @@
         "number": "1385",
         "remarks": " ",
         "quota": 68,
-        "enroll": 37,
+        "enroll": 67,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -4510,7 +4510,7 @@
         "number": "1381",
         "remarks": " ",
         "quota": 68,
-        "enroll": 35,
+        "enroll": 65,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -4639,7 +4639,7 @@
         "number": "1382",
         "remarks": " ",
         "quota": 68,
-        "enroll": 35,
+        "enroll": 65,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -4784,7 +4784,7 @@
         "number": "1408",
         "remarks": " ",
         "quota": 40,
-        "enroll": 23,
+        "enroll": 37,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -4835,7 +4835,7 @@
         "number": "1409",
         "remarks": " ",
         "quota": 40,
-        "enroll": 23,
+        "enroll": 37,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -4902,7 +4902,7 @@
         "number": "1410",
         "remarks": " ",
         "quota": 30,
-        "enroll": 11,
+        "enroll": 26,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5026,7 +5026,7 @@
         "number": "1411",
         "remarks": "> Additional tutorial hours to be arranged by Division",
         "quota": 30,
-        "enroll": 11,
+        "enroll": 26,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5166,7 +5166,7 @@
         "number": "1386",
         "remarks": " ",
         "quota": 25,
-        "enroll": 6,
+        "enroll": 11,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5189,7 +5189,7 @@
         "number": "1387",
         "remarks": " ",
         "quota": 25,
-        "enroll": 6,
+        "enroll": 11,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5228,7 +5228,7 @@
         "number": "1388",
         "remarks": " ",
         "quota": 25,
-        "enroll": 3,
+        "enroll": 4,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5251,7 +5251,7 @@
         "number": "1389",
         "remarks": " ",
         "quota": 25,
-        "enroll": 3,
+        "enroll": 4,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5290,7 +5290,7 @@
         "number": "1390",
         "remarks": " ",
         "quota": 25,
-        "enroll": 7,
+        "enroll": 11,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5313,7 +5313,7 @@
         "number": "1391",
         "remarks": " ",
         "quota": 25,
-        "enroll": 7,
+        "enroll": 11,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -73797,14 +73797,14 @@
         "number": "1399",
         "remarks": "> For MPhil & PhD (LIFS) students only.",
         "quota": 20,
-        "enroll": 3,
+        "enroll": 5,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "LIFS",
             "quota": 20,
-            "enroll": 3
+            "enroll": 5
           }
         ],
         "schedule": [
@@ -83282,8 +83282,8 @@
       {
         "section": "T1",
         "number": "1459",
-        "remarks": "> Venue: LTF",
-        "quota": 40,
+        "remarks": " ",
+        "quota": 50,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -83296,11 +83296,9 @@
             "venue": "TBA",
             "fromDate": "2025-02-03",
             "toDate": "2025-05-10",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "15:00",
-            "toTime": "15:50"
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -83323,8 +83321,8 @@
       {
         "section": "T1",
         "number": "1460",
-        "remarks": "> Venue: LTF",
-        "quota": 30,
+        "remarks": " ",
+        "quota": 10,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -83337,11 +83335,9 @@
             "venue": "TBA",
             "fromDate": "2025-02-03",
             "toDate": "2025-05-10",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "15:00",
-            "toTime": "15:50"
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -83364,7 +83360,7 @@
       {
         "section": "T1",
         "number": "1461",
-        "remarks": "> Venue: LTF",
+        "remarks": " ",
         "quota": 40,
         "enroll": 0,
         "waitlist": 0,
@@ -83378,11 +83374,9 @@
             "venue": "TBA",
             "fromDate": "2025-02-03",
             "toDate": "2025-05-10",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "15:00",
-            "toTime": "15:50"
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
