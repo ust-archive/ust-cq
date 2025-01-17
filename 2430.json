@@ -35839,7 +35839,12 @@
         "reservedQuota": [
           {
             "name": "FINA",
-            "quota": 350,
+            "quota": 283,
+            "enroll": 0
+          },
+          {
+            "name": "SBM",
+            "quota": 67,
             "enroll": 0
           }
         ],
@@ -35915,8 +35920,13 @@
         "consent": false,
         "reservedQuota": [
           {
+            "name": "ECON",
+            "quota": 30,
+            "enroll": 0
+          },
+          {
             "name": "FINA",
-            "quota": 70,
+            "quota": 40,
             "enroll": 0
           }
         ],
@@ -35979,8 +35989,18 @@
         "consent": false,
         "reservedQuota": [
           {
+            "name": "ECON",
+            "quota": 8,
+            "enroll": 0
+          },
+          {
             "name": "FINA",
-            "quota": 70,
+            "quota": 40,
+            "enroll": 0
+          },
+          {
+            "name": "SBM",
+            "quota": 22,
             "enroll": 0
           }
         ],
@@ -36107,7 +36127,12 @@
         "reservedQuota": [
           {
             "name": "FINA",
-            "quota": 75,
+            "quota": 54,
+            "enroll": 0
+          },
+          {
+            "name": "SBM",
+            "quota": 21,
             "enroll": 0
           }
         ],
@@ -36139,7 +36164,12 @@
         "reservedQuota": [
           {
             "name": "FINA",
-            "quota": 75,
+            "quota": 70,
+            "enroll": 0
+          },
+          {
+            "name": "SBM",
+            "quota": 5,
             "enroll": 0
           }
         ],
@@ -36323,7 +36353,12 @@
         "reservedQuota": [
           {
             "name": "FINA",
-            "quota": 60,
+            "quota": 39,
+            "enroll": 0
+          },
+          {
+            "name": "SBM",
+            "quota": 21,
             "enroll": 0
           }
         ],
@@ -36354,7 +36389,12 @@
         "reservedQuota": [
           {
             "name": "FINA",
-            "quota": 60,
+            "quota": 59,
+            "enroll": 0
+          },
+          {
+            "name": "SBM",
+            "quota": 1,
             "enroll": 0
           }
         ],
@@ -36385,7 +36425,12 @@
         "reservedQuota": [
           {
             "name": "FINA",
-            "quota": 60,
+            "quota": 55,
+            "enroll": 0
+          },
+          {
+            "name": "SBM",
+            "quota": 5,
             "enroll": 0
           }
         ],
@@ -86317,7 +86362,7 @@
         "number": "1473",
         "remarks": " ",
         "quota": 30,
-        "enroll": 19,
+        "enroll": 21,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -86356,7 +86401,7 @@
         "number": "1474",
         "remarks": " ",
         "quota": 190,
-        "enroll": 170,
+        "enroll": 172,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
