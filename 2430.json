@@ -39830,7 +39830,7 @@
         "number": "4195",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 21,
-        "enroll": 21,
+        "enroll": 20,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -83367,6 +83367,47 @@
   {
     "career": "RPG",
     "subject": "MATH",
+    "number": "6912Q",
+    "code": "MATH6912Q",
+    "name": "Reading Course: Basic Tools in Stochastic Control and Optimization",
+    "description": "The topics covered in this reading course include: 1. Stochastic analysis 2. Dynamic programming and partial differential equations 3. Viscosity solution 4. Backward stochastic differential equations 5. Martingale and duality method 6. Numerical approach for viscosity solutions. Students should seek approval from the course instructor to take this reading course.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4397",
+        "remarks": "> Students should seek approval from the course instructor to take this course.",
+        "quota": 5,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "QIAN, Shuaijie"
+            ],
+            "venue": "Rm 5564, Lift 27-28 (30)",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "10:00",
+            "toTime": "11:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "MATH",
     "number": "6915",
     "code": "MATH6915",
     "name": "Scientific Computation Seminar",
@@ -102652,11 +102693,37 @@
         "section": "L1",
         "number": "1567",
         "remarks": "> For SBM TPG students only\n> Add/Drop Deadline : 10-Feb-2025",
-        "quota": 55,
-        "enroll": 16,
+        "quota": 46,
+        "enroll": 23,
         "waitlist": 0,
         "consent": true,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "ACCT",
+            "quota": 1,
+            "enroll": 1
+          },
+          {
+            "name": "ECON",
+            "quota": 5,
+            "enroll": 3
+          },
+          {
+            "name": "FINA",
+            "quota": 10,
+            "enroll": 1
+          },
+          {
+            "name": "ISM",
+            "quota": 10,
+            "enroll": 5
+          },
+          {
+            "name": "TLE",
+            "quota": 10,
+            "enroll": 1
+          }
+        ],
         "schedule": [
           {
             "instructors": [
