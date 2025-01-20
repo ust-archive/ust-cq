@@ -22659,7 +22659,7 @@
             "instructors": [
               "NG, Chi Yung"
             ],
-            "venue": "Rm 3, 30/F, Tower 1,Millennity",
+            "venue": "Rm 3, 31/F, Tower 1,Millennity",
             "fromDate": "2025-02-03",
             "toDate": "2025-03-24",
             "weekdays": [
@@ -49941,72 +49941,6 @@
   {
     "career": "UGRD",
     "subject": "ISDN",
-    "number": "2210",
-    "code": "ISDN2210",
-    "name": "Introduction to Brand Design",
-    "description": "A project-based course that introduces students to the basics of Brand Identity Design. Brands and branding are key business tools and techniques. An understanding of how brands are strategically designed and developed can lead to greater coherence between the design disciplines and business development. This course will introduce to the student the basic principles and practices of brand identity design and development through the lens of graphic design and visual communications. Brand assets such as the logo, brand fonts and secondary graphics, brand tone, tools and touch points (and much more); and how they are structured, designed and developed via brand frameworks and branding strategies will be explored through a series of lectures and in-class exercises. The course will culminate in an extended hands-on project. Guest speaker(s) will also be invited to give context and insight into the practice and profession.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 3,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "L1",
-        "number": "4404",
-        "remarks": " ",
-        "quota": 30,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "LAU, Brian Hui Wang"
-            ],
-            "venue": "Rm 2590, Lift 27-28",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              1
-            ],
-            "fromTime": "15:00",
-            "toTime": "16:50"
-          }
-        ]
-      },
-      {
-        "section": "LA1",
-        "number": "4405",
-        "remarks": " ",
-        "quota": 30,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "LAU, Brian Hui Wang"
-            ],
-            "venue": "Rm 2590, Lift 27-28",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              4
-            ],
-            "fromTime": "09:00",
-            "toTime": "10:50"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "UGRD",
-    "subject": "ISDN",
     "number": "2400",
     "code": "ISDN2400",
     "name": "Physical Prototyping",
@@ -50131,6 +50065,47 @@
             ],
             "fromTime": "15:00",
             "toTime": "16:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ISDN",
+    "number": "3000A",
+    "code": "ISDN3000A",
+    "name": "From Ideas to Assets: Practice of the Creative Economy System",
+    "description": "This course focuses on the design and production of intellectual property (IP) and related products, emphasizing the development of powerful visual identity and associated designs with varied craftsmanship. Through project-based learning and hands-on practice of artistic techniques, students will engage in the pathways for inspiration capture, conceptualization, and art expression. The course is expected to unlock students’ innovative thinking while providing a self-healing experience through artistic mediums, benefiting both future startups and current life quality. Instructor's approval is required for enrollment in the course.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4406",
+        "remarks": " ",
+        "quota": 25,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LI, Li"
+            ],
+            "venue": "Rm 4223, Lift 23",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "12:00",
+            "toTime": "14:50"
           }
         ]
       }
