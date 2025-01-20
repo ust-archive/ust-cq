@@ -34535,7 +34535,7 @@
         "section": "T1",
         "number": "1190",
         "remarks": "> For MPhil/PhD (AES/ESPM) students only",
-        "quota": 45,
+        "quota": 42,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -34560,7 +34560,7 @@
         "section": "T2",
         "number": "1191",
         "remarks": "> For MPhil/PhD (AES/ESPM) students only",
-        "quota": 45,
+        "quota": 42,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -49941,6 +49941,72 @@
   {
     "career": "UGRD",
     "subject": "ISDN",
+    "number": "2210",
+    "code": "ISDN2210",
+    "name": "Introduction to Brand Design",
+    "description": "A project-based course that introduces students to the basics of Brand Identity Design. Brands and branding are key business tools and techniques. An understanding of how brands are strategically designed and developed can lead to greater coherence between the design disciplines and business development. This course will introduce to the student the basic principles and practices of brand identity design and development through the lens of graphic design and visual communications. Brand assets such as the logo, brand fonts and secondary graphics, brand tone, tools and touch points (and much more); and how they are structured, designed and developed via brand frameworks and branding strategies will be explored through a series of lectures and in-class exercises. The course will culminate in an extended hands-on project. Guest speaker(s) will also be invited to give context and insight into the practice and profession.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4409",
+        "remarks": " ",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAU, Brian Hui Wang"
+            ],
+            "venue": "Rm 2590, Lift 27-28",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "15:00",
+            "toTime": "16:50"
+          }
+        ]
+      },
+      {
+        "section": "LA1",
+        "number": "4410",
+        "remarks": " ",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAU, Brian Hui Wang"
+            ],
+            "venue": "Rm 2590, Lift 27-28",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "09:00",
+            "toTime": "11:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ISDN",
     "number": "2400",
     "code": "ISDN2400",
     "name": "Physical Prototyping",
@@ -50201,14 +50267,12 @@
             "instructors": [
               "JONEJA, Ajay"
             ],
-            "venue": "Rm 4223, Lift 23",
+            "venue": "TBA",
             "fromDate": "2025-02-03",
             "toDate": "2025-05-10",
-            "weekdays": [
-              3
-            ],
-            "fromTime": "14:00",
-            "toTime": "15:50"
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       },
@@ -50296,8 +50360,8 @@
             "weekdays": [
               4
             ],
-            "fromTime": "11:00",
-            "toTime": "12:50"
+            "fromTime": "12:00",
+            "toTime": "13:50"
           }
         ]
       },
@@ -107713,6 +107777,53 @@
           {
             "instructors": [
               "LIN, Betty Fwei-chien"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "UCOP",
+    "number": "3200",
+    "code": "UCOP3200",
+    "name": "Design for Global Health",
+    "description": "A project-based, experiential course that exposes students to tackle global health problems using design thinking as an innovation process. The goal of this course is to develop students’ critical thinking, understand about the needs of different communities around the world, and improve communication, design skills through a multi-disciplinary, team-based design experience. Each team will set objectives at the beginning of the semester after getting the needs of communities via the project partners. There will be several task-based assessments throughout the semester to check the progress of each project team evaluated by teaching team, faculty advisors and project partners. At the end of semester, students need to showcase their output in a form of roadshow. This is a common core course open to students from any academic background who are looking for practical experience in design thinking and motivate to tackle global health issues. Instructor's approval is required for enrollment in the course.",
+    "previousCodes": "ENGG4930",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [
+      {
+        "attribute": "DELI",
+        "value": "EXP",
+        "attributeDescription": "Mode of Delivery",
+        "valueDescription": "[EXP] Experiential learning"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4408",
+        "remarks": "> The class is delivered in an experiential learning mode",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "ABEYNAYAKE, H.I. Malinda M.",
+              "CHAU, Ying"
             ],
             "venue": "TBA",
             "fromDate": "2025-02-03",
