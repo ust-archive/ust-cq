@@ -252,7 +252,7 @@
         "number": "1773",
         "remarks": " ",
         "quota": 65,
-        "enroll": 56,
+        "enroll": 55,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -368,7 +368,7 @@
         "number": "1777",
         "remarks": " ",
         "quota": 65,
-        "enroll": 56,
+        "enroll": 54,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -17222,7 +17222,7 @@
         "number": "1952",
         "remarks": " ",
         "quota": 309,
-        "enroll": 309,
+        "enroll": 308,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -36242,14 +36242,14 @@
         "number": "2495",
         "remarks": " ",
         "quota": 70,
-        "enroll": 42,
+        "enroll": 39,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 70,
-            "enroll": 42
+            "enroll": 39
           }
         ],
         "schedule": [
@@ -40184,7 +40184,7 @@
         "number": "4197",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 19,
-        "enroll": 19,
+        "enroll": 18,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -60079,7 +60079,7 @@
         "number": "2978",
         "remarks": " ",
         "quota": 24,
-        "enroll": 24,
+        "enroll": 23,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -63076,7 +63076,7 @@
         "number": "3088",
         "remarks": " ",
         "quota": 20,
-        "enroll": 19,
+        "enroll": 18,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -75328,14 +75328,14 @@
         "number": "3453",
         "remarks": " ",
         "quota": 50,
-        "enroll": 45,
+        "enroll": 44,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
             "quota": 50,
-            "enroll": 45
+            "enroll": 44
           }
         ],
         "schedule": [
@@ -75360,14 +75360,14 @@
         "number": "3455",
         "remarks": " ",
         "quota": 50,
-        "enroll": 47,
+        "enroll": 43,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
             "quota": 50,
-            "enroll": 47
+            "enroll": 43
           }
         ],
         "schedule": [
@@ -75392,7 +75392,7 @@
         "number": "3457",
         "remarks": " ",
         "quota": 50,
-        "enroll": 45,
+        "enroll": 44,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -75417,7 +75417,7 @@
         "number": "3459",
         "remarks": " ",
         "quota": 50,
-        "enroll": 47,
+        "enroll": 43,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -75502,14 +75502,14 @@
         "number": "3462",
         "remarks": " ",
         "quota": 50,
-        "enroll": 46,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
             "quota": 50,
-            "enroll": 46
+            "enroll": 41
           }
         ],
         "schedule": [
@@ -75571,7 +75571,7 @@
         "number": "3466",
         "remarks": " ",
         "quota": 50,
-        "enroll": 46,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -101868,54 +101868,6 @@
             ],
             "fromTime": "18:00",
             "toTime": "18:50"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "UGRD",
-    "subject": "RMBI",
-    "number": "4110",
-    "code": "RMBI4110",
-    "name": "Financial Service Operations Management",
-    "description": "This course focuses on the products, processes and delivery channels in the financial industries. It analyzes and evaluates the designs and performances of the internal operations and the different distribution channels of the financial institutions, and identifies opportunities for continuous improvement in productivity, efficiency and service quality. Issues like operational risk management, application of IT, automation, outsourcing and new trends in the financial service operations for both financial institutions and non‐financial institutions will be explored.",
-    "previousCodes": "",
-    "prerequisites": "(ISOM 2500 OR MATH 2411) AND ISOM 2700",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 3,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "L1",
-        "number": "4033",
-        "remarks": " ",
-        "quota": 5,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [
-          {
-            "name": "RMBI",
-            "quota": 5,
-            "enroll": 0
-          }
-        ],
-        "schedule": [
-          {
-            "instructors": [
-              "LU, Lijian"
-            ],
-            "venue": "Rm 1011, LSK Bldg (80)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              2,
-              4
-            ],
-            "fromTime": "10:30",
-            "toTime": "11:50"
           }
         ]
       }
