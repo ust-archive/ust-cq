@@ -48737,7 +48737,8 @@
         "schedule": [
           {
             "instructors": [
-              "JIANG, Wei"
+              "JIANG, Wei",
+              "QIAN, Shuaijie"
             ],
             "venue": "Rm 5560, Lift 27-28 (30)",
             "fromDate": "2025-02-03",
@@ -48763,7 +48764,8 @@
         "schedule": [
           {
             "instructors": [
-              "JIANG, Wei"
+              "JIANG, Wei",
+              "QIAN, Shuaijie"
             ],
             "venue": "Rm 3207, Lift 21",
             "fromDate": "2025-02-03",
@@ -54443,14 +54445,14 @@
         "section": "L1",
         "number": "2894",
         "remarks": " ",
-        "quota": 65,
+        "quota": 60,
         "enroll": 36,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "OM",
-            "quota": 65,
+            "quota": 60,
             "enroll": 36
           }
         ],
@@ -54475,7 +54477,7 @@
         "section": "L2",
         "number": "2896",
         "remarks": " ",
-        "quota": 65,
+        "quota": 60,
         "enroll": 43,
         "waitlist": 0,
         "consent": false,
@@ -54487,7 +54489,7 @@
           },
           {
             "name": "RMBI",
-            "quota": 45,
+            "quota": 40,
             "enroll": 32
           }
         ],
@@ -70383,25 +70385,11 @@
         "number": "4345",
         "remarks": " ",
         "quota": 20,
-        "enroll": 16,
+        "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2126A, Lift 19 (28)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "10:00",
-            "toTime": "11:50"
-          }
-        ]
+        "schedule": []
       }
     ]
   },
@@ -84853,7 +84841,13 @@
         "enroll": 70,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "MECH",
+            "quota": 30,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
