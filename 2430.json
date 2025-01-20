@@ -14091,14 +14091,14 @@
         "number": "2116",
         "remarks": " ",
         "quota": 75,
-        "enroll": 72,
+        "enroll": 73,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "CSE",
             "quota": 37,
-            "enroll": 34
+            "enroll": 35
           }
         ],
         "schedule": [
@@ -14161,7 +14161,7 @@
         "number": "2120",
         "remarks": " ",
         "quota": 75,
-        "enroll": 72,
+        "enroll": 73,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -40784,7 +40784,7 @@
         "number": "4221",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 6,
-        "enroll": 6,
+        "enroll": 4,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -49933,6 +49933,72 @@
             "weekdays": [],
             "fromTime": null,
             "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ISDN",
+    "number": "2210",
+    "code": "ISDN2210",
+    "name": "Introduction to Brand Design",
+    "description": "A project-based course that introduces students to the basics of Brand Identity Design. Brands and branding are key business tools and techniques. An understanding of how brands are strategically designed and developed can lead to greater coherence between the design disciplines and business development. This course will introduce to the student the basic principles and practices of brand identity design and development through the lens of graphic design and visual communications. Brand assets such as the logo, brand fonts and secondary graphics, brand tone, tools and touch points (and much more); and how they are structured, designed and developed via brand frameworks and branding strategies will be explored through a series of lectures and in-class exercises. The course will culminate in an extended hands-on project. Guest speaker(s) will also be invited to give context and insight into the practice and profession.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4404",
+        "remarks": " ",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAU, Brian Hui Wang"
+            ],
+            "venue": "Rm 2590, Lift 27-28",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "15:00",
+            "toTime": "16:50"
+          }
+        ]
+      },
+      {
+        "section": "LA1",
+        "number": "4405",
+        "remarks": " ",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAU, Brian Hui Wang"
+            ],
+            "venue": "Rm 2590, Lift 27-28",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "09:00",
+            "toTime": "10:50"
           }
         ]
       }
@@ -67185,7 +67251,7 @@
         "number": "3212",
         "remarks": " ",
         "quota": 30,
-        "enroll": 27,
+        "enroll": 28,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -67263,7 +67329,7 @@
         "number": "4338",
         "remarks": " ",
         "quota": 30,
-        "enroll": 28,
+        "enroll": 27,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
