@@ -31250,6 +31250,47 @@
   {
     "career": "UGRD",
     "subject": "EMIA",
+    "number": "2220",
+    "code": "EMIA2220",
+    "name": "Technical Theater Arts",
+    "description": "Offered by EMIA in collaboration with MTPC, this 3-credit Technical Theater Arts course delves into the backstage realm of theater production. Students will explore the collaborative nature of diverse technical disciplines in shaping a stage production. Through hands-on experience with hardware, software, and a custom-designed meta-verse training tool, they will study techniques that deliver real-world performance and presentation. The course also covers front of house fundamentals, field trips, and a performance based capstone project, providing students with a comprehensive understanding of theater operations.  Students will be required to submit an introductory video and obtain the instructor's approval for enrolling in the course.  Interview may also be required.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4403",
+        "remarks": "> Venue : Main Hall, Shaw Auditorium",
+        "quota": 25,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "10:00",
+            "toTime": "12:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "EMIA",
     "number": "4110",
     "code": "EMIA4110",
     "name": "Practical Machine Learning",
@@ -67361,7 +67402,7 @@
     "previousCodes": "",
     "prerequisites": "LANG 1403 OR LANG 1404",
     "corequisites": "",
-    "exclusions": "ECON 3700, LABU 2040, LABU 2060",
+    "exclusions": "ECON 3700, LABU 2040, LABU 2060, LANG 2063",
     "credits": 3,
     "attributes": [],
     "classes": [
@@ -67877,7 +67918,7 @@
     "previousCodes": "",
     "prerequisites": "LANG 1403 OR LANG 1404",
     "corequisites": "",
-    "exclusions": "LABU 2040, LABU 2060",
+    "exclusions": "LABU 2040, LABU 2060, LANG 2064",
     "credits": 3,
     "attributes": [],
     "classes": [
@@ -70343,7 +70384,7 @@
     "previousCodes": "",
     "prerequisites": "LANG 1403 OR LANG 1404",
     "corequisites": "",
-    "exclusions": "ECON 3700, LABU 2040, LABU 2060",
+    "exclusions": "ECON 3700, LABU 2040, LABU 2060, LANG 2065",
     "credits": 3,
     "attributes": [],
     "classes": [
@@ -77646,6 +77687,54 @@
             ],
             "fromTime": "19:00",
             "toTime": "22:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MARK",
+    "number": "6950",
+    "code": "MARK6950",
+    "name": "Marketing Action Learning Project",
+    "description": "A team project that focuses on analyzing and solving a real-world marketing challenge within an organization (e.g., company, NGO). Students will develop marketing consulting experience, collaborate to produce a marketing report, and present their in-depth insights and recommended solutions to the sponsor.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4402",
+        "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 07-Apr-2025",
+        "quota": 30,
+        "enroll": 11,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "MARK",
+            "quota": 30,
+            "enroll": 11
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "HELSEN, Kristiaan",
+              "HONG, Jiewen"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-07",
+            "toDate": "2025-03-28",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
           }
         ]
       }
