@@ -2662,7 +2662,7 @@
         "schedule": [
           {
             "instructors": [
-              "HUI, Sin Wah Cynthia"
+              "HUI, Cynthia"
             ],
             "venue": "Rm 5583, Lift 29-30 (80)",
             "fromDate": "2025-02-08",
@@ -22084,14 +22084,14 @@
             "instructors": [
               "WU, Qinggong"
             ],
-            "venue": "Rm 1009, LSK Bldg (80)",
+            "venue": "Rm 1034, LSK Bldg (80)",
             "fromDate": "2025-02-03",
             "toDate": "2025-05-10",
             "weekdays": [
-              3
+              4
             ],
-            "fromTime": "18:00",
-            "toTime": "18:50"
+            "fromTime": "09:30",
+            "toTime": "10:20"
           }
         ]
       }
@@ -78301,7 +78301,7 @@
         "section": "L1",
         "number": "3513",
         "remarks": " ",
-        "quota": 40,
+        "quota": 60,
         "enroll": 6,
         "waitlist": 0,
         "consent": false,
@@ -78311,7 +78311,7 @@
             "instructors": [
               "YAO, Jing"
             ],
-            "venue": "G009A, CYT Bldg (80)",
+            "venue": "Rm 2407, Lift 17-18 (126)",
             "fromDate": "2025-02-03",
             "toDate": "2025-05-10",
             "weekdays": [
@@ -78325,7 +78325,7 @@
             "instructors": [
               "YAO, Jing"
             ],
-            "venue": "Rm 2463, Lift 25-26 (42)",
+            "venue": "Rm 2404, Lift 17-18 (81)",
             "fromDate": "2025-02-03",
             "toDate": "2025-05-10",
             "weekdays": [
@@ -78340,7 +78340,7 @@
         "section": "T1A",
         "number": "3514",
         "remarks": " ",
-        "quota": 40,
+        "quota": 30,
         "enroll": 6,
         "waitlist": 0,
         "consent": false,
@@ -78358,6 +78358,31 @@
             ],
             "fromTime": "11:00",
             "toTime": "11:50"
+          }
+        ]
+      },
+      {
+        "section": "T1B",
+        "number": "4411",
+        "remarks": " ",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "YAO, Jing"
+            ],
+            "venue": "Rm 4620, Lift 31-32 (126)",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "18:00",
+            "toTime": "18:50"
           }
         ]
       }
@@ -78387,8 +78412,8 @@
       {
         "section": "L1",
         "number": "3515",
-        "remarks": "> Venue: Room CYTG009A",
-        "quota": 40,
+        "remarks": "> Venue: Room 2407",
+        "quota": 60,
         "enroll": 6,
         "waitlist": 0,
         "consent": false,
@@ -78414,7 +78439,7 @@
         "section": "T1A",
         "number": "3516",
         "remarks": "> Venue: Room 5583",
-        "quota": 40,
+        "quota": 30,
         "enroll": 6,
         "waitlist": 0,
         "consent": false,
@@ -78432,6 +78457,31 @@
             ],
             "fromTime": "11:00",
             "toTime": "11:50"
+          }
+        ]
+      },
+      {
+        "section": "T1B",
+        "number": "4414",
+        "remarks": "> Venue : Room 4620",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "YAO, Jing"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "18:00",
+            "toTime": "18:50"
           }
         ]
       }
@@ -106873,14 +106923,14 @@
         "section": "L1",
         "number": "4246",
         "remarks": "> Venue : Room 6602\n> Co-list with SOSC 4300",
-        "quota": 18,
+        "quota": 17,
         "enroll": 4,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SOSC",
-            "quota": 18,
+            "quota": 17,
             "enroll": 4
           }
         ],
