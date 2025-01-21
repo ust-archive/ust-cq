@@ -23342,14 +23342,14 @@
         "section": "L1",
         "number": "1152",
         "remarks": "> For MSc(ECON) students only\n> Add/Drop Deadline and Extended Drop Deadline : 15-Feb-2025",
-        "quota": 65,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECON",
-            "quota": 65,
+            "quota": 60,
             "enroll": 0
           }
         ],
@@ -23693,14 +23693,14 @@
         "section": "L1",
         "number": "1164",
         "remarks": "> For MSc(ECON) students only\n> Add/Drop Deadline and Extended Drop Deadline : 15-Feb-2025",
-        "quota": 65,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECON",
-            "quota": 65,
+            "quota": 60,
             "enroll": 0
           }
         ],
@@ -25037,14 +25037,14 @@
         "number": "1110",
         "remarks": " ",
         "quota": 90,
-        "enroll": 86,
+        "enroll": 87,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "EESM",
             "quota": 90,
-            "enroll": 86
+            "enroll": 87
           }
         ],
         "schedule": [
@@ -25084,14 +25084,14 @@
         "number": "1111",
         "remarks": " ",
         "quota": 90,
-        "enroll": 84,
+        "enroll": 85,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "EESM",
             "quota": 90,
-            "enroll": 84
+            "enroll": 85
           }
         ],
         "schedule": [
@@ -25131,14 +25131,14 @@
         "number": "1112",
         "remarks": " ",
         "quota": 90,
-        "enroll": 86,
+        "enroll": 87,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "EESM",
             "quota": 90,
-            "enroll": 86
+            "enroll": 87
           }
         ],
         "schedule": [
@@ -25366,14 +25366,14 @@
         "number": "1117",
         "remarks": " ",
         "quota": 90,
-        "enroll": 83,
+        "enroll": 84,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "EESM",
             "quota": 90,
-            "enroll": 83
+            "enroll": 84
           }
         ],
         "schedule": [
@@ -25769,7 +25769,7 @@
         "number": "4354",
         "remarks": " ",
         "quota": 1,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -40309,7 +40309,7 @@
         "number": "4202",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 24,
-        "enroll": 24,
+        "enroll": 23,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -40784,7 +40784,7 @@
         "number": "4221",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 6,
-        "enroll": 4,
+        "enroll": 5,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -80884,14 +80884,14 @@
             "instructors": [
               "CHEN, Beifang"
             ],
-            "venue": "Rm 1009, LSK Bldg (80)",
+            "venue": "Rm 2404, Lift 17-18 (81)",
             "fromDate": "2025-02-03",
             "toDate": "2025-05-10",
             "weekdays": [
-              1
+              2
             ],
-            "fromTime": "18:00",
-            "toTime": "18:50"
+            "fromTime": "17:00",
+            "toTime": "17:50"
           }
         ]
       }
@@ -88871,11 +88871,22 @@
         "section": "L1",
         "number": "3826",
         "remarks": " ",
-        "quota": 60,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "BIBU",
+            "quota": 10,
+            "enroll": 0
+          },
+          {
+            "name": "MGMT",
+            "quota": 30,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -88896,11 +88907,22 @@
         "section": "L2",
         "number": "3828",
         "remarks": " ",
-        "quota": 60,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "BIBU",
+            "quota": 10,
+            "enroll": 0
+          },
+          {
+            "name": "MGMT",
+            "quota": 30,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -88921,11 +88943,22 @@
         "section": "L3",
         "number": "3830",
         "remarks": " ",
-        "quota": 60,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "BIBU",
+            "quota": 10,
+            "enroll": 0
+          },
+          {
+            "name": "MGMT",
+            "quota": 30,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -88946,7 +88979,7 @@
         "section": "T1",
         "number": "3832",
         "remarks": " ",
-        "quota": 60,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -88969,7 +89002,7 @@
         "section": "T2",
         "number": "3834",
         "remarks": " ",
-        "quota": 60,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -88992,7 +89025,7 @@
         "section": "T3",
         "number": "3835",
         "remarks": " ",
-        "quota": 60,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -89031,11 +89064,17 @@
         "section": "L1",
         "number": "3836",
         "remarks": " ",
-        "quota": 60,
+        "quota": 40,
         "enroll": 1,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "MGMT",
+            "quota": 40,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -89057,11 +89096,17 @@
         "section": "L2",
         "number": "3838",
         "remarks": " ",
-        "quota": 60,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "MGMT",
+            "quota": 40,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -89083,7 +89128,7 @@
         "section": "T1",
         "number": "3840",
         "remarks": " ",
-        "quota": 60,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -89106,7 +89151,7 @@
         "section": "T2",
         "number": "3842",
         "remarks": " ",
-        "quota": 60,
+        "quota": 40,
         "enroll": 1,
         "waitlist": 0,
         "consent": false,
@@ -89145,11 +89190,17 @@
         "section": "L1",
         "number": "3843",
         "remarks": " ",
-        "quota": 60,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "MGMT",
+            "quota": 40,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -89171,11 +89222,17 @@
         "section": "L2",
         "number": "3845",
         "remarks": " ",
-        "quota": 60,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "MGMT",
+            "quota": 40,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -89197,7 +89254,7 @@
         "section": "T1",
         "number": "3847",
         "remarks": " ",
-        "quota": 60,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -89220,7 +89277,7 @@
         "section": "T2",
         "number": "3849",
         "remarks": " ",
-        "quota": 60,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -89354,11 +89411,17 @@
         "section": "L1",
         "number": "3852",
         "remarks": " ",
-        "quota": 60,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "MGMT",
+            "quota": 40,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -89379,11 +89442,17 @@
         "section": "L2",
         "number": "3853",
         "remarks": " ",
-        "quota": 60,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "MGMT",
+            "quota": 40,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -89404,11 +89473,17 @@
         "section": "L3",
         "number": "3854",
         "remarks": " ",
-        "quota": 60,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "MGMT",
+            "quota": 40,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -89445,11 +89520,17 @@
         "section": "L1",
         "number": "3855",
         "remarks": " ",
-        "quota": 60,
+        "quota": 40,
         "enroll": 1,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "MGMT",
+            "quota": 40,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -89470,11 +89551,17 @@
         "section": "L2",
         "number": "3857",
         "remarks": " ",
-        "quota": 60,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "MGMT",
+            "quota": 40,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -89495,7 +89582,7 @@
         "section": "T1",
         "number": "3859",
         "remarks": " ",
-        "quota": 60,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -89518,7 +89605,7 @@
         "section": "T2",
         "number": "3861",
         "remarks": " ",
-        "quota": 60,
+        "quota": 40,
         "enroll": 1,
         "waitlist": 0,
         "consent": false,
@@ -89557,11 +89644,17 @@
         "section": "L1",
         "number": "3862",
         "remarks": " ",
-        "quota": 60,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "MGMT",
+            "quota": 40,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -89582,11 +89675,17 @@
         "section": "L2",
         "number": "3864",
         "remarks": " ",
-        "quota": 60,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "MGMT",
+            "quota": 40,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -89607,7 +89706,7 @@
         "section": "T1",
         "number": "3866",
         "remarks": " ",
-        "quota": 60,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -89630,7 +89729,7 @@
         "section": "T2",
         "number": "3868",
         "remarks": " ",
-        "quota": 60,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -89669,11 +89768,17 @@
         "section": "L1",
         "number": "3869",
         "remarks": " ",
-        "quota": 60,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "MGMT",
+            "quota": 40,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -89694,11 +89799,17 @@
         "section": "L2",
         "number": "3871",
         "remarks": " ",
-        "quota": 60,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "MGMT",
+            "quota": 40,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -89719,7 +89830,7 @@
         "section": "T1",
         "number": "3873",
         "remarks": " ",
-        "quota": 60,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -89742,7 +89853,7 @@
         "section": "T2",
         "number": "3875",
         "remarks": " ",
-        "quota": 60,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -89785,7 +89896,13 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "MGMT",
+            "quota": 30,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -89823,11 +89940,17 @@
         "section": "L1",
         "number": "3877",
         "remarks": " ",
-        "quota": 60,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "MGMT",
+            "quota": 40,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
