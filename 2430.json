@@ -7213,7 +7213,7 @@
         "number": "1853",
         "remarks": " ",
         "quota": 200,
-        "enroll": 116,
+        "enroll": 113,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -32942,7 +32942,7 @@
         "number": "1640",
         "remarks": " ",
         "quota": 1100,
-        "enroll": 883,
+        "enroll": 893,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -39452,14 +39452,12 @@
             "instructors": [
               "KOH, Tat Koon"
             ],
-            "venue": "G012, LSK Bldg (199)",
+            "venue": "TBA",
             "fromDate": "2025-02-03",
             "toDate": "2025-05-10",
-            "weekdays": [
-              2
-            ],
-            "fromTime": "18:00",
-            "toTime": "19:20"
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -70251,7 +70249,7 @@
         "number": "3354",
         "remarks": " ",
         "quota": 20,
-        "enroll": 14,
+        "enroll": 13,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -72399,7 +72397,7 @@
         "number": "3406",
         "remarks": " ",
         "quota": 200,
-        "enroll": 69,
+        "enroll": 68,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -78297,7 +78295,7 @@
         "number": "3513",
         "remarks": " ",
         "quota": 60,
-        "enroll": 6,
+        "enroll": 7,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -78361,7 +78359,7 @@
         "number": "4411",
         "remarks": " ",
         "quota": 30,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -80852,7 +80850,13 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "MATH",
+            "quota": 32,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -80919,7 +80923,13 @@
         "enroll": 31,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "MATH",
+            "quota": 39,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -81011,7 +81021,13 @@
         "enroll": 32,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "MATH",
+            "quota": 38,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -81103,7 +81119,13 @@
         "enroll": 30,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "MATH",
+            "quota": 40,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -81195,7 +81217,13 @@
         "enroll": 45,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "MATH",
+            "quota": 28,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -81221,7 +81249,13 @@
         "enroll": 47,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "MATH",
+            "quota": 26,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -81363,7 +81397,13 @@
         "enroll": 50,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "MATH",
+            "quota": 24,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -81389,7 +81429,13 @@
         "enroll": 49,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "MATH",
+            "quota": 25,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -81531,7 +81577,13 @@
         "enroll": 4,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "MATH",
+            "quota": 29,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -81598,7 +81650,13 @@
         "enroll": 1,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "MATH",
+            "quota": 31,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -81665,7 +81723,13 @@
         "enroll": 9,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "MATH",
+            "quota": 57,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -81757,7 +81821,13 @@
         "enroll": 7,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "MATH",
+            "quota": 26,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -81824,7 +81894,13 @@
         "enroll": 50,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "MATH",
+            "quota": 24,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -81916,7 +81992,13 @@
         "enroll": 56,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "MATH",
+            "quota": 19,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -82008,7 +82090,13 @@
         "enroll": 19,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "MATH",
+            "quota": 49,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -100081,7 +100169,7 @@
         "number": "4015",
         "remarks": " ",
         "quota": 44,
-        "enroll": 21,
+        "enroll": 20,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -100106,7 +100194,7 @@
         "number": "4017",
         "remarks": " ",
         "quota": 22,
-        "enroll": 21,
+        "enroll": 20,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
