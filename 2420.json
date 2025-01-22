@@ -2411,6 +2411,116 @@
     ]
   },
   {
+    "career": "EXEC",
+    "subject": "IMBA",
+    "number": "5290",
+    "code": "IMBA5290",
+    "name": "Global Macroeconomics",
+    "description": "The course aims to introduce the macroeconomic concepts, in particular fiscal and monetary policies and help students to understand important insight in the labour, output, money and foreign exchange market to explore the change in the macroeconomic environment.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [
+      {
+        "attribute": "MEDI",
+        "value": "PU",
+        "attributeDescription": "Medium of Instruction",
+        "valueDescription": "[PU] Putonghua"
+      },
+      {
+        "attribute": "READ",
+        "value": "C",
+        "attributeDescription": "Reading Material",
+        "valueDescription": "[C] Require Chinese reading"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1107",
+        "remarks": "> Class Duration/Dates : 16-Jan-2025 and 17-Feb-2025\n> Add/Drop Deadline : 16-Jan-2025",
+        "quota": 46,
+        "enroll": 44,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "RAO, Milind Shankar"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-01-16",
+            "toDate": "2025-01-17",
+            "weekdays": [
+              4,
+              5
+            ],
+            "fromTime": "08:30",
+            "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "IMBA",
+    "number": "5640",
+    "code": "IMBA5640",
+    "name": "Strategy and Organization",
+    "description": "This course uses economic analysis to examine competitive strategy and the design of organizations. The first half of the course focuses on market competition and strategies, while the second half considers the relationships within the firm as well as the boundaries of the firm.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [
+      {
+        "attribute": "MEDI",
+        "value": "PU",
+        "attributeDescription": "Medium of Instruction",
+        "valueDescription": "[PU] Putonghua"
+      },
+      {
+        "attribute": "READ",
+        "value": "C",
+        "attributeDescription": "Reading Material",
+        "valueDescription": "[C] Require Chinese reading"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1108",
+        "remarks": "> Class Duration/Dates : 18-Jan-2025 to 19-Jan-2025\n> Add/Drop Deadline : 18-Jan-2025",
+        "quota": 59,
+        "enroll": 56,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "HUA, Xinyu"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-01-18",
+            "toDate": "2025-01-19",
+            "weekdays": [
+              6,
+              7
+            ],
+            "fromTime": "08:30",
+            "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "UGRD",
     "subject": "ISDN",
     "number": "1011",
