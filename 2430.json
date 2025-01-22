@@ -5551,7 +5551,7 @@
         "number": "1810",
         "remarks": " ",
         "quota": 80,
-        "enroll": 48,
+        "enroll": 46,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5577,7 +5577,7 @@
         "number": "1811",
         "remarks": " ",
         "quota": 80,
-        "enroll": 48,
+        "enroll": 46,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -11235,7 +11235,7 @@
         "section": "T1",
         "number": "1951",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 2; Spring: 4",
-        "quota": 170,
+        "quota": 171,
         "enroll": 170,
         "waitlist": 0,
         "consent": false,
@@ -12658,7 +12658,7 @@
         "number": "2041",
         "remarks": " ",
         "quota": 70,
-        "enroll": 21,
+        "enroll": 20,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -12814,7 +12814,7 @@
         "number": "2053",
         "remarks": " ",
         "quota": 70,
-        "enroll": 21,
+        "enroll": 20,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -15891,7 +15891,7 @@
         "section": "R1",
         "number": "4358",
         "remarks": " ",
-        "quota": 1,
+        "quota": 3,
         "enroll": 0,
         "waitlist": 0,
         "consent": true,
@@ -15899,7 +15899,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHAN, Gary Shueng Han"
+              "CHAN, Gary Shueng Han",
+              "XU, Dan"
             ],
             "venue": "TBA",
             "fromDate": "2025-02-03",
@@ -29977,6 +29978,45 @@
           {
             "instructors": [
               "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ELEC",
+    "number": "4940B",
+    "code": "ELEC4940B",
+    "name": "Independent Study",
+    "description": "Selected topics in electronic and computer engineering studied under the supervision of a faculty member. Enrollment subject to approval by the department.",
+    "previousCodes": "ELEC390B",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4421",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "POON, Andrew Wing On"
             ],
             "venue": "TBA",
             "fromDate": "2025-02-03",
@@ -46074,78 +46114,6 @@
               5
             ],
             "fromTime": "10:30",
-            "toTime": "11:50"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "UGRD",
-    "subject": "HUMA",
-    "number": "4610",
-    "code": "HUMA4610",
-    "name": "Heritage in Cross-cultural Perspective",
-    "description": "Heritage and traditions have always been the targets of preservation and negotiations. Cases from different cultures will be surveyed to examine the meaning, composition, and the socio-cultural significance of heritage.",
-    "previousCodes": "",
-    "prerequisites": "HUMA 2590 OR SOSC 2290",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 3,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "L1",
-        "number": "2637",
-        "remarks": " ",
-        "quota": 60,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SHSS",
-            "quota": 50,
-            "enroll": 0
-          }
-        ],
-        "schedule": [
-          {
-            "instructors": [
-              "CHEUNG, Siu Woo"
-            ],
-            "venue": "Lecture Theater H (72)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              2
-            ],
-            "fromTime": "09:00",
-            "toTime": "10:50"
-          }
-        ]
-      },
-      {
-        "section": "T1",
-        "number": "2638",
-        "remarks": " ",
-        "quota": 60,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "CHEUNG, Siu Woo"
-            ],
-            "venue": "Lecture Theater H (72)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              2
-            ],
-            "fromTime": "11:00",
             "toTime": "11:50"
           }
         ]
@@ -67259,7 +67227,7 @@
         "number": "3210",
         "remarks": " ",
         "quota": 30,
-        "enroll": 28,
+        "enroll": 27,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -80368,7 +80336,7 @@
         "number": "3606",
         "remarks": " ",
         "quota": 90,
-        "enroll": 86,
+        "enroll": 83,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -80406,7 +80374,7 @@
         "number": "3608",
         "remarks": " ",
         "quota": 90,
-        "enroll": 85,
+        "enroll": 84,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -80432,7 +80400,7 @@
         "number": "3610",
         "remarks": " ",
         "quota": 45,
-        "enroll": 43,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -80457,7 +80425,7 @@
         "number": "3612",
         "remarks": " ",
         "quota": 45,
-        "enroll": 43,
+        "enroll": 42,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -80507,7 +80475,7 @@
         "number": "3614",
         "remarks": " ",
         "quota": 45,
-        "enroll": 43,
+        "enroll": 42,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -80640,7 +80608,7 @@
         "number": "3620",
         "remarks": " ",
         "quota": 90,
-        "enroll": 58,
+        "enroll": 57,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -80704,7 +80672,7 @@
         "number": "3624",
         "remarks": " ",
         "quota": 45,
-        "enroll": 32,
+        "enroll": 31,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -81466,7 +81434,7 @@
         "number": "3659",
         "remarks": " ",
         "quota": 80,
-        "enroll": 47,
+        "enroll": 46,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -81548,7 +81516,7 @@
         "number": "3664",
         "remarks": " ",
         "quota": 40,
-        "enroll": 23,
+        "enroll": 22,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -81760,7 +81728,7 @@
         "number": "3670",
         "remarks": " ",
         "quota": 80,
-        "enroll": 9,
+        "enroll": 8,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -81792,7 +81760,7 @@
         "number": "3672",
         "remarks": " ",
         "quota": 40,
-        "enroll": 5,
+        "enroll": 4,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -82506,7 +82474,7 @@
         "number": "3704",
         "remarks": " ",
         "quota": 40,
-        "enroll": 26,
+        "enroll": 24,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -82550,7 +82518,7 @@
         "number": "3705",
         "remarks": " ",
         "quota": 40,
-        "enroll": 26,
+        "enroll": 24,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
