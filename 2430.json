@@ -16641,7 +16641,7 @@
         "section": "L1",
         "number": "1098",
         "remarks": " ",
-        "quota": 60,
+        "quota": 59,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -31401,6 +31401,45 @@
             ],
             "fromTime": "18:00",
             "toTime": "19:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "EMIA",
+    "number": "4900B",
+    "code": "EMIA4900B",
+    "name": "Independent Study",
+    "description": "Independent studies or projects under the directed guidance of a faculty member. Course requirements include readings on the relevant topic and a research or survey project specifically defined for the research topic. Credits assigned depend on the workload and may be repeated if different topics are taken. For students with approval from instructor for enrolling in the course. May be graded by letter, P/F or DI/PA/F for different offerings.",
+    "previousCodes": "IIMP4900B",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4420",
+        "remarks": " ",
+        "quota": 2,
+        "enroll": 2,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -67115,7 +67154,7 @@
         "number": "3206",
         "remarks": " ",
         "quota": 30,
-        "enroll": 29,
+        "enroll": 28,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -70093,7 +70132,7 @@
         "number": "3342",
         "remarks": " ",
         "quota": 20,
-        "enroll": 17,
+        "enroll": 13,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -70119,7 +70158,7 @@
         "number": "3346",
         "remarks": " ",
         "quota": 20,
-        "enroll": 19,
+        "enroll": 17,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -70157,7 +70196,7 @@
         "number": "3347",
         "remarks": " ",
         "quota": 20,
-        "enroll": 17,
+        "enroll": 15,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -70195,7 +70234,7 @@
         "number": "3349",
         "remarks": " ",
         "quota": 20,
-        "enroll": 19,
+        "enroll": 18,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -81426,7 +81465,7 @@
         "number": "3659",
         "remarks": " ",
         "quota": 80,
-        "enroll": 49,
+        "enroll": 47,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -81508,7 +81547,7 @@
         "number": "3664",
         "remarks": " ",
         "quota": 40,
-        "enroll": 24,
+        "enroll": 23,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -81533,7 +81572,7 @@
         "number": "3665",
         "remarks": " ",
         "quota": 40,
-        "enroll": 25,
+        "enroll": 24,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -87031,7 +87070,7 @@
         "number": "1474",
         "remarks": " ",
         "quota": 190,
-        "enroll": 172,
+        "enroll": 176,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
