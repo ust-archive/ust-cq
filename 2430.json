@@ -36071,14 +36071,14 @@
         "number": "2489",
         "remarks": " ",
         "quota": 350,
-        "enroll": 294,
+        "enroll": 293,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 283,
-            "enroll": 283
+            "enroll": 282
           },
           {
             "name": "SBM",
@@ -37066,14 +37066,14 @@
         "number": "2512",
         "remarks": " ",
         "quota": 65,
-        "enroll": 51,
+        "enroll": 50,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 65,
-            "enroll": 51
+            "enroll": 50
           }
         ],
         "schedule": [
@@ -45294,6 +45294,103 @@
             ],
             "fromTime": "12:00",
             "toTime": "13:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "HUMA",
+    "number": "2632",
+    "code": "HUMA2632",
+    "name": "Chinese Culture and Society in Anthropological Perspectives",
+    "description": "This course is a survey of traditional and contemporary Chinese cultural practices in local communities based on anthropologists’ long-term first-hand fieldwork studies in Hong Kong, Taiwan and Mainland China. Basic anthropological concepts and theories about Chinese socio-cultural institutions will be examined. Major anthropological contributions to the understanding of the diversity and unity of Chinese cultures and societies will be explored.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "CORE 2553, MGCS 5031",
+    "credits": 3,
+    "attributes": [
+      {
+        "attribute": "4Y",
+        "value": "12",
+        "attributeDescription": "Students admitted before 2022",
+        "valueDescription": "Common Core (H) for 36-credit program"
+      },
+      {
+        "attribute": "CC22",
+        "value": "25",
+        "attributeDescription": "Students admitted from 2022",
+        "valueDescription": "Common Core (H) for 30-credit program"
+      },
+      {
+        "attribute": "MEDI",
+        "value": "CA",
+        "attributeDescription": "Medium of Instruction",
+        "valueDescription": "[CA] Cantonese"
+      },
+      {
+        "attribute": "READ",
+        "value": "C",
+        "attributeDescription": "Reading Material",
+        "valueDescription": "[C] Require Chinese reading"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4422",
+        "remarks": " ",
+        "quota": 60,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "SHSS",
+            "quota": 50,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "CHEUNG, Siu Woo"
+            ],
+            "venue": "Lecture Theater H (72)",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "09:00",
+            "toTime": "10:50"
+          }
+        ]
+      },
+      {
+        "section": "T1",
+        "number": "4423",
+        "remarks": " ",
+        "quota": 60,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CHEUNG, Siu Woo"
+            ],
+            "venue": "Lecture Theater H (72)",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "11:00",
+            "toTime": "11:50"
           }
         ]
       }
@@ -73296,7 +73393,7 @@
         "number": "3427",
         "remarks": " ",
         "quota": 100,
-        "enroll": 80,
+        "enroll": 79,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
