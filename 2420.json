@@ -2442,7 +2442,7 @@
         "number": "1107",
         "remarks": "> Class Duration/Dates : 16-Jan-2025 and 17-Feb-2025\n> Add/Drop Deadline : 16-Jan-2025",
         "quota": 46,
-        "enroll": 44,
+        "enroll": 45,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2454,12 +2454,9 @@
             "venue": "TBA",
             "fromDate": "2025-01-16",
             "toDate": "2025-01-17",
-            "weekdays": [
-              4,
-              5
-            ],
-            "fromTime": "08:30",
-            "toTime": "17:20"
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -2497,7 +2494,7 @@
         "number": "1108",
         "remarks": "> Class Duration/Dates : 18-Jan-2025 to 19-Jan-2025\n> Add/Drop Deadline : 18-Jan-2025",
         "quota": 59,
-        "enroll": 56,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2509,12 +2506,9 @@
             "venue": "TBA",
             "fromDate": "2025-01-18",
             "toDate": "2025-01-19",
-            "weekdays": [
-              6,
-              7
-            ],
-            "fromTime": "08:30",
-            "toTime": "17:20"
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
