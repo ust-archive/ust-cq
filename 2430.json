@@ -6843,7 +6843,7 @@
         "number": "1836",
         "remarks": " ",
         "quota": 200,
-        "enroll": 199,
+        "enroll": 200,
         "waitlist": 51,
         "consent": false,
         "reservedQuota": [],
@@ -6870,8 +6870,8 @@
         "number": "1837",
         "remarks": " ",
         "quota": 200,
-        "enroll": 201,
-        "waitlist": 70,
+        "enroll": 200,
+        "waitlist": 71,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -14286,7 +14286,7 @@
         "remarks": " ",
         "quota": 75,
         "enroll": 75,
-        "waitlist": 10,
+        "waitlist": 9,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -20968,7 +20968,7 @@
         "remarks": " ",
         "quota": 55,
         "enroll": 55,
-        "waitlist": 24,
+        "waitlist": 23,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -21006,7 +21006,7 @@
         "remarks": " ",
         "quota": 55,
         "enroll": 55,
-        "waitlist": 38,
+        "waitlist": 35,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -21082,7 +21082,7 @@
         "remarks": " ",
         "quota": 55,
         "enroll": 55,
-        "waitlist": 43,
+        "waitlist": 41,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -21158,7 +21158,7 @@
         "remarks": " ",
         "quota": 55,
         "enroll": 55,
-        "waitlist": 24,
+        "waitlist": 23,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -21183,7 +21183,7 @@
         "remarks": " ",
         "quota": 55,
         "enroll": 55,
-        "waitlist": 38,
+        "waitlist": 35,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -21233,7 +21233,7 @@
         "remarks": " ",
         "quota": 55,
         "enroll": 55,
-        "waitlist": 43,
+        "waitlist": 41,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -21307,7 +21307,7 @@
         "remarks": " ",
         "quota": 68,
         "enroll": 68,
-        "waitlist": 27,
+        "waitlist": 25,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -21385,7 +21385,7 @@
         "remarks": " ",
         "quota": 68,
         "enroll": 68,
-        "waitlist": 20,
+        "waitlist": 19,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -21437,7 +21437,7 @@
         "remarks": " ",
         "quota": 68,
         "enroll": 68,
-        "waitlist": 26,
+        "waitlist": 25,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -21500,7 +21500,7 @@
         "remarks": " ",
         "quota": 68,
         "enroll": 68,
-        "waitlist": 27,
+        "waitlist": 25,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -21575,7 +21575,7 @@
         "remarks": " ",
         "quota": 68,
         "enroll": 68,
-        "waitlist": 20,
+        "waitlist": 19,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -21625,7 +21625,7 @@
         "remarks": " ",
         "quota": 68,
         "enroll": 68,
-        "waitlist": 26,
+        "waitlist": 25,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -52272,13 +52272,13 @@
         "remarks": " ",
         "quota": 110,
         "enroll": 110,
-        "waitlist": 46,
+        "waitlist": 44,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
             "quota": 110,
-            "enroll": 110
+            "enroll": 109
           }
         ],
         "schedule": [
@@ -52336,7 +52336,7 @@
         "remarks": " ",
         "quota": 100,
         "enroll": 100,
-        "waitlist": 29,
+        "waitlist": 26,
         "consent": false,
         "reservedQuota": [
           {
@@ -52380,7 +52380,7 @@
         "remarks": " ",
         "quota": 90,
         "enroll": 90,
-        "waitlist": 16,
+        "waitlist": 15,
         "consent": false,
         "reservedQuota": [
           {
@@ -52412,7 +52412,7 @@
         "remarks": " ",
         "quota": 90,
         "enroll": 90,
-        "waitlist": 6,
+        "waitlist": 5,
         "consent": false,
         "reservedQuota": [
           {
@@ -52444,18 +52444,18 @@
         "remarks": " ",
         "quota": 101,
         "enroll": 98,
-        "waitlist": 21,
+        "waitlist": 18,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BIBU",
             "quota": 34,
-            "enroll": 31
+            "enroll": 30
           },
           {
             "name": "SBM",
             "quota": 67,
-            "enroll": 67
+            "enroll": 68
           }
         ],
         "schedule": [
@@ -55025,13 +55025,13 @@
         "remarks": " ",
         "quota": 60,
         "enroll": 43,
-        "waitlist": 35,
+        "waitlist": 34,
         "consent": false,
         "reservedQuota": [
           {
             "name": "OM",
             "quota": 60,
-            "enroll": 42
+            "enroll": 41
           }
         ],
         "schedule": [
@@ -55057,18 +55057,18 @@
         "remarks": " ",
         "quota": 60,
         "enroll": 60,
-        "waitlist": 23,
+        "waitlist": 22,
         "consent": false,
         "reservedQuota": [
           {
             "name": "OM",
             "quota": 20,
-            "enroll": 21
+            "enroll": 22
           },
           {
             "name": "RMBI",
             "quota": 40,
-            "enroll": 39
+            "enroll": 38
           }
         ],
         "schedule": [
@@ -55094,7 +55094,7 @@
         "remarks": " ",
         "quota": 65,
         "enroll": 50,
-        "waitlist": 31,
+        "waitlist": 30,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -55119,7 +55119,7 @@
         "remarks": " ",
         "quota": 65,
         "enroll": 53,
-        "waitlist": 26,
+        "waitlist": 25,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -60023,7 +60023,7 @@
         "remarks": " ",
         "quota": 24,
         "enroll": 24,
-        "waitlist": 10,
+        "waitlist": 9,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -60369,7 +60369,7 @@
         "remarks": " ",
         "quota": 24,
         "enroll": 24,
-        "waitlist": 9,
+        "waitlist": 8,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -60395,7 +60395,7 @@
         "remarks": " ",
         "quota": 24,
         "enroll": 24,
-        "waitlist": 9,
+        "waitlist": 8,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -60603,7 +60603,7 @@
         "remarks": " ",
         "quota": 24,
         "enroll": 24,
-        "waitlist": 2,
+        "waitlist": 1,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -61137,7 +61137,7 @@
         "remarks": " ",
         "quota": 21,
         "enroll": 21,
-        "waitlist": 12,
+        "waitlist": 11,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -61163,7 +61163,7 @@
         "remarks": " ",
         "quota": 21,
         "enroll": 21,
-        "waitlist": 13,
+        "waitlist": 11,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -61215,7 +61215,7 @@
         "remarks": " ",
         "quota": 21,
         "enroll": 21,
-        "waitlist": 5,
+        "waitlist": 4,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -61241,7 +61241,7 @@
         "remarks": " ",
         "quota": 21,
         "enroll": 21,
-        "waitlist": 8,
+        "waitlist": 5,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -61279,7 +61279,7 @@
         "remarks": " ",
         "quota": 20,
         "enroll": 20,
-        "waitlist": 6,
+        "waitlist": 4,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -61369,7 +61369,7 @@
         "remarks": " ",
         "quota": 21,
         "enroll": 21,
-        "waitlist": 11,
+        "waitlist": 8,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -61395,7 +61395,7 @@
         "remarks": " ",
         "quota": 21,
         "enroll": 21,
-        "waitlist": 10,
+        "waitlist": 9,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -61433,7 +61433,7 @@
         "remarks": " ",
         "quota": 20,
         "enroll": 20,
-        "waitlist": 12,
+        "waitlist": 9,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -61459,7 +61459,7 @@
         "remarks": " ",
         "quota": 20,
         "enroll": 20,
-        "waitlist": 13,
+        "waitlist": 11,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -61523,7 +61523,7 @@
         "remarks": " ",
         "quota": 20,
         "enroll": 20,
-        "waitlist": 3,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -61587,7 +61587,7 @@
         "remarks": " ",
         "quota": 20,
         "enroll": 20,
-        "waitlist": 6,
+        "waitlist": 5,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -61624,7 +61624,7 @@
         "number": "3023",
         "remarks": " ",
         "quota": 20,
-        "enroll": 20,
+        "enroll": 19,
         "waitlist": 3,
         "consent": false,
         "reservedQuota": [],
@@ -61677,7 +61677,7 @@
         "remarks": " ",
         "quota": 20,
         "enroll": 20,
-        "waitlist": 6,
+        "waitlist": 4,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -61703,7 +61703,7 @@
         "remarks": " ",
         "quota": 20,
         "enroll": 20,
-        "waitlist": 4,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -61729,7 +61729,7 @@
         "remarks": " ",
         "quota": 21,
         "enroll": 21,
-        "waitlist": 7,
+        "waitlist": 6,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -61755,7 +61755,7 @@
         "remarks": " ",
         "quota": 20,
         "enroll": 20,
-        "waitlist": 9,
+        "waitlist": 8,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -61832,8 +61832,8 @@
         "number": "3031",
         "remarks": " ",
         "quota": 20,
-        "enroll": 20,
-        "waitlist": 6,
+        "enroll": 21,
+        "waitlist": 5,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -61859,7 +61859,7 @@
         "remarks": " ",
         "quota": 20,
         "enroll": 20,
-        "waitlist": 11,
+        "waitlist": 9,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -61937,7 +61937,7 @@
         "remarks": " ",
         "quota": 20,
         "enroll": 20,
-        "waitlist": 8,
+        "waitlist": 7,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
