@@ -1175,14 +1175,14 @@
         "number": "1013",
         "remarks": "> For MSc(ACCT) students only\n> Venue on 29-Mar-2025 : LTJ\n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 60,
-        "enroll": 32,
+        "enroll": 33,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 60,
-            "enroll": 32
+            "enroll": 33
           }
         ],
         "schedule": [
@@ -2070,12 +2070,12 @@
           },
           {
             "name": "MBA",
-            "quota": 44,
+            "quota": 42,
             "enroll": 37
           },
           {
             "name": "MBA Bi-weekly",
-            "quota": 5,
+            "quota": 7,
             "enroll": 5
           }
         ],
@@ -4051,7 +4051,7 @@
         "number": "1029",
         "remarks": " ",
         "quota": 30,
-        "enroll": 14,
+        "enroll": 15,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6436,7 +6436,7 @@
         "number": "4438",
         "remarks": " ",
         "quota": 30,
-        "enroll": 7,
+        "enroll": 8,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -12102,7 +12102,7 @@
         "remarks": " ",
         "quota": 90,
         "enroll": 90,
-        "waitlist": 14,
+        "waitlist": 15,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -12166,7 +12166,7 @@
         "remarks": "> The class is delivered in a real-time online mode",
         "quota": 150,
         "enroll": 150,
-        "waitlist": 63,
+        "waitlist": 64,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -14086,7 +14086,7 @@
         "remarks": " ",
         "quota": 60,
         "enroll": 50,
-        "waitlist": 13,
+        "waitlist": 12,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -14175,7 +14175,7 @@
         "remarks": " ",
         "quota": 60,
         "enroll": 50,
-        "waitlist": 18,
+        "waitlist": 17,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -14642,7 +14642,7 @@
     "name": "Machine Learning",
     "description": "This course provides a comprehensive coverage of the machine learning field. It introduces the foundations of machine learning, such as optimization, regularization, and generalization. It covers several traditional machine learning algorithms and various types of neural networks, such as feedforward, convolutional, recurrent, and transformer models, as well as their applications to computer vision, natural language processing, and generative modelling. The course also includes selected advanced topics.",
     "previousCodes": "",
-    "prerequisites": "COMP 3211 AND (ELEC 2600 OR IEDA 2520 OR IEDA 2540 OR MATH 2411 OR MATH 2421 OR MATH 2431)",
+    "prerequisites": "(COMP 2012 OR COMP 2012H) AND (ELEC 2600 OR IEDA 2520 OR IEDA 2540 OR ISOM 2500 OR LIFS 3150 OR MATH 2411 OR MATH 2421 OR MATH 2431)",
     "corequisites": "",
     "exclusions": "COMP 5212",
     "credits": 3,
@@ -14679,7 +14679,7 @@
         "number": "2137",
         "remarks": " ",
         "quota": 80,
-        "enroll": 71,
+        "enroll": 72,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -14705,7 +14705,7 @@
         "number": "2139",
         "remarks": " ",
         "quota": 80,
-        "enroll": 71,
+        "enroll": 72,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -19038,7 +19038,7 @@
         "number": "1628",
         "remarks": " ",
         "quota": 100,
-        "enroll": 46,
+        "enroll": 45,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -19050,7 +19050,7 @@
           {
             "name": "CSIT",
             "quota": 93,
-            "enroll": 44
+            "enroll": 43
           }
         ],
         "schedule": [
@@ -19335,7 +19335,7 @@
         "number": "4369",
         "remarks": " ",
         "quota": 90,
-        "enroll": 4,
+        "enroll": 5,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -20829,7 +20829,7 @@
         "number": "2366",
         "remarks": " ",
         "quota": 70,
-        "enroll": 70,
+        "enroll": 69,
         "waitlist": 29,
         "consent": false,
         "reservedQuota": [],
@@ -20867,7 +20867,7 @@
         "number": "2367",
         "remarks": " ",
         "quota": 70,
-        "enroll": 70,
+        "enroll": 69,
         "waitlist": 29,
         "consent": false,
         "reservedQuota": [],
@@ -21411,7 +21411,7 @@
         "remarks": " ",
         "quota": 68,
         "enroll": 68,
-        "waitlist": 37,
+        "waitlist": 36,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -21600,7 +21600,7 @@
         "remarks": " ",
         "quota": 68,
         "enroll": 68,
-        "waitlist": 37,
+        "waitlist": 36,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -22612,14 +22612,14 @@
         "number": "2440",
         "remarks": " ",
         "quota": 50,
-        "enroll": 50,
+        "enroll": 49,
         "waitlist": 16,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECON",
             "quota": 50,
-            "enroll": 49
+            "enroll": 48
           }
         ],
         "schedule": [
@@ -22644,7 +22644,7 @@
         "number": "2441",
         "remarks": " ",
         "quota": 50,
-        "enroll": 50,
+        "enroll": 49,
         "waitlist": 16,
         "consent": false,
         "reservedQuota": [],
@@ -37728,12 +37728,12 @@
           },
           {
             "name": "Digital MBA",
-            "quota": 15,
+            "quota": 13,
             "enroll": 8
           },
           {
             "name": "MBA",
-            "quota": 25,
+            "quota": 27,
             "enroll": 25
           },
           {
@@ -42243,7 +42243,7 @@
         "remarks": "> The class is delivered in a blended learning mode",
         "quota": 400,
         "enroll": 324,
-        "waitlist": 117,
+        "waitlist": 116,
         "consent": false,
         "reservedQuota": [
           {
@@ -42300,7 +42300,7 @@
         "remarks": "> Venue : Room 3494",
         "quota": 20,
         "enroll": 20,
-        "waitlist": 10,
+        "waitlist": 9,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -46287,14 +46287,14 @@
         "number": "2634",
         "remarks": " ",
         "quota": 60,
-        "enroll": 26,
+        "enroll": 25,
         "waitlist": 8,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SHSS",
             "quota": 50,
-            "enroll": 16
+            "enroll": 15
           }
         ],
         "schedule": [
@@ -47438,14 +47438,14 @@
         "number": "1642",
         "remarks": " ",
         "quota": 90,
-        "enroll": 46,
-        "waitlist": 7,
+        "enroll": 47,
+        "waitlist": 6,
         "consent": false,
         "reservedQuota": [
           {
             "name": "IBTM",
             "quota": 80,
-            "enroll": 39
+            "enroll": 40
           },
           {
             "name": "MESF",
@@ -47490,8 +47490,8 @@
         "number": "1643",
         "remarks": " ",
         "quota": 95,
-        "enroll": 33,
-        "waitlist": 29,
+        "enroll": 34,
+        "waitlist": 28,
         "consent": false,
         "reservedQuota": [
           {
@@ -47502,7 +47502,7 @@
           {
             "name": "IBTM",
             "quota": 80,
-            "enroll": 18
+            "enroll": 19
           },
           {
             "name": "MESF",
@@ -47651,14 +47651,14 @@
         "number": "1646",
         "remarks": " ",
         "quota": 90,
-        "enroll": 54,
-        "waitlist": 6,
+        "enroll": 55,
+        "waitlist": 5,
         "consent": false,
         "reservedQuota": [
           {
             "name": "IBTM",
             "quota": 90,
-            "enroll": 54
+            "enroll": 55
           }
         ],
         "schedule": [
@@ -49510,7 +49510,7 @@
         "remarks": " ",
         "quota": 20,
         "enroll": 20,
-        "waitlist": 5,
+        "waitlist": 6,
         "consent": true,
         "reservedQuota": [],
         "schedule": [
@@ -52304,7 +52304,7 @@
         "remarks": " ",
         "quota": 110,
         "enroll": 110,
-        "waitlist": 25,
+        "waitlist": 26,
         "consent": false,
         "reservedQuota": [
           {
@@ -53197,7 +53197,7 @@
         "remarks": " ",
         "quota": 70,
         "enroll": 44,
-        "waitlist": 26,
+        "waitlist": 27,
         "consent": false,
         "reservedQuota": [
           {
@@ -53254,7 +53254,7 @@
         "remarks": " ",
         "quota": 25,
         "enroll": 25,
-        "waitlist": 14,
+        "waitlist": 15,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -54248,7 +54248,7 @@
         "remarks": " ",
         "quota": 60,
         "enroll": 32,
-        "waitlist": 56,
+        "waitlist": 57,
         "consent": false,
         "reservedQuota": [
           {
@@ -54389,7 +54389,7 @@
         "remarks": " ",
         "quota": 55,
         "enroll": 46,
-        "waitlist": 50,
+        "waitlist": 51,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -57195,12 +57195,12 @@
         "reservedQuota": [
           {
             "name": "MBA",
-            "quota": 10,
+            "quota": 15,
             "enroll": 10
           },
           {
             "name": "MBA Bi-weekly",
-            "quota": 40,
+            "quota": 35,
             "enroll": 11
           }
         ],
@@ -57565,7 +57565,7 @@
         "section": "L1",
         "number": "1307",
         "remarks": "> For FT-MBA; PT-MBA; MBA Exchange; MBA (Bi-weekly) and Digital MBA students only\n> Add/Drop Deadline : 10-Feb-2025",
-        "quota": 55,
+        "quota": 56,
         "enroll": 46,
         "waitlist": 9,
         "consent": false,
@@ -57577,17 +57577,17 @@
           },
           {
             "name": "Digital MBA",
-            "quota": 25,
+            "quota": 21,
             "enroll": 17
           },
           {
             "name": "MBA",
-            "quota": 20,
+            "quota": 22,
             "enroll": 19
           },
           {
             "name": "MBA Bi-weekly",
-            "quota": 5,
+            "quota": 8,
             "enroll": 5
           }
         ],
@@ -68373,8 +68373,8 @@
         "number": "3249",
         "remarks": " ",
         "quota": 60,
-        "enroll": 59,
-        "waitlist": 34,
+        "enroll": 60,
+        "waitlist": 33,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -68523,8 +68523,8 @@
         "number": "3261",
         "remarks": " ",
         "quota": 20,
-        "enroll": 19,
-        "waitlist": 14,
+        "enroll": 20,
+        "waitlist": 13,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -71456,7 +71456,7 @@
         "number": "1358",
         "remarks": " ",
         "quota": 18,
-        "enroll": 13,
+        "enroll": 12,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -71720,7 +71720,7 @@
         "remarks": "> The class is delivered in a blended learning mode\n> For students under SENG and SSCI research postgraduate programs",
         "quota": 24,
         "enroll": 24,
-        "waitlist": 49,
+        "waitlist": 48,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -71746,7 +71746,7 @@
         "remarks": "> The class is delivered in a blended learning mode\n> For students under SENG and SSCI research postgraduate programs",
         "quota": 24,
         "enroll": 24,
-        "waitlist": 44,
+        "waitlist": 42,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -72003,7 +72003,7 @@
         "number": "1377",
         "remarks": "> The class is delivered in a blended learning mode\n> For students under SENG and SSCI research postgraduate programs",
         "quota": 24,
-        "enroll": 13,
+        "enroll": 14,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -75578,7 +75578,7 @@
         "remarks": " ",
         "quota": 55,
         "enroll": 55,
-        "waitlist": 24,
+        "waitlist": 25,
         "consent": false,
         "reservedQuota": [
           {
@@ -75705,14 +75705,14 @@
         "number": "3451",
         "remarks": " ",
         "quota": 55,
-        "enroll": 55,
+        "enroll": 54,
         "waitlist": 23,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
             "quota": 55,
-            "enroll": 55
+            "enroll": 54
           }
         ],
         "schedule": [
@@ -75749,14 +75749,14 @@
         "number": "3452",
         "remarks": " ",
         "quota": 55,
-        "enroll": 50,
-        "waitlist": 11,
+        "enroll": 51,
+        "waitlist": 10,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
             "quota": 55,
-            "enroll": 50
+            "enroll": 51
           }
         ],
         "schedule": [
@@ -76235,8 +76235,8 @@
         "number": "3474",
         "remarks": " ",
         "quota": 40,
-        "enroll": 25,
-        "waitlist": 17,
+        "enroll": 37,
+        "waitlist": 5,
         "consent": false,
         "reservedQuota": [
           {
@@ -76299,8 +76299,8 @@
         "number": "3478",
         "remarks": " ",
         "quota": 40,
-        "enroll": 25,
-        "waitlist": 17,
+        "enroll": 37,
+        "waitlist": 5,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -76397,14 +76397,14 @@
         "number": "3483",
         "remarks": " ",
         "quota": 40,
-        "enroll": 34,
-        "waitlist": 11,
+        "enroll": 35,
+        "waitlist": 10,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
             "quota": 40,
-            "enroll": 34
+            "enroll": 35
           }
         ],
         "schedule": [
@@ -76429,14 +76429,14 @@
         "number": "3485",
         "remarks": " ",
         "quota": 40,
-        "enroll": 25,
+        "enroll": 24,
         "waitlist": 14,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
             "quota": 40,
-            "enroll": 25
+            "enroll": 24
           }
         ],
         "schedule": [
@@ -76486,8 +76486,8 @@
         "number": "3489",
         "remarks": " ",
         "quota": 40,
-        "enroll": 34,
-        "waitlist": 11,
+        "enroll": 35,
+        "waitlist": 10,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -76511,7 +76511,7 @@
         "number": "3490",
         "remarks": " ",
         "quota": 40,
-        "enroll": 25,
+        "enroll": 24,
         "waitlist": 14,
         "consent": false,
         "reservedQuota": [],
@@ -77604,14 +77604,14 @@
         "number": "1425",
         "remarks": "> For For FT-MBA; PT-MBA; MBA Exchange and MSc(MARK) students only \n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 65,
-        "enroll": 28,
-        "waitlist": 2,
+        "enroll": 29,
+        "waitlist": 1,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
             "quota": 62,
-            "enroll": 25
+            "enroll": 26
           },
           {
             "name": "MBA",
@@ -78061,12 +78061,12 @@
           },
           {
             "name": "MBA",
-            "quota": 15,
+            "quota": 20,
             "enroll": 15
           },
           {
             "name": "MBA Bi-weekly",
-            "quota": 30,
+            "quota": 25,
             "enroll": 12
           }
         ],
@@ -78895,7 +78895,7 @@
         "number": "3515",
         "remarks": "> Venue: Room 2407",
         "quota": 60,
-        "enroll": 39,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -78921,7 +78921,7 @@
         "number": "3516",
         "remarks": "> Venue: Room 5583",
         "quota": 30,
-        "enroll": 26,
+        "enroll": 28,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -79117,7 +79117,7 @@
         "number": "3527",
         "remarks": " ",
         "quota": 120,
-        "enroll": 117,
+        "enroll": 116,
         "waitlist": 14,
         "consent": false,
         "reservedQuota": [],
@@ -79233,7 +79233,7 @@
         "number": "3535",
         "remarks": " ",
         "quota": 120,
-        "enroll": 117,
+        "enroll": 118,
         "waitlist": 2,
         "consent": false,
         "reservedQuota": [],
@@ -79785,7 +79785,7 @@
         "number": "3560",
         "remarks": " ",
         "quota": 40,
-        "enroll": 40,
+        "enroll": 39,
         "waitlist": 9,
         "consent": false,
         "reservedQuota": [],
@@ -80035,7 +80035,7 @@
         "number": "3570",
         "remarks": " ",
         "quota": 40,
-        "enroll": 37,
+        "enroll": 38,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -80609,7 +80609,7 @@
         "remarks": " ",
         "quota": 37,
         "enroll": 37,
-        "waitlist": 7,
+        "waitlist": 8,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -80659,7 +80659,7 @@
         "remarks": " ",
         "quota": 37,
         "enroll": 37,
-        "waitlist": 15,
+        "waitlist": 14,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -81883,7 +81883,7 @@
         "remarks": " ",
         "quota": 80,
         "enroll": 80,
-        "waitlist": 36,
+        "waitlist": 35,
         "consent": false,
         "reservedQuota": [
           {
@@ -81947,7 +81947,7 @@
         "remarks": " ",
         "quota": 40,
         "enroll": 40,
-        "waitlist": 18,
+        "waitlist": 17,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -84190,7 +84190,7 @@
         "remarks": " ",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 23,
+        "waitlist": 22,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -84708,7 +84708,7 @@
         "number": "4432",
         "remarks": "> Students should seek approval from the course instructor to take this course.",
         "quota": 19,
-        "enroll": 6,
+        "enroll": 7,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -85095,8 +85095,8 @@
         "number": "1658",
         "remarks": " ",
         "quota": 100,
-        "enroll": 68,
-        "waitlist": 4,
+        "enroll": 69,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [
           {
@@ -85107,7 +85107,7 @@
           {
             "name": "MCEE",
             "quota": 95,
-            "enroll": 67
+            "enroll": 68
           }
         ],
         "schedule": [
@@ -87828,7 +87828,7 @@
         "remarks": " ",
         "quota": 100,
         "enroll": 42,
-        "waitlist": 6,
+        "waitlist": 7,
         "consent": false,
         "reservedQuota": [
           {
@@ -89443,7 +89443,7 @@
         "remarks": " ",
         "quota": 60,
         "enroll": 60,
-        "waitlist": 67,
+        "waitlist": 68,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -89677,7 +89677,7 @@
         "remarks": " ",
         "quota": 60,
         "enroll": 60,
-        "waitlist": 10,
+        "waitlist": 9,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -89909,7 +89909,7 @@
         "section": "L1",
         "number": "3836",
         "remarks": " ",
-        "quota": 40,
+        "quota": 48,
         "enroll": 48,
         "waitlist": 47,
         "consent": false,
@@ -89941,9 +89941,9 @@
         "section": "L2",
         "number": "3838",
         "remarks": " ",
-        "quota": 40,
-        "enroll": 44,
-        "waitlist": 25,
+        "quota": 45,
+        "enroll": 45,
+        "waitlist": 24,
         "consent": false,
         "reservedQuota": [
           {
@@ -89997,8 +89997,8 @@
         "number": "3842",
         "remarks": " ",
         "quota": 60,
-        "enroll": 27,
-        "waitlist": 16,
+        "enroll": 28,
+        "waitlist": 15,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -90833,14 +90833,14 @@
         "section": "L1",
         "number": "1491",
         "remarks": "> For PT-MBA; Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 07-Apr-2025",
-        "quota": 23,
+        "quota": 24,
         "enroll": 22,
         "waitlist": 2,
         "consent": false,
         "reservedQuota": [
           {
             "name": "Digital MBA",
-            "quota": 3,
+            "quota": 4,
             "enroll": 3
           },
           {
@@ -91704,19 +91704,19 @@
         "number": "1496",
         "remarks": "> For PT-MBA; MBA(Bi-weekly) and MBA Exchange students only\n> Add/Drop Deadline : 21-Apr-2025",
         "quota": 52,
-        "enroll": 31,
-        "waitlist": 6,
+        "enroll": 34,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MBA",
-            "quota": 50,
+            "quota": 43,
             "enroll": 29
           },
           {
             "name": "MBA Bi-weekly",
-            "quota": 2,
-            "enroll": 2
+            "quota": 9,
+            "enroll": 5
           }
         ],
         "schedule": [
@@ -91765,24 +91765,24 @@
         "section": "L3",
         "number": "1495",
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 07-Apr-2025",
-        "quota": 47,
-        "enroll": 17,
-        "waitlist": 6,
+        "quota": 45,
+        "enroll": 22,
+        "waitlist": 1,
         "consent": false,
         "reservedQuota": [
           {
             "name": "Digital MBA",
-            "quota": 2,
-            "enroll": 2
+            "quota": 3,
+            "enroll": 3
           },
           {
             "name": "MBA",
-            "quota": 15,
-            "enroll": 15
+            "quota": 22,
+            "enroll": 19
           },
           {
             "name": "MBA Bi-weekly",
-            "quota": 30,
+            "quota": 20,
             "enroll": 0
           }
         ],
@@ -92365,8 +92365,8 @@
         "number": "1486",
         "remarks": "> For FT-MBA; PT-MBA; MBA Exchange; MBA (Bi-weekly) and Digital MBA students only\n> Instructor : KO CHIA\n> Add/Drop Deadline : 17-Feb-2025",
         "quota": 61,
-        "enroll": 50,
-        "waitlist": 2,
+        "enroll": 51,
+        "waitlist": 1,
         "consent": false,
         "reservedQuota": [
           {
@@ -92381,12 +92381,12 @@
           },
           {
             "name": "Digital MBA",
-            "quota": 3,
-            "enroll": 3
+            "quota": 5,
+            "enroll": 4
           },
           {
             "name": "MBA",
-            "quota": 25,
+            "quota": 23,
             "enroll": 19
           },
           {
@@ -95416,8 +95416,8 @@
         "number": "3880",
         "remarks": " ",
         "quota": 45,
-        "enroll": 40,
-        "waitlist": 1,
+        "enroll": 41,
+        "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -95579,7 +95579,7 @@
         "number": "3884",
         "remarks": " ",
         "quota": 30,
-        "enroll": 3,
+        "enroll": 4,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -95621,7 +95621,7 @@
         "number": "4288",
         "remarks": " ",
         "quota": 30,
-        "enroll": 6,
+        "enroll": 7,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -95663,7 +95663,7 @@
         "number": "3886",
         "remarks": " ",
         "quota": 30,
-        "enroll": 9,
+        "enroll": 10,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -98291,8 +98291,8 @@
         "number": "3905",
         "remarks": " ",
         "quota": 120,
-        "enroll": 100,
-        "waitlist": 3,
+        "enroll": 102,
+        "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -98329,8 +98329,8 @@
         "number": "3906",
         "remarks": " ",
         "quota": 110,
-        "enroll": 100,
-        "waitlist": 13,
+        "enroll": 107,
+        "waitlist": 6,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -99231,7 +99231,7 @@
         "remarks": " ",
         "quota": 40,
         "enroll": 40,
-        "waitlist": 10,
+        "waitlist": 11,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -103648,7 +103648,7 @@
         "number": "4101",
         "remarks": "> Participating Corporation: Starbucks Asia Pacific\n> The credit load will usually be spread in the following pattern: Winter: 1; Spring: 1",
         "quota": 20,
-        "enroll": 2,
+        "enroll": 3,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -103857,23 +103857,23 @@
         "number": "1595",
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Instructor : WONG, Dan\n> Add/Drop Deadline : 10-Mar-2025",
         "quota": 55,
-        "enroll": 52,
-        "waitlist": 3,
+        "enroll": 54,
+        "waitlist": 1,
         "consent": false,
         "reservedQuota": [
           {
             "name": "Digital MBA",
-            "quota": 25,
-            "enroll": 25
+            "quota": 26,
+            "enroll": 26
           },
           {
             "name": "MBA",
-            "quota": 25,
-            "enroll": 25
+            "quota": 26,
+            "enroll": 26
           },
           {
             "name": "MBA Bi-weekly",
-            "quota": 5,
+            "quota": 3,
             "enroll": 2
           }
         ],
@@ -104067,18 +104067,18 @@
         "number": "1594",
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Instructor : KEILHACKER, Kurt\n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 50,
-        "enroll": 31,
-        "waitlist": 1,
+        "enroll": 32,
+        "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "Digital MBA",
-            "quota": 3,
-            "enroll": 3
+            "quota": 5,
+            "enroll": 4
           },
           {
             "name": "MBA",
-            "quota": 45,
+            "quota": 43,
             "enroll": 26
           },
           {
@@ -104180,15 +104180,15 @@
         "section": "L1",
         "number": "1589",
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Instructor : CALENDRIER, Antoine\n> Add/Drop Deadline : 10-Feb-2025",
-        "quota": 45,
-        "enroll": 45,
-        "waitlist": 21,
+        "quota": 46,
+        "enroll": 46,
+        "waitlist": 20,
         "consent": false,
         "reservedQuota": [
           {
             "name": "Digital MBA",
-            "quota": 20,
-            "enroll": 20
+            "quota": 21,
+            "enroll": 21
           },
           {
             "name": "MBA",
@@ -107959,14 +107959,14 @@
         "number": "1740",
         "remarks": " ",
         "quota": 20,
-        "enroll": 12,
-        "waitlist": 7,
+        "enroll": 13,
+        "waitlist": 6,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SOSC",
             "quota": 20,
-            "enroll": 11
+            "enroll": 12
           }
         ],
         "schedule": [
