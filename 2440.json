@@ -8198,6 +8198,54 @@
   },
   {
     "career": "UGRD",
+    "subject": "UPOP",
+    "number": "2920",
+    "code": "UPOP2920",
+    "name": "Undergraduate Practice Opportunities",
+    "description": "This course integrates a 6-week full-time internship in which students have the opportunities to apply an array of soft skills and their domain academic knowledge to real jobs. Students will gain valuable exposure from these areas 1) apply important soft skills into practice – in this case it relates to job exploration and effective workplace skills, 2) initiating their job search journeys from scratch and eventually landing on internship jobs, 3) receive feedback from peers, supervisors and faculties, submit internship reports to reflect on their takeaways, and participate in an end-of-term conference for experience sharing, and 4) continue with the self-discovery and development journeys with boosted confidence and new learnings. The internship offers valuable exposure to students to learn from real work environments and better prepare them for their future career trajectory expeditions. Instructor's approval is required for enrollment in the course. For Year 2 or above students. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "GNED 2510, SCIE 1100, SHSS 1030 and UPOP 1920",
+    "corequisites": "",
+    "exclusions": "AISC 2920",
+    "credits": 2,
+    "attributes": [
+      {
+        "attribute": "DELI",
+        "value": "EXP",
+        "attributeDescription": "Mode of Delivery",
+        "valueDescription": "[EXP] Experiential learning"
+      }
+    ],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1190",
+        "remarks": "> The class is delivered in a experiential learning mode\n> Add/Drop Deadline : 21-Jun-2025",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TAM, Loretta"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-08-16",
+            "toDate": "2025-08-16",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "14:30",
+            "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
     "subject": "UROP",
     "number": "1000",
     "code": "UROP1000",
