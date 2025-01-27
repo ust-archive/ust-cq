@@ -201,7 +201,7 @@
         "remarks": " ",
         "quota": 65,
         "enroll": 65,
-        "waitlist": 13,
+        "waitlist": 14,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -6731,7 +6731,7 @@
         "number": "1833",
         "remarks": " ",
         "quota": 200,
-        "enroll": 149,
+        "enroll": 148,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6800,7 +6800,7 @@
         "number": "1835",
         "remarks": " ",
         "quota": 200,
-        "enroll": 79,
+        "enroll": 80,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -7540,8 +7540,8 @@
         "number": "1858",
         "remarks": " ",
         "quota": 80,
-        "enroll": 79,
-        "waitlist": 0,
+        "enroll": 80,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -7637,8 +7637,8 @@
         "number": "1860",
         "remarks": " ",
         "quota": 34,
-        "enroll": 32,
-        "waitlist": 3,
+        "enroll": 34,
+        "waitlist": 1,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -7661,9 +7661,9 @@
         "section": "LA2",
         "number": "1861",
         "remarks": " ",
-        "quota": 34,
-        "enroll": 34,
-        "waitlist": 4,
+        "quota": 36,
+        "enroll": 36,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -9091,14 +9091,14 @@
         "number": "1623",
         "remarks": " ",
         "quota": 90,
-        "enroll": 83,
+        "enroll": 82,
         "waitlist": 3,
         "consent": false,
         "reservedQuota": [
           {
             "name": "CIEM",
             "quota": 73,
-            "enroll": 73
+            "enroll": 72
           },
           {
             "name": "EVEM",
@@ -11183,8 +11183,8 @@
         "number": "1945",
         "remarks": " ",
         "quota": 67,
-        "enroll": 61,
-        "waitlist": 15,
+        "enroll": 63,
+        "waitlist": 13,
         "consent": false,
         "reservedQuota": [
           {
@@ -11195,7 +11195,7 @@
           {
             "name": "CIVL",
             "quota": 47,
-            "enroll": 45
+            "enroll": 47
           }
         ],
         "schedule": [
@@ -11443,7 +11443,7 @@
         "number": "1071",
         "remarks": " ",
         "quota": 30,
-        "enroll": 21,
+        "enroll": 20,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -12526,8 +12526,8 @@
         "number": "2032",
         "remarks": " ",
         "quota": 216,
-        "enroll": 210,
-        "waitlist": 56,
+        "enroll": 211,
+        "waitlist": 55,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -12589,8 +12589,8 @@
         "number": "2036",
         "remarks": " ",
         "quota": 108,
-        "enroll": 102,
-        "waitlist": 21,
+        "enroll": 103,
+        "waitlist": 20,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -12720,7 +12720,7 @@
         "number": "2039",
         "remarks": " ",
         "quota": 128,
-        "enroll": 123,
+        "enroll": 122,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -13330,8 +13330,8 @@
         "number": "2073",
         "remarks": " ",
         "quota": 80,
-        "enroll": 60,
-        "waitlist": 46,
+        "enroll": 80,
+        "waitlist": 24,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -13368,8 +13368,8 @@
         "number": "2075",
         "remarks": " ",
         "quota": 80,
-        "enroll": 60,
-        "waitlist": 18,
+        "enroll": 68,
+        "waitlist": 6,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -13394,8 +13394,8 @@
         "number": "2077",
         "remarks": " ",
         "quota": 80,
-        "enroll": 60,
-        "waitlist": 33,
+        "enroll": 79,
+        "waitlist": 14,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -13420,8 +13420,8 @@
         "number": "2079",
         "remarks": " ",
         "quota": 80,
-        "enroll": 60,
-        "waitlist": 46,
+        "enroll": 80,
+        "waitlist": 24,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -13445,8 +13445,8 @@
         "number": "2081",
         "remarks": " ",
         "quota": 80,
-        "enroll": 60,
-        "waitlist": 18,
+        "enroll": 68,
+        "waitlist": 6,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -13470,8 +13470,8 @@
         "number": "2082",
         "remarks": " ",
         "quota": 80,
-        "enroll": 60,
-        "waitlist": 33,
+        "enroll": 79,
+        "waitlist": 14,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -14216,7 +14216,7 @@
         "remarks": " ",
         "quota": 75,
         "enroll": 75,
-        "waitlist": 16,
+        "waitlist": 17,
         "consent": false,
         "reservedQuota": [
           {
@@ -14286,7 +14286,7 @@
         "remarks": " ",
         "quota": 75,
         "enroll": 75,
-        "waitlist": 10,
+        "waitlist": 11,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -14916,7 +14916,7 @@
         "number": "2148",
         "remarks": "> The class is delivered in a blended learning mode",
         "quota": 80,
-        "enroll": 72,
+        "enroll": 71,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -14942,7 +14942,7 @@
         "number": "2149",
         "remarks": " ",
         "quota": 80,
-        "enroll": 72,
+        "enroll": 71,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -15044,7 +15044,7 @@
         "number": "2151",
         "remarks": " ",
         "quota": 60,
-        "enroll": 18,
+        "enroll": 19,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -15070,7 +15070,7 @@
         "number": "2152",
         "remarks": " ",
         "quota": 60,
-        "enroll": 18,
+        "enroll": 19,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -15699,7 +15699,7 @@
         "number": "2171",
         "remarks": " ",
         "quota": 508,
-        "enroll": 504,
+        "enroll": 503,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -16301,8 +16301,8 @@
         "number": "1087",
         "remarks": " ",
         "quota": 77,
-        "enroll": 60,
-        "waitlist": 19,
+        "enroll": 77,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [
           {
@@ -16492,7 +16492,7 @@
         "section": "L1",
         "number": "1091",
         "remarks": " ",
-        "quota": 59,
+        "quota": 60,
         "enroll": 54,
         "waitlist": 0,
         "consent": false,
@@ -16542,7 +16542,7 @@
         "remarks": " ",
         "quota": 60,
         "enroll": 60,
-        "waitlist": 23,
+        "waitlist": 22,
         "consent": false,
         "reservedQuota": [
           {
@@ -16756,7 +16756,7 @@
         "section": "L1",
         "number": "1096",
         "remarks": " ",
-        "quota": 59,
+        "quota": 60,
         "enroll": 60,
         "waitlist": 13,
         "consent": false,
@@ -16847,8 +16847,8 @@
         "number": "1098",
         "remarks": " ",
         "quota": 80,
-        "enroll": 56,
-        "waitlist": 14,
+        "enroll": 70,
+        "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
@@ -19090,8 +19090,8 @@
         "number": "1629",
         "remarks": " ",
         "quota": 88,
-        "enroll": 28,
-        "waitlist": 2,
+        "enroll": 29,
+        "waitlist": 1,
         "consent": false,
         "reservedQuota": [
           {
@@ -19102,7 +19102,7 @@
           {
             "name": "CSIT",
             "quota": 81,
-            "enroll": 26
+            "enroll": 27
           }
         ],
         "schedule": [
@@ -19420,8 +19420,8 @@
         "number": "2694",
         "remarks": " ",
         "quota": 150,
-        "enroll": 108,
-        "waitlist": 20,
+        "enroll": 109,
+        "waitlist": 19,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -19501,8 +19501,8 @@
         "number": "2722",
         "remarks": " ",
         "quota": 50,
-        "enroll": 20,
-        "waitlist": 3,
+        "enroll": 21,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -21411,7 +21411,7 @@
         "remarks": " ",
         "quota": 68,
         "enroll": 68,
-        "waitlist": 38,
+        "waitlist": 37,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -21600,7 +21600,7 @@
         "remarks": " ",
         "quota": 68,
         "enroll": 68,
-        "waitlist": 38,
+        "waitlist": 37,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -22320,14 +22320,14 @@
         "number": "2432",
         "remarks": " ",
         "quota": 50,
-        "enroll": 41,
+        "enroll": 40,
         "waitlist": 3,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECON",
             "quota": 50,
-            "enroll": 41
+            "enroll": 40
           }
         ],
         "schedule": [
@@ -22352,7 +22352,7 @@
         "number": "2433",
         "remarks": " ",
         "quota": 50,
-        "enroll": 41,
+        "enroll": 40,
         "waitlist": 3,
         "consent": false,
         "reservedQuota": [],
@@ -22467,7 +22467,7 @@
         "remarks": " ",
         "quota": 50,
         "enroll": 35,
-        "waitlist": 4,
+        "waitlist": 6,
         "consent": false,
         "reservedQuota": [
           {
@@ -22499,7 +22499,7 @@
         "remarks": " ",
         "quota": 50,
         "enroll": 35,
-        "waitlist": 4,
+        "waitlist": 6,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -22540,7 +22540,7 @@
         "remarks": " ",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 9,
+        "waitlist": 12,
         "consent": false,
         "reservedQuota": [
           {
@@ -22572,7 +22572,7 @@
         "remarks": " ",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 9,
+        "waitlist": 12,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -22613,7 +22613,7 @@
         "remarks": " ",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 15,
+        "waitlist": 16,
         "consent": false,
         "reservedQuota": [
           {
@@ -22645,7 +22645,7 @@
         "remarks": " ",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 15,
+        "waitlist": 16,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -23862,14 +23862,14 @@
         "section": "L1",
         "number": "1158",
         "remarks": "> For MPhil(ECON) and PhD(ECON) students only",
-        "quota": 18,
+        "quota": 20,
         "enroll": 17,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECON",
-            "quota": 18,
+            "quota": 20,
             "enroll": 10
           }
         ],
@@ -26084,7 +26084,7 @@
         "remarks": " ",
         "quota": 400,
         "enroll": 361,
-        "waitlist": 141,
+        "waitlist": 142,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -26110,7 +26110,7 @@
         "remarks": " ",
         "quota": 80,
         "enroll": 80,
-        "waitlist": 37,
+        "waitlist": 38,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -26318,7 +26318,7 @@
         "remarks": " ",
         "quota": 240,
         "enroll": 240,
-        "waitlist": 93,
+        "waitlist": 92,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -26394,7 +26394,7 @@
         "remarks": " ",
         "quota": 80,
         "enroll": 80,
-        "waitlist": 76,
+        "waitlist": 75,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -26444,7 +26444,7 @@
         "remarks": " ",
         "quota": 80,
         "enroll": 80,
-        "waitlist": 13,
+        "waitlist": 12,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -26811,8 +26811,8 @@
         "number": "2217",
         "remarks": " ",
         "quota": 120,
-        "enroll": 98,
-        "waitlist": 23,
+        "enroll": 99,
+        "waitlist": 22,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -26899,8 +26899,8 @@
         "number": "2222",
         "remarks": " ",
         "quota": 40,
-        "enroll": 18,
-        "waitlist": 6,
+        "enroll": 19,
+        "waitlist": 5,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -26949,7 +26949,7 @@
         "number": "2225",
         "remarks": " ",
         "quota": 60,
-        "enroll": 38,
+        "enroll": 39,
         "waitlist": 7,
         "consent": false,
         "reservedQuota": [],
@@ -27211,7 +27211,7 @@
         "remarks": " ",
         "quota": 70,
         "enroll": 54,
-        "waitlist": 3,
+        "waitlist": 4,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -28393,8 +28393,8 @@
         "number": "2289",
         "remarks": " ",
         "quota": 120,
-        "enroll": 111,
-        "waitlist": 17,
+        "enroll": 112,
+        "waitlist": 16,
         "consent": false,
         "reservedQuota": [
           {
@@ -28425,8 +28425,8 @@
         "number": "2291",
         "remarks": " ",
         "quota": 40,
-        "enroll": 39,
-        "waitlist": 20,
+        "enroll": 40,
+        "waitlist": 19,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -28525,8 +28525,8 @@
         "number": "2297",
         "remarks": " ",
         "quota": 40,
-        "enroll": 39,
-        "waitlist": 10,
+        "enroll": 40,
+        "waitlist": 9,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -30719,7 +30719,7 @@
         "remarks": " ",
         "quota": 20,
         "enroll": 20,
-        "waitlist": 20,
+        "waitlist": 19,
         "consent": false,
         "reservedQuota": [
           {
@@ -30772,14 +30772,14 @@
         "section": "L1",
         "number": "1139",
         "remarks": "> The class is delivered in a blended learning mode",
-        "quota": 19,
+        "quota": 20,
         "enroll": 6,
         "waitlist": 7,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECE",
-            "quota": 19,
+            "quota": 20,
             "enroll": 5
           }
         ],
@@ -31276,14 +31276,14 @@
         "number": "1148",
         "remarks": " ",
         "quota": 50,
-        "enroll": 22,
+        "enroll": 23,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECE",
             "quota": 50,
-            "enroll": 22
+            "enroll": 23
           }
         ],
         "schedule": [
@@ -31454,7 +31454,7 @@
         "number": "2701",
         "remarks": "> The class is delivered in a blended learning mode and experiential learning mode\n> For students enrolled in extended major programs only",
         "quota": 40,
-        "enroll": 19,
+        "enroll": 18,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -32166,7 +32166,7 @@
         "number": "4349",
         "remarks": " ",
         "quota": 30,
-        "enroll": 14,
+        "enroll": 15,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -32777,7 +32777,7 @@
         "remarks": " ",
         "quota": 900,
         "enroll": 900,
-        "waitlist": 4,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -32800,7 +32800,7 @@
         "number": "4118",
         "remarks": " ",
         "quota": 900,
-        "enroll": 507,
+        "enroll": 508,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -37227,7 +37227,7 @@
         "remarks": " ",
         "quota": 60,
         "enroll": 49,
-        "waitlist": 6,
+        "waitlist": 7,
         "consent": false,
         "reservedQuota": [
           {
@@ -39203,7 +39203,7 @@
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Instructor : TANG, Alfred\n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 65,
         "enroll": 65,
-        "waitlist": 5,
+        "waitlist": 6,
         "consent": false,
         "reservedQuota": [
           {
@@ -39249,14 +39249,14 @@
         "number": "1248",
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 12-May-2025",
         "quota": 60,
-        "enroll": 57,
+        "enroll": 56,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "Digital MBA",
             "quota": 20,
-            "enroll": 19
+            "enroll": 18
           },
           {
             "name": "MBA",
@@ -39401,7 +39401,7 @@
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 64,
         "enroll": 60,
-        "waitlist": 2,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [
           {
@@ -39961,7 +39961,7 @@
         "number": "4063",
         "remarks": " ",
         "quota": 50,
-        "enroll": 11,
+        "enroll": 12,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -42810,7 +42810,7 @@
         "remarks": "> The class is delivered in a blended learning mode",
         "quota": 400,
         "enroll": 332,
-        "waitlist": 124,
+        "waitlist": 123,
         "consent": false,
         "reservedQuota": [
           {
@@ -43292,7 +43292,7 @@
         "remarks": " ",
         "quota": 20,
         "enroll": 20,
-        "waitlist": 16,
+        "waitlist": 15,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -44481,7 +44481,7 @@
         "number": "2583",
         "remarks": " ",
         "quota": 100,
-        "enroll": 44,
+        "enroll": 45,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -44512,7 +44512,7 @@
         "number": "2585",
         "remarks": " ",
         "quota": 50,
-        "enroll": 40,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -44714,7 +44714,7 @@
         "remarks": " ",
         "quota": 100,
         "enroll": 81,
-        "waitlist": 93,
+        "waitlist": 92,
         "consent": false,
         "reservedQuota": [
           {
@@ -45071,7 +45071,7 @@
         "remarks": " ",
         "quota": 20,
         "enroll": 20,
-        "waitlist": 74,
+        "waitlist": 75,
         "consent": false,
         "reservedQuota": [
           {
@@ -45102,7 +45102,7 @@
         "remarks": " ",
         "quota": 7,
         "enroll": 7,
-        "waitlist": 43,
+        "waitlist": 44,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -48212,7 +48212,7 @@
         "number": "2653",
         "remarks": " ",
         "quota": 100,
-        "enroll": 100,
+        "enroll": 99,
         "waitlist": 61,
         "consent": false,
         "reservedQuota": [],
@@ -48262,7 +48262,7 @@
         "number": "2657",
         "remarks": " ",
         "quota": 50,
-        "enroll": 50,
+        "enroll": 49,
         "waitlist": 32,
         "consent": false,
         "reservedQuota": [],
@@ -50381,7 +50381,7 @@
         "section": "L1",
         "number": "2742",
         "remarks": " ",
-        "quota": 30,
+        "quota": 33,
         "enroll": 30,
         "waitlist": 4,
         "consent": false,
@@ -50562,7 +50562,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "JONEJA, Ajay"
             ],
             "venue": "TBA",
             "fromDate": "2025-02-03",
@@ -50585,7 +50585,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "JONEJA, Ajay"
             ],
             "venue": "TBA",
             "fromDate": "2025-02-03",
@@ -50839,19 +50839,6 @@
         "consent": false,
         "reservedQuota": [],
         "schedule": [
-          {
-            "instructors": [
-              "BRAUD, Tristan Camille"
-            ],
-            "venue": "Rm 2590, Lift 27-28",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              2
-            ],
-            "fromTime": "13:30",
-            "toTime": "16:20"
-          },
           {
             "instructors": [
               "BRAUD, Tristan Camille"
@@ -52456,7 +52443,7 @@
         "number": "2813",
         "remarks": " ",
         "quota": 101,
-        "enroll": 98,
+        "enroll": 99,
         "waitlist": 18,
         "consent": false,
         "reservedQuota": [
@@ -52468,7 +52455,7 @@
           {
             "name": "SBM",
             "quota": 67,
-            "enroll": 68
+            "enroll": 69
           }
         ],
         "schedule": [
@@ -54213,7 +54200,7 @@
         "remarks": " ",
         "quota": 55,
         "enroll": 55,
-        "waitlist": 42,
+        "waitlist": 41,
         "consent": false,
         "reservedQuota": [
           {
@@ -55497,7 +55484,7 @@
         "remarks": " ",
         "quota": 40,
         "enroll": 32,
-        "waitlist": 14,
+        "waitlist": 15,
         "consent": false,
         "reservedQuota": [
           {
@@ -57519,14 +57506,14 @@
         "number": "1328",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(ISM) students only\n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 66,
-        "enroll": 66,
+        "enroll": 65,
         "waitlist": 2,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ISM",
             "quota": 66,
-            "enroll": 66
+            "enroll": 65
           }
         ],
         "schedule": [
@@ -61150,7 +61137,7 @@
         "remarks": " ",
         "quota": 21,
         "enroll": 21,
-        "waitlist": 11,
+        "waitlist": 12,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -66033,7 +66020,7 @@
         "remarks": " ",
         "quota": 20,
         "enroll": 20,
-        "waitlist": 14,
+        "waitlist": 15,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -68486,8 +68473,8 @@
         "number": "3257",
         "remarks": " ",
         "quota": 60,
-        "enroll": 47,
-        "waitlist": 12,
+        "enroll": 46,
+        "waitlist": 14,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -68812,7 +68799,7 @@
         "remarks": " ",
         "quota": 20,
         "enroll": 20,
-        "waitlist": 6,
+        "waitlist": 8,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -68836,7 +68823,7 @@
         "number": "3273",
         "remarks": " ",
         "quota": 20,
-        "enroll": 7,
+        "enroll": 6,
         "waitlist": 1,
         "consent": false,
         "reservedQuota": [],
@@ -70320,7 +70307,7 @@
         "remarks": " ",
         "quota": 20,
         "enroll": 20,
-        "waitlist": 5,
+        "waitlist": 6,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -71469,7 +71456,7 @@
         "number": "1358",
         "remarks": " ",
         "quota": 18,
-        "enroll": 12,
+        "enroll": 13,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -72476,7 +72463,7 @@
         "number": "3399",
         "remarks": " ",
         "quota": 300,
-        "enroll": 289,
+        "enroll": 288,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -74616,7 +74603,7 @@
         "number": "1404",
         "remarks": "> For MPhil & PhD (LIFS) students only.",
         "quota": 200,
-        "enroll": 126,
+        "enroll": 127,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -75623,7 +75610,7 @@
         "remarks": " ",
         "quota": 55,
         "enroll": 55,
-        "waitlist": 77,
+        "waitlist": 78,
         "consent": false,
         "reservedQuota": [
           {
@@ -75855,7 +75842,7 @@
         "remarks": " ",
         "quota": 44,
         "enroll": 44,
-        "waitlist": 15,
+        "waitlist": 14,
         "consent": false,
         "reservedQuota": [
           {
@@ -75912,7 +75899,7 @@
         "remarks": " ",
         "quota": 44,
         "enroll": 44,
-        "waitlist": 15,
+        "waitlist": 14,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -77575,7 +77562,7 @@
         "section": "L1",
         "number": "1416",
         "remarks": "> For PhD(MARK) students only",
-        "quota": 3,
+        "quota": 9,
         "enroll": 8,
         "waitlist": 0,
         "consent": false,
@@ -78796,7 +78783,7 @@
         "number": "3513",
         "remarks": " ",
         "quota": 60,
-        "enroll": 26,
+        "enroll": 27,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -78860,7 +78847,7 @@
         "number": "4411",
         "remarks": " ",
         "quota": 30,
-        "enroll": 12,
+        "enroll": 13,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -78908,7 +78895,7 @@
         "number": "3515",
         "remarks": "> Venue: Room 2407",
         "quota": 60,
-        "enroll": 32,
+        "enroll": 36,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -78934,7 +78921,7 @@
         "number": "3516",
         "remarks": "> Venue: Room 5583",
         "quota": 30,
-        "enroll": 21,
+        "enroll": 25,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -79311,7 +79298,7 @@
         "remarks": " ",
         "quota": 120,
         "enroll": 108,
-        "waitlist": 8,
+        "waitlist": 9,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -80249,7 +80236,7 @@
         "remarks": " ",
         "quota": 40,
         "enroll": 28,
-        "waitlist": 2,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -81748,7 +81735,7 @@
         "remarks": " ",
         "quota": 80,
         "enroll": 66,
-        "waitlist": 38,
+        "waitlist": 39,
         "consent": false,
         "reservedQuota": [
           {
@@ -81830,7 +81817,7 @@
         "remarks": " ",
         "quota": 40,
         "enroll": 34,
-        "waitlist": 21,
+        "waitlist": 22,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -83950,7 +83937,7 @@
         "section": "L1",
         "number": "1449",
         "remarks": " ",
-        "quota": 8,
+        "quota": 9,
         "enroll": 9,
         "waitlist": 1,
         "consent": false,
@@ -83992,7 +83979,7 @@
         "section": "L1",
         "number": "1450",
         "remarks": " ",
-        "quota": 18,
+        "quota": 20,
         "enroll": 14,
         "waitlist": 0,
         "consent": false,
@@ -84034,7 +84021,7 @@
         "section": "L1",
         "number": "1451",
         "remarks": " ",
-        "quota": 16,
+        "quota": 20,
         "enroll": 8,
         "waitlist": 0,
         "consent": false,
@@ -84160,7 +84147,7 @@
         "number": "1455",
         "remarks": " ",
         "quota": 40,
-        "enroll": 31,
+        "enroll": 32,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -84242,7 +84229,7 @@
         "section": "L1",
         "number": "1457",
         "remarks": " ",
-        "quota": 19,
+        "quota": 20,
         "enroll": 20,
         "waitlist": 21,
         "consent": false,
@@ -84918,7 +84905,7 @@
         "number": "1466",
         "remarks": " ",
         "quota": 70,
-        "enroll": 59,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -87495,7 +87482,7 @@
         "number": "1471",
         "remarks": " ",
         "quota": 120,
-        "enroll": 73,
+        "enroll": 74,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -89134,7 +89121,7 @@
         "remarks": " ",
         "quota": 64,
         "enroll": 64,
-        "waitlist": 29,
+        "waitlist": 28,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -89456,7 +89443,7 @@
         "remarks": " ",
         "quota": 60,
         "enroll": 60,
-        "waitlist": 66,
+        "waitlist": 67,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -90628,7 +90615,7 @@
         "remarks": " ",
         "quota": 40,
         "enroll": 19,
-        "waitlist": 28,
+        "waitlist": 29,
         "consent": false,
         "reservedQuota": [
           {
@@ -90690,7 +90677,7 @@
         "remarks": " ",
         "quota": 40,
         "enroll": 33,
-        "waitlist": 29,
+        "waitlist": 30,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -92379,7 +92366,7 @@
         "remarks": "> For FT-MBA; PT-MBA; MBA Exchange; MBA (Bi-weekly) and Digital MBA students only\n> Instructor : KO CHIA\n> Add/Drop Deadline : 17-Feb-2025",
         "quota": 61,
         "enroll": 50,
-        "waitlist": 1,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [
           {
@@ -93343,8 +93330,8 @@
         "section": "L1",
         "number": "1593",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 10-Feb-2025",
-        "quota": 51,
-        "enroll": 51,
+        "quota": 47,
+        "enroll": 47,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -94701,7 +94688,7 @@
         "number": "1514",
         "remarks": "> For MSc(DDM) students only.",
         "quota": 80,
-        "enroll": 26,
+        "enroll": 27,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -94742,7 +94729,7 @@
         "number": "1515",
         "remarks": "> For MSc(DDM) students only.",
         "quota": 80,
-        "enroll": 30,
+        "enroll": 31,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -94767,7 +94754,7 @@
         "number": "1516",
         "remarks": " ",
         "quota": 80,
-        "enroll": 30,
+        "enroll": 31,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -94808,7 +94795,7 @@
         "number": "1517",
         "remarks": "> For MSc(DDM) students only.",
         "quota": 80,
-        "enroll": 25,
+        "enroll": 26,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -94833,7 +94820,7 @@
         "number": "1518",
         "remarks": " ",
         "quota": 80,
-        "enroll": 25,
+        "enroll": 26,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -96226,7 +96213,7 @@
         "number": "1499",
         "remarks": " ",
         "quota": 30,
-        "enroll": 19,
+        "enroll": 20,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -96353,7 +96340,7 @@
         "number": "1501",
         "remarks": " ",
         "quota": 20,
-        "enroll": 12,
+        "enroll": 13,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -96379,7 +96366,7 @@
         "number": "1502",
         "remarks": " ",
         "quota": 20,
-        "enroll": 12,
+        "enroll": 13,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -96544,7 +96531,7 @@
         "number": "1506",
         "remarks": " ",
         "quota": 90,
-        "enroll": 32,
+        "enroll": 33,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -104138,7 +104125,7 @@
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Instructor : KEILHACKER, Kurt\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 45,
         "enroll": 42,
-        "waitlist": 0,
+        "waitlist": 1,
         "consent": false,
         "reservedQuota": [
           {
@@ -106900,14 +106887,14 @@
         "number": "4153",
         "remarks": " ",
         "quota": 80,
-        "enroll": 48,
+        "enroll": 49,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SHSS",
             "quota": 80,
-            "enroll": 48
+            "enroll": 49
           }
         ],
         "schedule": [
@@ -107863,14 +107850,14 @@
         "section": "L1",
         "number": "1738",
         "remarks": " ",
-        "quota": 19,
+        "quota": 20,
         "enroll": 13,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SOSC",
-            "quota": 19,
+            "quota": 20,
             "enroll": 8
           }
         ],
@@ -107971,14 +107958,14 @@
         "section": "L1",
         "number": "1740",
         "remarks": " ",
-        "quota": 19,
+        "quota": 20,
         "enroll": 12,
         "waitlist": 6,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SOSC",
-            "quota": 19,
+            "quota": 20,
             "enroll": 11
           }
         ],
@@ -108018,14 +108005,14 @@
         "section": "L1",
         "number": "4246",
         "remarks": "> Venue : Room 6602\n> Co-list with SOSC 4300",
-        "quota": 17,
+        "quota": 20,
         "enroll": 11,
         "waitlist": 1,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SOSC",
-            "quota": 17,
+            "quota": 20,
             "enroll": 6
           }
         ],
