@@ -7039,7 +7039,7 @@
         "remarks": " ",
         "quota": 20,
         "enroll": 20,
-        "waitlist": 9,
+        "waitlist": 10,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -7245,7 +7245,7 @@
         "number": "1850",
         "remarks": " ",
         "quota": 48,
-        "enroll": 48,
+        "enroll": 47,
         "waitlist": 3,
         "consent": false,
         "reservedQuota": [],
@@ -7295,7 +7295,7 @@
         "number": "1852",
         "remarks": " ",
         "quota": 22,
-        "enroll": 13,
+        "enroll": 14,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -7979,7 +7979,7 @@
         "number": "1869",
         "remarks": " ",
         "quota": 10,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -11484,7 +11484,7 @@
         "number": "1072",
         "remarks": " ",
         "quota": 30,
-        "enroll": 18,
+        "enroll": 17,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -12527,7 +12527,7 @@
         "remarks": " ",
         "quota": 216,
         "enroll": 211,
-        "waitlist": 54,
+        "waitlist": 55,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -12565,7 +12565,7 @@
         "remarks": " ",
         "quota": 108,
         "enroll": 108,
-        "waitlist": 44,
+        "waitlist": 45,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -13812,7 +13812,7 @@
         "number": "2099",
         "remarks": " ",
         "quota": 110,
-        "enroll": 99,
+        "enroll": 98,
         "waitlist": 6,
         "consent": false,
         "reservedQuota": [],
@@ -13838,7 +13838,7 @@
         "number": "2101",
         "remarks": " ",
         "quota": 110,
-        "enroll": 79,
+        "enroll": 78,
         "waitlist": 7,
         "consent": false,
         "reservedQuota": [],
@@ -20840,7 +20840,7 @@
         "remarks": " ",
         "quota": 70,
         "enroll": 70,
-        "waitlist": 85,
+        "waitlist": 86,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -20878,7 +20878,7 @@
         "remarks": " ",
         "quota": 70,
         "enroll": 70,
-        "waitlist": 85,
+        "waitlist": 86,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -24555,14 +24555,14 @@
         "number": "4320",
         "remarks": "> For MPhil(ECON) and PhD(ECON) students only\n> Add/Drop Deadline : 24-Mar-2025",
         "quota": 10,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECON",
             "quota": 10,
-            "enroll": 0
+            "enroll": 1
           }
         ],
         "schedule": [
@@ -25033,14 +25033,14 @@
         "number": "1637",
         "remarks": " ",
         "quota": 90,
-        "enroll": 38,
+        "enroll": 37,
         "waitlist": 5,
         "consent": false,
         "reservedQuota": [
           {
             "name": "EEM",
             "quota": 90,
-            "enroll": 38
+            "enroll": 37
           }
         ],
         "schedule": [
@@ -26420,7 +26420,7 @@
         "remarks": " ",
         "quota": 240,
         "enroll": 240,
-        "waitlist": 91,
+        "waitlist": 92,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -26471,7 +26471,7 @@
         "remarks": " ",
         "quota": 80,
         "enroll": 80,
-        "waitlist": 26,
+        "waitlist": 27,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -26521,7 +26521,7 @@
         "remarks": " ",
         "quota": 80,
         "enroll": 80,
-        "waitlist": 44,
+        "waitlist": 45,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -38746,8 +38746,8 @@
         "section": "L1",
         "number": "1228",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 10-Feb-2025",
-        "quota": 64,
-        "enroll": 64,
+        "quota": 63,
+        "enroll": 63,
         "waitlist": 1,
         "consent": false,
         "reservedQuota": [
@@ -38758,8 +38758,8 @@
           },
           {
             "name": "FINA",
-            "quota": 58,
-            "enroll": 58
+            "quota": 57,
+            "enroll": 57
           },
           {
             "name": "GO",
@@ -38910,7 +38910,7 @@
         "section": "L1",
         "number": "1237",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 07-Apr-2025",
-        "quota": 63,
+        "quota": 62,
         "enroll": 62,
         "waitlist": 22,
         "consent": false,
@@ -38922,7 +38922,7 @@
           },
           {
             "name": "FINA",
-            "quota": 60,
+            "quota": 59,
             "enroll": 59
           }
         ],
@@ -39486,9 +39486,9 @@
         "section": "L1",
         "number": "1231",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 10-Feb-2025",
-        "quota": 64,
-        "enroll": 63,
-        "waitlist": 1,
+        "quota": 63,
+        "enroll": 62,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [
           {
@@ -39503,8 +39503,8 @@
           },
           {
             "name": "FINA",
-            "quota": 58,
-            "enroll": 58
+            "quota": 57,
+            "enroll": 57
           },
           {
             "name": "GO",
@@ -43452,7 +43452,7 @@
         "remarks": " ",
         "quota": 100,
         "enroll": 100,
-        "waitlist": 16,
+        "waitlist": 15,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -43629,7 +43629,7 @@
         "remarks": " ",
         "quota": 60,
         "enroll": 60,
-        "waitlist": 32,
+        "waitlist": 31,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -44577,7 +44577,7 @@
         "remarks": " ",
         "quota": 100,
         "enroll": 100,
-        "waitlist": 29,
+        "waitlist": 28,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -44602,7 +44602,7 @@
         "remarks": " ",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 15,
+        "waitlist": 14,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -44693,7 +44693,7 @@
         "remarks": " ",
         "quota": 100,
         "enroll": 100,
-        "waitlist": 74,
+        "waitlist": 73,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -44759,7 +44759,7 @@
         "number": "2594",
         "remarks": " ",
         "quota": 100,
-        "enroll": 73,
+        "enroll": 72,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -45363,7 +45363,7 @@
         "remarks": " ",
         "quota": 60,
         "enroll": 54,
-        "waitlist": 4,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -45390,7 +45390,7 @@
         "remarks": " ",
         "quota": 60,
         "enroll": 54,
-        "waitlist": 4,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -45714,7 +45714,7 @@
         "remarks": " ",
         "quota": 100,
         "enroll": 96,
-        "waitlist": 8,
+        "waitlist": 9,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -50942,7 +50942,7 @@
         "number": "1300",
         "remarks": " ",
         "quota": 70,
-        "enroll": 32,
+        "enroll": 33,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -59600,7 +59600,7 @@
         "number": "1653",
         "remarks": "> JEVE 5820 is not co-listing with MCEE 5820 in Spring 2024-25",
         "quota": 90,
-        "enroll": 82,
+        "enroll": 81,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -59612,7 +59612,7 @@
           {
             "name": "EVEM",
             "quota": 80,
-            "enroll": 72
+            "enroll": 71
           }
         ],
         "schedule": [
@@ -60977,7 +60977,7 @@
         "number": "2946",
         "remarks": "> Add/Drop Deadline : 07-Feb-2025",
         "quota": 16,
-        "enroll": 15,
+        "enroll": 14,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -66561,7 +66561,7 @@
         "remarks": " ",
         "quota": 20,
         "enroll": 20,
-        "waitlist": 14,
+        "waitlist": 13,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -66586,7 +66586,7 @@
         "number": "4445",
         "remarks": " ",
         "quota": 20,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -70305,7 +70305,7 @@
         "number": "3325",
         "remarks": "> Class cancelled",
         "quota": 0,
-        "enroll": 5,
+        "enroll": 4,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -70357,7 +70357,7 @@
         "number": "3327",
         "remarks": " ",
         "quota": 20,
-        "enroll": 1,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -70830,7 +70830,7 @@
         "number": "3354",
         "remarks": " ",
         "quota": 20,
-        "enroll": 14,
+        "enroll": 13,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -71878,7 +71878,7 @@
         "remarks": "> The class is delivered in a blended learning mode\n> For students under AIS research postgraduate programs",
         "quota": 24,
         "enroll": 24,
-        "waitlist": 15,
+        "waitlist": 16,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -71929,7 +71929,7 @@
         "number": "4452",
         "remarks": "> The class is delivered in a blended learning mode\n> For students under AIS research postgraduate programs",
         "quota": 24,
-        "enroll": 15,
+        "enroll": 14,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -72121,7 +72121,7 @@
         "remarks": "> The class is delivered in a blended learning mode\n> For students under SENG and SSCI research postgraduate programs",
         "quota": 24,
         "enroll": 24,
-        "waitlist": 0,
+        "waitlist": 1,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -72458,7 +72458,7 @@
         "number": "1380",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 08-Apr-2025",
         "quota": 20,
-        "enroll": 5,
+        "enroll": 4,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -72500,7 +72500,7 @@
         "number": "3389",
         "remarks": " ",
         "quota": 140,
-        "enroll": 118,
+        "enroll": 119,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -74826,7 +74826,7 @@
         "number": "1400",
         "remarks": "> For MPhil & PhD (LIFS) students only.",
         "quota": 110,
-        "enroll": 47,
+        "enroll": 48,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -75004,7 +75004,7 @@
         "number": "1404",
         "remarks": "> For MPhil & PhD (LIFS) students only.",
         "quota": 200,
-        "enroll": 130,
+        "enroll": 131,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -79609,7 +79609,7 @@
         "remarks": " ",
         "quota": 120,
         "enroll": 117,
-        "waitlist": 6,
+        "waitlist": 5,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -80412,7 +80412,7 @@
         "remarks": " ",
         "quota": 40,
         "enroll": 37,
-        "waitlist": 2,
+        "waitlist": 1,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -84194,7 +84194,7 @@
         "number": "3726",
         "remarks": " ",
         "quota": 40,
-        "enroll": 13,
+        "enroll": 14,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -87824,7 +87824,7 @@
         "number": "4427",
         "remarks": " ",
         "quota": 30,
-        "enroll": 22,
+        "enroll": 23,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -90360,7 +90360,7 @@
         "remarks": " ",
         "quota": 48,
         "enroll": 48,
-        "waitlist": 47,
+        "waitlist": 46,
         "consent": false,
         "reservedQuota": [
           {
@@ -90447,7 +90447,7 @@
         "remarks": " ",
         "quota": 60,
         "enroll": 28,
-        "waitlist": 15,
+        "waitlist": 14,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -93739,7 +93739,7 @@
         "number": "1590",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 45,
-        "enroll": 42,
+        "enroll": 38,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -93780,7 +93780,7 @@
         "number": "1593",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 47,
-        "enroll": 37,
+        "enroll": 34,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -93860,7 +93860,7 @@
         "number": "1604",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 28-Apr-2025",
         "quota": 60,
-        "enroll": 34,
+        "enroll": 25,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -93914,7 +93914,7 @@
         "number": "1587",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 60,
-        "enroll": 35,
+        "enroll": 26,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -93955,7 +93955,7 @@
         "number": "1602",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 40,
-        "enroll": 11,
+        "enroll": 10,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -93996,7 +93996,7 @@
         "number": "1566",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 50,
-        "enroll": 14,
+        "enroll": 13,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -94124,7 +94124,7 @@
         "number": "1591",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 40,
-        "enroll": 33,
+        "enroll": 31,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -94217,7 +94217,7 @@
         "number": "1599",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 43,
-        "enroll": 38,
+        "enroll": 36,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -94284,7 +94284,7 @@
         "number": "1603",
         "remarks": "> For MSc(IMT) students only\n> Instructor : WONG, Gilbert\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 40,
-        "enroll": 28,
+        "enroll": 27,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -94390,7 +94390,7 @@
         "number": "1588",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 17-Feb-2025",
         "quota": 40,
-        "enroll": 18,
+        "enroll": 9,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -99796,7 +99796,7 @@
         "remarks": " ",
         "quota": 24,
         "enroll": 24,
-        "waitlist": 2,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -104687,7 +104687,7 @@
         "number": "1567",
         "remarks": "> For SBM TPG students only\n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 48,
-        "enroll": 22,
+        "enroll": 21,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
@@ -107131,7 +107131,7 @@
         "remarks": " ",
         "quota": 120,
         "enroll": 120,
-        "waitlist": 212,
+        "waitlist": 211,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
