@@ -6436,7 +6436,7 @@
         "number": "4438",
         "remarks": " ",
         "quota": 30,
-        "enroll": 8,
+        "enroll": 9,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -13813,7 +13813,7 @@
         "remarks": " ",
         "quota": 110,
         "enroll": 99,
-        "waitlist": 5,
+        "waitlist": 6,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -13838,8 +13838,8 @@
         "number": "2101",
         "remarks": " ",
         "quota": 110,
-        "enroll": 78,
-        "waitlist": 8,
+        "enroll": 79,
+        "waitlist": 7,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -13863,7 +13863,7 @@
         "number": "2103",
         "remarks": " ",
         "quota": 110,
-        "enroll": 91,
+        "enroll": 90,
         "waitlist": 5,
         "consent": false,
         "reservedQuota": [],
@@ -15420,7 +15420,7 @@
         "number": "2163",
         "remarks": " ",
         "quota": 60,
-        "enroll": 54,
+        "enroll": 55,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -15446,7 +15446,7 @@
         "number": "2164",
         "remarks": " ",
         "quota": 60,
-        "enroll": 54,
+        "enroll": 55,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -15699,7 +15699,7 @@
         "number": "2171",
         "remarks": " ",
         "quota": 508,
-        "enroll": 501,
+        "enroll": 499,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -15724,7 +15724,7 @@
         "number": "2172",
         "remarks": " ",
         "quota": 92,
-        "enroll": 91,
+        "enroll": 92,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -15732,6 +15732,29 @@
           {
             "instructors": [
               "PAPADOPOULOS, Dimitris"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "T3",
+        "number": "4458",
+        "remarks": " ",
+        "quota": 2,
+        "enroll": 2,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LEUNG, Wai Ting"
             ],
             "venue": "TBA",
             "fromDate": "2025-02-03",
@@ -20909,7 +20932,7 @@
         "remarks": " ",
         "quota": 70,
         "enroll": 70,
-        "waitlist": 29,
+        "waitlist": 30,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -20947,7 +20970,7 @@
         "remarks": " ",
         "quota": 70,
         "enroll": 70,
-        "waitlist": 29,
+        "waitlist": 30,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -24915,14 +24938,14 @@
         "section": "L1",
         "number": "1635",
         "remarks": " ",
-        "quota": 50,
+        "quota": 60,
         "enroll": 50,
         "waitlist": 27,
         "consent": false,
         "reservedQuota": [
           {
             "name": "EEM",
-            "quota": 50,
+            "quota": 60,
             "enroll": 49
           }
         ],
@@ -33082,7 +33105,7 @@
         "number": "4280",
         "remarks": "> The credit load will usually be spread in the following pattern: Spring: 3; Summer: 1",
         "quota": 40,
-        "enroll": 24,
+        "enroll": 25,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -35264,7 +35287,7 @@
         "remarks": " ",
         "quota": 85,
         "enroll": 61,
-        "waitlist": 8,
+        "waitlist": 9,
         "consent": false,
         "reservedQuota": [
           {
@@ -36484,7 +36507,7 @@
         "remarks": " ",
         "quota": 65,
         "enroll": 61,
-        "waitlist": 32,
+        "waitlist": 31,
         "consent": false,
         "reservedQuota": [
           {
@@ -37349,7 +37372,7 @@
         "remarks": " ",
         "quota": 60,
         "enroll": 29,
-        "waitlist": 19,
+        "waitlist": 18,
         "consent": false,
         "reservedQuota": [
           {
@@ -38887,8 +38910,8 @@
         "section": "L1",
         "number": "1237",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 07-Apr-2025",
-        "quota": 64,
-        "enroll": 64,
+        "quota": 63,
+        "enroll": 62,
         "waitlist": 22,
         "consent": false,
         "reservedQuota": [
@@ -38899,8 +38922,8 @@
           },
           {
             "name": "FINA",
-            "quota": 61,
-            "enroll": 61
+            "quota": 60,
+            "enroll": 59
           }
         ],
         "schedule": [
@@ -43661,7 +43684,7 @@
         "remarks": " ",
         "quota": 60,
         "enroll": 60,
-        "waitlist": 7,
+        "waitlist": 8,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -43686,7 +43709,7 @@
         "remarks": " ",
         "quota": 60,
         "enroll": 60,
-        "waitlist": 7,
+        "waitlist": 8,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -51733,14 +51756,14 @@
         "number": "2769",
         "remarks": "> Add/Drop Deadline : 10-Feb-2025",
         "quota": 95,
-        "enroll": 79,
+        "enroll": 78,
         "waitlist": 9,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
             "quota": 95,
-            "enroll": 76
+            "enroll": 75
           }
         ],
         "schedule": [
@@ -51764,14 +51787,14 @@
         "number": "2771",
         "remarks": "> Add/Drop Deadline : 10-Feb-2025",
         "quota": 95,
-        "enroll": 94,
-        "waitlist": 16,
+        "enroll": 95,
+        "waitlist": 15,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
             "quota": 95,
-            "enroll": 93
+            "enroll": 94
           }
         ],
         "schedule": [
@@ -51971,7 +51994,7 @@
         "remarks": " ",
         "quota": 40,
         "enroll": 40,
-        "waitlist": 15,
+        "waitlist": 14,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -52572,7 +52595,7 @@
         "number": "2936",
         "remarks": " ",
         "quota": 65,
-        "enroll": 53,
+        "enroll": 52,
         "waitlist": 4,
         "consent": false,
         "reservedQuota": [],
@@ -52598,7 +52621,7 @@
         "remarks": " ",
         "quota": 65,
         "enroll": 65,
-        "waitlist": 12,
+        "waitlist": 11,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -52672,8 +52695,8 @@
         "number": "2940",
         "remarks": " ",
         "quota": 65,
-        "enroll": 64,
-        "waitlist": 12,
+        "enroll": 65,
+        "waitlist": 11,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -52698,7 +52721,7 @@
         "remarks": " ",
         "quota": 65,
         "enroll": 65,
-        "waitlist": 17,
+        "waitlist": 16,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -54721,8 +54744,8 @@
         "number": "2883",
         "remarks": " ",
         "quota": 60,
-        "enroll": 50,
-        "waitlist": 34,
+        "enroll": 52,
+        "waitlist": 32,
         "consent": false,
         "reservedQuota": [
           {
@@ -54733,7 +54756,7 @@
           {
             "name": "IS",
             "quota": 40,
-            "enroll": 31
+            "enroll": 32
           }
         ],
         "schedule": [
@@ -54758,7 +54781,7 @@
         "number": "2885",
         "remarks": " ",
         "quota": 60,
-        "enroll": 56,
+        "enroll": 54,
         "waitlist": 11,
         "consent": false,
         "reservedQuota": [
@@ -54770,7 +54793,7 @@
           {
             "name": "IS",
             "quota": 38,
-            "enroll": 35
+            "enroll": 34
           },
           {
             "name": "SBM",
@@ -54826,7 +54849,7 @@
         "remarks": " ",
         "quota": 45,
         "enroll": 45,
-        "waitlist": 27,
+        "waitlist": 26,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -54851,7 +54874,7 @@
         "remarks": " ",
         "quota": 45,
         "enroll": 36,
-        "waitlist": 11,
+        "waitlist": 10,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -58455,14 +58478,14 @@
         "number": "4381",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 63,
-        "enroll": 27,
+        "enroll": 26,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 60,
-            "enroll": 24
+            "enroll": 23
           }
         ],
         "schedule": [
@@ -60157,7 +60180,7 @@
         "remarks": " ",
         "quota": 24,
         "enroll": 24,
-        "waitlist": 5,
+        "waitlist": 4,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -60583,7 +60606,7 @@
         "remarks": " ",
         "quota": 24,
         "enroll": 24,
-        "waitlist": 0,
+        "waitlist": 1,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -60954,7 +60977,7 @@
         "number": "2946",
         "remarks": "> Add/Drop Deadline : 07-Feb-2025",
         "quota": 16,
-        "enroll": 16,
+        "enroll": 15,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -61813,7 +61836,7 @@
         "remarks": " ",
         "quota": 20,
         "enroll": 20,
-        "waitlist": 3,
+        "waitlist": 4,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -64144,8 +64167,8 @@
         "number": "3114",
         "remarks": " ",
         "quota": 20,
-        "enroll": 23,
-        "waitlist": 14,
+        "enroll": 20,
+        "waitlist": 13,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -64583,8 +64606,8 @@
         "number": "3122",
         "remarks": " ",
         "quota": 20,
-        "enroll": 22,
-        "waitlist": 5,
+        "enroll": 19,
+        "waitlist": 4,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -71101,7 +71124,7 @@
         "number": "3371",
         "remarks": "> Class cancelled",
         "quota": 0,
-        "enroll": 3,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -71906,7 +71929,7 @@
         "number": "4452",
         "remarks": "> The class is delivered in a blended learning mode\n> For students under AIS research postgraduate programs",
         "quota": 24,
-        "enroll": 14,
+        "enroll": 15,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -72201,7 +72224,7 @@
         "number": "1373",
         "remarks": "> The class is delivered in a blended learning mode\n> For students under SENG and SSCI research postgraduate programs",
         "quota": 24,
-        "enroll": 12,
+        "enroll": 13,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -72435,7 +72458,7 @@
         "number": "1380",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 08-Apr-2025",
         "quota": 20,
-        "enroll": 6,
+        "enroll": 5,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -75443,7 +75466,7 @@
         "number": "4440",
         "remarks": "> Students should seek the instructor's approval to take this course.",
         "quota": 1,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -75585,7 +75608,7 @@
         "number": "1443",
         "remarks": "> For MSc(MAFM) students only.\n> MAFS 5130 is not co-listing with MSBD 5006 in Spring 2024-25",
         "quota": 130,
-        "enroll": 58,
+        "enroll": 59,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -75749,7 +75772,7 @@
         "number": "1447",
         "remarks": "> For MSc(MAFM) students only.\n> Co-list with MSBD 6000M",
         "quota": 115,
-        "enroll": 53,
+        "enroll": 54,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -79586,7 +79609,7 @@
         "remarks": " ",
         "quota": 120,
         "enroll": 117,
-        "waitlist": 5,
+        "waitlist": 6,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -80389,7 +80412,7 @@
         "remarks": " ",
         "quota": 40,
         "enroll": 37,
-        "waitlist": 1,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -85548,14 +85571,14 @@
         "number": "1659",
         "remarks": " ",
         "quota": 50,
-        "enroll": 45,
+        "enroll": 44,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MCEE",
             "quota": 50,
-            "enroll": 45
+            "enroll": 44
           }
         ],
         "schedule": [
@@ -85596,7 +85619,7 @@
         "remarks": " ",
         "quota": 100,
         "enroll": 71,
-        "waitlist": 7,
+        "waitlist": 6,
         "consent": false,
         "reservedQuota": [
           {
@@ -85648,7 +85671,7 @@
         "remarks": " ",
         "quota": 100,
         "enroll": 55,
-        "waitlist": 17,
+        "waitlist": 16,
         "consent": false,
         "reservedQuota": [
           {
@@ -87719,7 +87742,7 @@
         "number": "1468",
         "remarks": " ",
         "quota": 30,
-        "enroll": 19,
+        "enroll": 20,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -89175,7 +89198,7 @@
         "remarks": "> For MSc(GCS) students only\n> The class is delivered in a blended learning and real-time online mode",
         "quota": 40,
         "enroll": 40,
-        "waitlist": 21,
+        "waitlist": 20,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -89212,7 +89235,7 @@
         "number": "4457",
         "remarks": "> For MSc(GCS) students only\n> The class is delivered in a conventional face-to-face mode",
         "quota": 40,
-        "enroll": 22,
+        "enroll": 23,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -90180,7 +90203,7 @@
         "remarks": " ",
         "quota": 40,
         "enroll": 37,
-        "waitlist": 22,
+        "waitlist": 21,
         "consent": false,
         "reservedQuota": [
           {
@@ -90252,7 +90275,7 @@
         "remarks": " ",
         "quota": 60,
         "enroll": 46,
-        "waitlist": 24,
+        "waitlist": 23,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -90463,7 +90486,7 @@
         "remarks": " ",
         "quota": 40,
         "enroll": 31,
-        "waitlist": 42,
+        "waitlist": 41,
         "consent": false,
         "reservedQuota": [
           {
@@ -90527,7 +90550,7 @@
         "remarks": " ",
         "quota": 60,
         "enroll": 44,
-        "waitlist": 51,
+        "waitlist": 50,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -93515,7 +93538,7 @@
         "section": "L1",
         "number": "1714",
         "remarks": "> For MA(ILE) students or students with program director or course instructor's approval only",
-        "quota": 33,
+        "quota": 35,
         "enroll": 33,
         "waitlist": 1,
         "consent": false,
@@ -93716,7 +93739,7 @@
         "number": "1590",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 45,
-        "enroll": 45,
+        "enroll": 42,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -93757,7 +93780,7 @@
         "number": "1593",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 47,
-        "enroll": 45,
+        "enroll": 37,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -93837,7 +93860,7 @@
         "number": "1604",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 28-Apr-2025",
         "quota": 60,
-        "enroll": 44,
+        "enroll": 34,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -93891,7 +93914,7 @@
         "number": "1587",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 60,
-        "enroll": 45,
+        "enroll": 35,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -93973,7 +93996,7 @@
         "number": "1566",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 50,
-        "enroll": 15,
+        "enroll": 14,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -94021,7 +94044,7 @@
         "number": "1600",
         "remarks": "> The class is delivered in a real-time online mode\n> For SBM TPG students only\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 42,
-        "enroll": 41,
+        "enroll": 42,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -94033,7 +94056,7 @@
           {
             "name": "BA",
             "quota": 10,
-            "enroll": 9
+            "enroll": 10
           },
           {
             "name": "FINA",
@@ -94194,7 +94217,7 @@
         "number": "1599",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 43,
-        "enroll": 41,
+        "enroll": 38,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -94261,7 +94284,7 @@
         "number": "1603",
         "remarks": "> For MSc(IMT) students only\n> Instructor : WONG, Gilbert\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 40,
-        "enroll": 32,
+        "enroll": 28,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -94367,7 +94390,7 @@
         "number": "1588",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 17-Feb-2025",
         "quota": 40,
-        "enroll": 28,
+        "enroll": 18,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -96639,7 +96662,7 @@
         "number": "1499",
         "remarks": " ",
         "quota": 30,
-        "enroll": 20,
+        "enroll": 21,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -99296,8 +99319,8 @@
         "number": "3933",
         "remarks": " ",
         "quota": 40,
-        "enroll": 31,
-        "waitlist": 12,
+        "enroll": 32,
+        "waitlist": 11,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -99346,7 +99369,7 @@
         "number": "3935",
         "remarks": " ",
         "quota": 40,
-        "enroll": 40,
+        "enroll": 39,
         "waitlist": 30,
         "consent": false,
         "reservedQuota": [],
@@ -99557,7 +99580,7 @@
         "remarks": " ",
         "quota": 40,
         "enroll": 40,
-        "waitlist": 2,
+        "waitlist": 1,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -99582,7 +99605,7 @@
         "remarks": " ",
         "quota": 40,
         "enroll": 37,
-        "waitlist": 5,
+        "waitlist": 6,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -103030,14 +103053,14 @@
         "number": "1560",
         "remarks": " ",
         "quota": 30,
-        "enroll": 1,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "PPOL",
             "quota": 30,
-            "enroll": 1
+            "enroll": 3
           }
         ],
         "schedule": [
@@ -103075,14 +103098,14 @@
         "number": "1561",
         "remarks": "> For MPhil(PP) students only",
         "quota": 30,
-        "enroll": 1,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "PPOL",
             "quota": 30,
-            "enroll": 1
+            "enroll": 2
           }
         ],
         "schedule": [
@@ -104664,7 +104687,7 @@
         "number": "1567",
         "remarks": "> For SBM TPG students only\n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 48,
-        "enroll": 23,
+        "enroll": 22,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
