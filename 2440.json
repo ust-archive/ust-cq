@@ -1841,6 +1841,81 @@
   {
     "career": "UGRD",
     "subject": "ECON",
+    "number": "2103",
+    "code": "ECON2103",
+    "name": "Principles of Microeconomics",
+    "description": "Theory of firm in a free enterprise system; theory of consumer demand; market structures and resource allocation; efficiency of competitive markets; selected topics on government regulation. Students with non-local qualifications should seek department’s or school’s approval for enrollment in the course.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "ECON 2113, ECON 3113, ECON 3133, SOSC 1440, Level 3 or above in HKDSE Economics",
+    "credits": 3,
+    "attributes": [
+      {
+        "attribute": "4Y",
+        "value": "13",
+        "attributeDescription": "Students admitted before 2022",
+        "valueDescription": "Common Core (SA) for 36-credit program"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1191",
+        "remarks": "> Add/Drop Deadline : 17-Jul-2025",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "DING, Fei"
+            ],
+            "venue": "Rm 1033, LSK Bldg (51)",
+            "fromDate": "2025-07-14",
+            "toDate": "2025-08-08",
+            "weekdays": [
+              1,
+              3,
+              5
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          }
+        ]
+      },
+      {
+        "section": "T1",
+        "number": "1192",
+        "remarks": " ",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "DING, Fei"
+            ],
+            "venue": "Rm 1033, LSK Bldg (51)",
+            "fromDate": "2025-07-14",
+            "toDate": "2025-08-08",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "14:00",
+            "toTime": "15:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ECON",
     "number": "2123",
     "code": "ECON2123",
     "name": "Macroeconomics",
@@ -1873,7 +1948,7 @@
             "instructors": [
               "NG, Chi Yung"
             ],
-            "venue": "Rm 1007, LSK Bldg (80)",
+            "venue": "Rm 1027, LSK Bldg (40)",
             "fromDate": "2025-07-14",
             "toDate": "2025-08-08",
             "weekdays": [
@@ -1900,7 +1975,7 @@
             "instructors": [
               "NG, Chi Yung"
             ],
-            "venue": "Rm 1007, LSK Bldg (80)",
+            "venue": "Rm 1027, LSK Bldg (40)",
             "fromDate": "2025-07-14",
             "toDate": "2025-08-08",
             "weekdays": [
