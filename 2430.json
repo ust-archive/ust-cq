@@ -174,7 +174,7 @@
         "number": "1770",
         "remarks": " ",
         "quota": 65,
-        "enroll": 65,
+        "enroll": 64,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -32383,7 +32383,7 @@
         "number": "1180",
         "remarks": " ",
         "quota": 40,
-        "enroll": 26,
+        "enroll": 25,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -36166,14 +36166,14 @@
         "number": "1199",
         "remarks": "> For MPhil/PhD (AES/MES/ESPM) and MSc/PGD (EVSM/EVEM) students only",
         "quota": 120,
-        "enroll": 104,
+        "enroll": 103,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ENVR",
             "quota": 100,
-            "enroll": 87
+            "enroll": 86
           },
           {
             "name": "EVEM",
@@ -36202,7 +36202,7 @@
         "number": "1200",
         "remarks": " ",
         "quota": 120,
-        "enroll": 104,
+        "enroll": 103,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -37099,7 +37099,7 @@
         "number": "2502",
         "remarks": " ",
         "quota": 60,
-        "enroll": 55,
+        "enroll": 54,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -37477,7 +37477,7 @@
         "number": "2512",
         "remarks": " ",
         "quota": 65,
-        "enroll": 47,
+        "enroll": 46,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -38489,7 +38489,7 @@
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Will have normal class on 04-Apr-2025\n> Add/Drop Deadline : 01-Apr-2025",
         "quota": 65,
         "enroll": 65,
-        "waitlist": 6,
+        "waitlist": 5,
         "consent": false,
         "reservedQuota": [
           {
@@ -42359,7 +42359,7 @@
         "number": "2714",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 60,
-        "enroll": 50,
+        "enroll": 49,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -53235,7 +53235,7 @@
         "number": "2828",
         "remarks": "> The class is delivered in a blended learning mode",
         "quota": 60,
-        "enroll": 59,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -53298,7 +53298,7 @@
         "number": "2832",
         "remarks": " ",
         "quota": 30,
-        "enroll": 29,
+        "enroll": 28,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -54457,7 +54457,7 @@
         "number": "2881",
         "remarks": "> Matching between L1 and LA1 is required",
         "quota": 60,
-        "enroll": 59,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -54535,7 +54535,7 @@
         "number": "2887",
         "remarks": " ",
         "quota": 60,
-        "enroll": 59,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -60267,7 +60267,7 @@
         "number": "2990",
         "remarks": " ",
         "quota": 24,
-        "enroll": 24,
+        "enroll": 23,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -74630,7 +74630,7 @@
         "number": "3453",
         "remarks": " ",
         "quota": 54,
-        "enroll": 54,
+        "enroll": 53,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -74682,7 +74682,7 @@
         "number": "3457",
         "remarks": " ",
         "quota": 54,
-        "enroll": 54,
+        "enroll": 53,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -74748,7 +74748,7 @@
         "number": "3460",
         "remarks": " ",
         "quota": 55,
-        "enroll": 55,
+        "enroll": 54,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -74824,7 +74824,7 @@
         "number": "3464",
         "remarks": " ",
         "quota": 55,
-        "enroll": 55,
+        "enroll": 54,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -83767,13 +83767,39 @@
               "IP, Ivan Chi Ho"
             ],
             "venue": "Rm 5562, Lift 27-28 (30)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
+            "fromDate": "2025-02-07",
+            "toDate": "2025-02-14",
             "weekdays": [
               5
             ],
             "fromTime": "17:30",
             "toTime": "20:20"
+          },
+          {
+            "instructors": [
+              "IP, Ivan Chi Ho"
+            ],
+            "venue": "G001, CYT Bldg (24)",
+            "fromDate": "2025-02-19",
+            "toDate": "2025-05-07",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "10:30",
+            "toTime": "11:50"
+          },
+          {
+            "instructors": [
+              "IP, Ivan Chi Ho"
+            ],
+            "venue": "G002, CYT Bldg (30)",
+            "fromDate": "2025-02-19",
+            "toDate": "2025-05-07",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "13:30",
+            "toTime": "14:50"
           }
         ]
       }
