@@ -16759,7 +16759,7 @@
         "number": "1096",
         "remarks": " ",
         "quota": 75,
-        "enroll": 44,
+        "enroll": 43,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -83125,45 +83125,6 @@
   {
     "career": "RPG",
     "subject": "MATH",
-    "number": "6900A",
-    "code": "MATH6900A",
-    "name": "Mathematics Seminar",
-    "description": "This course will expose our PG students to the current mathematical research and development and provide them with opportunities to make mathematical and social contacts with the speakers and with local and international mathematical communities in general. Graded P or F.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 1,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "T1",
-        "number": "1458",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "JIN, Tianling"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "RPG",
-    "subject": "MATH",
     "number": "6900B",
     "code": "MATH6900B",
     "name": "Mathematics Seminar",
@@ -102093,8 +102054,8 @@
             "weekdays": [
               5
             ],
-            "fromTime": "10:30",
-            "toTime": "13:20"
+            "fromTime": "09:00",
+            "toTime": "11:50"
           }
         ]
       }
@@ -104688,45 +104649,6 @@
             "venue": "TBA",
             "fromDate": "2025-02-03",
             "toDate": "2025-05-31",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "UGRD",
-    "subject": "SCIE",
-    "number": "1000",
-    "code": "SCIE1000",
-    "name": "Science School Induction",
-    "description": "This is a one-year course designed for year 1 science students. It provides induction activities to help students adapt to university life, and to understand the program structure of the school and the meaning of university education. Led by faculties, staffs, and peers, students will learn and practice skills such as teamwork, communication, time management, and goal setting. Graded P or F.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 0,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "T1",
-        "number": "4222",
-        "remarks": " ",
-        "quota": 2,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
             "weekdays": [],
             "fromTime": null,
             "toTime": null
