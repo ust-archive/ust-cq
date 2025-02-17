@@ -46886,7 +46886,7 @@
         "number": "1265",
         "remarks": " ",
         "quota": 20,
-        "enroll": 18,
+        "enroll": 17,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -83150,14 +83150,12 @@
             "instructors": [
               "JIN, Tianling"
             ],
-            "venue": "Lecture Theater F (133)",
+            "venue": "TBA",
             "fromDate": "2025-02-03",
             "toDate": "2025-05-10",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "15:00",
-            "toTime": "15:50"
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -83230,12 +83228,14 @@
             "instructors": [
               "JIN, Tianling"
             ],
-            "venue": "TBA",
+            "venue": "Lecture Theater F (133)",
             "fromDate": "2025-02-03",
             "toDate": "2025-05-10",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
+            "weekdays": [
+              5
+            ],
+            "fromTime": "15:00",
+            "toTime": "15:50"
           }
         ]
       }
@@ -84467,7 +84467,7 @@
           {
             "name": "MCEE",
             "quota": 95,
-            "enroll": 71
+            "enroll": 70
           }
         ],
         "schedule": [
@@ -102081,6 +102081,20 @@
             ],
             "fromTime": "15:00",
             "toTime": "17:50"
+          },
+          {
+            "instructors": [
+              "BERNAL, Marie",
+              "HE, Alex Jingwei"
+            ],
+            "venue": "Rm 3, 30/F, Tower 1,Millennity",
+            "fromDate": "2025-04-25",
+            "toDate": "2025-04-25",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "10:30",
+            "toTime": "13:20"
           }
         ]
       }
