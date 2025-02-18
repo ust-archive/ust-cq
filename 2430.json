@@ -30705,6 +30705,45 @@
     ]
   },
   {
+    "career": "UGRD",
+    "subject": "ELEC",
+    "number": "4940F",
+    "code": "ELEC4940F",
+    "name": "Independent Study",
+    "description": "Selected topics in electronic and computer engineering studied under the supervision of a faculty member. Enrollment subject to approval by the department.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4531",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "RPG",
     "subject": "ELEC",
     "number": "5050",
@@ -39286,14 +39325,14 @@
         "number": "1245",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Will have normal class on 19-Apr-2025\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 65,
-        "enroll": 51,
+        "enroll": 52,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 65,
-            "enroll": 51
+            "enroll": 52
           }
         ],
         "schedule": [
@@ -58797,14 +58836,14 @@
         "number": "1320",
         "remarks": "> For MSc(BA) students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 50,
-        "enroll": 21,
+        "enroll": 22,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 50,
-            "enroll": 20
+            "enroll": 21
           }
         ],
         "schedule": [
@@ -74202,7 +74241,8 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "HITIER, Sebastien Georges Frederic",
+              "WANG, Zhixue"
             ],
             "venue": "Lecture Theater G (132)",
             "fromDate": "2025-02-03",
@@ -86897,7 +86937,7 @@
         "number": "4310",
         "remarks": " ",
         "quota": 15,
-        "enroll": 14,
+        "enroll": 15,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
