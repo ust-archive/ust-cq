@@ -24466,8 +24466,13 @@
         "reservedQuota": [
           {
             "name": "ECON",
-            "quota": 65,
+            "quota": 60,
             "enroll": 7
+          },
+          {
+            "name": "ISM",
+            "quota": 5,
+            "enroll": 0
           }
         ],
         "schedule": [
@@ -39543,7 +39548,6 @@
         "schedule": [
           {
             "instructors": [
-              " ",
               "RANA, Gobin"
             ],
             "venue": "G001, LSK Bldg (75)",
@@ -92394,7 +92398,7 @@
         "number": "1713",
         "remarks": "> For MA(ILE) students or students with program director or course instructor's approval only",
         "quota": 32,
-        "enroll": 31,
+        "enroll": 29,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -100754,14 +100758,14 @@
         "number": "1543",
         "remarks": " ",
         "quota": 40,
-        "enroll": 39,
+        "enroll": 38,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MPP",
             "quota": 40,
-            "enroll": 38
+            "enroll": 37
           }
         ],
         "schedule": [
