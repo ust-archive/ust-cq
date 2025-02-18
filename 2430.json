@@ -41559,6 +41559,29 @@
             "toTime": "19:20"
           }
         ]
+      },
+      {
+        "section": "T03",
+        "number": "4532",
+        "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
+        "quota": 4,
+        "enroll": 3,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
       }
     ]
   },
@@ -47647,14 +47670,14 @@
         "number": "1643",
         "remarks": " ",
         "quota": 95,
-        "enroll": 42,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "EVEM",
             "quota": 20,
-            "enroll": 13
+            "enroll": 12
           },
           {
             "name": "IBTM",
@@ -59101,7 +59124,7 @@
         "number": "1649",
         "remarks": " ",
         "quota": 84,
-        "enroll": 82,
+        "enroll": 80,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -59113,7 +59136,7 @@
           {
             "name": "EVEM",
             "quota": 79,
-            "enroll": 77
+            "enroll": 75
           }
         ],
         "schedule": [
@@ -59153,7 +59176,7 @@
         "number": "1650",
         "remarks": " ",
         "quota": 90,
-        "enroll": 76,
+        "enroll": 74,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -59165,7 +59188,7 @@
           {
             "name": "EVEM",
             "quota": 85,
-            "enroll": 72
+            "enroll": 70
           }
         ],
         "schedule": [
@@ -59205,7 +59228,7 @@
         "number": "1651",
         "remarks": " ",
         "quota": 90,
-        "enroll": 90,
+        "enroll": 89,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -59222,7 +59245,7 @@
           {
             "name": "EVEM",
             "quota": 75,
-            "enroll": 75
+            "enroll": 74
           },
           {
             "name": "MCEE",
