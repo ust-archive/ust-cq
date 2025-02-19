@@ -31104,8 +31104,8 @@
         "section": "R1",
         "number": "4291",
         "remarks": " ",
-        "quota": 12,
-        "enroll": 12,
+        "quota": 13,
+        "enroll": 13,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -38496,9 +38496,9 @@
         "section": "L1",
         "number": "1237",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 07-Apr-2025",
-        "quota": 64,
-        "enroll": 64,
-        "waitlist": 26,
+        "quota": 70,
+        "enroll": 70,
+        "waitlist": 21,
         "consent": false,
         "reservedQuota": [
           {
@@ -38508,8 +38508,13 @@
           },
           {
             "name": "FINA",
-            "quota": 59,
-            "enroll": 59
+            "quota": 63,
+            "enroll": 63
+          },
+          {
+            "name": "MBA",
+            "quota": 2,
+            "enroll": 2
           }
         ],
         "schedule": [
