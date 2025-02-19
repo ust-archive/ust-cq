@@ -3230,53 +3230,6 @@
   {
     "career": "TPG",
     "subject": "BEHI",
-    "number": "5010",
-    "code": "BEHI5010",
-    "name": "Advanced Biochemical Engineering",
-    "description": "The course will cover the advanced concepts of bioprocessing, including fermentation, bioreactor design, and product recovery. It will explore the production of bioenergy from renewable sources, such as biomass, biogas, and biofuels. Students will gain an understanding of the technical, economic, and environmental aspects of bioproducts and bioenergy production.",
-    "previousCodes": "CBME5610",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "MCEE 5610",
-    "credits": 3,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "L1",
-        "number": "1615",
-        "remarks": " ",
-        "quota": 15,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [
-          {
-            "name": "BEHI",
-            "quota": 15,
-            "enroll": 0
-          }
-        ],
-        "schedule": [
-          {
-            "instructors": [
-              "LIU, Y.S. Marshal"
-            ],
-            "venue": "Rm 4619, Lift 31-32 (126)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              3
-            ],
-            "fromTime": "19:00",
-            "toTime": "21:50"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "TPG",
-    "subject": "BEHI",
     "number": "5011",
     "code": "BEHI5011",
     "name": "Artificial Intelligence and Medical Imaging",
@@ -8741,72 +8694,6 @@
         "remarks": " ",
         "quota": 80,
         "enroll": 71,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TUNG, Joanne Wai Ting"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              6
-            ],
-            "fromTime": "10:00",
-            "toTime": "10:50"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "TPG",
-    "subject": "CHMS",
-    "number": "5202",
-    "code": "CHMS5202",
-    "name": "Analytical Instrumentation Laboratory II",
-    "description": "Students will choose from a further array of experiments, complementary to CHMS 5201, involving analytical techniques that have been introduced in either the core and the elective courses. Students must attend and write up experimental reports for at least eight laboratory sessions to complete the course. Maybe graded PP.",
-    "previousCodes": "",
-    "prerequisites": "CHMS 5201",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 3,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "LA1",
-        "number": "1067",
-        "remarks": "> For MSc(ANCHEM) students only.",
-        "quota": 10,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TUNG, Joanne Wai Ting"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              6
-            ],
-            "fromTime": "11:00",
-            "toTime": "16:50"
-          }
-        ]
-      },
-      {
-        "section": "T1",
-        "number": "1068",
-        "remarks": " ",
-        "quota": 10,
-        "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -17608,6 +17495,45 @@
   {
     "career": "RPG",
     "subject": "COMP",
+    "number": "6922O",
+    "code": "COMP6922O",
+    "name": "Research Project",
+    "description": "An independent research project carried out under the supervision of a faculty member. This course is only available for exchange, visiting and visiting internship students.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4533",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "ZHANG, Nevin Lianwen"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "COMP",
     "number": "6931A",
     "code": "COMP6931A",
     "name": "Independent Studies",
@@ -20503,7 +20429,7 @@
         "number": "4329",
         "remarks": "> For DBA students only\n> Class Duration : 20-Feb-2025 to 21-Feb-2025\n> Add/Drop Deadline : 20-Feb-2025",
         "quota": 15,
-        "enroll": 14,
+        "enroll": 13,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -24968,51 +24894,6 @@
           {
             "instructors": [
               "LI, Yao Amber"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "TPG",
-    "subject": "ECON",
-    "number": "6970G",
-    "code": "ECON6970G",
-    "name": "Independent Study",
-    "description": "Study of selected economic issues under the supervision of a faculty member in the Department. (Special permission from the Associate Dean is required for MBA students to take this course.)",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 3,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "R1",
-        "number": "4274",
-        "remarks": "> For MSc(ECON) students only\n> Add/Drop Deadline and Extended Drop Deadline : 15-Feb-2025",
-        "quota": 12,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [
-          {
-            "name": "ECON",
-            "quota": 12,
-            "enroll": 0
-          }
-        ],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
             ],
             "venue": "TBA",
             "fromDate": "2025-02-03",
@@ -32566,45 +32447,6 @@
   {
     "career": "RPG",
     "subject": "EMIA",
-    "number": "6950B",
-    "code": "EMIA6950B",
-    "name": "Independent Study",
-    "description": "Independent studies or projects under the direct guidance of a faculty member. Course requirements include readings on the relevant topic and a research or survey project specifically defined for the research topic. Credits assigned depend on the workload and may be repeated if different topics are taken. May be graded by letter, P/F or PP for different offerings.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 2,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "R1",
-        "number": "1284",
-        "remarks": " ",
-        "quota": 1,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "RPG",
-    "subject": "EMIA",
     "number": "6950C",
     "code": "EMIA6950C",
     "name": "Independent Study",
@@ -32822,47 +32664,6 @@
             "weekdays": [],
             "fromTime": null,
             "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "RPG",
-    "subject": "ENEG",
-    "number": "5400",
-    "code": "ENEG5400",
-    "name": "Transport Phenomena and Its Application in Energy Systems",
-    "description": "Elementary statistical concepts; ensembles and postulates; partition functions and their properties; calculation of thermodynamic properties; kinetic theory of transport process; fluctuation-dissipation theorem; Langevin equation; mass and heat transfer in fuel cells.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "MECH 5280",
-    "credits": 3,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "L1",
-        "number": "1639",
-        "remarks": " ",
-        "quota": 10,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "ZHOU, Simen, Y."
-            ],
-            "venue": "Rm 4502, Lift 25-26 (60)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "19:00",
-            "toTime": "21:50"
           }
         ]
       }
@@ -33809,21 +33610,6 @@
         ]
       }
     ]
-  },
-  {
-    "career": "UGRD",
-    "subject": "ENTR",
-    "number": "4911",
-    "code": "ENTR4911",
-    "name": "IT Entrepreneurship",
-    "description": "Basic elements of starting a new business in information technology; exploiting an \"unfair\" advantage; preparing a business plan; arranging financial support; accounting and legal requirements; exit strategy. Case studies of successful and failed ventures in Hong Kong and elsewhere.",
-    "previousCodes": "",
-    "prerequisites": "COMP 1021 OR COMP 1022P OR COMP 1022Q OR COMP 2011 OR COMP 2012H OR ISOM 3230",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 3,
-    "attributes": [],
-    "classes": []
   },
   {
     "career": "UGRD",
@@ -38712,7 +38498,7 @@
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 64,
         "enroll": 64,
-        "waitlist": 25,
+        "waitlist": 26,
         "consent": false,
         "reservedQuota": [
           {
@@ -46350,7 +46136,7 @@
         "number": "1261",
         "remarks": " ",
         "quota": 24,
-        "enroll": 20,
+        "enroll": 19,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -47480,45 +47266,6 @@
             ],
             "fromTime": "19:00",
             "toTime": "21:50"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "TPG",
-    "subject": "IBTM",
-    "number": "6950A",
-    "code": "IBTM6950A",
-    "name": "Independent Studies",
-    "description": "An independent project carried out under the supervision of a faculty member. May be graded PP.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 3,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "R1",
-        "number": "4372",
-        "remarks": " ",
-        "quota": 40,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
           }
         ]
       }
@@ -71697,45 +71444,6 @@
   {
     "career": "UGRD",
     "subject": "LIFS",
-    "number": "3510",
-    "code": "LIFS3510",
-    "name": "Junior Research Project I",
-    "description": "The objective of the course is to increase awareness of preparation in research and learn how to synthesize a research proposal. Together with the supervisor each student will identify a research question, do a literature review, familiarize themselves theoretically with technical aspects of the project and write a short proposal. Approval of a faculty supervisor is required for students to enroll in the course. Graded P or F.",
-    "previousCodes": "",
-    "prerequisites": "LIFS 2040 and LIFS 2240",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 2,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "LA1",
-        "number": "3416",
-        "remarks": " ",
-        "quota": 5,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TANG, Jessica Ce Mun"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "UGRD",
-    "subject": "LIFS",
     "number": "3520",
     "code": "LIFS3520",
     "name": "Junior Research Project II",
@@ -72576,45 +72284,6 @@
         "remarks": " ",
         "quota": 25,
         "enroll": 21,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "LI, Laam"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "UGRD",
-    "subject": "LIFS",
-    "number": "4973",
-    "code": "LIFS4973",
-    "name": "Biotechnology Project Research I",
-    "description": "Students will undertake a research project of their choice in an area of biotechnology under faculty supervision: design of experiments, analysis of data, submission of a written report. Approval of the course instructor is needed for students to enroll in this course. For BIOT students only.",
-    "previousCodes": "",
-    "prerequisites": "LIFS 3110",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 3,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "LA1",
-        "number": "3439",
-        "remarks": " ",
-        "quota": 1,
-        "enroll": 0,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -76747,45 +76416,6 @@
             ],
             "fromTime": "14:00",
             "toTime": "17:20"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "RPG",
-    "subject": "MARK",
-    "number": "6990",
-    "code": "MARK6990",
-    "name": "MPhil Thesis Research",
-    "description": "Master's thesis research supervised by a faculty member.  A successful defense of the thesis leads to the grade Pass.  No course credit is assigned.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 0,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "R1",
-        "number": "1418",
-        "remarks": "> For MPhil(MARK) students only",
-        "quota": 10,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
           }
         ]
       }
@@ -91275,7 +90905,7 @@
       {
         "section": "L1",
         "number": "1490",
-        "remarks": "> For MSc(BA) students only\n> Will have normal class on 01-May-2025\n> Add/Drop Deadline : 07-Apr-2025",
+        "remarks": "> For MSc(BA) students only\n> Will have normal class on 01-May-2025\n> Add/Drop Deadline : 14-Apr-2025",
         "quota": 25,
         "enroll": 24,
         "waitlist": 0,
@@ -91293,8 +90923,47 @@
               "CHOI, Joon Nak"
             ],
             "venue": "Rm 1, 31/F, Tower 1,Millennity",
-            "fromDate": "2025-04-03",
+            "fromDate": "2025-04-10",
+            "toDate": "2025-04-24",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "CHOI, Joon Nak"
+            ],
+            "venue": "G003, LSK Bldg (75)",
+            "fromDate": "2025-05-01",
+            "toDate": "2025-05-01",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "CHOI, Joon Nak"
+            ],
+            "venue": "Rm 1, 31/F, Tower 1,Millennity",
+            "fromDate": "2025-05-08",
             "toDate": "2025-05-22",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "CHOI, Joon Nak"
+            ],
+            "venue": "Rm 2001, LSK Bldg",
+            "fromDate": "2025-05-29",
+            "toDate": "2025-05-29",
             "weekdays": [
               4
             ],
@@ -94252,48 +93921,6 @@
   {
     "career": "RPG",
     "subject": "NANO",
-    "number": "5320",
-    "code": "NANO5320",
-    "name": "Statistical Mechanics I",
-    "description": "Laws and applications of thermodynamics, kinetic theory, phase transitions, classical statistical physics foundations, canonical and grand canonical ensemble, quantum statistical physics foundations, Fermi and Bose distributions, introduction to non-equilibrium statistical physics.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "PHYS 5310",
-    "credits": 3,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "L1",
-        "number": "1524",
-        "remarks": " ",
-        "quota": 10,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "ZHANG, Rui"
-            ],
-            "venue": "Rm 1410, Lift 25-26 (60)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              1,
-              3
-            ],
-            "fromTime": "09:00",
-            "toTime": "10:20"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "RPG",
-    "subject": "NANO",
     "number": "6100",
     "code": "NANO6100",
     "name": "Independent Study in Nano Science and Technology",
@@ -94313,45 +93940,6 @@
         "enroll": 1,
         "waitlist": 0,
         "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "RPG",
-    "subject": "NANO",
-    "number": "6990",
-    "code": "NANO6990",
-    "name": "MPhil Thesis Research",
-    "description": "Master's thesis research supervised by a faculty member.  A successful defense of the thesis leads to the grade Pass.  No course credit is assigned.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 0,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "R1",
-        "number": "1526",
-        "remarks": " ",
-        "quota": 10,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -98281,45 +97869,6 @@
         "enroll": 1,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "UGRD",
-    "subject": "PHYS",
-    "number": "2090A",
-    "code": "PHYS2090A",
-    "name": "Directed Studies in Physics I",
-    "description": "This course covers special topics selected by the instructor on the basis of individual student's request. For students in the second year of study under the four-year degree only. Instructor's approval is required for enrollment in the course. May be repeated for credits.",
-    "previousCodes": "",
-    "prerequisites": "CGA at 2.70 or above",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 1,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "T1",
-        "number": "3967",
-        "remarks": " ",
-        "quota": 30,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -106599,51 +106148,6 @@
   {
     "career": "RPG",
     "subject": "SOSC",
-    "number": "6100B",
-    "code": "SOSC6100B",
-    "name": "Independent Study",
-    "description": "Independent study in a designated subject under the supervision of a faculty member; may require readings, tutorial discussions, and submission of research paper(s); may be repeated for credit if different topics are studied. Regular students are required to enroll in 3-credit course. Enrollment in course below 3 credits require the Division's approval.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 3,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "R1",
-        "number": "1743",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SOSC",
-            "quota": 20,
-            "enroll": 0
-          }
-        ],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "RPG",
-    "subject": "SOSC",
     "number": "6990",
     "code": "SOSC6990",
     "name": "MPhil Thesis Research",
@@ -107497,7 +107001,7 @@
         "number": "4237",
         "remarks": " ",
         "quota": 220,
-        "enroll": 150,
+        "enroll": 151,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
