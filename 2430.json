@@ -16447,7 +16447,7 @@
         "number": "1090",
         "remarks": " ",
         "quota": 60,
-        "enroll": 9,
+        "enroll": 11,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -16805,7 +16805,7 @@
       {
         "section": "L1",
         "number": "4270",
-        "remarks": "> Classes held in Room 6602\n> Co-list with COMP 4911 and ENTR 4911",
+        "remarks": "> Classes held in Room 6602\n> Co-list with COMP 4911",
         "quota": 40,
         "enroll": 33,
         "waitlist": 0,
@@ -18842,31 +18842,6 @@
         ]
       },
       {
-        "section": "T19",
-        "number": "1995",
-        "remarks": "> Classes held in Room 2610",
-        "quota": 0,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              3
-            ],
-            "fromTime": "18:00",
-            "toTime": "18:50"
-          }
-        ]
-      },
-      {
         "section": "T20",
         "number": "1996",
         "remarks": "> Classes held in Room 2610",
@@ -18897,31 +18872,6 @@
         "remarks": "> Classes held in Room 2611",
         "quota": 5,
         "enroll": 5,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              3
-            ],
-            "fromTime": "18:00",
-            "toTime": "18:50"
-          }
-        ]
-      },
-      {
-        "section": "T22",
-        "number": "1998",
-        "remarks": "> Classes held in Room 2611",
-        "quota": 0,
-        "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -30590,45 +30540,6 @@
   {
     "career": "UGRD",
     "subject": "ELEC",
-    "number": "4910",
-    "code": "ELEC4910",
-    "name": "Co-op Program",
-    "description": "Students in this co-op program will be engaged in practical hands-on training for a period of at least 5 months working in an organization or company that provides qualified training relevant to the electronic and computer engineering profession. Students are required to complete a final year project under the supervision of an industrial supervisor and a faculty member during the co-op. May be graded PP. For ELEC students in their third or fourth year of study only. Approval of the course coordinator is required for enrollment in the course.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "ELEC 4900, ELEC 4901",
-    "credits": 3,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "R1",
-        "number": "2363",
-        "remarks": "> The credit load will usually be spread in the following pattern: Fall: 3; Spring: 3",
-        "quota": 10,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "UGRD",
-    "subject": "ELEC",
     "number": "4940B",
     "code": "ELEC4940B",
     "name": "Independent Study",
@@ -33295,123 +33206,6 @@
   {
     "career": "UGRD",
     "subject": "ENGG",
-    "number": "2991E",
-    "code": "ENGG2991E",
-    "name": "Undergraduate Student-initiated Experiential Learning",
-    "description": "This course shall encourage students to carry our projects of their own ideas under guidance of faculty supervisors to apply engineering knowledge they learnt and integrate other expertise. In the end of the term, students are required to submit reports/demonstrations in an open house to show what they have achieved. Project and budget proposal should be submitted to the School of Engineering for application approval. May be repeated for credits if different topics are taken. Graded PP, P or F. Instructor's approval is required for enrollment in the course.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 1,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "R1",
-        "number": "4120",
-        "remarks": " ",
-        "quota": 10,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "MOW, Wai Ho"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "UGRD",
-    "subject": "ENGG",
-    "number": "2992E",
-    "code": "ENGG2992E",
-    "name": "Undergraduate Student-initiated Experiential Learning",
-    "description": "This course shall encourage students to carry our projects of their own ideas under guidance of faculty supervisors to apply engineering knowledge they learnt and integrate other expertise. In the end of the term, students are required to submit reports/demonstrations in an open house to show what they have achieved. Project and budget proposal should be submitted to the School of Engineering for application approval. May be repeated for credits if different topics are taken. Graded PP, P or F. Instructor's approval is required for enrollment in the course.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 2,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "R1",
-        "number": "4121",
-        "remarks": " ",
-        "quota": 10,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "MOW, Wai Ho"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "UGRD",
-    "subject": "ENGG",
-    "number": "2993E",
-    "code": "ENGG2993E",
-    "name": "Undergraduate Student-initiated Experiential Learning",
-    "description": "This course shall encourage students to carry our projects of their own ideas under guidance of faculty supervisors to apply engineering knowledge they learnt and integrate other expertise. In the end of the term, students are required to submit reports/demonstrations in an open house to show what they have achieved. Project and budget proposal should be submitted to the School of Engineering for application approval. May be repeated for credits if different topics are taken. Graded PP, P or F. Instructor's approval is required for enrollment in the course.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 3,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "R1",
-        "number": "4122",
-        "remarks": " ",
-        "quota": 10,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "MOW, Wai Ho"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "UGRD",
-    "subject": "ENGG",
     "number": "3961E",
     "code": "ENGG3961E",
     "name": "Robotics Special Project: RoboMasters 2025 Robot Contest",
@@ -33973,52 +33767,6 @@
   {
     "career": "UGRD",
     "subject": "ENTR",
-    "number": "4901C",
-    "code": "ENTR4901C",
-    "name": "Student-led Entrepreneurship Acceleration Project",
-    "description": "Many successful IT startups begin in university years. This is a project course led by students to accelerate their entrepreneurship endeavor under the guidance and advice of a faculty member. Students work in team of size 2 to 3 to develop an idea from its scratch to become viable in market. In the process, students work on ideation, prototyping, making presentations, developing operation strategies, conducting experimental trials, designing market survey, collecting user feedbacks, writing business plan, and soft-launching and pivoting the product or services.\nWritten reports, presentations, and/or business/operation plan are required. May be repeated for credits if different topics are taken. Instructor's approval is required for enrollment in the course.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 1,
-    "attributes": [
-      {
-        "attribute": "DELI",
-        "value": "EXP",
-        "attributeDescription": "Mode of Delivery",
-        "valueDescription": "[EXP] Experiential learning"
-      }
-    ],
-    "classes": [
-      {
-        "section": "LA1",
-        "number": "4253",
-        "remarks": "> The class is delivered in a experiential learning mode",
-        "quota": 15,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "UGRD",
-    "subject": "ENTR",
     "number": "4902C",
     "code": "ENTR4902C",
     "name": "Student-led Entrepreneurship Acceleration Project",
@@ -34065,98 +33813,6 @@
   {
     "career": "UGRD",
     "subject": "ENTR",
-    "number": "4903C",
-    "code": "ENTR4903C",
-    "name": "Student-led Entrepreneurship Acceleration Project",
-    "description": "Many successful IT startups begin in university years. This is a project course led by students to accelerate their entrepreneurship endeavor under the guidance and advice of a faculty member. Students work in team of size 2 to 3 to develop an idea from its scratch to become viable in market. In the process, students work on ideation, prototyping, making presentations, developing operation strategies, conducting experimental trials, designing market survey, collecting user feedbacks, writing business plan, and soft-launching and pivoting the product or services. Written reports, presentations, and/or business/operation plan are required. May be repeated for credits if different topics are taken. Instructor's approval is required for enrollment in the course.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 3,
-    "attributes": [
-      {
-        "attribute": "DELI",
-        "value": "EXP",
-        "attributeDescription": "Mode of Delivery",
-        "valueDescription": "[EXP] Experiential learning"
-      }
-    ],
-    "classes": [
-      {
-        "section": "LA1",
-        "number": "4256",
-        "remarks": "> The class is delivered in a experiential learning mode",
-        "quota": 15,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "UGRD",
-    "subject": "ENTR",
-    "number": "4904C",
-    "code": "ENTR4904C",
-    "name": "Student-led Entrepreneurship Acceleration Project",
-    "description": "Many successful IT startups begin in university years. This is a project course led by students to accelerate their entrepreneurship endeavor under the guidance and advice of a faculty member. Students work in team of size 2 to 3 to develop an idea from its scratch to become viable in market. In the process, students work on ideation, prototyping, making presentations, developing operation strategies, conducting experimental trials, designing market survey, collecting user feedbacks, writing business plan, and soft-launching and pivoting the product or services. Written reports, presentations, and/or business/operation plan are required. May be repeated for credits if different topics are taken. Instructor's approval is required for enrollment in the course.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 4,
-    "attributes": [
-      {
-        "attribute": "DELI",
-        "value": "EXP",
-        "attributeDescription": "Mode of Delivery",
-        "valueDescription": "[EXP] Experiential learning"
-      }
-    ],
-    "classes": [
-      {
-        "section": "LA1",
-        "number": "4257",
-        "remarks": "> The class is delivered in a experiential learning mode",
-        "quota": 15,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "UGRD",
-    "subject": "ENTR",
     "number": "4911",
     "code": "ENTR4911",
     "name": "IT Entrepreneurship",
@@ -34167,34 +33823,7 @@
     "exclusions": "",
     "credits": 3,
     "attributes": [],
-    "classes": [
-      {
-        "section": "L1",
-        "number": "2458",
-        "remarks": "> Co-list with COMP 5911",
-        "quota": 2,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "CHAN, Gary Shueng Han"
-            ],
-            "venue": "Rm 6602, Lift 31-32 (60)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              2,
-              4
-            ],
-            "fromTime": "10:30",
-            "toTime": "11:50"
-          }
-        ]
-      }
-    ]
+    "classes": []
   },
   {
     "career": "UGRD",
@@ -46227,31 +45856,6 @@
     "attributes": [],
     "classes": [
       {
-        "section": "L1",
-        "number": "2625",
-        "remarks": " ",
-        "quota": 4,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "SZE, Amy"
-            ],
-            "venue": "G004, CYT Bldg (30)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              1
-            ],
-            "fromTime": "15:00",
-            "toTime": "16:50"
-          }
-        ]
-      },
-      {
         "section": "L2",
         "number": "2626",
         "remarks": " ",
@@ -46364,31 +45968,6 @@
             ],
             "fromTime": "12:00",
             "toTime": "12:50"
-          }
-        ]
-      },
-      {
-        "section": "T2",
-        "number": "2632",
-        "remarks": " ",
-        "quota": 7,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "PAGE, Timothy Markham"
-            ],
-            "venue": "Rm 105, Shaw Auditorium",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              3
-            ],
-            "fromTime": "13:00",
-            "toTime": "13:50"
           }
         ]
       },
@@ -57087,14 +56666,14 @@
         "number": "1321",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(ISM) students only\n> Venue on 29-Mar-2025 : LSKG012\n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 61,
-        "enroll": 61,
+        "enroll": 60,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ISM",
             "quota": 61,
-            "enroll": 60
+            "enroll": 59
           }
         ],
         "schedule": [
@@ -57130,15 +56709,15 @@
         "section": "L2",
         "number": "1328",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(ISM) students only\n> Add/Drop Deadline : 10-Feb-2025",
-        "quota": 66,
-        "enroll": 66,
+        "quota": 67,
+        "enroll": 67,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ISM",
-            "quota": 66,
-            "enroll": 66
+            "quota": 67,
+            "enroll": 67
           }
         ],
         "schedule": [
@@ -57253,14 +56832,14 @@
         "number": "1324",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 65,
-        "enroll": 62,
+        "enroll": 63,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 65,
-            "enroll": 62
+            "enroll": 63
           }
         ],
         "schedule": [
@@ -57298,14 +56877,14 @@
         "number": "1331",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 65,
-        "enroll": 65,
+        "enroll": 64,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 65,
-            "enroll": 65
+            "enroll": 64
           }
         ],
         "schedule": [
@@ -57945,14 +57524,14 @@
         "number": "1325",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 65,
-        "enroll": 55,
+        "enroll": 56,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 65,
-            "enroll": 55
+            "enroll": 56
           }
         ],
         "schedule": [
@@ -57990,14 +57569,14 @@
         "number": "1333",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 10-Feb-2025",
         "quota": 65,
-        "enroll": 65,
+        "enroll": 64,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 65,
-            "enroll": 65
+            "enroll": 64
           }
         ],
         "schedule": [
@@ -93494,14 +93073,14 @@
         "number": "1667",
         "remarks": "> MSBD 5002 is not co-listing with CSIT 5210 in Spring 2024-25",
         "quota": 130,
-        "enroll": 69,
+        "enroll": 68,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BDT",
             "quota": 130,
-            "enroll": 69
+            "enroll": 68
           }
         ],
         "schedule": [
@@ -100288,7 +99867,7 @@
         "number": "1531",
         "remarks": " ",
         "quota": 10,
-        "enroll": 2,
+        "enroll": 3,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -106328,47 +105907,6 @@
             ],
             "fromTime": "13:30",
             "toTime": "14:50"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "UGRD",
-    "subject": "SOSC",
-    "number": "3700B",
-    "code": "SOSC3700B",
-    "name": "Quantitative Social Analysis Practicum",
-    "description": "The course is intended to prepare students for the Quantitative Social Analysis Capstone Project by giving them practical experience in the quantitative analysis of social data by independently applying skills acquired in their required and elective methods courses. Students will either conduct a small research project related to the theme of a topical course in the Division of Social Science in which they are concurrently enrolled, or complete an internship that involves application of skills learned in their methods courses. Enrolled students will meet as a class at regular intervals during the semester and submit a final report. Students who plan to carry out a project are expected to be simultaneously enrolled in a topical Social Science course. Graded P or F. May be only taken twice. For QSA students only. Instructor's approval is required for enrolling in the course.",
-    "previousCodes": "",
-    "prerequisites": "SOSC 2400",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 1,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "LA1",
-        "number": "4164",
-        "remarks": " ",
-        "quota": 40,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "ZHOU, Titi"
-            ],
-            "venue": "Rm 1410, Lift 25-26 (60)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "09:30",
-            "toTime": "10:20"
           }
         ]
       }
