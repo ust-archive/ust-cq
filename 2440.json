@@ -1819,7 +1819,13 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "CSE",
+            "quota": 10,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
