@@ -4587,6 +4587,62 @@
   {
     "career": "RPG",
     "subject": "ISOM",
+    "number": "6390A",
+    "code": "ISOM6390A",
+    "name": "Independent Study in Information Systems",
+    "description": "Study of selected information and systems management issues under the supervision of a faculty member. This course may be repeated for credit. (Special permission from the Associate Dean is required for MBA students to take this course.)",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1199",
+        "remarks": "> Instructor : Prof. FANG Xiao\n> Add/Drop Deadline : 09-July-2025",
+        "quota": 12,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 1026, LSK Bldg (28)",
+            "fromDate": "2025-07-09",
+            "toDate": "2025-07-11",
+            "weekdays": [
+              3,
+              4,
+              5
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "G005, LSK Bldg",
+            "fromDate": "2025-07-12",
+            "toDate": "2025-07-12",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "09:00",
+            "toTime": "11:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "ISOM",
     "number": "6790O",
     "code": "ISOM6790O",
     "name": "Managing Business to Create Value through Sustainability",
