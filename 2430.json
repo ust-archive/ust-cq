@@ -2561,14 +2561,14 @@
         "number": "1610",
         "remarks": " ",
         "quota": 70,
-        "enroll": 52,
+        "enroll": 53,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "AESF",
             "quota": 70,
-            "enroll": 51
+            "enroll": 52
           }
         ],
         "schedule": [
@@ -16246,7 +16246,7 @@
         "number": "1088",
         "remarks": " ",
         "quota": 110,
-        "enroll": 91,
+        "enroll": 90,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -78634,7 +78634,7 @@
         "number": "3586",
         "remarks": " ",
         "quota": 111,
-        "enroll": 110,
+        "enroll": 111,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -78789,8 +78789,8 @@
         "section": "T2B",
         "number": "3595",
         "remarks": " ",
-        "quota": 37,
-        "enroll": 37,
+        "quota": 38,
+        "enroll": 38,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -80219,6 +80219,7 @@
         "schedule": [
           {
             "instructors": [
+              "LIU, Fengkai",
               "WANG, Ke"
             ],
             "venue": "Rm 4502, Lift 25-26 (60)",
@@ -80244,6 +80245,7 @@
         "schedule": [
           {
             "instructors": [
+              "TAN, Ziyue",
               "WANG, Ke"
             ],
             "venue": "Rm 4579, Lift 27-28 (60)",
@@ -80269,7 +80271,8 @@
         "schedule": [
           {
             "instructors": [
-              "WANG, Ke"
+              "WANG, Ke",
+              "ZENG, Yeqin"
             ],
             "venue": "Rm 2306, Lift 17-18 (111)",
             "fromDate": "2025-02-03",
@@ -80336,6 +80339,7 @@
         "schedule": [
           {
             "instructors": [
+              "LIU, Zhizhou",
               "NITZSCHNER, Maximilian Alexander"
             ],
             "venue": "Rm 2304, Lift 17-18 (76)",
@@ -80403,7 +80407,8 @@
         "schedule": [
           {
             "instructors": [
-              "QIAN, Shuaijie"
+              "QIAN, Shuaijie",
+              "QIAO, Guan"
             ],
             "venue": "Rm 1409, Lift 25-26 (60)",
             "fromDate": "2025-02-03",
@@ -80470,7 +80475,8 @@
         "schedule": [
           {
             "instructors": [
-              "XIONG, Maosheng"
+              "XIONG, Maosheng",
+              "ZHENG, Zhen"
             ],
             "venue": "LG3009, Lift 10-12 (88)",
             "fromDate": "2025-02-03",
@@ -80495,6 +80501,7 @@
         "schedule": [
           {
             "instructors": [
+              "JIANG, Linfang",
               "XIONG, Maosheng"
             ],
             "venue": "Rm 2464, Lift 25-26 (122)",
@@ -80562,6 +80569,7 @@
         "schedule": [
           {
             "instructors": [
+              "XIAO, Yuxuan",
               "ZHU, Yongchang"
             ],
             "venue": "Rm 1409, Lift 25-26 (60)",
@@ -80629,6 +80637,7 @@
         "schedule": [
           {
             "instructors": [
+              "LUO, Jianzhou",
               "YE, Guibo"
             ],
             "venue": "G009B, CYT Bldg (70)",
@@ -80654,6 +80663,7 @@
         "schedule": [
           {
             "instructors": [
+              "JIANG, Yueyan",
               "YE, Guibo"
             ],
             "venue": "Rm 2406, Lift 17-18 (76)",
@@ -80721,7 +80731,8 @@
         "schedule": [
           {
             "instructors": [
-              "XIA, Dong"
+              "XIA, Dong",
+              "YAN, Su"
             ],
             "venue": "Rm 1410, Lift 25-26 (60)",
             "fromDate": "2025-02-03",
@@ -80746,6 +80757,7 @@
         "schedule": [
           {
             "instructors": [
+              "DUAN, Congyuan",
               "XIA, Dong"
             ],
             "venue": "Rm 2302, Lift 17-18 (74)",
@@ -80813,7 +80825,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHEN, Kani"
+              "CHEN, Kani",
+              "WANG, Xiaolong"
             ],
             "venue": "Rm 2503, Lift 25-26 (87)",
             "fromDate": "2025-02-03",
@@ -80838,6 +80851,7 @@
         "schedule": [
           {
             "instructors": [
+              "CHAN, Tsz Wai",
               "CHEN, Kani"
             ],
             "venue": "Rm 4502, Lift 25-26 (60)",
@@ -80863,7 +80877,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHEN, Kani"
+              "CHEN, Kani",
+              "MAO, Jianda"
             ],
             "venue": "Rm 5566, Lift 27-28 (24)",
             "fromDate": "2025-02-03",
@@ -80942,7 +80957,8 @@
         "schedule": [
           {
             "instructors": [
-              "YU, Chi Wai"
+              "YU, Chi Wai",
+              "ZHAO, Wenshuo"
             ],
             "venue": "Rm 1032, LSK Bldg (45)",
             "fromDate": "2025-02-03",
@@ -80967,6 +80983,7 @@
         "schedule": [
           {
             "instructors": [
+              "LI, Rui",
               "YU, Chi Wai"
             ],
             "venue": "Rm 4502, Lift 25-26 (60)",
@@ -81034,7 +81051,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHENG, Kam Hang"
+              "CHENG, Kam Hang",
+              "ZHANG, Ruilin"
             ],
             "venue": "Rm 2304, Lift 17-18 (76)",
             "fromDate": "2025-02-03",
@@ -81059,7 +81077,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHENG, Kam Hang"
+              "CHENG, Kam Hang",
+              "HUO, Mengyu"
             ],
             "venue": "Rm 4502, Lift 25-26 (60)",
             "fromDate": "2025-02-03",
@@ -81126,6 +81145,7 @@
         "schedule": [
           {
             "instructors": [
+              "HOU, Jiantong",
               "MENG, Guowu"
             ],
             "venue": "Rm 1409, Lift 25-26 (60)",
