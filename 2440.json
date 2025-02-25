@@ -5670,14 +5670,14 @@
         "section": "L1",
         "number": "1119",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For Part-time MBA (Bi-weekly) Year 1 students only\n> Add/Drop Deadline : 16-Jun-2025",
-        "quota": 65,
+        "quota": 50,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MBA Bi-weekly",
-            "quota": 65,
+            "quota": 50,
             "enroll": 0
           }
         ],
@@ -6468,20 +6468,25 @@
       {
         "section": "L1",
         "number": "1144",
-        "remarks": "> For FT-MBA; PT-MBA and MBA (Bi-Weekly) students only\n> Add/Drop Deadline : 16-Jun-2025",
+        "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-Weekly) and Digital MBA students only\n> Add/Drop Deadline : 16-Jun-2025",
         "quota": 50,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
+            "name": "Digital MBA",
+            "quota": 3,
+            "enroll": 0
+          },
+          {
             "name": "MBA",
-            "quota": 15,
+            "quota": 17,
             "enroll": 0
           },
           {
             "name": "MBA Bi-weekly",
-            "quota": 35,
+            "quota": 30,
             "enroll": 0
           }
         ],
