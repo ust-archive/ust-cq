@@ -1890,6 +1890,61 @@
   {
     "career": "UGRD",
     "subject": "ECON",
+    "number": "1222",
+    "code": "ECON1222",
+    "name": "What Economics Tells Us About Our Life and Social Policy",
+    "description": "This course will provide students opportunities to critically read and interpret social science literature on human capital development over the life cycle. It will also give students an opportunity to discuss, through examples, how this evidence could be applied in the real world policy design. The questions to be addressed in this course focus on human capital development such as health, education, and labor policies over the course of one’s life. The examples will help students understand how to interpret available data and use it to evaluate different policy programs.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [
+      {
+        "attribute": "4Y",
+        "value": "13",
+        "attributeDescription": "Students admitted before 2022",
+        "valueDescription": "Common Core (SA) for 36-credit program"
+      },
+      {
+        "attribute": "CC22",
+        "value": "28",
+        "attributeDescription": "Students admitted from 2022",
+        "valueDescription": "Common Core (SA) for 30-credit program"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1203",
+        "remarks": "> Add/Drop Deadline: 21-Jun-2025",
+        "quota": 50,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "KIM, Hyuncheol Bryant"
+            ],
+            "venue": "Rm 1007, LSK Bldg (80)",
+            "fromDate": "2025-06-17",
+            "toDate": "2025-08-07",
+            "weekdays": [
+              2,
+              4
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ECON",
     "number": "2103",
     "code": "ECON2103",
     "name": "Principles of Microeconomics",
@@ -4184,19 +4239,12 @@
     "corequisites": "",
     "exclusions": "IEDA 4100",
     "credits": 3,
-    "attributes": [
-      {
-        "attribute": "DELI",
-        "value": "BLD",
-        "attributeDescription": "Mode of Delivery",
-        "valueDescription": "[BLD] Blended learning"
-      }
-    ],
+    "attributes": [],
     "classes": [
       {
         "section": "L1",
         "number": "1172",
-        "remarks": "> The class is delivered in a blended learning mode\n> Instructor : ZHOU, Xinyi\n> Supervisor : Prof LU, Lijian\n> Add/Drop Deadline : 17-Jul-2025",
+        "remarks": "> The class is delivered in a conventional face-to-face mode\n> Instructor : ZHOU, Xinyi\n> Supervisor : Prof LU, Lijian\n> Add/Drop Deadline : 17-Jul-2025",
         "quota": 60,
         "enroll": 0,
         "waitlist": 0,
@@ -4284,6 +4332,45 @@
             ],
             "fromTime": "14:00",
             "toTime": "17:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ISOM",
+    "number": "4890A",
+    "code": "ISOM4890A",
+    "name": "Independent Study in Operations Management",
+    "description": "Faculty directed independent study on selected topics in operations management.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1202",
+        "remarks": "> Add/Drop Deadline: 21-Jun-2025",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CHONG, Carsten Hao Ye"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
