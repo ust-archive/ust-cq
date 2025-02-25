@@ -4433,20 +4433,25 @@
       {
         "section": "L1",
         "number": "1123",
-        "remarks": "> For FT-MBA; PT-MBA and MBA (Bi-Weekly) students only\n> Add/Drop Deadline : 02-Aug-2025",
-        "quota": 55,
+        "remarks": "> For FT-MBA; PT-MBA and MBA (Bi-Weekly) and Digital MBA students only\n> Add/Drop Deadline : 02-Aug-2025",
+        "quota": 64,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
+            "name": "Digital MBA",
+            "quota": 4,
+            "enroll": 0
+          },
+          {
             "name": "MBA",
-            "quota": 20,
+            "quota": 35,
             "enroll": 0
           },
           {
             "name": "MBA Bi-weekly",
-            "quota": 35,
+            "quota": 25,
             "enroll": 0
           }
         ],
@@ -4719,7 +4724,7 @@
     ]
   },
   {
-    "career": "RPG",
+    "career": "TPG",
     "subject": "ISOM",
     "number": "6790O",
     "code": "ISOM6790O",
@@ -4735,20 +4740,25 @@
       {
         "section": "L1",
         "number": "1189",
-        "remarks": "> For FT-MBA; PT-MBA and MBA (Bi-Weekly) students only\n> Add/Drop Deadline : 16-Jun-2025",
-        "quota": 60,
+        "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-Weekly) and Digital MBA students only\n> Add/Drop Deadline : 16-Jun-2025",
+        "quota": 64,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
+            "name": "Digital MBA",
+            "quota": 4,
+            "enroll": 0
+          },
+          {
             "name": "MBA",
-            "quota": 25,
+            "quota": 30,
             "enroll": 0
           },
           {
             "name": "MBA Bi-weekly",
-            "quota": 35,
+            "quota": 30,
             "enroll": 0
           }
         ],
@@ -6300,11 +6310,13 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "HUANG, Allen",
+              "NASON, Stephen William",
+              "SHIH, Stephen Lee"
             ],
             "venue": "TBA",
-            "fromDate": "2025-06-16",
-            "toDate": "2025-08-09",
+            "fromDate": "2025-08-13",
+            "toDate": "2025-08-17",
             "weekdays": [],
             "fromTime": null,
             "toTime": null
@@ -7489,6 +7501,107 @@
   {
     "career": "TPG",
     "subject": "SBMT",
+    "number": "5300",
+    "code": "SBMT5300",
+    "name": "Enhancing Professional Skills",
+    "description": "It aims at helping MBA students work intensively on developing or improving some key presentation skills which will be useful to them throughout their business careers. Simply put, the essence of Enhancing Professional Skills as “Making a Logical, Effective and Persuasive Business Presentation\". Graded P or F.",
+    "previousCodes": "SBMT6010B",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1201",
+        "remarks": "> For PT-MBA and Bi-weekly MBA students only\n> Venue on 3-Jun-2025 and 6-Jun-2025 : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 25-May-2025",
+        "quota": 60,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "MBA",
+            "quota": 30,
+            "enroll": 0
+          },
+          {
+            "name": "MBA Bi-weekly",
+            "quota": 30,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "DORAN, Christopher",
+              "NASON, Stephen William",
+              "SALVACRUZ, Joseph"
+            ],
+            "venue": "Rm 2001, LSK Bldg",
+            "fromDate": "2025-06-01",
+            "toDate": "2025-06-02",
+            "weekdays": [
+              6,
+              7
+            ],
+            "fromTime": "09:00",
+            "toTime": "21:50"
+          },
+          {
+            "instructors": [
+              "DORAN, Christopher",
+              "NASON, Stephen William",
+              "SALVACRUZ, Joseph"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-03",
+            "toDate": "2025-06-06",
+            "weekdays": [
+              2,
+              5
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "DORAN, Christopher",
+              "NASON, Stephen William",
+              "SALVACRUZ, Joseph"
+            ],
+            "venue": "Rm 2001, LSK Bldg",
+            "fromDate": "2025-06-07",
+            "toDate": "2025-06-07",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "09:00",
+            "toTime": "18:50"
+          },
+          {
+            "instructors": [
+              "DORAN, Christopher",
+              "NASON, Stephen William",
+              "SALVACRUZ, Joseph"
+            ],
+            "venue": "Rm 2001, LSK Bldg",
+            "fromDate": "2025-06-08",
+            "toDate": "2025-06-08",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "14:00",
+            "toTime": "18:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "SBMT",
     "number": "6011Z",
     "code": "SBMT6011Z",
     "name": "Strategic Corporate Financing: IPOs, Debt, and Private Equity Solutions",
@@ -7503,20 +7616,25 @@
       {
         "section": "L1",
         "number": "1124",
-        "remarks": "> For FT-MBA; PT-MBA and MBA (Bi-Weekly) students only\n> Instructor : SUH, Jung\n> Add/Drop Deadline : 09-Aug-2025",
-        "quota": 60,
+        "remarks": "> For FT-MBA; PT-MBA and MBA (Bi-Weekly) and Digital MBA students only\n> Instructor : SUH, Jung\n> Add/Drop Deadline : 09-Aug-2025",
+        "quota": 64,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
+            "name": "Digital MBA",
+            "quota": 4,
+            "enroll": 0
+          },
+          {
             "name": "MBA",
-            "quota": 35,
+            "quota": 45,
             "enroll": 0
           },
           {
             "name": "MBA Bi-weekly",
-            "quota": 25,
+            "quota": 15,
             "enroll": 0
           }
         ],
