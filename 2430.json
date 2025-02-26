@@ -34949,14 +34949,14 @@
         "number": "1193",
         "remarks": "> For MPhil/PhD (ESPM) and MSc/PGD (EVSM) students only",
         "quota": 60,
-        "enroll": 54,
+        "enroll": 53,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ENVR",
             "quota": 60,
-            "enroll": 54
+            "enroll": 53
           }
         ],
         "schedule": [
@@ -38898,8 +38898,36 @@
               "LAW, Keith",
               "ZHOU, Yu"
             ],
+            "venue": "Rm 1005, LSK Bldg (75)",
+            "fromDate": "2025-04-04",
+            "toDate": "2025-04-04",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "LAW, Keith",
+              "ZHOU, Yu"
+            ],
             "venue": "Rm 1003, LSK Bldg (75)",
-            "fromDate": "2025-04-05",
+            "fromDate": "2025-04-19",
+            "toDate": "2025-04-19",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "14:30",
+            "toTime": "17:50"
+          },
+          {
+            "instructors": [
+              "LAW, Keith",
+              "ZHOU, Yu"
+            ],
+            "venue": "Rm 1003, LSK Bldg (75)",
+            "fromDate": "2025-04-19",
             "toDate": "2025-05-24",
             "weekdays": [
               6
@@ -87316,7 +87344,8 @@
         "schedule": [
           {
             "instructors": [
-              "LEE, Christopher"
+              "LEE, Christopher",
+              "WAN, On Yu"
             ],
             "venue": "Rm 1014, LSK Bldg (80)",
             "fromDate": "2025-04-05",
@@ -87398,7 +87427,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "NG, Ka Wai Tommy"
             ],
             "venue": "LG3008, Lift 10-12 (82)",
             "fromDate": "2025-02-04",
