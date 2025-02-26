@@ -538,8 +538,8 @@
         "section": "L1",
         "number": "1781",
         "remarks": " ",
-        "quota": 69,
-        "enroll": 69,
+        "quota": 70,
+        "enroll": 70,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -959,7 +959,7 @@
         "number": "1792",
         "remarks": " ",
         "quota": 65,
-        "enroll": 64,
+        "enroll": 65,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -3158,7 +3158,8 @@
         "schedule": [
           {
             "instructors": [
-              "KUANG, Becki Yi"
+              "KUANG, Becki Yi",
+              "ZHANG, Mingji"
             ],
             "venue": "G009B, CYT Bldg (70)",
             "fromDate": "2025-02-03",
@@ -3210,7 +3211,8 @@
         "schedule": [
           {
             "instructors": [
-              "LAM, Henry Hei Ning"
+              "LAM, Henry Hei Ning",
+              "LI, Ho Wa"
             ],
             "venue": "G009A, CYT Bldg (80)",
             "fromDate": "2025-02-03",
@@ -3262,7 +3264,8 @@
         "schedule": [
           {
             "instructors": [
-              "LAKERVELD, Richard"
+              "LAKERVELD, Richard",
+              "LI, Jiatao"
             ],
             "venue": "Rm 2302, Lift 17-18 (74)",
             "fromDate": "2025-02-03",
@@ -3314,7 +3317,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHEN, Hao"
+              "CHEN, Hao",
+              "HE, Anwei"
             ],
             "venue": "G009B, CYT Bldg (70)",
             "fromDate": "2025-02-03",
@@ -3366,7 +3370,9 @@
         "schedule": [
           {
             "instructors": [
-              "CHONG, Wing Kit Donald"
+              "CHEN, Shuijin",
+              "CHONG, Wing Kit Donald",
+              "WANG, Xingze"
             ],
             "venue": "Rm 2, 30/F, Tower 1,Millennity",
             "fromDate": "2025-02-03",
@@ -3407,7 +3413,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "WANG, Chaoqi"
             ],
             "venue": "TBA",
             "fromDate": "2025-02-03",
@@ -3446,7 +3452,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "WANG, Chaoqi"
             ],
             "venue": "TBA",
             "fromDate": "2025-02-03",
@@ -3485,7 +3491,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "WANG, Chaoqi"
             ],
             "venue": "TBA",
             "fromDate": "2025-02-03",
@@ -8375,6 +8381,45 @@
   {
     "career": "RPG",
     "subject": "CHEM",
+    "number": "6980A",
+    "code": "CHEM6980A",
+    "name": "Research Project",
+    "description": "An independent research project carried out under the supervision of a faculty member. This course is only available for exchange, visiting and visiting internship students.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4534",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "CHEM",
     "number": "6990",
     "code": "CHEM6990",
     "name": "MPhil Thesis Research",
@@ -11038,7 +11083,7 @@
         "number": "1944",
         "remarks": " ",
         "quota": 120,
-        "enroll": 57,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -11959,7 +12004,7 @@
         "section": "L3",
         "number": "2012",
         "remarks": " ",
-        "quota": 110,
+        "quota": 111,
         "enroll": 110,
         "waitlist": 0,
         "consent": false,
@@ -22140,7 +22185,7 @@
         "number": "2411",
         "remarks": " ",
         "quota": 60,
-        "enroll": 59,
+        "enroll": 60,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -22178,7 +22223,7 @@
         "number": "2412",
         "remarks": " ",
         "quota": 60,
-        "enroll": 59,
+        "enroll": 60,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -22795,7 +22840,7 @@
         "number": "2436",
         "remarks": " ",
         "quota": 45,
-        "enroll": 41,
+        "enroll": 42,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -22821,7 +22866,7 @@
         "number": "2437",
         "remarks": " ",
         "quota": 45,
-        "enroll": 41,
+        "enroll": 42,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -25173,7 +25218,7 @@
         "number": "1635",
         "remarks": " ",
         "quota": 65,
-        "enroll": 64,
+        "enroll": 65,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -31501,14 +31546,14 @@
         "number": "1146",
         "remarks": " ",
         "quota": 54,
-        "enroll": 52,
+        "enroll": 53,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECE",
             "quota": 54,
-            "enroll": 52
+            "enroll": 53
           }
         ],
         "schedule": [
@@ -31636,7 +31681,7 @@
         "number": "1149",
         "remarks": " ",
         "quota": 200,
-        "enroll": 190,
+        "enroll": 192,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -39700,7 +39745,7 @@
         "number": "4062",
         "remarks": " ",
         "quota": 50,
-        "enroll": 22,
+        "enroll": 23,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -52026,7 +52071,7 @@
         "number": "2810",
         "remarks": " ",
         "quota": 102,
-        "enroll": 101,
+        "enroll": 102,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -55615,7 +55660,8 @@
           {
             "instructors": [
               "DIAS, Garvin Percy",
-              "FUNG, Terrance"
+              "FUNG, Terrance",
+              "LAI, Sum Yu"
             ],
             "venue": "Lecture Theater G (132)",
             "fromDate": "2025-02-08",
@@ -74326,8 +74372,8 @@
         "section": "L2",
         "number": "3455",
         "remarks": " ",
-        "quota": 54,
-        "enroll": 54,
+        "quota": 55,
+        "enroll": 55,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -74377,8 +74423,8 @@
         "section": "T2",
         "number": "3459",
         "remarks": " ",
-        "quota": 54,
-        "enroll": 54,
+        "quota": 55,
+        "enroll": 55,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -83900,6 +83946,8 @@
         "schedule": [
           {
             "instructors": [
+              "LIU, Zhiyang",
+              "XIONG, Zixuan",
               "YEUNG, King Lun"
             ],
             "venue": "Rm 2464, Lift 25-26 (122)",
@@ -83952,7 +84000,8 @@
         "schedule": [
           {
             "instructors": [
-              "NGAN, CC"
+              "NGAN, CC",
+              "ZHANG, Yuxuan"
             ],
             "venue": "Rm 3, 30/F, Tower 1,Millennity",
             "fromDate": "2025-02-03",
@@ -83999,6 +84048,7 @@
         "schedule": [
           {
             "instructors": [
+              "LI, Yanan",
               "LIU, Y.S. Marshal"
             ],
             "venue": "Rm 4619, Lift 31-32 (126)",
@@ -84051,7 +84101,8 @@
         "schedule": [
           {
             "instructors": [
-              "MAK, Andrew T C"
+              "MAK, Andrew T C",
+              "PEI, Sheng"
             ],
             "venue": "Rm 3, 30/F, Tower 1,Millennity",
             "fromDate": "2025-02-03",
@@ -84098,7 +84149,8 @@
         "schedule": [
           {
             "instructors": [
-              "YUE, Po Lock"
+              "YUE, Po Lock",
+              "ZHAO, Haoying"
             ],
             "venue": "Rm 4, 30/F, Tower 1,Millennity",
             "fromDate": "2025-02-03",
@@ -84150,6 +84202,7 @@
         "schedule": [
           {
             "instructors": [
+              "XIE, Lifang",
               "ZHOU, Yuanyuan"
             ],
             "venue": "Rm 3, 30/F, Tower 1,Millennity",
@@ -84202,7 +84255,8 @@
         "schedule": [
           {
             "instructors": [
-              "NG, Ying Piu"
+              "NG, Ying Piu",
+              "YUAN, Yuan"
             ],
             "venue": "Rm 3, 30/F, Tower 1,Millennity",
             "fromDate": "2025-02-03",
@@ -89225,7 +89279,7 @@
         "number": "3850",
         "remarks": " ",
         "quota": 60,
-        "enroll": 16,
+        "enroll": 17,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -99490,7 +99544,7 @@
         "number": "4013",
         "remarks": " ",
         "quota": 30,
-        "enroll": 4,
+        "enroll": 5,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -107414,7 +107468,7 @@
         "number": "4237",
         "remarks": " ",
         "quota": 220,
-        "enroll": 152,
+        "enroll": 153,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
