@@ -55633,20 +55633,21 @@
         "number": "1342",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 69,
-        "enroll": 68,
-        "waitlist": 1,
+        "enroll": 69,
+        "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 69,
-            "enroll": 68
+            "enroll": 69
           }
         ],
         "schedule": [
           {
             "instructors": [
-              "JIA, Jia"
+              "JIA, Jia",
+              "LAI, Sum Yu"
             ],
             "venue": "G003, LSK Bldg (75)",
             "fromDate": "2025-04-02",
@@ -55826,7 +55827,8 @@
         "schedule": [
           {
             "instructors": [
-              "KWOK, James Sai Ho"
+              "KWOK, James Sai Ho",
+              "NG, Ka Wai Tommy"
             ],
             "venue": "G003, LSK Bldg (75)",
             "fromDate": "2025-04-03",
@@ -55920,7 +55922,8 @@
         "schedule": [
           {
             "instructors": [
-              "KWOK, James Sai Ho"
+              "KWOK, James Sai Ho",
+              "NG, Ka Wai Tommy"
             ],
             "venue": "G001, LSK Bldg (75)",
             "fromDate": "2025-04-05",
@@ -56182,6 +56185,7 @@
         "schedule": [
           {
             "instructors": [
+              "GU, Jiaying",
               "XU, Hong"
             ],
             "venue": "G003, LSK Bldg (75)",
@@ -56292,7 +56296,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHAN, Hilton Kwok Hung"
+              "CHAN, Hilton Kwok Hung",
+              "TSE, Chris"
             ],
             "venue": "G003, LSK Bldg (75)",
             "fromDate": "2025-02-04",
@@ -95417,7 +95422,7 @@
         "section": "L1",
         "number": "1499",
         "remarks": " ",
-        "quota": 30,
+        "quota": 28,
         "enroll": 19,
         "waitlist": 0,
         "consent": false,
@@ -95429,8 +95434,22 @@
               "ZENG, Qinglu"
             ],
             "venue": "G002, CYT Bldg (30)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
+            "fromDate": "2025-02-06",
+            "toDate": "2025-02-27",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "09:00",
+            "toTime": "11:50"
+          },
+          {
+            "instructors": [
+              "YUNG, Charmaine",
+              "ZENG, Qinglu"
+            ],
+            "venue": "Rm 1026, LSK Bldg (28)",
+            "fromDate": "2025-03-06",
+            "toDate": "2025-05-08",
             "weekdays": [
               4
             ],
