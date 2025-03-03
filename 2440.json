@@ -7614,6 +7614,89 @@
   {
     "career": "TPG",
     "subject": "SBMT",
+    "number": "5080",
+    "code": "SBMT5080",
+    "name": "C-suite Life",
+    "description": "The course aims to provide a simulated and role-play environment to enable students to apply their MBA learnings and experience in a complex management world. C-Suite Life is a real-time, live case study that covers a broad range of business challenges spanning the field of management. Full engagement from students is expected.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1204",
+        "remarks": "> For FT-MBA; PT-MBA; MBA Bi-Weekly and Di-MBA students only\n> Instructor : LOBELLO, Chris \n> Add/Drop Deadline : 22-Aug-2025",
+        "quota": 24,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "Digital MBA",
+            "quota": 20,
+            "enroll": 0
+          },
+          {
+            "name": "MBA",
+            "quota": 2,
+            "enroll": 0
+          },
+          {
+            "name": "MBA Bi-weekly",
+            "quota": 2,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "POUND, Haydn Geoffrey"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-08-22",
+            "toDate": "2025-08-22",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "19:00",
+            "toTime": "21:50"
+          },
+          {
+            "instructors": [
+              "POUND, Haydn Geoffrey"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-08-23",
+            "toDate": "2025-08-23",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "09:00",
+            "toTime": "20:50"
+          },
+          {
+            "instructors": [
+              "POUND, Haydn Geoffrey"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-08-24",
+            "toDate": "2025-08-24",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "09:00",
+            "toTime": "17:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "SBMT",
     "number": "5300",
     "code": "SBMT5300",
     "name": "Enhancing Professional Skills",
