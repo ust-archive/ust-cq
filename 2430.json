@@ -74548,6 +74548,45 @@
   {
     "career": "TPG",
     "subject": "MAFS",
+    "number": "6000",
+    "code": "MAFS6000",
+    "name": "Capstone Project in Financial Mathematics",
+    "description": "In this course, financial firms will be invited to offer projects covering a broad range of essential topics for the training of professionals in quantitative finance. The capstone projects involve a combination of quantitative skills (e.g., mathematical models, statistical analysis, machine learning techniques, etc.) and emerging technologies adopted in the field of financial mathematics. Students will be working in a group of 2 to 4 to complete a project. The normal duration of a project is one regular term.",
+    "previousCodes": "MAFS6010Q",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4536",
+        "remarks": "> For MSc(MAFM) students only.\n> Students should seek the instructor's approval to take this course.",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CHEN, Kani"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MAFS",
     "number": "6001",
     "code": "MAFS6001",
     "name": "Capstone Project in Financial Mathematics II",
