@@ -4623,18 +4623,24 @@
       {
         "section": "L1",
         "number": "1207",
-        "remarks": "> For MPhil and PhD students on IS only\n> Instructor : FANG, Xiao\n> Add/Drop Deadline : 16-Jun-2025\n> Extended Drop Deadline : 20-Jun-2025",
+        "remarks": "> For MPhil and PhD students in IS only\n> Instructor : FANG, Xiao\n> Add/Drop Deadline : 16-Jun-2025\n> Extended Drop Deadline : 20-Jun-2025",
         "quota": 8,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "IS",
+            "quota": 8,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
               "QIU, Liangfei"
             ],
-            "venue": "Rm 1026, LSK Bldg (28)",
+            "venue": "Rm 1033, LSK Bldg (51)",
             "fromDate": "2025-06-13",
             "toDate": "2025-06-17",
             "weekdays": [
@@ -4662,7 +4668,7 @@
             "instructors": [
               "RAI, Arun"
             ],
-            "venue": "Rm 1026, LSK Bldg (28)",
+            "venue": "Rm 1033, LSK Bldg (51)",
             "fromDate": "2025-06-25",
             "toDate": "2025-06-30",
             "weekdays": [
@@ -4682,6 +4688,21 @@
             "toDate": "2025-07-02",
             "weekdays": [
               3
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 1033, LSK Bldg (51)",
+            "fromDate": "2025-07-09",
+            "toDate": "2025-07-11",
+            "weekdays": [
+              3,
+              4,
+              5
             ],
             "fromTime": "09:00",
             "toTime": "12:20"
