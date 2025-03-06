@@ -4607,6 +4607,90 @@
     ]
   },
   {
+    "career": "RPG",
+    "subject": "ISOM",
+    "number": "5400",
+    "code": "ISOM5400",
+    "name": "Information Systems Research Methodologies",
+    "description": "Introductory core course for MPhil and PhD students majoring or minoring in information systems; overview of the conduct of research in the information systems field. Advanced master degree students may register with the approval of the instructor.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 4,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1207",
+        "remarks": "> For MPhil and PhD students on IS only\n> Instructor : FANG, Xiao\n> Add/Drop Deadline : 16-Jun-2025\n> Extended Drop Deadline : 20-Jun-2025",
+        "quota": 8,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "QIU, Liangfei"
+            ],
+            "venue": "Rm 1026, LSK Bldg (28)",
+            "fromDate": "2025-06-13",
+            "toDate": "2025-06-17",
+            "weekdays": [
+              1,
+              2,
+              5
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "QIU, Liangfei"
+            ],
+            "venue": "G005, LSK Bldg",
+            "fromDate": "2025-06-18",
+            "toDate": "2025-06-18",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "RAI, Arun"
+            ],
+            "venue": "Rm 1026, LSK Bldg (28)",
+            "fromDate": "2025-06-25",
+            "toDate": "2025-06-30",
+            "weekdays": [
+              1,
+              3,
+              5
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "RAI, Arun"
+            ],
+            "venue": "G005, LSK Bldg",
+            "fromDate": "2025-07-02",
+            "toDate": "2025-07-02",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "TPG",
     "subject": "ISOM",
     "number": "5420",
