@@ -1951,6 +1951,45 @@
   },
   {
     "career": "TPG",
+    "subject": "CSIT",
+    "number": "6910A",
+    "code": "CSIT6910A",
+    "name": "Independent Project",
+    "description": "An independent project carried out under the supervision of a faculty member. This course may be repeated for credit.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1208",
+        "remarks": "> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
+        "quota": 40,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
     "subject": "DBAP",
     "number": "5120",
     "code": "DBAP5120",
@@ -4628,19 +4667,13 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "IS",
-            "quota": 8,
-            "enroll": 0
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
               "QIU, Liangfei"
             ],
-            "venue": "Rm 1033, LSK Bldg (51)",
+            "venue": "Rm 1026, LSK Bldg (28)",
             "fromDate": "2025-06-13",
             "toDate": "2025-06-17",
             "weekdays": [
@@ -4668,7 +4701,7 @@
             "instructors": [
               "RAI, Arun"
             ],
-            "venue": "Rm 1033, LSK Bldg (51)",
+            "venue": "Rm 1026, LSK Bldg (28)",
             "fromDate": "2025-06-25",
             "toDate": "2025-06-30",
             "weekdays": [
@@ -4696,7 +4729,7 @@
             "instructors": [
               "TBA"
             ],
-            "venue": "Rm 1033, LSK Bldg (51)",
+            "venue": "Rm 1026, LSK Bldg (28)",
             "fromDate": "2025-07-09",
             "toDate": "2025-07-11",
             "weekdays": [
@@ -4711,7 +4744,7 @@
             "instructors": [
               "TBA"
             ],
-            "venue": "TBA",
+            "venue": "G005, LSK Bldg",
             "fromDate": "2025-07-12",
             "toDate": "2025-07-12",
             "weekdays": [
@@ -4724,7 +4757,7 @@
             "instructors": [
               "KARAHANNA-RAI, Elena"
             ],
-            "venue": "Rm 1033, LSK Bldg (51)",
+            "venue": "Rm 1026, LSK Bldg (28)",
             "fromDate": "2025-07-16",
             "toDate": "2025-07-22",
             "weekdays": [
@@ -5031,7 +5064,7 @@
             "instructors": [
               "TBA"
             ],
-            "venue": "Rm 1026, LSK Bldg (28)",
+            "venue": "TBA",
             "fromDate": "2025-07-09",
             "toDate": "2025-07-11",
             "weekdays": [
@@ -5046,7 +5079,7 @@
             "instructors": [
               "TBA"
             ],
-            "venue": "G005, LSK Bldg",
+            "venue": "TBA",
             "fromDate": "2025-07-12",
             "toDate": "2025-07-12",
             "weekdays": [
