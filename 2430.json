@@ -51748,6 +51748,45 @@
   {
     "career": "RPG",
     "subject": "ISDN",
+    "number": "6710A",
+    "code": "ISDN6710A",
+    "name": "Independent Study",
+    "description": "Selected topics related to the research focus of postgraduate students, particularly those pursuing PhD. The course will be studied under the supervision of a faculty member. May be repeated for credit for different topics. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4537",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "ISDN",
     "number": "6710C",
     "code": "ISDN6710C",
     "name": "Independent Study",
