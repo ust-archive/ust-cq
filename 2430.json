@@ -24826,14 +24826,14 @@
         "number": "1174",
         "remarks": "> For MSc(ECON) students only\n> Venue on 21-May-2025: Rm 2+3, 31/F Millennity\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 65,
-        "enroll": 8,
+        "enroll": 7,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECON",
             "quota": 60,
-            "enroll": 8
+            "enroll": 7
           },
           {
             "name": "ISM",
@@ -24891,14 +24891,14 @@
         "number": "1177",
         "remarks": "> For MSc(ECON) students only\n> Will have normal class on 21-Apr-2025\n> Add/Drop Deadline : 08-Apr-2025",
         "quota": 65,
-        "enroll": 47,
+        "enroll": 48,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECON",
             "quota": 65,
-            "enroll": 47
+            "enroll": 48
           }
         ],
         "schedule": [
@@ -102389,7 +102389,7 @@
             ],
             "venue": "Rm 3, 30/F, Tower 1,Millennity",
             "fromDate": "2025-02-07",
-            "toDate": "2025-05-02",
+            "toDate": "2025-04-11",
             "weekdays": [
               5
             ],
@@ -102409,6 +102409,20 @@
             ],
             "fromTime": "09:00",
             "toTime": "11:50"
+          },
+          {
+            "instructors": [
+              "BERNAL, Marie",
+              "HE, Alex Jingwei"
+            ],
+            "venue": "Rm 3, 30/F, Tower 1,Millennity",
+            "fromDate": "2025-05-02",
+            "toDate": "2025-05-02",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "15:00",
+            "toTime": "17:50"
           },
           {
             "instructors": [
