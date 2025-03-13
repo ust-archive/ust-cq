@@ -3375,8 +3375,53 @@
               "WANG, Xingze"
             ],
             "venue": "Rm 2, 30/F, Tower 1,Millennity",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
+            "fromDate": "2025-02-07",
+            "toDate": "2025-03-21",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "19:00",
+            "toTime": "21:50"
+          },
+          {
+            "instructors": [
+              "CHEN, Shuijin",
+              "CHONG, Wing Kit Donald",
+              "WANG, Xingze"
+            ],
+            "venue": "Rm 2, 30/F, Tower 1,Millennity",
+            "fromDate": "2025-03-28",
+            "toDate": "2025-03-28",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "18:00",
+            "toTime": "21:50"
+          },
+          {
+            "instructors": [
+              "CHEN, Shuijin",
+              "CHONG, Wing Kit Donald",
+              "WANG, Xingze"
+            ],
+            "venue": "Rm 2, 30/F, Tower 1,Millennity",
+            "fromDate": "2025-04-11",
+            "toDate": "2025-04-11",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "19:00",
+            "toTime": "21:50"
+          },
+          {
+            "instructors": [
+              "CHEN, Shuijin",
+              "CHONG, Wing Kit Donald",
+              "WANG, Xingze"
+            ],
+            "venue": "Rm 2, 30/F, Tower 1,Millennity",
+            "fromDate": "2025-04-25",
+            "toDate": "2025-05-09",
             "weekdays": [
               5
             ],
@@ -8827,6 +8872,68 @@
             ],
             "fromTime": "10:00",
             "toTime": "10:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "CHMS",
+    "number": "5202",
+    "code": "CHMS5202",
+    "name": "Analytical Instrumentation Laboratory II",
+    "description": "Students will choose from a further array of experiments, complementary to CHMS 5201, involving analytical techniques that have been introduced in either the core and the elective courses. Students must attend and write up experimental reports for at least eight laboratory sessions to complete the course. Maybe graded PP.",
+    "previousCodes": "",
+    "prerequisites": "CHMS 5201",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "LA1",
+        "number": "4538",
+        "remarks": "> For MSc(ANCHEM) students only.",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TUNG, Joanne Wai Ting"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "T1",
+        "number": "4539",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TUNG, Joanne Wai Ting"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -62312,7 +62419,22 @@
             ],
             "venue": "Rm 2127A, Lift 19 (28)",
             "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
+            "toDate": "2025-03-12",
+            "weekdays": [
+              1,
+              3
+            ],
+            "fromTime": "10:30",
+            "toTime": "11:50"
+          },
+          {
+            "instructors": [
+              "FUNG, John",
+              "MA, Wai Leung Bruce"
+            ],
+            "venue": "Rm 2127A, Lift 19 (28)",
+            "fromDate": "2025-03-17",
+            "toDate": "2025-05-07",
             "weekdays": [
               1,
               3
@@ -67976,7 +68098,22 @@
             ],
             "venue": "Rm 5560, Lift 27-28 (30)",
             "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
+            "toDate": "2025-03-10",
+            "weekdays": [
+              1,
+              3
+            ],
+            "fromTime": "09:00",
+            "toTime": "10:20"
+          },
+          {
+            "instructors": [
+              "MA, Martin, T. C.",
+              "SPEIRS, James"
+            ],
+            "venue": "Rm 5560, Lift 27-28 (30)",
+            "fromDate": "2025-03-12",
+            "toDate": "2025-05-07",
             "weekdays": [
               1,
               3
@@ -68001,8 +68138,23 @@
               "MA, Martin, T. C."
             ],
             "venue": "Rm 5560, Lift 27-28 (30)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
+            "fromDate": "2025-02-04",
+            "toDate": "2025-03-11",
+            "weekdays": [
+              2,
+              4
+            ],
+            "fromTime": "09:00",
+            "toTime": "10:20"
+          },
+          {
+            "instructors": [
+              "MA, Martin, T. C.",
+              "SPEIRS, James"
+            ],
+            "venue": "Rm 5560, Lift 27-28 (30)",
+            "fromDate": "2025-03-13",
+            "toDate": "2025-05-08",
             "weekdays": [
               2,
               4
@@ -68612,6 +68764,22 @@
             ],
             "venue": "Rm 6602, Lift 31-32 (60)",
             "fromDate": "2025-02-03",
+            "toDate": "2025-03-10",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "13:30",
+            "toTime": "14:50"
+          },
+          {
+            "instructors": [
+              "CHAN, Sandy Wai Ching",
+              "FUNG, John",
+              "LIAO, May",
+              "SHEN, Chi"
+            ],
+            "venue": "Rm 6602, Lift 31-32 (60)",
+            "fromDate": "2025-03-17",
             "toDate": "2025-05-10",
             "weekdays": [
               1
@@ -68744,7 +68912,21 @@
               "SHEN, Chi"
             ],
             "venue": "Rm 5560, Lift 27-28 (30)",
-            "fromDate": "2025-02-03",
+            "fromDate": "2025-02-04",
+            "toDate": "2025-03-11",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "12:00",
+            "toTime": "13:20"
+          },
+          {
+            "instructors": [
+              "FUNG, John",
+              "SHEN, Chi"
+            ],
+            "venue": "Rm 5560, Lift 27-28 (30)",
+            "fromDate": "2025-03-18",
             "toDate": "2025-05-10",
             "weekdays": [
               2
@@ -69451,8 +69633,22 @@
               "SIN, Kathy Mun Yee"
             ],
             "venue": "Rm 2504, Lift 25-26 (84)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
+            "fromDate": "2025-02-05",
+            "toDate": "2025-03-05",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "10:30",
+            "toTime": "11:50"
+          },
+          {
+            "instructors": [
+              "MA, Martin, T. C.",
+              "SIN, Kathy Mun Yee"
+            ],
+            "venue": "Rm 2504, Lift 25-26 (84)",
+            "fromDate": "2025-03-12",
+            "toDate": "2025-05-07",
             "weekdays": [
               3
             ],
@@ -69528,12 +69724,25 @@
               "SHEN, Chi"
             ],
             "venue": "Rm 2130A, Lift 19 (28)",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
+            "fromDate": "2025-02-06",
+            "toDate": "2025-03-06",
             "weekdays": [
               4
             ],
             "fromTime": "09:00",
+            "toTime": "10:20"
+          },
+          {
+            "instructors": [
+              "MA, Martin, T. C."
+            ],
+            "venue": "Rm 2130A, Lift 19 (28)",
+            "fromDate": "2025-03-13",
+            "toDate": "2025-05-08",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "09:30",
             "toTime": "10:20"
           }
         ]
@@ -76919,6 +77128,7 @@
         "schedule": [
           {
             "instructors": [
+              "HUNG, Ka Yee",
               "WANG, Wenbo"
             ],
             "venue": "Rm 2001, LSK Bldg",
@@ -101486,8 +101696,34 @@
               "BERNAL, Marie"
             ],
             "venue": "Rm 1, 30/F, Tower 1,Millennity",
-            "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
+            "fromDate": "2025-02-06",
+            "toDate": "2025-03-20",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "10:30",
+            "toTime": "13:20"
+          },
+          {
+            "instructors": [
+              "BERNAL, Marie"
+            ],
+            "venue": "Rm 3, 30/F, Tower 1,Millennity",
+            "fromDate": "2025-03-27",
+            "toDate": "2025-03-27",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "10:30",
+            "toTime": "13:20"
+          },
+          {
+            "instructors": [
+              "BERNAL, Marie"
+            ],
+            "venue": "Rm 1, 30/F, Tower 1,Millennity",
+            "fromDate": "2025-04-10",
+            "toDate": "2025-05-08",
             "weekdays": [
               4
             ],
