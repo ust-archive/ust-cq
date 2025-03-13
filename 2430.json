@@ -33807,8 +33807,8 @@
         "section": "T1",
         "number": "4117",
         "remarks": " ",
-        "quota": 911,
-        "enroll": 911,
+        "quota": 912,
+        "enroll": 912,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -91535,35 +91535,19 @@
       {
         "section": "L2",
         "number": "1494",
-        "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA; MBA Exchange and MSc(IMT) students only\n> Add/Drop Deadline : 07-Apr-2025",
-        "quota": 59,
+        "remarks": "> Class cancelled",
+        "quota": 0,
         "enroll": 5,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "Digital MBA",
-            "quota": 2,
-            "enroll": 0
-          },
-          {
-            "name": "MBA",
-            "quota": 55,
-            "enroll": 5
-          },
-          {
-            "name": "MBA Bi-weekly",
-            "quota": 2,
-            "enroll": 0
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
               "MUKHI, Rahul",
               "SULLIVAN, Bilian NI"
             ],
-            "venue": "Rm 1001, LSK Bldg (75)",
+            "venue": "TBA",
             "fromDate": "2025-04-05",
             "toDate": "2025-04-05",
             "weekdays": [
@@ -91577,7 +91561,7 @@
               "MUKHI, Rahul",
               "SULLIVAN, Bilian NI"
             ],
-            "venue": "Rm 1001, LSK Bldg (75)",
+            "venue": "TBA",
             "fromDate": "2025-04-19",
             "toDate": "2025-05-31",
             "weekdays": [
