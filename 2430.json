@@ -16388,8 +16388,8 @@
         "section": "R1",
         "number": "4297",
         "remarks": " ",
-        "quota": 11,
-        "enroll": 11,
+        "quota": 14,
+        "enroll": 14,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -32102,8 +32102,47 @@
         "section": "R1",
         "number": "4291",
         "remarks": " ",
-        "quota": 15,
+        "quota": 16,
         "enroll": 15,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "ELEC",
+    "number": "6900D",
+    "code": "ELEC6900D",
+    "name": "Independent Study",
+    "description": "Selected topics in electronic and computer engineering studied under the supervision of a faculty member. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4540",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -100704,7 +100743,7 @@
         "number": "4013",
         "remarks": " ",
         "quota": 30,
-        "enroll": 7,
+        "enroll": 8,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
