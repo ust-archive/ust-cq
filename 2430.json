@@ -2094,7 +2094,7 @@
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 02-Apr-2025",
         "quota": 64,
         "enroll": 56,
-        "waitlist": 2,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [
           {
@@ -21139,6 +21139,45 @@
   {
     "career": "TPG",
     "subject": "DBAP",
+    "number": "6200",
+    "code": "DBAP6200",
+    "name": "DBA Research Proposal Preparation",
+    "description": "This course will help students to get familiar with literature in the chosen research area, identify appropriate topics for thesis research, and prepare detailed thesis proposals through independent study under the supervision of faculty members. Maybe graded PP.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4541",
+        "remarks": "> For DBA students only\n> Add/Drop Deadline : 15-Feb-2025",
+        "quota": 8,
+        "enroll": 8,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "DBAP",
     "number": "6300E",
     "code": "DBAP6300E",
     "name": "DBA Residential Program",
@@ -31454,7 +31493,7 @@
         "number": "4311",
         "remarks": " ",
         "quota": 7,
-        "enroll": 6,
+        "enroll": 7,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -38395,7 +38434,7 @@
         "number": "1232",
         "remarks": "> For FT-MBA; PT-MBA; MBA Exchange; MBA (Bi-weekly) and Digital MBA students only\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 50,
-        "enroll": 44,
+        "enroll": 45,
         "waitlist": 1,
         "consent": false,
         "reservedQuota": [
@@ -38407,7 +38446,7 @@
           {
             "name": "Digital MBA",
             "quota": 13,
-            "enroll": 8
+            "enroll": 9
           },
           {
             "name": "MBA",
@@ -56710,8 +56749,8 @@
         "section": "L1",
         "number": "1346",
         "remarks": "> For MSc(ISM) students only\n> Will have normal class on 01-May-2025\n> Add/Drop Deadline : 07-Apr-2025",
-        "quota": 58,
-        "enroll": 58,
+        "quota": 55,
+        "enroll": 55,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -58885,8 +58924,8 @@
         "section": "L1",
         "number": "4381",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 07-Apr-2025",
-        "quota": 63,
-        "enroll": 34,
+        "quota": 65,
+        "enroll": 37,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -75115,7 +75154,7 @@
         "number": "4536",
         "remarks": "> For MSc(MAFM) students only.\n> Students should seek the instructor's approval to take this course.",
         "quota": 1,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -92356,7 +92395,8 @@
             "instructors": [
               "HO, Ho Ming Stan",
               "HO, Kin Yan Kevin",
-              "NEW, Mitya"
+              "NEW, Mitya",
+              "SHIH, Stephen Lee"
             ],
             "venue": "Rm 1003, LSK Bldg (75)",
             "fromDate": "2025-05-16",
@@ -92364,16 +92404,17 @@
             "weekdays": [
               5
             ],
-            "fromTime": "09:00",
-            "toTime": "13:50"
+            "fromTime": "09:30",
+            "toTime": "12:50"
           },
           {
             "instructors": [
               "HO, Ho Ming Stan",
               "HO, Kin Yan Kevin",
-              "NEW, Mitya"
+              "NEW, Mitya",
+              "SHIH, Stephen Lee"
             ],
-            "venue": "Rm 1003, LSK Bldg (75)",
+            "venue": "Rm 2003, LSK Bldg",
             "fromDate": "2025-06-02",
             "toDate": "2025-06-02",
             "weekdays": [
@@ -92386,7 +92427,8 @@
             "instructors": [
               "HO, Ho Ming Stan",
               "HO, Kin Yan Kevin",
-              "NEW, Mitya"
+              "NEW, Mitya",
+              "SHIH, Stephen Lee"
             ],
             "venue": "Rm 2003, LSK Bldg",
             "fromDate": "2025-06-03",
@@ -92395,7 +92437,7 @@
               2
             ],
             "fromTime": "09:00",
-            "toTime": "13:50"
+            "toTime": "12:50"
           }
         ]
       }
@@ -94020,7 +94062,7 @@
               2
             ],
             "fromTime": "19:00",
-            "toTime": "20:00"
+            "toTime": "22:20"
           }
         ]
       }
@@ -96975,7 +97017,7 @@
         "number": "1508",
         "remarks": " ",
         "quota": 40,
-        "enroll": 30,
+        "enroll": 34,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -104047,9 +104089,22 @@
             ],
             "venue": "TBA",
             "fromDate": "2025-04-15",
-            "toDate": "2025-05-27",
+            "toDate": "2025-05-20",
             "weekdays": [
               2
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "HO, Ho Ming Stan"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-05-23",
+            "toDate": "2025-05-23",
+            "weekdays": [
+              5
             ],
             "fromTime": "19:00",
             "toTime": "22:20"
