@@ -5851,6 +5851,44 @@
             "toTime": "18:00"
           }
         ]
+      },
+      {
+        "section": "L2",
+        "number": "1230",
+        "remarks": "> For SBM TPG students only\n> Add/Drop Deadline : 11-Jun-2025",
+        "quota": 60,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "MUTTO, Frederick"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-11",
+            "toDate": "2025-07-02",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "MUTTO, Frederick"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-11",
+            "toDate": "2025-07-02",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          }
+        ]
       }
     ]
   },
