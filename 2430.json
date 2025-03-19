@@ -9499,7 +9499,7 @@
         "number": "1874",
         "remarks": " ",
         "quota": 170,
-        "enroll": 170,
+        "enroll": 169,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -9567,7 +9567,7 @@
         "number": "1878",
         "remarks": " ",
         "quota": 85,
-        "enroll": 85,
+        "enroll": 84,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -32684,6 +32684,45 @@
   {
     "career": "EXEC",
     "subject": "EMBA",
+    "number": "5060",
+    "code": "EMBA5060",
+    "name": "Leadership and Organizations",
+    "description": "Focuses on the skills and ideas behind effective leadership: working well with teams, utilizing your personal and organizational resources, making difficult but critical decisions, and negotiating well, all with a broad, multifaceted outlook.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4547",
+        "remarks": "> For Kellogg-HKUST EMBA students only\n> Instructor : Prof WAYTZ, Adam\n> Class Duration/Dates : 03-Feb-2025 to 28-Feb-2025\n> Add/Drop Deadline : 03-Feb-2025",
+        "quota": 36,
+        "enroll": 35,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-02-28",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "EMBA",
     "number": "5660",
     "code": "EMBA5660",
     "name": "Capstone",
@@ -42188,7 +42227,7 @@
         "number": "4130",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 600,
-        "enroll": 487,
+        "enroll": 486,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -78741,7 +78780,7 @@
         "number": "3515",
         "remarks": "> Venue: Room 2407",
         "quota": 66,
-        "enroll": 63,
+        "enroll": 62,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -78767,7 +78806,7 @@
         "number": "3516",
         "remarks": "> Venue: Room 5583",
         "quota": 36,
-        "enroll": 35,
+        "enroll": 34,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
