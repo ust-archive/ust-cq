@@ -2779,6 +2779,51 @@
     ]
   },
   {
+    "career": "TPG",
+    "subject": "EESM",
+    "number": "6910",
+    "code": "EESM6910",
+    "name": "Departmental and Professional Seminar",
+    "description": "Various departmental and professional seminars and workshops presented by postgraduate students, faculty or guest speakers. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1234",
+        "remarks": "> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
+        "quota": 50,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "EESM",
+            "quota": 50,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "UGRD",
     "subject": "ELEC",
     "number": "1200",
@@ -3222,6 +3267,45 @@
           {
             "instructors": [
               "WOO, Kam Tim"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "ENGG",
+    "number": "6200",
+    "code": "ENGG6200",
+    "name": "MSc Practical Learning and Enrichment",
+    "description": "The course aims to broaden MSc students' horizon and enrich their learning experiences through practice and participating in overseas research internship, professional learning trips and summer programs arranged with partner universities or institutes. Students are required to engage in practical training and research, laboratory work, industrial visits, professional courses and workshops depending on the available opportunities. Graded PP, P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1233",
+        "remarks": " ",
+        "quota": 10,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
             ],
             "venue": "TBA",
             "fromDate": "2025-06-16",
