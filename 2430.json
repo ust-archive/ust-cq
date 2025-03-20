@@ -1925,12 +1925,25 @@
             ],
             "venue": "G001, LSK Bldg (75)",
             "fromDate": "2025-04-09",
-            "toDate": "2025-05-28",
+            "toDate": "2025-05-21",
             "weekdays": [
               3
             ],
             "fromTime": "14:30",
             "toTime": "17:50"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "G003, LSK Bldg (75)",
+            "fromDate": "2025-05-30",
+            "toDate": "2025-05-30",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
           }
         ]
       }
@@ -24342,14 +24355,14 @@
         "number": "1176",
         "remarks": "> For MSc(ECON) students only\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 80,
-        "enroll": 73,
+        "enroll": 72,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECON",
             "quota": 80,
-            "enroll": 73
+            "enroll": 72
           }
         ],
         "schedule": [
@@ -105525,6 +105538,73 @@
             "weekdays": [],
             "fromTime": null,
             "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "SBMT",
+    "number": "6780",
+    "code": "SBMT6780",
+    "name": "Professional Development in Ethics, Innovation and Technology for Research Postgraduate Students",
+    "description": "This one-credit course is intended to provide basic professional training to research postgraduate students in the School of Business and Management. The course will begin with lectures and a workshop on ethics in research, which is designed to enable students to keep abreast of current issues in research and trends within the corporate, private and government sectors, as it relates to the impact and usage of technology. Students will be provided with the opportunities to interact with individuals in the corporate sector to engage in discourse of a practical nature. The mode of delivery will consist of lectures given by faculty and/ or guest speakers, students reading groups, discipline-specific workshops on various topics. Graded  PP, P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "4548",
+        "remarks": " ",
+        "quota": 14,
+        "enroll": 14,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "ZHOU, Rongrong"
+            ],
+            "venue": "Rm 1014, LSK Bldg (80)",
+            "fromDate": "2025-04-12",
+            "toDate": "2025-04-12",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "ZHOU, Rongrong"
+            ],
+            "venue": "Rm 1014, LSK Bldg (80)",
+            "fromDate": "2025-05-16",
+            "toDate": "2025-05-16",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "ZHOU, Rongrong"
+            ],
+            "venue": "Rm 1014, LSK Bldg (80)",
+            "fromDate": "2025-05-16",
+            "toDate": "2025-05-16",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "14:00",
+            "toTime": "16:50"
           }
         ]
       }
