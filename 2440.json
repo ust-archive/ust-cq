@@ -1184,6 +1184,118 @@
   {
     "career": "TPG",
     "subject": "CIEM",
+    "number": "5310",
+    "code": "CIEM5310",
+    "name": "Structural Analysis and Design of Tall Buildings",
+    "description": "Integrated treatment of analytical methods and technical aspects in design of tall building structures, including structural modeling, frames, shear walls, outrigger-braced systems, core-walls, tubular structures, and special topics.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "CIVL 5310 (prior to 2022-23)",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1235",
+        "remarks": "> Add/Drop Deadline : 25-Jun-2025\n> Extended Drop Deadline : 02-Jul-2025",
+        "quota": 50,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "CIEM",
+            "quota": 50,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "KUANG, Jun Shang"
+            ],
+            "venue": "Rm 2465, Lift 25-26 (122)",
+            "fromDate": "2025-06-19",
+            "toDate": "2025-06-26",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "19:00",
+            "toTime": "21:50"
+          },
+          {
+            "instructors": [
+              "KUANG, Jun Shang"
+            ],
+            "venue": "Rm 3207, Lift 21",
+            "fromDate": "2025-07-03",
+            "toDate": "2025-07-03",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "19:00",
+            "toTime": "21:50"
+          },
+          {
+            "instructors": [
+              "KUANG, Jun Shang"
+            ],
+            "venue": "Rm 2465, Lift 25-26 (122)",
+            "fromDate": "2025-07-10",
+            "toDate": "2025-07-31",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "19:00",
+            "toTime": "21:50"
+          },
+          {
+            "instructors": [
+              "KUANG, Jun Shang"
+            ],
+            "venue": "Rm 2465, Lift 25-26 (122)",
+            "fromDate": "2025-06-21",
+            "toDate": "2025-06-28",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "14:30",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "KUANG, Jun Shang"
+            ],
+            "venue": "Rm 3207, Lift 21",
+            "fromDate": "2025-07-05",
+            "toDate": "2025-07-12",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "14:30",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "KUANG, Jun Shang"
+            ],
+            "venue": "Rm 2465, Lift 25-26 (122)",
+            "fromDate": "2025-07-19",
+            "toDate": "2025-07-26",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "14:30",
+            "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "CIEM",
     "number": "6980",
     "code": "CIEM6980",
     "name": "MSc Project",
@@ -2734,6 +2846,80 @@
             ],
             "fromTime": "19:00",
             "toTime": "22:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "EEMT",
+    "number": "5520",
+    "code": "EEMT5520",
+    "name": "Service Operations Management",
+    "description": "This course will expose students to the diversified service industries and equip them with knowledge and skills of improving productivity and quality of service firms.  Students will learn the latest concepts, techniques, and methodologies in service system design, service level, quality of service, service product life cycle, measurements, design for serviceability, analysis, productivity in services, client satisfaction, training, and services logistics.  They will also learn how to apply the knowledge to decision making in planning, organizing, and managing service operations.\r",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1236",
+        "remarks": "> Add/Drop Deadline : 06-Jun-2025\n> Extended Drop Deadline : 09-Jun-2025",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "EEM",
+            "quota": 70,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "LAU, Ronald"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-03",
+            "toDate": "2025-06-24",
+            "weekdays": [
+              2,
+              4
+            ],
+            "fromTime": "19:30",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "LAU, Ronald"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-07",
+            "toDate": "2025-06-21",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "10:00",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "LAU, Ronald"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-07",
+            "toDate": "2025-06-21",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "14:00",
+            "toTime": "16:50"
           }
         ]
       }
