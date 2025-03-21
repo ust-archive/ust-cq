@@ -59211,14 +59211,14 @@
         "number": "4381",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 65,
-        "enroll": 35,
+        "enroll": 34,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 60,
-            "enroll": 29
+            "enroll": 28
           }
         ],
         "schedule": [
@@ -59717,10 +59717,24 @@
               "YANG, Xiaodong"
             ],
             "venue": "Rm 2003, LSK Bldg",
-            "fromDate": "2025-04-02",
+            "fromDate": "2025-04-09",
             "toDate": "2025-05-21",
             "weekdays": [
               3
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "WONG, Hei Tung",
+              "YANG, Xiaodong"
+            ],
+            "venue": "G001, LSK Bldg (75)",
+            "fromDate": "2025-04-04",
+            "toDate": "2025-04-04",
+            "weekdays": [
+              5
             ],
             "fromTime": "14:00",
             "toTime": "17:20"
@@ -92156,14 +92170,14 @@
         "number": "1488",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 67,
-        "enroll": 15,
+        "enroll": 16,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 64,
-            "enroll": 11
+            "enroll": 12
           },
           {
             "name": "MARK",
