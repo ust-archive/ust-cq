@@ -40312,7 +40312,7 @@
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Instructor : KWOK, Anson\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 66,
         "enroll": 66,
-        "waitlist": 27,
+        "waitlist": 28,
         "consent": false,
         "reservedQuota": [
           {
@@ -50851,6 +50851,84 @@
             "venue": "TBA",
             "fromDate": "2025-02-03",
             "toDate": "2025-05-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "IMBA",
+    "number": "5110",
+    "code": "IMBA5110",
+    "name": "Operations Management",
+    "description": "This course introduces the core concepts in operations. The two central themes we discuss in the course include how operation improvement can lead to value creation, and what key levers improve business process flows.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "ISOM 5700",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4550",
+        "remarks": "> Class Duration/Dates : 22-Mar-2025 to 23-Mar-2025\n> Instructor : Prof BOUTE, Robert\n> Add/Drop Deadline : 22-Mar-2025",
+        "quota": 50,
+        "enroll": 9,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-03-22",
+            "toDate": "2025-03-23",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "IMBA",
+    "number": "5240",
+    "code": "IMBA5240",
+    "name": "Pricing Strategy",
+    "description": "Students can learn practical tools to design pricing strategies from a marketing perspective and consider economic, strategic and psychological inputs in pricing decisions that are sustainable and generate profitable revenue streams. Through examples and case studies, it discusses the tools to assess consumer’s willingness to pay, and how this information can be used to improve pricing strategies.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4549",
+        "remarks": "> Class Duration/Dates : 20-Mar-2025 to 21-Mar-2025\n> Add/Drop Deadline : 20-Mar-2025",
+        "quota": 51,
+        "enroll": 9,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "VAN DER LANS, Ralf"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-03-20",
+            "toDate": "2025-03-21",
             "weekdays": [],
             "fromTime": null,
             "toTime": null
