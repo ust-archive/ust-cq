@@ -1341,12 +1341,25 @@
             ],
             "venue": "G001, LSK Bldg (75)",
             "fromDate": "2025-05-12",
-            "toDate": "2025-05-26",
+            "toDate": "2025-05-19",
             "weekdays": [
               1
             ],
             "fromTime": "14:30",
             "toTime": "17:50"
+          },
+          {
+            "instructors": [
+              "CHEUNG, Kwok Yip"
+            ],
+            "venue": "G001, LSK Bldg (75)",
+            "fromDate": "2025-05-26",
+            "toDate": "2025-05-26",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
           }
         ]
       }
@@ -57365,12 +57378,26 @@
             ],
             "venue": "G001, LSK Bldg (75)",
             "fromDate": "2025-04-07",
-            "toDate": "2025-05-26",
+            "toDate": "2025-05-19",
             "weekdays": [
               1
             ],
             "fromTime": "09:30",
             "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "LEE, Aaron Chun Hay",
+              "YANG, Yi"
+            ],
+            "venue": "G001, LSK Bldg (75)",
+            "fromDate": "2025-05-26",
+            "toDate": "2025-05-26",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "14:30",
+            "toTime": "17:50"
           }
         ]
       },
@@ -94316,7 +94343,7 @@
         "number": "1600",
         "remarks": "> The class is delivered in a real-time online mode\n> For SBM TPG students only\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 42,
-        "enroll": 41,
+        "enroll": 42,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -94328,7 +94355,7 @@
           {
             "name": "BA",
             "quota": 10,
-            "enroll": 9
+            "enroll": 10
           },
           {
             "name": "FINA",
