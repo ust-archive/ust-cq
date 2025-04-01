@@ -1922,7 +1922,7 @@
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 14-Apr-2025",
         "quota": 70,
         "enroll": 70,
-        "waitlist": 1,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [
           {
@@ -2119,7 +2119,7 @@
         "number": "1016",
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 02-Apr-2025",
         "quota": 64,
-        "enroll": 60,
+        "enroll": 59,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -2131,7 +2131,7 @@
           {
             "name": "MBA",
             "quota": 46,
-            "enroll": 46
+            "enroll": 45
           },
           {
             "name": "MBA Bi-weekly",
@@ -2243,7 +2243,7 @@
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 14-Apr-2025",
         "quota": 30,
         "enroll": 30,
-        "waitlist": 1,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [
           {
@@ -38635,7 +38635,7 @@
         "number": "1232",
         "remarks": "> For FT-MBA; PT-MBA; MBA Exchange; MBA (Bi-weekly) and Digital MBA students only\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 49,
-        "enroll": 47,
+        "enroll": 46,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -38652,7 +38652,7 @@
           {
             "name": "MBA",
             "quota": 29,
-            "enroll": 29
+            "enroll": 28
           },
           {
             "name": "MBA Bi-weekly",
@@ -59235,14 +59235,14 @@
         "number": "1356",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 28-Apr-2025",
         "quota": 65,
-        "enroll": 51,
+        "enroll": 50,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 65,
-            "enroll": 51
+            "enroll": 50
           }
         ],
         "schedule": [
@@ -59541,14 +59541,14 @@
         "number": "1341",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 65,
-        "enroll": 63,
+        "enroll": 62,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 65,
-            "enroll": 63
+            "enroll": 62
           }
         ],
         "schedule": [
@@ -59796,7 +59796,7 @@
         "number": "1343",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 60,
-        "enroll": 38,
+        "enroll": 39,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -59813,7 +59813,7 @@
           {
             "name": "ISM",
             "quota": 34,
-            "enroll": 21
+            "enroll": 22
           },
           {
             "name": "TLE",
@@ -77568,7 +77568,7 @@
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2025-05-12",
-            "toDate": "2025-05-19",
+            "toDate": "2025-05-12",
             "weekdays": [
               1
             ],
@@ -77587,6 +77587,19 @@
             ],
             "fromTime": "18:00",
             "toTime": "21:20"
+          },
+          {
+            "instructors": [
+              "WANG, Wenbo"
+            ],
+            "venue": "Rm 2003, LSK Bldg",
+            "fromDate": "2025-05-16",
+            "toDate": "2025-05-16",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
           }
         ]
       }
@@ -77745,7 +77758,7 @@
         "number": "1430",
         "remarks": "> For FT-MBA; PT-MBA; MBA Exchange and MSc(MARK) students only\n> Add/Drop Deadline : 02-Apr-2025",
         "quota": 65,
-        "enroll": 52,
+        "enroll": 50,
         "waitlist": 2,
         "consent": false,
         "reservedQuota": [
@@ -77762,7 +77775,7 @@
           {
             "name": "MARK",
             "quota": 52,
-            "enroll": 46
+            "enroll": 44
           },
           {
             "name": "MBA",
@@ -77859,8 +77872,8 @@
         "number": "1428",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 65,
-        "enroll": 63,
-        "waitlist": 6,
+        "enroll": 64,
+        "waitlist": 5,
         "consent": false,
         "reservedQuota": [
           {
@@ -77871,7 +77884,7 @@
           {
             "name": "MARK",
             "quota": 61,
-            "enroll": 59
+            "enroll": 60
           }
         ],
         "schedule": [
@@ -78093,7 +78106,7 @@
         "number": "1433",
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 49,
-        "enroll": 29,
+        "enroll": 28,
         "waitlist": 2,
         "consent": false,
         "reservedQuota": [
@@ -78105,7 +78118,7 @@
           {
             "name": "MBA",
             "quota": 20,
-            "enroll": 15
+            "enroll": 14
           },
           {
             "name": "MBA Bi-weekly",
@@ -78241,14 +78254,14 @@
         "number": "1429",
         "remarks": "> For MSc(MARK) students only\n> Instructor : Ms. POON, Emily\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 65,
-        "enroll": 52,
+        "enroll": 53,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
             "quota": 65,
-            "enroll": 52
+            "enroll": 53
           }
         ],
         "schedule": [
