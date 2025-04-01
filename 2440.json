@@ -6846,6 +6846,102 @@
     ]
   },
   {
+    "career": "TPG",
+    "subject": "MAFS",
+    "number": "5270",
+    "code": "MAFS5270",
+    "name": "Mathematical Market Microstructure",
+    "description": "This course will study special classes of stochastic processes that can capture market behavior at micro level and their practical implications in algorithmic and low-latency trading. Topics covered include structural models of price formation process at microstructure level, information-based vs. inventory-based models, stochastic control and optimization in trading, and real time risk management.",
+    "previousCodes": "MAFS6010G",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1237",
+        "remarks": "> For MSc(MAFM) students only.\n> Add/Drop Deadline : 26-Jun-2025\n> Extended Drop Deadline : 03-Jul-2025",
+        "quota": 80,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CHOU, Hongsong"
+            ],
+            "venue": "Rm 2464, Lift 25-26 (122)",
+            "fromDate": "2025-06-21",
+            "toDate": "2025-08-02",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "10:00",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "CHOU, Hongsong"
+            ],
+            "venue": "Rm 2464, Lift 25-26 (122)",
+            "fromDate": "2025-06-21",
+            "toDate": "2025-07-26",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "14:30",
+            "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MAFS",
+    "number": "5360",
+    "code": "MAFS5360",
+    "name": "Computing for Finance in Python",
+    "description": "This course teaches Python programming techniques with a strong focus on using mini-projects with industry backgrounds in trading, aiming to equip students with solid program-solving skills in the following contexts: medium- and high-frequency multi-factor model development, OTC trading system development with block-chain technology applied, abnormal trading behavior detection, trading simulator design and development.",
+    "previousCodes": "MAFS6010W",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1238",
+        "remarks": "> For MSc(MAFM) students only.\n> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
+        "quota": 80,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CHOU, Hongsong"
+            ],
+            "venue": "Rm 2464, Lift 25-26 (122)",
+            "fromDate": "2025-06-17",
+            "toDate": "2025-07-31",
+            "weekdays": [
+              2,
+              4
+            ],
+            "fromTime": "19:00",
+            "toTime": "21:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "UGRD",
     "subject": "MARK",
     "number": "3420",
