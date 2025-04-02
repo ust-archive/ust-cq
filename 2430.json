@@ -39381,7 +39381,7 @@
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 27-Apr-2025",
         "quota": 65,
         "enroll": 65,
-        "waitlist": 7,
+        "waitlist": 8,
         "consent": false,
         "reservedQuota": [
           {
@@ -39731,7 +39731,7 @@
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Will have normal class on 01-May-2025\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 67,
         "enroll": 67,
-        "waitlist": 34,
+        "waitlist": 33,
         "consent": false,
         "reservedQuota": [
           {
@@ -57043,7 +57043,7 @@
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 63,
         "enroll": 63,
-        "waitlist": 3,
+        "waitlist": 4,
         "consent": false,
         "reservedQuota": [
           {
@@ -59610,8 +59610,22 @@
               "WAN, On Yu",
               "XU, Yan"
             ],
-            "venue": "G003, LSK Bldg (75)",
+            "venue": "G001, LSK Bldg (75)",
             "fromDate": "2025-04-04",
+            "toDate": "2025-04-04",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "WAN, On Yu",
+              "XU, Yan"
+            ],
+            "venue": "Rm 1001, LSK Bldg (75)",
+            "fromDate": "2025-04-11",
             "toDate": "2025-04-11",
             "weekdays": [
               5
@@ -59638,8 +59652,36 @@
               "WAN, On Yu",
               "XU, Yan"
             ],
-            "venue": "G003, LSK Bldg (75)",
+            "venue": "G001, LSK Bldg (75)",
             "fromDate": "2025-04-25",
+            "toDate": "2025-05-09",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "WAN, On Yu",
+              "XU, Yan"
+            ],
+            "venue": "Rm 1003, LSK Bldg (75)",
+            "fromDate": "2025-05-16",
+            "toDate": "2025-05-16",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "WAN, On Yu",
+              "XU, Yan"
+            ],
+            "venue": "G001, LSK Bldg (75)",
+            "fromDate": "2025-05-23",
             "toDate": "2025-05-23",
             "weekdays": [
               5
