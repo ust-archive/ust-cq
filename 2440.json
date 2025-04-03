@@ -1184,6 +1184,102 @@
   {
     "career": "TPG",
     "subject": "CIEM",
+    "number": "5180",
+    "code": "CIEM5180",
+    "name": "Construction Technology for Civil Engineering Works",
+    "description": "This course intends to provide an overview of modern construction technology for civil engineering works with special attention paid to recent development trends and major construction works in Hong Kong. The course starts with the design/construction interface and focuses on the Contractor’s perspective. In particular, ground improvements, reclamation works, excavation-lateral support system and modular construction as well as digital construction will be highlighted. With an aim to help students who have limited exposure to construction practice, this course uses a Capstone project to help the students to form a comprehensive view of a construction project, including site layouts, construction practice, contract type, and construction methods. Students would be required to apply the knowledge learned to describe a real-life construction project and critically analyze the construction activities.",
+    "previousCodes": "CIEM6000S",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1247",
+        "remarks": "> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
+        "quota": 50,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "CIEM",
+            "quota": 50,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "LI, Chao"
+            ],
+            "venue": "Rm 2465, Lift 25-26 (122)",
+            "fromDate": "2025-06-17",
+            "toDate": "2025-08-01",
+            "weekdays": [
+              2,
+              5
+            ],
+            "fromTime": "19:00",
+            "toTime": "21:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "CIEM",
+    "number": "5190",
+    "code": "CIEM5190",
+    "name": "Alternative Dispute Resolution: Law and Practice",
+    "description": "This course provides a complete introduction to the subject of dispute resolution in construction and engineering including: the legal background to and foundation for contractual claims and disputes; standard forms and conditions of contract; the various modes of alternative dispute resolution (ADR); the nature of, practice and hearings before ADR tribunals; and the role of engineers serving as expert witnesses and adjudicators.",
+    "previousCodes": "CIEM6000R",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1246",
+        "remarks": "> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
+        "quota": 50,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "CIEM",
+            "quota": 50,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "MCINNIS, Joel Arthur"
+            ],
+            "venue": "Rm 2465, Lift 25-26 (122)",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-07-28",
+            "weekdays": [
+              1,
+              3
+            ],
+            "fromTime": "19:00",
+            "toTime": "21:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "CIEM",
     "number": "5310",
     "code": "CIEM5310",
     "name": "Structural Analysis and Design of Tall Buildings",
