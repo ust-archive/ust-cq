@@ -1816,7 +1816,7 @@
         "remarks": "> For MSc(ACCT) students only\n> Will have normal class on 01-May-2025\n> Add/Drop Deadline : 14-Apr-2025",
         "quota": 65,
         "enroll": 65,
-        "waitlist": 0,
+        "waitlist": 1,
         "consent": false,
         "reservedQuota": [
           {
@@ -39228,14 +39228,14 @@
         "number": "1233",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Will have normal class on 04-Apr-2025\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 65,
-        "enroll": 50,
+        "enroll": 49,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 65,
-            "enroll": 50
+            "enroll": 49
           }
         ],
         "schedule": [
