@@ -2242,14 +2242,14 @@
         "number": "1021",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 14-Apr-2025",
         "quota": 33,
-        "enroll": 30,
+        "enroll": 31,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 32,
-            "enroll": 29
+            "enroll": 30
           },
           {
             "name": "FINA",
@@ -16455,6 +16455,45 @@
   {
     "career": "UGRD",
     "subject": "COMP",
+    "number": "4971B",
+    "code": "COMP4971B",
+    "name": "Independent Work",
+    "description": "Independent studies or projects under the directed guidance of a faculty member on a computer science topic. A written report, presentation, and/or an examination are required. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. May be repeated for credits.",
+    "previousCodes": "COMP390B",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4551",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "COMP",
     "number": "4971C",
     "code": "COMP4971C",
     "name": "Independent Work",
@@ -24377,14 +24416,14 @@
         "number": "1176",
         "remarks": "> For MSc(ECON) students only\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 80,
-        "enroll": 58,
+        "enroll": 56,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECON",
             "quota": 80,
-            "enroll": 58
+            "enroll": 56
           }
         ],
         "schedule": [
@@ -25249,14 +25288,14 @@
         "number": "4401",
         "remarks": "> For MSc(ECON) students only\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 50,
-        "enroll": 17,
+        "enroll": 16,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECON",
             "quota": 50,
-            "enroll": 17
+            "enroll": 16
           }
         ],
         "schedule": [
@@ -38754,14 +38793,14 @@
         "number": "1240",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 64,
-        "enroll": 64,
+        "enroll": 63,
         "waitlist": 10,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 61,
-            "enroll": 61
+            "enroll": 60
           }
         ],
         "schedule": [
@@ -39019,14 +39058,14 @@
         "number": "1244",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Will have normal class on 19-Apr-2025\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 66,
-        "enroll": 59,
-        "waitlist": 3,
+        "enroll": 58,
+        "waitlist": 4,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 65,
-            "enroll": 58
+            "enroll": 57
           }
         ],
         "schedule": [
@@ -39223,14 +39262,14 @@
         "number": "1233",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Will have normal class on 04-Apr-2025\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 65,
-        "enroll": 33,
+        "enroll": 32,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 65,
-            "enroll": 33
+            "enroll": 32
           }
         ],
         "schedule": [
@@ -39375,14 +39414,14 @@
         "number": "1247",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 27-Apr-2025",
         "quota": 65,
-        "enroll": 64,
+        "enroll": 65,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 65,
-            "enroll": 61
+            "enroll": 62
           }
         ],
         "schedule": [
@@ -39725,14 +39764,14 @@
         "number": "1241",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Will have normal class on 01-May-2025\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 67,
-        "enroll": 63,
+        "enroll": 61,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 65,
-            "enroll": 61
+            "enroll": 59
           }
         ],
         "schedule": [
@@ -59317,14 +59356,14 @@
         "number": "4381",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 65,
-        "enroll": 28,
+        "enroll": 27,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 60,
-            "enroll": 22
+            "enroll": 21
           }
         ],
         "schedule": [
@@ -91524,14 +91563,14 @@
         "number": "1491",
         "remarks": "> For PT-MBA; Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 24,
-        "enroll": 22,
+        "enroll": 21,
         "waitlist": 1,
         "consent": false,
         "reservedQuota": [
           {
             "name": "Digital MBA",
             "quota": 5,
-            "enroll": 3
+            "enroll": 2
           },
           {
             "name": "MBA",
