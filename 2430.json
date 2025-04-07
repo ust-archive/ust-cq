@@ -38690,12 +38690,12 @@
           },
           {
             "name": "MBA",
-            "quota": 29,
+            "quota": 28,
             "enroll": 27
           },
           {
             "name": "MBA Bi-weekly",
-            "quota": 4,
+            "quota": 5,
             "enroll": 4
           }
         ],
@@ -38794,7 +38794,7 @@
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 64,
         "enroll": 64,
-        "waitlist": 9,
+        "waitlist": 7,
         "consent": false,
         "reservedQuota": [
           {
@@ -38869,14 +38869,14 @@
         "number": "1239",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 65,
-        "enroll": 61,
+        "enroll": 60,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 65,
-            "enroll": 61
+            "enroll": 60
           }
         ],
         "schedule": [
@@ -39058,14 +39058,14 @@
         "number": "1244",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Will have normal class on 19-Apr-2025\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 66,
-        "enroll": 58,
+        "enroll": 57,
         "waitlist": 3,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 65,
-            "enroll": 57
+            "enroll": 56
           }
         ],
         "schedule": [
@@ -39414,14 +39414,14 @@
         "number": "1247",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 27-Apr-2025",
         "quota": 65,
-        "enroll": 63,
+        "enroll": 62,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 65,
-            "enroll": 60
+            "enroll": 59
           }
         ],
         "schedule": [
@@ -39813,7 +39813,7 @@
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 67,
         "enroll": 67,
-        "waitlist": 14,
+        "waitlist": 13,
         "consent": false,
         "reservedQuota": [
           {
@@ -39971,7 +39971,7 @@
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 66,
         "enroll": 65,
-        "waitlist": 10,
+        "waitlist": 8,
         "consent": false,
         "reservedQuota": [
           {
@@ -40367,7 +40367,7 @@
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Instructor : KWOK, Anson\n> Add/Drop Deadline : 07-Apr-2025",
         "quota": 66,
         "enroll": 66,
-        "waitlist": 22,
+        "waitlist": 21,
         "consent": false,
         "reservedQuota": [
           {
@@ -92121,12 +92121,40 @@
             ],
             "venue": "Rm 2003, LSK Bldg",
             "fromDate": "2025-04-19",
+            "toDate": "2025-04-26",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "CHAN, Lap Cheung",
+              "DORAN, Christopher"
+            ],
+            "venue": "Rm 2003, LSK Bldg",
+            "fromDate": "2025-05-10",
             "toDate": "2025-05-31",
             "weekdays": [
               6
             ],
             "fromTime": "09:00",
             "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "CHAN, Lap Cheung",
+              "DORAN, Christopher"
+            ],
+            "venue": "Rm 2003, LSK Bldg",
+            "fromDate": "2025-05-18",
+            "toDate": "2025-05-18",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
           }
         ]
       }
