@@ -9835,6 +9835,51 @@
   {
     "career": "TPG",
     "subject": "SBMT",
+    "number": "6200B",
+    "code": "SBMT6200B",
+    "name": "Independent Study",
+    "description": "Study of selected issues from various departments under the supervision of a faculty member from SBM. (Special permission from the Associate Dean is required for MBA students to take this course.)",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1248",
+        "remarks": "> For Digital MBA students only\n> Add/Drop Deadline : 03-Aug-2025",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "Digital MBA",
+            "quota": 1,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "SBMT",
     "number": "6300C",
     "code": "SBMT6300C",
     "name": "Global Study Tour - US",
