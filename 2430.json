@@ -1815,14 +1815,14 @@
         "number": "1024",
         "remarks": "> For MSc(ACCT) students only\n> Will have normal class on 01-May-2025\n> Add/Drop Deadline : 14-Apr-2025",
         "quota": 65,
-        "enroll": 62,
+        "enroll": 61,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 62
+            "enroll": 61
           }
         ],
         "schedule": [
@@ -52183,6 +52183,45 @@
   {
     "career": "UGRD",
     "subject": "ISDN",
+    "number": "4900A",
+    "code": "ISDN4900A",
+    "name": "Independent Study",
+    "description": "Independent studies or projects under the directed guidance of a faculty member on an integrative systems and design topic. A written report, presentation, and/or an examination are required. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. May be repeated for credits. Graded P or F. May be graded PP.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "4553",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ISDN",
     "number": "4900C",
     "code": "ISDN4900C",
     "name": "Independent Study",
@@ -57407,14 +57446,14 @@
         "number": "1353",
         "remarks": "> For MSc(ACCT) students only\n> Will have normal class on 21-Apr-2025 and 05-May-2025\n> Add/Drop Deadline : 14-Apr-2025",
         "quota": 70,
-        "enroll": 70,
-        "waitlist": 1,
+        "enroll": 69,
+        "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 70,
-            "enroll": 69
+            "enroll": 68
           }
         ],
         "schedule": [
@@ -57671,14 +57710,14 @@
         "number": "1355",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 14-Apr-2025",
         "quota": 65,
-        "enroll": 62,
+        "enroll": 61,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 65,
-            "enroll": 62
+            "enroll": 61
           }
         ],
         "schedule": [
