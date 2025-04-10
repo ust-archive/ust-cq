@@ -2242,14 +2242,14 @@
         "number": "1021",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 14-Apr-2025",
         "quota": 33,
-        "enroll": 28,
+        "enroll": 30,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 32,
-            "enroll": 27
+            "enroll": 29
           },
           {
             "name": "FINA",
@@ -59320,14 +59320,14 @@
         "number": "1356",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 28-Apr-2025",
         "quota": 65,
-        "enroll": 37,
+        "enroll": 38,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 65,
-            "enroll": 37
+            "enroll": 38
           }
         ],
         "schedule": [
@@ -81878,7 +81878,7 @@
         "number": "3648",
         "remarks": " ",
         "quota": 90,
-        "enroll": 90,
+        "enroll": 89,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -81930,7 +81930,7 @@
         "number": "3652",
         "remarks": " ",
         "quota": 45,
-        "enroll": 45,
+        "enroll": 44,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -105824,6 +105824,35 @@
             "venue": "TBA",
             "fromDate": "2025-02-03",
             "toDate": "2025-05-31",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "L2",
+        "number": "4554",
+        "remarks": "> For SBM TPG students only\n> Add/Drop Deadline : 31-May-2025",
+        "quota": 15,
+        "enroll": 15,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "BA",
+            "quota": 15,
+            "enroll": 15
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
             "weekdays": [],
             "fromTime": null,
             "toTime": null
