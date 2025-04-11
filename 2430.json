@@ -57678,14 +57678,14 @@
         "number": "1354",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 14-Apr-2025",
         "quota": 69,
-        "enroll": 56,
+        "enroll": 55,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 69,
-            "enroll": 56
+            "enroll": 55
           }
         ],
         "schedule": [
@@ -83887,6 +83887,45 @@
           {
             "instructors": [
               "LEUNG, Shing Yu"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "MATH",
+    "number": "4983D",
+    "code": "MATH4983D",
+    "name": "Independent Study",
+    "description": "Advanced undergraduate topics independently studied under the supervision of a faculty member. May be repeated for credit if different topics are studied. May be graded P/F or letter grade.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4556",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
             ],
             "venue": "TBA",
             "fromDate": "2025-02-03",
