@@ -39419,14 +39419,14 @@
         "number": "1247",
         "remarks": "> For MSc(FINA); MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 27-Apr-2025",
         "quota": 65,
-        "enroll": 60,
+        "enroll": 59,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 65,
-            "enroll": 57
+            "enroll": 56
           }
         ],
         "schedule": [
@@ -50818,8 +50818,8 @@
         "section": "T1",
         "number": "1285",
         "remarks": " ",
-        "quota": 36,
-        "enroll": 36,
+        "quota": 37,
+        "enroll": 37,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -78461,6 +78461,45 @@
             ],
             "fromTime": "14:00",
             "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "MARK",
+    "number": "6990",
+    "code": "MARK6990",
+    "name": "MPhil Thesis Research",
+    "description": "Master's thesis research supervised by a faculty member.  A successful defense of the thesis leads to the grade Pass.  No course credit is assigned.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4557",
+        "remarks": "> For MPhil(MARK) students only",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-02-03",
+            "toDate": "2025-05-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
