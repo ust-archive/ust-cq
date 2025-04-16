@@ -104537,6 +104537,51 @@
   {
     "career": "TPG",
     "subject": "SBMT",
+    "number": "5470",
+    "code": "SBMT5470",
+    "name": "Case Analysis Competition",
+    "description": "The objective of this course is to provide hands on perspective of what it takes to analyze a real-life business case.  Students will go overseas to participant in international case competitions.  Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4558",
+        "remarks": "> For FT-MBA students only\n> Add/Drop Deadline : 31-May-2025",
+        "quota": 7,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "MBA",
+            "quota": 7,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-01-29",
+            "toDate": "2025-05-31",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "SBMT",
     "number": "6011N",
     "code": "SBMT6011N",
     "name": "AI, Innovation, and Product Management",
@@ -105917,7 +105962,7 @@
             ],
             "venue": "TBA",
             "fromDate": "2025-02-03",
-            "toDate": "2025-05-10",
+            "toDate": "2025-05-31",
             "weekdays": [],
             "fromTime": null,
             "toTime": null
