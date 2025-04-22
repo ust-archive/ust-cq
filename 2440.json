@@ -2488,7 +2488,7 @@
         "number": "1108",
         "remarks": "> For DBA students only\n> Class Duration : 28-Jun-2025 to 29-Jun-2025\n> Add/Drop Deadline : 28-Jun-2025",
         "quota": 15,
-        "enroll": 0,
+        "enroll": 12,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5004,6 +5004,45 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ISDN",
+    "number": "3010",
+    "code": "ISDN3010",
+    "name": "Academic and Professional Development III",
+    "description": "Continuation of ISDN 2010. Graded P, PP or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1252",
+        "remarks": "> Add/Drop Deadline : 21-Jun-2025",
+        "quota": 10,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
