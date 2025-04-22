@@ -4962,6 +4962,68 @@
   {
     "career": "UGRD",
     "subject": "ISDN",
+    "number": "3002",
+    "code": "ISDN3002",
+    "name": "Third Year Design Project II",
+    "description": "This course is the second part of the third-year project course offered to third year students. The focus of this course is testing and redesigning of the design concept generated in 3001. The process is repeated until a final design emerges. Instructor's approval is required for enrollment in the course.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1250",
+        "remarks": "> Add/Drop Deadline : 21-Jun-2025",
+        "quota": 10,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "LA1",
+        "number": "1251",
+        "remarks": " ",
+        "quota": 10,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ISDN",
     "number": "4000S",
     "code": "ISDN4000S",
     "name": "Applied Generative AI for Interdisciplinary Projects",
