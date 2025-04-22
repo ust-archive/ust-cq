@@ -57696,9 +57696,23 @@
             ],
             "venue": "G003, LSK Bldg (75)",
             "fromDate": "2025-04-08",
-            "toDate": "2025-05-27",
+            "toDate": "2025-05-20",
             "weekdays": [
               2
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "GU, Jiaying",
+              "XU, Hong"
+            ],
+            "venue": "G001, LSK Bldg (75)",
+            "fromDate": "2025-05-26",
+            "toDate": "2025-05-26",
+            "weekdays": [
+              1
             ],
             "fromTime": "19:00",
             "toTime": "22:20"
@@ -59334,14 +59348,14 @@
         "number": "1356",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 28-Apr-2025",
         "quota": 65,
-        "enroll": 38,
+        "enroll": 39,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 65,
-            "enroll": 38
+            "enroll": 39
           }
         ],
         "schedule": [
