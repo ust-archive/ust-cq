@@ -7402,62 +7402,7 @@
     "exclusions": "",
     "credits": 4,
     "attributes": [],
-    "classes": [
-      {
-        "section": "L1",
-        "number": "1091",
-        "remarks": "> Add/Drop Deadline : 17-Jul-2025",
-        "quota": 50,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "SALVACRUZ, Joseph"
-            ],
-            "venue": "G003, LSK Bldg (75)",
-            "fromDate": "2025-07-14",
-            "toDate": "2025-08-08",
-            "weekdays": [
-              1,
-              3,
-              5
-            ],
-            "fromTime": "09:30",
-            "toTime": "12:50"
-          }
-        ]
-      },
-      {
-        "section": "T1",
-        "number": "1092",
-        "remarks": " ",
-        "quota": 50,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "SALVACRUZ, Joseph"
-            ],
-            "venue": "G003, LSK Bldg (75)",
-            "fromDate": "2025-07-14",
-            "toDate": "2025-08-08",
-            "weekdays": [
-              1,
-              3,
-              5
-            ],
-            "fromTime": "14:00",
-            "toTime": "14:50"
-          }
-        ]
-      }
-    ]
+    "classes": []
   },
   {
     "career": "UGRD",
@@ -8636,6 +8581,60 @@
             ],
             "fromTime": "14:30",
             "toTime": "17:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MGMT",
+    "number": "6501P",
+    "code": "MGMT6501P",
+    "name": "Crisis Communications & Reputation Management",
+    "description": "Through discussions and real-world examples, the course equips students with a comprehensive understanding of crisis communications and reputation management. Students will develop a foundation in crisis mitigation strategies, including addressing challenges posed by artificial intelligence and the spread of disinformation. With this in mind, this course offers a highly engaging MSc elective on modern crisis communications and reputation management, designed to help students elevate their preparedness in facing real-life issues in business.\nIn addition to theoretical knowledge, students will gain hands-on experience in managing reputation and crafting communication strategies. Case studies and simulations will teach them to create impactful messaging, manage stakeholder perceptions, and implement strategic response plans. The course emphasizes the importance of trust—its preservation, erosion, and restoration—helping students analyze trust dynamics within organizations.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1257",
+        "remarks": "> Instructor : Mr CALENDRIER Antoine\n> For SBM TPG students only\n> Add/Drop Deadline : 9-Jun-2025",
+        "quota": 60,
+        "enroll": 53,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "G003, LSK Bldg (75)",
+            "fromDate": "2025-06-07",
+            "toDate": "2025-06-28",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "G003, LSK Bldg (75)",
+            "fromDate": "2025-06-07",
+            "toDate": "2025-06-28",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
           }
         ]
       }
