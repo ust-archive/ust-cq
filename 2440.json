@@ -6575,7 +6575,7 @@
         "number": "1230",
         "remarks": "> For SBM TPG students only\n> Add/Drop Deadline : 16-Jun-2025",
         "quota": 60,
-        "enroll": 41,
+        "enroll": 0,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -7392,17 +7392,58 @@
   {
     "career": "UGRD",
     "subject": "MARK",
-    "number": "3420",
-    "code": "MARK3420",
-    "name": "Consumer Behavior",
-    "description": "Psychological concepts such as perception, learning and motivation, sociological concepts such as reference groups, family and culture and theories of purchase decision processes underlying consumer buying behavior.",
+    "number": "1220",
+    "code": "MARK1220",
+    "name": "Marketing and Society",
+    "description": "This course will challenge the dynamics of marketing and the role it now plays within a social, sustainable and/or ethical context, in industries like Fashion, Food, Cigarettes and Alcohol, Social Media, NFT’s, E-Sports and Recycling. We explore and analyze current social issues affecting marketing decisions within the context of business strategy. This course aims to help students understand the dynamics of marketing decision-making and the impact these decisions have on society's well-being/\"bad-being\". Students should be able to: (i) appreciate the variety of social, political and economic forces affecting marketing organizations at the global and local level; (ii) identify/analyze current public issues in the interplay between marketing and society, such as advertising to children, junk food, and climate change; (iii) critically evaluate the debates around the ethical responsibilities of marketers; (iv) apply the above learning to real world cases. Students will gain the ability to apply basic theoretical and analytical frameworks to real world marketing problems and cases and reflect on their own behavior and experiences as consumers.",
     "previousCodes": "",
-    "prerequisites": "MARK 2120",
+    "prerequisites": "",
     "corequisites": "",
-    "exclusions": "",
-    "credits": 4,
-    "attributes": [],
-    "classes": []
+    "exclusions": "CORE 1360",
+    "credits": 3,
+    "attributes": [
+      {
+        "attribute": "4Y",
+        "value": "13",
+        "attributeDescription": "Students admitted before 2022",
+        "valueDescription": "Common Core (SA) for 36-credit program"
+      },
+      {
+        "attribute": "CC22",
+        "value": "28",
+        "attributeDescription": "Students admitted from 2022",
+        "valueDescription": "Common Core (SA) for 30-credit program"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1258",
+        "remarks": "> Add/Drop Deadline: 17-Jul-2025",
+        "quota": 50,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "SALVACRUZ, Joseph"
+            ],
+            "venue": "G003, LSK Bldg (75)",
+            "fromDate": "2025-07-14",
+            "toDate": "2025-08-08",
+            "weekdays": [
+              1,
+              3,
+              5
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
+          }
+        ]
+      }
+    ]
   },
   {
     "career": "UGRD",
@@ -10016,7 +10057,7 @@
         "number": "1231",
         "remarks": "> Instructor : Mr KWOK, Felix \n> For SBM TPG students only\n> Add/Drop Deadline : 9-Jun-2025",
         "quota": 60,
-        "enroll": 49,
+        "enroll": 0,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
