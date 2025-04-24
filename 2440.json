@@ -6574,11 +6574,47 @@
         "section": "L2",
         "number": "1230",
         "remarks": "> For SBM TPG students only\n> Add/Drop Deadline : 16-Jun-2025",
-        "quota": 60,
-        "enroll": 0,
+        "quota": 65,
+        "enroll": 41,
         "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "BA",
+            "quota": 8,
+            "enroll": 5
+          },
+          {
+            "name": "ECON",
+            "quota": 5,
+            "enroll": 0
+          },
+          {
+            "name": "FINA",
+            "quota": 5,
+            "enroll": 5
+          },
+          {
+            "name": "GO",
+            "quota": 32,
+            "enroll": 21
+          },
+          {
+            "name": "ISM",
+            "quota": 7,
+            "enroll": 6
+          },
+          {
+            "name": "MARK",
+            "quota": 5,
+            "enroll": 4
+          },
+          {
+            "name": "MIMT",
+            "quota": 3,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -8646,10 +8682,36 @@
         "number": "1257",
         "remarks": "> Instructor : Mr CALENDRIER, Antoine\n> For SBM TPG students only\n> Add/Drop Deadline : 9-Jun-2025",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 23,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "BA",
+            "quota": 17,
+            "enroll": 4
+          },
+          {
+            "name": "ECON",
+            "quota": 10,
+            "enroll": 9
+          },
+          {
+            "name": "ISM",
+            "quota": 20,
+            "enroll": 7
+          },
+          {
+            "name": "MARK",
+            "quota": 11,
+            "enroll": 7
+          },
+          {
+            "name": "MIMT",
+            "quota": 2,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -10057,10 +10119,41 @@
         "number": "1231",
         "remarks": "> Instructor : Mr KWOK, Felix \n> For SBM TPG students only\n> Add/Drop Deadline : 9-Jun-2025",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 49,
         "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "BA",
+            "quota": 17,
+            "enroll": 14
+          },
+          {
+            "name": "ECON",
+            "quota": 10,
+            "enroll": 5
+          },
+          {
+            "name": "FINA",
+            "quota": 12,
+            "enroll": 12
+          },
+          {
+            "name": "ISM",
+            "quota": 7,
+            "enroll": 6
+          },
+          {
+            "name": "MARK",
+            "quota": 10,
+            "enroll": 10
+          },
+          {
+            "name": "MIMT",
+            "quota": 4,
+            "enroll": 2
+          }
+        ],
         "schedule": [
           {
             "instructors": [
