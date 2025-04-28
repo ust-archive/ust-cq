@@ -32810,6 +32810,45 @@
   {
     "career": "EXEC",
     "subject": "EMBA",
+    "number": "5070",
+    "code": "EMBA5070",
+    "name": "Statistical Decision Analysis",
+    "description": "Explores the use of sample data for purposes of estimating, predicting, forecasting, and decision-making.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4559",
+        "remarks": "> For Kellogg-HKUST EMBA students only\n> Instructor : Prof. SCHMEDDERS, Karl \n> Class Duration/Dates : 07-Mar-2025 to 09-Mar-2025 and 14-Mar-2025 to 16-Mar-2025\n> Add/Drop Deadline : 07-Mar-2025",
+        "quota": 29,
+        "enroll": 29,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-03-07",
+            "toDate": "2025-03-16",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "EMBA",
     "number": "5660",
     "code": "EMBA5660",
     "name": "Capstone",
