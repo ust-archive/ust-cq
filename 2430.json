@@ -3272,14 +3272,14 @@
         "number": "1614",
         "remarks": " ",
         "quota": 70,
-        "enroll": 13,
+        "enroll": 14,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BEHI",
             "quota": 65,
-            "enroll": 12
+            "enroll": 13
           },
           {
             "name": "MCEE",
@@ -104696,9 +104696,35 @@
             ],
             "venue": "TBA",
             "fromDate": "2025-04-16",
+            "toDate": "2025-04-30",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "CHEW, Thian"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-05-14",
             "toDate": "2025-05-28",
             "weekdays": [
               3
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "CHEW, Thian"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-05-16",
+            "toDate": "2025-05-16",
+            "weekdays": [
+              5
             ],
             "fromTime": "19:00",
             "toTime": "22:20"
