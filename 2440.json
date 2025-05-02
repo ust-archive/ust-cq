@@ -31,7 +31,7 @@
         "number": "1001",
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 75,
-        "enroll": 49,
+        "enroll": 48,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -668,7 +668,7 @@
         "number": "1162",
         "remarks": "> Add/Drop Deadline: 17-Jul-2025",
         "quota": 50,
-        "enroll": 17,
+        "enroll": 16,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -827,7 +827,7 @@
         "remarks": "> Add/Drop Deadline: 15-Jul-2025",
         "quota": 64,
         "enroll": 64,
-        "waitlist": 60,
+        "waitlist": 61,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -853,7 +853,7 @@
         "remarks": " ",
         "quota": 32,
         "enroll": 32,
-        "waitlist": 39,
+        "waitlist": 40,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -903,7 +903,7 @@
         "remarks": " ",
         "quota": 64,
         "enroll": 64,
-        "waitlist": 60,
+        "waitlist": 61,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -1678,7 +1678,7 @@
         "number": "1170",
         "remarks": "> Add/Drop Deadline: 21-Jun-2025",
         "quota": 60,
-        "enroll": 35,
+        "enroll": 36,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1717,7 +1717,7 @@
         "number": "1171",
         "remarks": " ",
         "quota": 60,
-        "enroll": 35,
+        "enroll": 36,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1883,7 +1883,7 @@
         "number": "1029",
         "remarks": "> This course is a self-learning course without any face-to-face lectures or face-to-face labs. There will be an on-site in-person final exam scheduled near the end of the semester.\n> Add/Drop Deadline: 21-Jun-2025",
         "quota": 50,
-        "enroll": 1,
+        "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1906,7 +1906,7 @@
         "number": "1030",
         "remarks": " ",
         "quota": 50,
-        "enroll": 1,
+        "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2014,7 +2014,7 @@
         "number": "1071",
         "remarks": "> Add/Drop Deadline: 21-Jun-2025",
         "quota": 60,
-        "enroll": 29,
+        "enroll": 30,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2067,7 +2067,7 @@
         "number": "1072",
         "remarks": " ",
         "quota": 60,
-        "enroll": 29,
+        "enroll": 30,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2591,7 +2591,7 @@
         "number": "1191",
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 30,
-        "enroll": 13,
+        "enroll": 12,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2618,7 +2618,7 @@
         "number": "1192",
         "remarks": " ",
         "quota": 30,
-        "enroll": 13,
+        "enroll": 12,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -3251,7 +3251,7 @@
         "number": "1139",
         "remarks": "> Add/Drop Deadline: 19-Jun-2025",
         "quota": 50,
-        "enroll": 18,
+        "enroll": 19,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -3278,7 +3278,7 @@
         "number": "1141",
         "remarks": " ",
         "quota": 50,
-        "enroll": 18,
+        "enroll": 19,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -3304,7 +3304,7 @@
         "number": "1140",
         "remarks": " ",
         "quota": 50,
-        "enroll": 18,
+        "enroll": 19,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -3471,6 +3471,45 @@
             ],
             "fromTime": "09:00",
             "toTime": "11:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "EMIA",
+    "number": "4990",
+    "code": "EMIA4990",
+    "name": "Interdisciplinary Capstone Design",
+    "description": "This course is to be taken simultaneously with a Final Year or Capstone Project offered by a student’s enrolled Major.  Students will apply knowledge learnt in the Extended Major and interdisciplinary problem-solving skills to solve real-world problems in their Major areas.  Approval from EMIA is required to ensure the Final Year or Capstone Project integrates the knowledge of the extended AI major. If the enrolled Final Year or Capstone Project is in a major which is not the student's enrolled first major, they must also seek approval from their enrolled first major confirming that the project also integrates knowledge of their first major. Graded P or F. May be graded PP.",
+    "previousCodes": "IDPO4990",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1261",
+        "remarks": "> Add/Drop Deadline : 21-Jun-2025",
+        "quota": 5,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -4142,7 +4181,7 @@
         "number": "1004",
         "remarks": "> Add/Drop Deadline : 26-Jun-2025",
         "quota": 20,
-        "enroll": 4,
+        "enroll": 5,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -4242,7 +4281,7 @@
         "number": "1009",
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 100,
-        "enroll": 57,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5025,7 +5064,7 @@
         "number": "1147",
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 30,
-        "enroll": 10,
+        "enroll": 11,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -5052,7 +5091,7 @@
         "number": "1148",
         "remarks": " ",
         "quota": 30,
-        "enroll": 10,
+        "enroll": 11,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -5589,7 +5628,7 @@
         "remarks": "> Instructor : YE, Kai\n> Supervisor : Prof KOH, Tat Koon\n> Add/Drop Deadline : 19-Jun-2025",
         "quota": 25,
         "enroll": 2,
-        "waitlist": 2,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [
           {
@@ -5711,7 +5750,7 @@
         "remarks": " ",
         "quota": 25,
         "enroll": 2,
-        "waitlist": 2,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -7693,7 +7732,7 @@
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 3,
+        "waitlist": 11,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -7720,7 +7759,7 @@
         "remarks": " ",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 3,
+        "waitlist": 11,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -8395,7 +8434,7 @@
         "number": "1144",
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-Weekly) and Digital MBA students only\n> Add/Drop Deadline : 16-Jun-2025",
         "quota": 50,
-        "enroll": 20,
+        "enroll": 21,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -8407,7 +8446,7 @@
           {
             "name": "MBA",
             "quota": 15,
-            "enroll": 12
+            "enroll": 13
           },
           {
             "name": "MBA Bi-weekly",
@@ -8543,7 +8582,7 @@
         "number": "1257",
         "remarks": "> Instructor : Mr CALENDRIER, Antoine\n> For SBM TPG students only\n> Add/Drop Deadline : 9-Jun-2025",
         "quota": 60,
-        "enroll": 55,
+        "enroll": 54,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
@@ -9677,14 +9716,14 @@
         "number": "1204",
         "remarks": "> The class is delivered in a real-time online mode\n> For FT-MBA; PT-MBA; MBA Bi-Weekly and Di-MBA students only\n> Instructor : LOBELLO, Chris \n> Add/Drop Deadline : 22-Aug-2025",
         "quota": 24,
-        "enroll": 7,
-        "waitlist": 20,
+        "enroll": 8,
+        "waitlist": 19,
         "consent": false,
         "reservedQuota": [
           {
             "name": "Digital MBA",
             "quota": 20,
-            "enroll": 3
+            "enroll": 4
           },
           {
             "name": "MBA",
@@ -9760,14 +9799,14 @@
         "number": "1201",
         "remarks": "> For PT-MBA and Bi-weekly MBA students only\n> Instructor : YIU, Kenny\n> Venue on 3-Jun-2025 and 6-Jun-2025 : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 25-May-2025",
         "quota": 60,
-        "enroll": 37,
+        "enroll": 38,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MBA",
             "quota": 30,
-            "enroll": 22
+            "enroll": 23
           },
           {
             "name": "MBA Bi-weekly",
@@ -10166,14 +10205,14 @@
         "number": "1111",
         "remarks": "> For Digital MBA Year 2 students only\n> Add/Drop Deadline : 06-Jun-2025",
         "quota": 25,
-        "enroll": 21,
+        "enroll": 20,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "Digital MBA",
             "quota": 25,
-            "enroll": 21
+            "enroll": 20
           }
         ],
         "schedule": [
@@ -10502,14 +10541,14 @@
         "number": "1187",
         "remarks": "> For PT-MBA Year 2 or above and MBA (Bi-weekly) Year 2 or above students only\n> Add/Drop Deadline : 22-Jun-2025",
         "quota": 2,
-        "enroll": 0,
+        "enroll": 2,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
           {
             "name": "MBA",
             "quota": 2,
-            "enroll": 0
+            "enroll": 2
           }
         ],
         "schedule": [
@@ -10901,7 +10940,7 @@
         "number": "1103",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 120,
-        "enroll": 107,
+        "enroll": 108,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
