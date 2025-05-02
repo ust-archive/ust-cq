@@ -108,7 +108,7 @@
         "number": "1206",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> Instructor : COSTA, Antonino\n> Supervisor : Prof TANG, Chao\n> Add/Drop Deadline : 19-Jun-2025",
         "quota": 20,
-        "enroll": 2,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -827,7 +827,7 @@
         "remarks": "> Add/Drop Deadline: 15-Jul-2025",
         "quota": 64,
         "enroll": 64,
-        "waitlist": 61,
+        "waitlist": 60,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -853,7 +853,7 @@
         "remarks": " ",
         "quota": 32,
         "enroll": 32,
-        "waitlist": 40,
+        "waitlist": 39,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -903,7 +903,7 @@
         "remarks": " ",
         "quota": 64,
         "enroll": 64,
-        "waitlist": 61,
+        "waitlist": 60,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -2966,14 +2966,14 @@
         "number": "1236",
         "remarks": "> Add/Drop Deadline : 06-Jun-2025\n> Extended Drop Deadline : 09-Jun-2025",
         "quota": 70,
-        "enroll": 0,
+        "enroll": 4,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "EEM",
             "quota": 70,
-            "enroll": 0
+            "enroll": 4
           }
         ],
         "schedule": [
@@ -4924,7 +4924,7 @@
         "number": "1227",
         "remarks": "> Add/Drop Deadline: 17-Jul-2025",
         "quota": 50,
-        "enroll": 24,
+        "enroll": 25,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -4951,7 +4951,7 @@
         "number": "1228",
         "remarks": " ",
         "quota": 50,
-        "enroll": 24,
+        "enroll": 25,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -7231,6 +7231,137 @@
   },
   {
     "career": "TPG",
+    "subject": "MAED",
+    "number": "6980",
+    "code": "MAED6980",
+    "name": "MSc Project",
+    "description": "In this course, the student will do a project in an area of mathematics or mathematics education under the guidance of a faculty member. The project either surveys a topic, develops teaching plans and materials, or describes an investigation completed by the student.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1262",
+        "remarks": "> Students should seek the instructor's approval to take this course.\n> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
+        "quota": 3,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "KU, Yin Bon"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "R2",
+        "number": "1263",
+        "remarks": "> Students should seek the instructor's approval to take this course.\n> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
+        "quota": 3,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LEUNG, Shing Yu"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "R3",
+        "number": "1264",
+        "remarks": "> Students should seek the instructor's approval to take this course.\n> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
+        "quota": 4,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "MAK, Hugo Wai Leung"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "R4",
+        "number": "1265",
+        "remarks": "> Students should seek the instructor's approval to take this course.\n> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
+        "quota": 3,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "XU, Xiaoyu"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "R5",
+        "number": "1266",
+        "remarks": "> Students should seek the instructor's approval to take this course.\n> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
+        "quota": 2,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "YU, Chi Wai"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
     "subject": "MAFS",
     "number": "5270",
     "code": "MAFS5270",
@@ -7661,7 +7792,7 @@
         "number": "1155",
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 50,
-        "enroll": 40,
+        "enroll": 42,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -7688,7 +7819,7 @@
         "number": "1156",
         "remarks": " ",
         "quota": 50,
-        "enroll": 40,
+        "enroll": 42,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -10818,7 +10949,7 @@
         "number": "1100",
         "remarks": "> Add Drop Deadline : 19-Jun-2025",
         "quota": 120,
-        "enroll": 9,
+        "enroll": 10,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
