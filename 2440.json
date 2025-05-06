@@ -827,7 +827,7 @@
         "remarks": "> Add/Drop Deadline: 15-Jul-2025",
         "quota": 64,
         "enroll": 64,
-        "waitlist": 58,
+        "waitlist": 56,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -853,7 +853,7 @@
         "remarks": " ",
         "quota": 32,
         "enroll": 32,
-        "waitlist": 35,
+        "waitlist": 33,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -903,7 +903,7 @@
         "remarks": " ",
         "quota": 64,
         "enroll": 64,
-        "waitlist": 58,
+        "waitlist": 56,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -1678,7 +1678,7 @@
         "number": "1170",
         "remarks": "> Add/Drop Deadline: 21-Jun-2025",
         "quota": 60,
-        "enroll": 39,
+        "enroll": 40,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1717,7 +1717,7 @@
         "number": "1171",
         "remarks": " ",
         "quota": 60,
-        "enroll": 39,
+        "enroll": 40,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2337,6 +2337,84 @@
             ],
             "fromTime": "16:30",
             "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "COMP",
+    "number": "4900",
+    "code": "COMP4900",
+    "name": "Academic and Professional Development",
+    "description": "This course is for academic and professional development of students in the programs offered by the Department of Computer Science and Engineering. Activities may include seminars, workshops, advising and sharing sessions, interaction with faculty and teaching staff, and discussion with student peers or alumni. Graded P/PP/F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1268",
+        "remarks": "> Add/Drop Deadline: 21-Jun-2025",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LEUNG, Wai Ting"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "COMP",
+    "number": "4971D",
+    "code": "COMP4971D",
+    "name": "Independent Work",
+    "description": "Independent studies or projects under the directed guidance of a faculty member on a computer science topic. A written report, presentation, and/or an examination are required. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. May be repeated for credits.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 4,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1267",
+        "remarks": "> Add/Drop Deadline: 21-Jun-2025",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "SONG, Yangqiu"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -4978,6 +5056,45 @@
   {
     "career": "UGRD",
     "subject": "IEDA",
+    "number": "1901",
+    "code": "IEDA1901",
+    "name": "Industrial Training and Experience",
+    "description": "This course is intended to provide UG students with practical hands-on training in the form of either a full-time internship training or industrial training course in an industrial simulated environment. Students who opt for internship training should complete a full-time internship training for a period of at least 4 weeks in an organization or company recognized by the Department for providing qualified internship training relevant to the industrial engineering and decision analytics. Students must also complete the USTSIEB Safety Training module. For IEDA students in their second year of study or above only. Students should seek approval of the internship coordinator for enrollment in the course. Graded P, PP or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1271",
+        "remarks": "> Add/Drop Deadline: 21-Jun-2025",
+        "quota": 5,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "IEDA",
     "number": "2410",
     "code": "IEDA2410",
     "name": "Introduction to Modern Logistics",
@@ -5040,6 +5157,84 @@
             ],
             "fromTime": "12:30",
             "toTime": "13:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "IEDA",
+    "number": "4920",
+    "code": "IEDA4920",
+    "name": "Decision Analytics Final Year Project",
+    "description": "This is a one-year course undertaken by students in their final year. The course will require students to engage in a company sponsored project that provides practical experience to the students on topics they have learnt in their major courses. The project requires regular involvement by a specific professional in the sponsoring company, and will be supervised by a faculty in the department. Depending on the complexity of the project and the capacity of the sponsoring company, the project may be undertaken by either a single student, or a group with a maximum of four students. For projects with multiple members in a group, the role and deliverables of each student must be clearly laid out at the outset. For DA students in their fourth year of study only. May be graded PP.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "IEDA 4901, IEDA 4960",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1269",
+        "remarks": "> Add/Drop Deadline: 21-Jun-2025",
+        "quota": 5,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "IEDA",
+    "number": "4960",
+    "code": "IEDA4960",
+    "name": "Industrial Engineering and Engineering Management Final Year Project",
+    "description": "A one year long final year project related to industrial engineering and engineering management. Supervised by a faculty member. A project proposal and a final report are required. Credit load will be spread over the year. For IEEM students in their fourth year of study only. May be graded PP.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "IEDA 4901, IEDA 4920, IEDA 4930, IEDA 4990",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1270",
+        "remarks": "> Add/Drop Deadline: 21-Jun-2025",
+        "quota": 5,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -7271,7 +7466,7 @@
         "number": "1263",
         "remarks": "> Students should seek the instructor's approval to take this course.\n> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 3,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -7340,7 +7535,7 @@
         "number": "1266",
         "remarks": "> Students should seek the instructor's approval to take this course.\n> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 2,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -9229,7 +9424,7 @@
         "number": "1042",
         "remarks": "> Add/Drop Deadline : 23-Jun-2025",
         "quota": 120,
-        "enroll": 31,
+        "enroll": 32,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -11098,7 +11293,7 @@
         "number": "1105",
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 120,
-        "enroll": 51,
+        "enroll": 53,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
