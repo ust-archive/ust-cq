@@ -5947,7 +5947,7 @@
         "number": "1817",
         "remarks": " ",
         "quota": 50,
-        "enroll": 22,
+        "enroll": 21,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -18282,7 +18282,7 @@
         "number": "1103",
         "remarks": " ",
         "quota": 100,
-        "enroll": 35,
+        "enroll": 37,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -20967,7 +20967,7 @@
         "number": "4336",
         "remarks": "> For DBA students only\n> Class Duration : 17-May-2025 to 18-May-2025\n> Add/Drop Deadline : 17-May-2025",
         "quota": 18,
-        "enroll": 17,
+        "enroll": 16,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -41294,7 +41294,7 @@
         "schedule": [
           {
             "instructors": [
-              "YU, Jialin"
+              "TBA"
             ],
             "venue": "TBA",
             "fromDate": "2025-03-09",
@@ -41333,7 +41333,7 @@
         "schedule": [
           {
             "instructors": [
-              "YU, Jialin"
+              "TBA"
             ],
             "venue": "TBA",
             "fromDate": "2025-03-12",
@@ -52513,12 +52513,12 @@
     "number": "6660G",
     "code": "ISDN6660G",
     "name": "Integrative Systems and Design Seminar",
-    "description": "Series of seminars by faculty and guest speakers. Regular MPhil(ISD) students must register and pass this course in at least two terms. Regular PhD(ISD) students must register and pass this course in at least four terms. Graded P or F.",
+    "description": "Series of seminars by faculty, guest speakers and senior graduate students. Regular MPhil(ISD) students must register and pass this course in at least two terms. Regular PhD(ISD) students must register and pass this course in at least four terms. Graded P or F.",
     "previousCodes": "",
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "",
-    "credits": 0,
+    "credits": 1,
     "attributes": [],
     "classes": [
       {
@@ -103022,14 +103022,14 @@
         "number": "1554",
         "remarks": " ",
         "quota": 200,
-        "enroll": 108,
+        "enroll": 109,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MPP",
             "quota": 200,
-            "enroll": 108
+            "enroll": 109
           }
         ],
         "schedule": [

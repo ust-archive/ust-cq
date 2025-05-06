@@ -342,14 +342,14 @@
         "number": "1098",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 04-Jun-2025",
         "quota": 60,
-        "enroll": 9,
+        "enroll": 10,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 60,
-            "enroll": 9
+            "enroll": 10
           }
         ],
         "schedule": [
@@ -958,7 +958,7 @@
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 60,
         "enroll": 60,
-        "waitlist": 18,
+        "waitlist": 19,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -1249,7 +1249,7 @@
         "remarks": "> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 50,
         "enroll": 12,
-        "waitlist": 0,
+        "waitlist": 1,
         "consent": false,
         "reservedQuota": [
           {
@@ -2014,7 +2014,7 @@
         "number": "1071",
         "remarks": "> Add/Drop Deadline: 21-Jun-2025",
         "quota": 60,
-        "enroll": 32,
+        "enroll": 33,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2067,7 +2067,7 @@
         "number": "1072",
         "remarks": " ",
         "quota": 60,
-        "enroll": 32,
+        "enroll": 33,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2408,6 +2408,45 @@
           {
             "instructors": [
               "SONG, Yangqiu"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "COMP",
+    "number": "4971H",
+    "code": "COMP4971H",
+    "name": "Independent Work",
+    "description": "Independent studies or projects under the directed guidance of a faculty member on a computer science topic. A written report, presentation, and/or an examination are required. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. May be repeated for credits.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 4,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1272",
+        "remarks": "> Add/Drop Deadline: 21-Jun-2025",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "FUNG, Yi R. (May)"
             ],
             "venue": "TBA",
             "fromDate": "2025-06-16",
@@ -7552,6 +7591,29 @@
             "toTime": null
           }
         ]
+      },
+      {
+        "section": "R6",
+        "number": "1273",
+        "remarks": "> Students should seek the instructor's approval to take this course.\n> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
+        "quota": 6,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "FUNG, Jimmy Chi Hung"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
       }
     ]
   },
@@ -8058,7 +8120,7 @@
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 18,
+        "waitlist": 19,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -8085,7 +8147,7 @@
         "remarks": " ",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 18,
+        "waitlist": 19,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -8266,7 +8328,7 @@
         "number": "1159",
         "remarks": "> Add/Drop Deadline: 19-Jun-2025",
         "quota": 60,
-        "enroll": 4,
+        "enroll": 5,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -11267,7 +11329,7 @@
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 120,
         "enroll": 120,
-        "waitlist": 12,
+        "waitlist": 13,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
