@@ -2784,7 +2784,7 @@
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 30,
         "enroll": 30,
-        "waitlist": 8,
+        "waitlist": 9,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -2811,7 +2811,7 @@
         "remarks": " ",
         "quota": 30,
         "enroll": 30,
-        "waitlist": 8,
+        "waitlist": 9,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -2948,14 +2948,14 @@
         "number": "1229",
         "remarks": "> For FT-MBA; PT-MBA; MBA Bi-Weekly and Digital MBA students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 16-Jun-2025",
         "quota": 65,
-        "enroll": 56,
+        "enroll": 57,
         "waitlist": 4,
         "consent": false,
         "reservedQuota": [
           {
             "name": "Digital MBA",
             "quota": 30,
-            "enroll": 28
+            "enroll": 29
           },
           {
             "name": "MBA",
@@ -3739,6 +3739,201 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "WOO, Kam Tim"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENGG",
+    "number": "3961E",
+    "code": "ENGG3961E",
+    "name": "Robotics Special Project: RoboMasters 2025 Robot Contest",
+    "description": "RoboMasters Robot Contest is a robot competition platform created for young engineers. Participating teams will get out of the classroom and independently develop and manufacture robots for the shooting confrontation. The contest will provide them with an opportunity to obtain precious practical skills and use strategic thinking, combine theories with practice and create advanced smart robots through fierce competition. Each year, new game field, rules of competition (https://www.robomaster.com/en-US/robo/rm) and a new technical challenge are introduced to the competition. Enrollment in the project course may require instructor's approval. May be graded PP.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1274",
+        "remarks": "> The credit load will usually be spread in the following pattern: Spring: 3; Summer: 1\n> Add/Drop Deadline: 21-Jun-2025",
+        "quota": 37,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LEUNG, Suk Wai Winnie"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENGG",
+    "number": "3961F",
+    "code": "ENGG3961F",
+    "name": "Robotics Special Project: ABU ROBOCON 2025",
+    "description": "The Asia-Pacific Robot Contest (ABU Robocon) is an Asian Oceanian College robot competition for young engineers. Student teams will design and manufacture robots for tackling different missions and challenges which are provided by the organizer. Normally, a project report is required. Enrollment in the project course may require instructor's approval. May be graded PP.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1275",
+        "remarks": "> The credit load will usually be spread in the following pattern: Spring: 3; Summer: 1\n> Add/Drop Deadline: 21-Jun-2025",
+        "quota": 36,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "WOO, Kam Tim"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENGG",
+    "number": "3961G",
+    "code": "ENGG3961G",
+    "name": "Robotics Special Project: MATE ROV Competition 2025",
+    "description": "The Marine Advanced Technology Education (MATE) Remotely Operated Vehicle (ROV) Competition is an international competition for young engineers. Student teams will design and manufacture the underwater robot for tackling different missions and challenges which are provided by the organizer. Normally, a project report is required. Enrollment in the project course may require instructor's approval. May be graded PP.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1276",
+        "remarks": "> The credit load will usually be spread in the following pattern: Spring: 3; Summer: 1\n> Add/Drop Deadline: 21-Jun-2025",
+        "quota": 19,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "WOO, Kam Tim"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENGG",
+    "number": "3961H",
+    "code": "ENGG3961H",
+    "name": "Robotics Special Project: Intelligent Racing Competition 2025",
+    "description": "The NXP Cup National University Students Intelligent Car Racing is a national competition for young engineers. Student teams will design and manufacture the racing model car for tackling different missions and challenges which are provided by the organizer. Normally, a project report is required. Enrollment in the project course may require instructor's approval. May be graded PP.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1277",
+        "remarks": "> The credit load will usually be spread in the following pattern: Spring: 3; Summer: 1\n> Add/Drop Deadline: 21-Jun-2025",
+        "quota": 17,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "WOO, Kam Tim"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENGG",
+    "number": "3961I",
+    "code": "ENGG3961I",
+    "name": "Robotics Special Project: Unmanned Aerial Vehicle Competition 2025",
+    "description": "There are various of Unmanned Aerial Vehicle Competition in the world. Student teams will design and manufacture the drones for tackling different missions and challenges which are provided by the organizer. Normally, a project report is required. Enrollment in the project course may require instructor's approval. May be graded PP.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1278",
+        "remarks": "> The credit load will usually be spread in the following pattern: Spring: 3; Summer: 1\n> Add/Drop Deadline: 21-Jun-2025",
+        "quota": 11,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -4807,7 +5002,7 @@
         "number": "1094",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 100,
-        "enroll": 23,
+        "enroll": 24,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -7596,7 +7791,7 @@
         "section": "R6",
         "number": "1273",
         "remarks": "> Students should seek the instructor's approval to take this course.\n> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
-        "quota": 6,
+        "quota": 10,
         "enroll": 0,
         "waitlist": 0,
         "consent": true,
@@ -10187,14 +10382,14 @@
         "number": "1201",
         "remarks": "> For PT-MBA and Bi-weekly MBA students only\n> Instructor : YIU, Kenny\n> Venue on 3-Jun-2025 and 6-Jun-2025 : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 25-May-2025",
         "quota": 60,
-        "enroll": 41,
+        "enroll": 42,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MBA",
             "quota": 30,
-            "enroll": 25
+            "enroll": 26
           },
           {
             "name": "MBA Bi-weekly",
@@ -11355,7 +11550,7 @@
         "number": "1105",
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 120,
-        "enroll": 52,
+        "enroll": 53,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -11708,6 +11903,45 @@
             ],
             "fromTime": "14:00",
             "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "TEMG",
+    "number": "4970E",
+    "code": "TEMG4970E",
+    "name": "T&M IBPC Startup Project: T&M ABPC in Taiwan: AIoT and AI Edge Computing",
+    "description": "The purpose of the IBPC is to create an opportunity for aspiring young students to work in a multicultural environment working with students from mostly the Asia Pacific region to develop an innovative business leveraging breakthroughs in technology and business strategies to impact human living conditions. The pedagogy of this experiential course relies on participating universities to prepare students with learning the Lean Launchpad methodology, Business Model Canvas, Go-to-Market strategies, P&L planning, and trendy technologies, and subject matter familiarity such that they “hit the ground running”. The actual competition is 10 to 11 days of intensive residential period where students are assigned teammates from other countries, conduct field research and receive daily coaching by faculty and industry subject matter experts.  After the competition, there is time for celebration, networking and local cultural exploration. During the trip, students are expected to commit over 8 hours per day in a highly intensive, competitive and demanding environment. Some information will be gathered from primary sources in the local language while all discussion, planning and presentations will be conducted in English for an immersive international culture experience. Instructor consent is required for this course.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1279",
+        "remarks": "> Add/Drop Deadline: 21-Jun-2025",
+        "quota": 16,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LIN, Betty Fwei-chien"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
