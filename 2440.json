@@ -31,8 +31,8 @@
         "number": "1001",
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 75,
-        "enroll": 74,
-        "waitlist": 0,
+        "enroll": 75,
+        "waitlist": 1,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -81,7 +81,7 @@
         "number": "1205",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> Instructor : CAO, Zhe\n> Supervisor : Prof TANG, Chao\n> Add/Drop Deadline : 19-Jun-2025",
         "quota": 20,
-        "enroll": 6,
+        "enroll": 7,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -151,7 +151,7 @@
         "number": "1020",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 74,
-        "enroll": 14,
+        "enroll": 15,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -668,7 +668,7 @@
         "number": "1162",
         "remarks": "> Add/Drop Deadline: 17-Jul-2025",
         "quota": 50,
-        "enroll": 20,
+        "enroll": 21,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -958,7 +958,7 @@
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 60,
         "enroll": 60,
-        "waitlist": 31,
+        "waitlist": 32,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -1200,14 +1200,14 @@
         "number": "1247",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 50,
-        "enroll": 45,
+        "enroll": 46,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "CIEM",
             "quota": 50,
-            "enroll": 45
+            "enroll": 46
           }
         ],
         "schedule": [
@@ -1945,7 +1945,7 @@
         "number": "1031",
         "remarks": "> This course is a self-learning course without any face-to-face lectures or face-to-face labs. There will be an on-site in-person final exam scheduled near the end of the semester.\n> Add/Drop Deadline: 21-Jun-2025",
         "quota": 50,
-        "enroll": 6,
+        "enroll": 7,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1968,7 +1968,7 @@
         "number": "1032",
         "remarks": " ",
         "quota": 50,
-        "enroll": 6,
+        "enroll": 7,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2256,7 +2256,7 @@
         "number": "1142",
         "remarks": "> Add/Drop Deadline: 26-Jun-2025",
         "quota": 60,
-        "enroll": 6,
+        "enroll": 8,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2307,7 +2307,7 @@
         "number": "1143",
         "remarks": " ",
         "quota": 60,
-        "enroll": 6,
+        "enroll": 8,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2400,7 +2400,7 @@
         "number": "1267",
         "remarks": "> Add/Drop Deadline: 21-Jun-2025",
         "quota": 1,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -2478,7 +2478,7 @@
         "number": "1198",
         "remarks": "> Add/Drop Deadline: 17-Jul-2025\n> Extended Drop Deadline: 22-Jul-2025",
         "quota": 20,
-        "enroll": 11,
+        "enroll": 13,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -2708,7 +2708,7 @@
         "number": "1191",
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 30,
-        "enroll": 18,
+        "enroll": 19,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2735,7 +2735,7 @@
         "number": "1192",
         "remarks": " ",
         "quota": 30,
-        "enroll": 18,
+        "enroll": 19,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2784,7 +2784,7 @@
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 30,
         "enroll": 30,
-        "waitlist": 11,
+        "waitlist": 12,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -2811,7 +2811,7 @@
         "remarks": " ",
         "quota": 30,
         "enroll": 30,
-        "waitlist": 11,
+        "waitlist": 12,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -4070,6 +4070,107 @@
   },
   {
     "career": "UGRD",
+    "subject": "ENTR",
+    "number": "4000E",
+    "code": "ENTR4000E",
+    "name": "Start-up Bootcamp",
+    "description": "This course is designed for students seeking first-hand experience in transforming a product or technology idea into a viable startup. Participants will learn the processes and resources necessary to build a startup, taking an existing project idea through conceptual design and prototyping stages, ultimately pitching their startup idea to external experts. Key topics include design thinking, product conceptualization, market research, industrial design, technology review, supply chain management, business model development, as well as project pitching skills. The course will be delivered through lectures, workshops, visits, hands-on sessions, and project presentations, condensing into a 10-day boot camp format. Students will receive mentorship from the teaching team and external experts and will have opportunities to collaborate with peers from other institutions. Company visits, field trips, and an exploration of the Great Bay Area (GBA) supply chain landscape will be included, along with interactions with experienced entrepreneurs. Instructor’s approval is required.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "ENTR 3360, ISDN 3360",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1285",
+        "remarks": "> Add/Drop Deadline : 02-Jul-2025",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LEUNG, Winnie"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-07-02",
+            "toDate": "2025-07-12",
+            "weekdays": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ],
+            "fromTime": "09:00",
+            "toTime": "20:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENTR",
+    "number": "4000F",
+    "code": "ENTR4000F",
+    "name": "Startup Sprint: Mastering the Launch Process",
+    "description": "Startup Sprint: Mastering the Launch Process is a dynamic, hands-on course designed for aspiring entrepreneurs and innovators eager to turn ideas into real-world ventures. Students will learn the essentials of launching a startup, from market research and customer discovery to product positioning, pricing, and go-to-market (GTM) planning. The course blends interactive workshops, case studies, and expert insights to help participants develop actionable launch strategies and navigate the complexities of the startup landscape. Working individually or in teams, students will apply proven frameworks to validate their ideas, craft compelling value propositions, and build concise GTM plans. By the end of the course, participants will have the confidence and practical skills needed to drive successful product launches and lay the foundation for sustainable business growth. Whether you have a business idea or simply want to learn how startups succeed, this course is your sprint to startup mastery. Instructor's approval is required. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1286",
+        "remarks": "> Add/Drop Deadline : 21-Jun-2025",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "HUANG, Erwin"
+            ],
+            "venue": "Rm 2463, Lift 25-26 (42)",
+            "fromDate": "2025-06-18",
+            "toDate": "2025-07-09",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "14:00",
+            "toTime": "16:50"
+          },
+          {
+            "instructors": [
+              "HUANG, Erwin"
+            ],
+            "venue": "Rm 2463, Lift 25-26 (42)",
+            "fromDate": "2025-07-11",
+            "toDate": "2025-07-11",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "14:00",
+            "toTime": "16:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
     "subject": "ENVR",
     "number": "1080",
     "code": "ENVR1080",
@@ -4106,7 +4207,7 @@
         "number": "1125",
         "remarks": "> The class is delivered in a experiential learning mode\n> Add/Drop Deadline : 17-Jul-2025",
         "quota": 60,
-        "enroll": 19,
+        "enroll": 20,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -4162,7 +4263,7 @@
         "number": "1126",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 60,
-        "enroll": 23,
+        "enroll": 25,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -4593,7 +4694,7 @@
         "number": "1009",
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 100,
-        "enroll": 91,
+        "enroll": 97,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -4881,7 +4982,7 @@
         "number": "1065",
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 100,
-        "enroll": 53,
+        "enroll": 54,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -4921,7 +5022,7 @@
         "number": "1066",
         "remarks": " ",
         "quota": 100,
-        "enroll": 53,
+        "enroll": 54,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5083,7 +5184,7 @@
         "number": "1096",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025",
         "quota": 100,
-        "enroll": 28,
+        "enroll": 29,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5236,7 +5337,7 @@
         "number": "1227",
         "remarks": "> Add/Drop Deadline: 17-Jul-2025",
         "quota": 50,
-        "enroll": 29,
+        "enroll": 31,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5263,7 +5364,7 @@
         "number": "1228",
         "remarks": " ",
         "quota": 50,
-        "enroll": 29,
+        "enroll": 31,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5861,7 +5962,7 @@
         "number": "1067",
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 80,
-        "enroll": 10,
+        "enroll": 12,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -8245,7 +8346,7 @@
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 6,
+        "waitlist": 8,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -8272,7 +8373,7 @@
         "remarks": " ",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 6,
+        "waitlist": 8,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -8315,7 +8416,7 @@
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 23,
+        "waitlist": 24,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -8342,7 +8443,7 @@
         "remarks": " ",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 23,
+        "waitlist": 24,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -8481,7 +8582,7 @@
         "number": "1086",
         "remarks": "> Add/Drop Deadline: 21-Jun-2025",
         "quota": 130,
-        "enroll": 29,
+        "enroll": 31,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -8694,7 +8795,7 @@
         "number": "1194",
         "remarks": "> For MSc(GCS) students only\n> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 26,
-        "enroll": 4,
+        "enroll": 5,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -8746,7 +8847,7 @@
         "number": "1093",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 60,
-        "enroll": 28,
+        "enroll": 30,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -8789,7 +8890,7 @@
         "number": "1095",
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 60,
-        "enroll": 29,
+        "enroll": 31,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -9018,7 +9119,7 @@
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-Weekly) and Digital MBA students only\n> Add/Drop Deadline : 16-Jun-2025",
         "quota": 50,
         "enroll": 28,
-        "waitlist": 2,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [
           {
@@ -9617,7 +9718,7 @@
         "number": "1165",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 200,
-        "enroll": 46,
+        "enroll": 47,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -9741,7 +9842,7 @@
         "number": "1168",
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 25,
-        "enroll": 7,
+        "enroll": 8,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -9877,7 +9978,7 @@
         "number": "1042",
         "remarks": "> Add/Drop Deadline : 23-Jun-2025",
         "quota": 120,
-        "enroll": 38,
+        "enroll": 40,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -10464,6 +10565,45 @@
             ],
             "fromTime": "09:30",
             "toTime": "12:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "SBMT",
+    "number": "2200Y",
+    "code": "SBMT2200Y",
+    "name": "Social Enterprise Internship Program",
+    "description": "The course is intended to give business undergraduate students an opportunity to gain exposure in the area of social entrepreneurship and apply their knowledge to solve real-world challenges facing these organizations. It is conducted in the form of an internship program at a designated social enterprise under the supervision of the School of Business and Management. Approval from the course coordinator is needed prior to enrolling in the course. Graded P or F. Students may repeat the course for credits if different topics are taken.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1284",
+        "remarks": "> Add/Drop Deadline : 21-Jun-2025",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "HUANG, Allen"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -11665,7 +11805,7 @@
         "number": "1101",
         "remarks": "> The class is delivered in a self-paced online mode\n> Add/Drop Deadline : 21-Jun-2025",
         "quota": 400,
-        "enroll": 141,
+        "enroll": 145,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -11720,7 +11860,7 @@
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 120,
         "enroll": 120,
-        "waitlist": 21,
+        "waitlist": 22,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -11746,7 +11886,7 @@
         "number": "1105",
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 120,
-        "enroll": 62,
+        "enroll": 64,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -11808,7 +11948,7 @@
         "number": "1106",
         "remarks": "> The class is delivered in a blended learning mode\n> Add/Drop Deadline : 17-Jul-2025",
         "quota": 70,
-        "enroll": 15,
+        "enroll": 16,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -11919,7 +12059,7 @@
         "number": "1109",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 40,
-        "enroll": 10,
+        "enroll": 11,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
