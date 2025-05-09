@@ -935,6 +935,169 @@
   },
   {
     "career": "UGRD",
+    "subject": "CENG",
+    "number": "1980",
+    "code": "CENG1980",
+    "name": "Industrial Training",
+    "description": "A practical training course in an industrial simulated environment. For students of the Chemical and Biological Engineering Department only. Graded P, PP or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1290",
+        "remarks": "> Add/Drop Deadline: 21-Jun-2025",
+        "quota": 10,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LIU, Y.S. Marshal"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "CENG",
+    "number": "4940",
+    "code": "CENG4940",
+    "name": "Chemical Engineering Industrial Project",
+    "description": "This course is intended to provide final-year chemical engineering students with practical hands-on training in the form of a full-time or part-time internship or co-op program in an engineering company. Credit load may be spread over a year. May be graded PP. For students in Chemical Engineering, Chemical and Environmental Engineering, and Chemical and Biomolecular Engineering with approval from the department.",
+    "previousCodes": "",
+    "prerequisites": "BIEN 3910 OR CENG 3950",
+    "corequisites": "",
+    "exclusions": "CENG 4920, CENG 4930",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1291",
+        "remarks": "> Add/Drop Deadline: 21-Jun-2025",
+        "quota": 6,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LIU, Y.S. Marshal"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "CENG",
+    "number": "4950",
+    "code": "CENG4950",
+    "name": "Chem-E-Car",
+    "description": "This course is a platform for entry-level engineer students to participate in Chem-E-car competition, i.e. to design and construct a car powered by a chemical or biochemical energy source that will safely carry a specified load over a given distance and stop. The objective of this course is to develop the ability to control an electrochemical reaction, and to obtain hands-on experience on a practical engineering project, especially in chemical engineering field. Students will be given the opportunity to interact with each other, to integrate the learning experience to design and build a device, and chances to prepare for starting their future career in engineering. It is a student-led project, designed to motivate students for engineers. Graded DI/PA/F. Enrollment in the project course require instructor's approval.",
+    "previousCodes": "CENG4000I",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1292",
+        "remarks": "> Add/Drop Deadline: 21-Jun-2025",
+        "quota": 15,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LUO, Tom Zhengtang"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "LA1",
+        "number": "1294",
+        "remarks": " ",
+        "quota": 15,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LUO, Tom Zhengtang"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "T1",
+        "number": "1293",
+        "remarks": " ",
+        "quota": 15,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LUO, Tom Zhengtang"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
     "subject": "CHEM",
     "number": "1002",
     "code": "CHEM1002",
@@ -1534,7 +1697,7 @@
         "number": "1005",
         "remarks": "> Add/Drop Deadline: 21-Jun-2025",
         "quota": 30,
-        "enroll": 1,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1560,7 +1723,7 @@
         "number": "1006",
         "remarks": " ",
         "quota": 30,
-        "enroll": 1,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1686,7 +1849,7 @@
         "number": "1170",
         "remarks": "> Add/Drop Deadline: 21-Jun-2025",
         "quota": 60,
-        "enroll": 53,
+        "enroll": 54,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1725,7 +1888,7 @@
         "number": "1171",
         "remarks": " ",
         "quota": 60,
-        "enroll": 53,
+        "enroll": 54,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -4300,7 +4463,7 @@
         "number": "1125",
         "remarks": "> The class is delivered in a experiential learning mode\n> Add/Drop Deadline : 17-Jul-2025",
         "quota": 60,
-        "enroll": 25,
+        "enroll": 26,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -4356,7 +4519,7 @@
         "number": "1126",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 60,
-        "enroll": 38,
+        "enroll": 40,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -4965,7 +5128,7 @@
         "number": "1052",
         "remarks": "> Add/Drop Deadline : 15-Jul-2025",
         "quota": 40,
-        "enroll": 30,
+        "enroll": 31,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -4993,7 +5156,7 @@
         "number": "1063",
         "remarks": " ",
         "quota": 40,
-        "enroll": 30,
+        "enroll": 31,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5196,7 +5359,7 @@
         "number": "1094",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 100,
-        "enroll": 27,
+        "enroll": 26,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -7096,7 +7259,7 @@
         "number": "1199",
         "remarks": "> For MPhil and PhD students in IS only\n> Instructor : Prof. FANG Xiao\n> Add/Drop Deadline : 09-July-2025",
         "quota": 12,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -7512,7 +7675,7 @@
         "number": "1008",
         "remarks": "> Add/Drop Deadline : 16-Jun-2025",
         "quota": 120,
-        "enroll": 28,
+        "enroll": 29,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -8439,7 +8602,7 @@
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 15,
+        "waitlist": 16,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -8466,7 +8629,7 @@
         "remarks": " ",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 15,
+        "waitlist": 16,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -8940,7 +9103,7 @@
         "number": "1093",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 60,
-        "enroll": 32,
+        "enroll": 33,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -11898,7 +12061,7 @@
         "number": "1101",
         "remarks": "> The class is delivered in a self-paced online mode\n> Add/Drop Deadline : 21-Jun-2025",
         "quota": 400,
-        "enroll": 174,
+        "enroll": 175,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
