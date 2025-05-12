@@ -10748,7 +10748,7 @@
         "number": "1195",
         "remarks": "> Add/Drop Deadline : 23-Jun-2025\n> Extended Drop Deadline : 30-Jun-2025",
         "quota": 50,
-        "enroll": 20,
+        "enroll": 24,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -10846,6 +10846,45 @@
         "remarks": "> Add/Drop Deadline : 21-Jun-2025",
         "quota": 30,
         "enroll": 3,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "HUANG, Allen"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "SBMT",
+    "number": "3300P",
+    "code": "SBMT3300P",
+    "name": "Business Competitions",
+    "description": "In each business competition, students will be required to examine the conceptual and practical aspects of business policies and policy decision making by utilizing all the concepts, theories and tools that they learned in previous courses. This 1-credit course is offered in recognition of the students' outstanding performance in their participation of business competitions. Approval from the course coordinator is needed prior to enrolling in the course. Graded P or F. Students may repeat the course for credits if different case competitions are taken.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1295",
+        "remarks": "\t> Add/Drop Deadline : 21-Jun-2025",
+        "quota": 100,
+        "enroll": 0,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
