@@ -32,7 +32,7 @@
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 75,
         "enroll": 75,
-        "waitlist": 12,
+        "waitlist": 13,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -1930,7 +1930,7 @@
         "number": "1023",
         "remarks": "> This course is a self-learning course without any face-to-face lectures or face-to-face labs. There will be an on-site in-person final exam scheduled near the end of the semester.\n> Add/Drop Deadline: 21-Jun-2025",
         "quota": 50,
-        "enroll": 7,
+        "enroll": 8,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1953,7 +1953,7 @@
         "number": "1024",
         "remarks": " ",
         "quota": 50,
-        "enroll": 7,
+        "enroll": 8,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2116,7 +2116,7 @@
         "number": "1031",
         "remarks": "> This course is a self-learning course without any face-to-face lectures or face-to-face labs. There will be an on-site in-person final exam scheduled near the end of the semester.\n> Add/Drop Deadline: 21-Jun-2025",
         "quota": 50,
-        "enroll": 14,
+        "enroll": 15,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2139,7 +2139,7 @@
         "number": "1032",
         "remarks": " ",
         "quota": 50,
-        "enroll": 14,
+        "enroll": 15,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6277,6 +6277,102 @@
             ],
             "fromTime": "14:00",
             "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ISOM",
+    "number": "1400",
+    "code": "ISOM1400",
+    "name": "Digital Philanthropy: Harnessing Technology for Social Changes and Beyond",
+    "description": "This course explores how digital tools and IT systems are transforming traditional philanthropy and advancing venture philanthropy. Students will gain insights into operational dynamics, digital transformation, and best practices, as well as how commercial models can address philanthropic challenges. They will analyze ethical dilemmas and complexities introduced by digital innovation through critical thinking, debates, hands-on rule design, and project execution. Students will examine how technological transformation influences economic growth and social equity while recognizing technology’s dual nature: its immense transformative potential and the risks of unintended inequities. As they navigate a world increasingly shaped by AI, students will reflect on how to harness technology responsibly and thoughtfully to ensure equitable and meaningful social impact.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [
+      {
+        "attribute": "4Y",
+        "value": "13",
+        "attributeDescription": "Students admitted before 2022",
+        "valueDescription": "Common Core (SA) for 36-credit program"
+      },
+      {
+        "attribute": "4Y",
+        "value": "14",
+        "attributeDescription": "Students admitted before 2022",
+        "valueDescription": "Common Core (S&T) for 36-credit program"
+      },
+      {
+        "attribute": "CC22",
+        "value": "27",
+        "attributeDescription": "Students admitted from 2022",
+        "valueDescription": "Common Core (T) for 30-credit program"
+      },
+      {
+        "attribute": "CC22",
+        "value": "28",
+        "attributeDescription": "Students admitted from 2022",
+        "valueDescription": "Common Core (SA) for 30-credit program"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1296",
+        "remarks": "> Add/Drop Deadline : 19-Jun-2025",
+        "quota": 80,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "MENG, Zhaoli"
+            ],
+            "venue": "Rm 2306, Lift 17-18 (111)",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-06-27",
+            "weekdays": [
+              1,
+              3,
+              5
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "MENG, Zhaoli"
+            ],
+            "venue": "Rm 2306, Lift 17-18 (111)",
+            "fromDate": "2025-07-02",
+            "toDate": "2025-07-09",
+            "weekdays": [
+              1,
+              3,
+              5
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "MENG, Zhaoli"
+            ],
+            "venue": "Rm 2306, Lift 17-18 (111)",
+            "fromDate": "2025-07-11",
+            "toDate": "2025-07-11",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:50"
           }
         ]
       }
@@ -12651,7 +12747,7 @@
         "number": "1115",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025",
         "quota": 250,
-        "enroll": 3,
+        "enroll": 4,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
