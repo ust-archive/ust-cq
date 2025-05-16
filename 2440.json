@@ -4519,7 +4519,7 @@
         "number": "1126",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 60,
-        "enroll": 54,
+        "enroll": 55,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -4898,7 +4898,7 @@
         "number": "1007",
         "remarks": "> For MA(CC) students only\n> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 30,
-        "enroll": 14,
+        "enroll": 15,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6962,7 +6962,7 @@
       {
         "section": "L1",
         "number": "1207",
-        "remarks": "> For MPhil and PhD students in IS only\n> Classes on 9-12 July 2025 are delivered by Prof FANG Xiao\n> Classes conducted by Prof Rai will be delivered online\n> Add/Drop Deadline : 16-Jun-2025\n> Extended Drop Deadline : 20-Jun-2025",
+        "remarks": "> For MPhil and PhD students in IS only\n> Classes on 9-12 July 2025 are delivered by Prof FANG, Xiao\n> Classes conducted by Prof RAI, Arun will be delivered online\n> Add/Drop Deadline : 16-Jun-2025\n> Extended Drop Deadline : 20-Jun-2025",
         "quota": 8,
         "enroll": 8,
         "waitlist": 0,
@@ -8819,6 +8819,45 @@
     ]
   },
   {
+    "career": "UGRD",
+    "subject": "MATH",
+    "number": "4985P",
+    "code": "MATH4985P",
+    "name": "Independent Study: Heat Index Estimation",
+    "description": "This project develops a high-resolution algorithm to estimate the heat index across Hong Kong by integrating meteorological data (temperature, humidity, wind speed) with urban morphology (building density, terrain, sun exposure). The heat index, modeled using non-linear equations, accounts for microclimates influenced by shadows, wind flow, and urban materials. By solving these equations spatially, the algorithm provides localized heat distribution, reflecting diverse urban thermal conditions. This tool supports urban planning and climate adaptation strategies.  Students should seek the course instructor's approval to take this course.",
+    "previousCodes": "",
+    "prerequisites": "MATH 2023 AND COMP 2011",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1297",
+        "remarks": "> Add/Drop Deadline : 21-Jun-2025",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "FUNG, Jimmy Chi Hung"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "TPG",
     "subject": "MCEE",
     "number": "6980A",
@@ -9470,7 +9509,7 @@
         "number": "1144",
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-Weekly) and Digital MBA students only\n> Add/Drop Deadline : 16-Jun-2025",
         "quota": 50,
-        "enroll": 34,
+        "enroll": 35,
         "waitlist": 2,
         "consent": false,
         "reservedQuota": [
@@ -9482,7 +9521,7 @@
           {
             "name": "MBA",
             "quota": 24,
-            "enroll": 21
+            "enroll": 22
           },
           {
             "name": "MBA Bi-weekly",
