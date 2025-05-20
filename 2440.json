@@ -835,7 +835,7 @@
         "remarks": "> Add/Drop Deadline: 15-Jul-2025",
         "quota": 64,
         "enroll": 64,
-        "waitlist": 76,
+        "waitlist": 75,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -861,7 +861,7 @@
         "remarks": " ",
         "quota": 32,
         "enroll": 32,
-        "waitlist": 44,
+        "waitlist": 43,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -911,7 +911,7 @@
         "remarks": " ",
         "quota": 64,
         "enroll": 64,
-        "waitlist": 76,
+        "waitlist": 75,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -1740,6 +1740,45 @@
             ],
             "fromTime": "16:00",
             "toTime": "17:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "CIVL",
+    "number": "3020",
+    "code": "CIVL3020",
+    "name": "Internship Training",
+    "description": "For students of the Civil and Environmental Engineering Department only. Internship training provides students the opportunity to gain professional experience and to apply theories to real-life situations. Students are required to complete a minimum of six weeks on-the-job training in civil engineering consulting firms, contractors, developers or relevant government departments, or an equivalent of 5-week mock construction training under the supervision of professional practitioners. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "CIVL 2020",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1298",
+        "remarks": "> Add/Drop Deadline: 21-Jun-2025",
+        "quota": 151,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -12316,7 +12355,7 @@
         "number": "1105",
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 120,
-        "enroll": 116,
+        "enroll": 117,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
