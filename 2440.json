@@ -830,13 +830,19 @@
         "value": "27",
         "attributeDescription": "Students admitted from 2022",
         "valueDescription": "Common Core (T) for 30-credit program"
+      },
+      {
+        "attribute": "DELI",
+        "value": "BLD",
+        "attributeDescription": "Mode of Delivery",
+        "valueDescription": "[BLD] Blended learning"
       }
     ],
     "classes": [
       {
         "section": "L1",
         "number": "1130",
-        "remarks": "> Add/Drop Deadline: 15-Jul-2025",
+        "remarks": "> The class is delivered in a blended learning mode\n> Add/Drop Deadline: 15-Jul-2025",
         "quota": 64,
         "enroll": 64,
         "waitlist": 76,
