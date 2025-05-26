@@ -1797,6 +1797,45 @@
   {
     "career": "RPG",
     "subject": "CIVL",
+    "number": "6010A",
+    "code": "CIVL6010A",
+    "name": "Directed Studies",
+    "description": "Specialist courses where instruction is generally on a one-to-one basis. Graded P or F.",
+    "previousCodes": "CIVL610A",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1301",
+        "remarks": " ",
+        "quota": 2,
+        "enroll": 2,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "CIVL",
     "number": "6050M",
     "code": "CIVL6050M",
     "name": "Civil Engineering Seminar I",
@@ -2319,7 +2358,7 @@
         "number": "1071",
         "remarks": "> Add/Drop Deadline: 21-Jun-2025",
         "quota": 60,
-        "enroll": 54,
+        "enroll": 55,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2372,7 +2411,7 @@
         "number": "1072",
         "remarks": " ",
         "quota": 60,
-        "enroll": 54,
+        "enroll": 55,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2665,7 +2704,7 @@
         "section": "T1",
         "number": "1268",
         "remarks": "> Add/Drop Deadline: 21-Jun-2025",
-        "quota": 1,
+        "quota": 8,
         "enroll": 1,
         "waitlist": 0,
         "consent": false,
@@ -2808,6 +2847,84 @@
             ],
             "fromTime": "14:00",
             "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "COMP",
+    "number": "6922C",
+    "code": "COMP6922C",
+    "name": "Research Project",
+    "description": "An independent research project carried out under the supervision of a faculty member. This course is only available for exchange, visiting and visiting internship students.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1303",
+        "remarks": " ",
+        "quota": 3,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CHEN, Hao"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "COMP",
+    "number": "6922L",
+    "code": "COMP6922L",
+    "name": "Research Project",
+    "description": "An independent research project carried out under the supervision of a faculty member. This course is only available for exchange, visiting and visiting internship students.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1302",
+        "remarks": " ",
+        "quota": 3,
+        "enroll": 3,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TIAN, Yongqiang"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -3156,14 +3273,14 @@
         "number": "1053",
         "remarks": "> For MSc(ECON) students only\n> Add/Drop Deadline : 19-Jun-2025",
         "quota": 100,
-        "enroll": 33,
+        "enroll": 34,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECON",
             "quota": 100,
-            "enroll": 33
+            "enroll": 34
           }
         ],
         "schedule": [
@@ -9313,7 +9430,7 @@
         "number": "1194",
         "remarks": "> For MSc(GCS) students only\n> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 26,
-        "enroll": 22,
+        "enroll": 23,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
