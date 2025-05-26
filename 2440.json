@@ -1181,7 +1181,7 @@
         "number": "1034",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 50,
-        "enroll": 10,
+        "enroll": 11,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -3670,7 +3670,7 @@
         "number": "1136",
         "remarks": "> The class is delivered in a blended learning mode\n> Add/Drop Deadline: 17-Jul-2025",
         "quota": 50,
-        "enroll": 27,
+        "enroll": 28,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -3709,7 +3709,7 @@
         "number": "1138",
         "remarks": " ",
         "quota": 50,
-        "enroll": 27,
+        "enroll": 28,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -3748,7 +3748,7 @@
         "number": "1137",
         "remarks": " ",
         "quota": 50,
-        "enroll": 27,
+        "enroll": 28,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5444,7 +5444,7 @@
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 100,
         "enroll": 100,
-        "waitlist": 12,
+        "waitlist": 13,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -5484,7 +5484,7 @@
         "remarks": " ",
         "quota": 100,
         "enroll": 100,
-        "waitlist": 12,
+        "waitlist": 13,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -5564,7 +5564,7 @@
         "number": "1094",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 100,
-        "enroll": 43,
+        "enroll": 44,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -9430,7 +9430,7 @@
         "number": "1194",
         "remarks": "> For MSc(GCS) students only\n> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 26,
-        "enroll": 23,
+        "enroll": 24,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -10496,6 +10496,64 @@
             ],
             "fromTime": "09:30",
             "toTime": "12:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "OCES",
+    "number": "6012B",
+    "code": "OCES6012B",
+    "name": "ESG and Sustainability: Frameworks, Practices, and Career Insights",
+    "description": "This intensive summer course provides students with a comprehensive understanding of Environmental, Social, and Governance (ESG) principles, practices, and their growing importance in global business and financial markets. Delivered by leading experts in the field, the course combines theoretical foundations, practical frameworks, and real-world case studies to explore the intersection of sustainability and business strategy. Instructor’s approval is required for enrollment in the course.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1304",
+        "remarks": "> For MSc(EHS) students only.\n> Add/Drop Deadline : 06-Jun-2025",
+        "quota": 40,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LEUNG, Shui Yee",
+              "LIU, Hongbin"
+            ],
+            "venue": "Rm 4579, Lift 27-28 (60)",
+            "fromDate": "2025-06-09",
+            "toDate": "2025-06-11",
+            "weekdays": [
+              1,
+              2,
+              3
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "LEUNG, Shui Yee",
+              "LIU, Hongbin"
+            ],
+            "venue": "Rm 4579, Lift 27-28 (60)",
+            "fromDate": "2025-06-09",
+            "toDate": "2025-06-09",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "14:00",
+            "toTime": "16:50"
           }
         ]
       }
@@ -12479,7 +12537,7 @@
         "number": "1101",
         "remarks": "> The class is delivered in a self-paced online mode\n> Add/Drop Deadline : 21-Jun-2025",
         "quota": 400,
-        "enroll": 258,
+        "enroll": 259,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -13030,7 +13088,7 @@
         "number": "1115",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025",
         "quota": 250,
-        "enroll": 26,
+        "enroll": 27,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
