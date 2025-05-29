@@ -31,8 +31,8 @@
         "number": "1001",
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 75,
-        "enroll": 74,
-        "waitlist": 24,
+        "enroll": 75,
+        "waitlist": 23,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -844,8 +844,8 @@
         "number": "1130",
         "remarks": "> The class is delivered in a blended learning mode\n> Add/Drop Deadline: 15-Jul-2025",
         "quota": 64,
-        "enroll": 63,
-        "waitlist": 76,
+        "enroll": 64,
+        "waitlist": 75,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -895,8 +895,8 @@
         "number": "1133",
         "remarks": " ",
         "quota": 32,
-        "enroll": 31,
-        "waitlist": 36,
+        "enroll": 32,
+        "waitlist": 35,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -920,8 +920,8 @@
         "number": "1131",
         "remarks": " ",
         "quota": 64,
-        "enroll": 63,
-        "waitlist": 76,
+        "enroll": 64,
+        "waitlist": 75,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -1139,7 +1139,7 @@
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 60,
         "enroll": 60,
-        "waitlist": 47,
+        "waitlist": 48,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -2988,7 +2988,7 @@
         "number": "1209",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 40,
-        "enroll": 3,
+        "enroll": 4,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -3206,7 +3206,7 @@
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 30,
         "enroll": 30,
-        "waitlist": 19,
+        "waitlist": 20,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -3233,7 +3233,7 @@
         "remarks": " ",
         "quota": 30,
         "enroll": 30,
-        "waitlist": 19,
+        "waitlist": 20,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -4963,7 +4963,7 @@
         "number": "1255",
         "remarks": "> For MSc(GFIN) students only\n> Add/Drop Deadline : 08-Jun-2025",
         "quota": 21,
-        "enroll": 21,
+        "enroll": 20,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5002,7 +5002,7 @@
         "number": "1256",
         "remarks": "> For MSc(GFIN) students only\n> Add/Drop Deadline : 11-Jun-2025",
         "quota": 19,
-        "enroll": 19,
+        "enroll": 18,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6563,7 +6563,7 @@
         "number": "1296",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 80,
-        "enroll": 8,
+        "enroll": 9,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6746,8 +6746,8 @@
         "number": "1239",
         "remarks": "> Instructor : YE, Kai\n> Supervisor : Prof KOH, Tat Koon\n> Add/Drop Deadline : 19-Jun-2025",
         "quota": 25,
-        "enroll": 9,
-        "waitlist": 3,
+        "enroll": 10,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [
           {
@@ -6758,7 +6758,7 @@
           {
             "name": "SBM",
             "quota": 8,
-            "enroll": 7
+            "enroll": 8
           }
         ],
         "schedule": [
@@ -6878,8 +6878,8 @@
         "number": "1243",
         "remarks": " ",
         "quota": 25,
-        "enroll": 9,
-        "waitlist": 3,
+        "enroll": 10,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -7962,7 +7962,7 @@
         "number": "1154",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 20,
-        "enroll": 18,
+        "enroll": 19,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -9553,7 +9553,7 @@
         "number": "1095",
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 60,
-        "enroll": 35,
+        "enroll": 36,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -11862,6 +11862,51 @@
   {
     "career": "TPG",
     "subject": "SBMT",
+    "number": "6100B",
+    "code": "SBMT6100B",
+    "name": "Field Study Project",
+    "description": "This is a supervised study of a real-life issue faced by an organization, including identification of strategic questions, design of studies, collection and analysis of data, development and reporting recommendation.  The projects selected should bring a meaningful economic performance impact to the sponsoring companies.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "MIMT 6200",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1309",
+        "remarks": "> For FT-MBA students only\n> Add/Drop Deadline : 01-Aug-2025",
+        "quota": 5,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "MBA",
+            "quota": 5,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-09",
+            "toDate": "2025-08-03",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "SBMT",
     "number": "6200B",
     "code": "SBMT6200B",
     "name": "Independent Study",
@@ -12686,7 +12731,7 @@
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 120,
         "enroll": 120,
-        "waitlist": 7,
+        "waitlist": 8,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
