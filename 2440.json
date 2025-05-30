@@ -2204,7 +2204,7 @@
         "number": "1031",
         "remarks": "> This course is a self-learning course without any face-to-face lectures or face-to-face labs. There will be an on-site in-person final exam scheduled near the end of the semester.\n> Add/Drop Deadline: 21-Jun-2025",
         "quota": 50,
-        "enroll": 21,
+        "enroll": 20,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2227,7 +2227,7 @@
         "number": "1032",
         "remarks": " ",
         "quota": 50,
-        "enroll": 21,
+        "enroll": 20,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -4367,6 +4367,45 @@
     ]
   },
   {
+    "career": "UGRD",
+    "subject": "ENGG",
+    "number": "4950U",
+    "code": "ENGG4950U",
+    "name": "Engineering Special Project: Summer Research Program",
+    "description": "This program aims to provide students with hands-on experience and networking opportunities through a research internship in their field of study in an international context. Enrollment in the project course may require instructor's approval. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "LA1",
+        "number": "1310",
+        "remarks": "> Add/Drop Deadline: 21-Jun-2025",
+        "quota": 9,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "TPG",
     "subject": "ENGG",
     "number": "6200",
@@ -4920,7 +4959,7 @@
         "number": "1062",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 65,
-        "enroll": 12,
+        "enroll": 11,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6978,7 +7017,7 @@
         "number": "1074",
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 60,
-        "enroll": 13,
+        "enroll": 12,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -6990,7 +7029,7 @@
           {
             "name": "SBM",
             "quota": 30,
-            "enroll": 10
+            "enroll": 9
           }
         ],
         "schedule": [
@@ -9014,8 +9053,8 @@
         "number": "1157",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 90,
-        "enroll": 59,
-        "waitlist": 33,
+        "enroll": 61,
+        "waitlist": 31,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -9067,8 +9106,8 @@
         "number": "1305",
         "remarks": " ",
         "quota": 40,
-        "enroll": 9,
-        "waitlist": 2,
+        "enroll": 11,
+        "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
