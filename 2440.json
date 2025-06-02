@@ -32,7 +32,7 @@
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 75,
         "enroll": 75,
-        "waitlist": 24,
+        "waitlist": 23,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -508,6 +508,45 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "AISC",
+    "number": "4950A",
+    "code": "AISC4950A",
+    "name": "Interdisciplinary Special Project",
+    "description": "Special projects on selected interdisciplinary topics supervised by one or a group of faculty members. May be repeated for credits if different topics are taken. Enrollment may require approval of the course instructor. For DDP, RMBI, EVMT, and IIM students or those with approval from instructor for enrolling in the course. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1313",
+        "remarks": " ",
+        "quota": 10,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -3091,6 +3130,45 @@
     ]
   },
   {
+    "career": "TPG",
+    "subject": "DBAP",
+    "number": "6200",
+    "code": "DBAP6200",
+    "name": "DBA Research Proposal Preparation",
+    "description": "This course will help students to get familiar with literature in the chosen research area, identify appropriate topics for thesis research, and prepare detailed thesis proposals through independent study under the supervision of faculty members. Maybe graded PP.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1312",
+        "remarks": "> For DBA students only\n> Add/Drop Deadline : 21-Jun-2025",
+        "quota": 8,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "SHI, Mengze"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "UGRD",
     "subject": "ECON",
     "number": "1222",
@@ -3659,14 +3737,14 @@
         "number": "1234",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 140,
-        "enroll": 117,
+        "enroll": 115,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
           {
             "name": "EESM",
             "quota": 140,
-            "enroll": 117
+            "enroll": 115
           }
         ],
         "schedule": [
@@ -5021,6 +5099,45 @@
             ],
             "fromTime": "09:00",
             "toTime": "12:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "FINA",
+    "number": "4919C",
+    "code": "FINA4919C",
+    "name": "Independent Study",
+    "description": "Directed study of selected issues in Finance. May be graded by letter, or P/F for different offerings. Instructor's approval is required for enrollment in the course. Subject to approval by the department, students may repeat the course once if a different topic is selected.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1314",
+        "remarks": " ",
+        "quota": 2,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -8100,7 +8217,7 @@
         "number": "1008",
         "remarks": "> Add/Drop Deadline : 16-Jun-2025",
         "quota": 120,
-        "enroll": 45,
+        "enroll": 44,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -8283,6 +8400,45 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "LIFS",
+    "number": "4910C",
+    "code": "LIFS4910C",
+    "name": "Independent Study",
+    "description": "The course will cover review topics restricted to life sciences. Enrolled students will conduct research project or literature review exercise on a mutually agreed topic under the supervision of a faculty member. For third year LIFS students and visiting interns only. Approval of the course instructor is needed for students to enroll in this course. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1315",
+        "remarks": " ",
+        "quota": 5,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -9212,6 +9368,45 @@
     ]
   },
   {
+    "career": "UGRD",
+    "subject": "MATH",
+    "number": "4985Q",
+    "code": "MATH4985Q",
+    "name": "Independent Study",
+    "description": "Advanced undergraduate topics independently studied under the supervision of a faculty member. May be repeated for credit if different topics are studied. May be graded P/F or letter grade.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1316",
+        "remarks": " ",
+        "quota": 2,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "TPG",
     "subject": "MCEE",
     "number": "6980A",
@@ -9497,7 +9692,7 @@
         "number": "1193",
         "remarks": "> For MSc(GCS) students only\n> Add/Drop Deadline : 05-Jul-2025\n> Extended Drop Deadline : 10-Jul-2025",
         "quota": 30,
-        "enroll": 2,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -10130,7 +10325,7 @@
         "number": "1097",
         "remarks": "> For MA(ILE) students only\n> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 70,
-        "enroll": 31,
+        "enroll": 32,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -10645,6 +10840,45 @@
             ],
             "fromTime": "09:30",
             "toTime": "12:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "OCES",
+    "number": "4910C",
+    "code": "OCES4910C",
+    "name": "Independent Study",
+    "description": "Independent studies or projects under the directed guidance of a faculty member. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. Students may repeat the course up to two times if different topics are taken. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1317",
+        "remarks": " ",
+        "quota": 2,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -12621,6 +12855,45 @@
             "enroll": 14
           }
         ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "SCIE",
+    "number": "1010C",
+    "code": "SCIE1010C",
+    "name": "Enrichment Project",
+    "description": "For Science students only.  This course aims to provide complementary educational experience to students outside normal academic curriculum through engagements in internship or outside-classroom project activities related to his/her own discipline.  Students enrolled would work under the supervision of a faculty member and are required to submit a report by the end of the semester, in addition to other criteria set by his/her supervisor.  Course coordinator's approval is required for taking the course.  1 credit is normally assigned for 40 hours of work. Graded P or F. Maybe graded PP.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1318",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
