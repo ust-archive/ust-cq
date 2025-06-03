@@ -151,7 +151,7 @@
         "number": "1020",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 74,
-        "enroll": 22,
+        "enroll": 21,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -342,14 +342,14 @@
         "number": "1098",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 04-Jun-2025",
         "quota": 60,
-        "enroll": 29,
+        "enroll": 28,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 60,
-            "enroll": 29
+            "enroll": 28
           }
         ],
         "schedule": [
@@ -2767,6 +2767,45 @@
   {
     "career": "UGRD",
     "subject": "COMP",
+    "number": "4971A",
+    "code": "COMP4971A",
+    "name": "Independent Work",
+    "description": "Independent studies or projects under the directed guidance of a faculty member on a computer science topic. A written report, presentation, and/or an examination are required. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. May be repeated for credits.",
+    "previousCodes": "COMP390A",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1322",
+        "remarks": " ",
+        "quota": 12,
+        "enroll": 12,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "COMP",
     "number": "4971C",
     "code": "COMP4971C",
     "name": "Independent Work",
@@ -2870,6 +2909,45 @@
           {
             "instructors": [
               "CHEN, Qifeng",
+              "FUNG, Yi R. (May)"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "COMP",
+    "number": "4971L",
+    "code": "COMP4971L",
+    "name": "Independent Work",
+    "description": "Independent studies or projects under the directed guidance of a faculty member on a computer science topic. A written report, presentation, and/or an examination are required. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. May be repeated for credits.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 4,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1323",
+        "remarks": "> Add/Drop Deadline: 21-Jun-2025",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
               "FUNG, Yi R. (May)"
             ],
             "venue": "TBA",
@@ -2998,6 +3076,45 @@
           {
             "instructors": [
               "TIAN, Yongqiang"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "COMP",
+    "number": "6922M",
+    "code": "COMP6922M",
+    "name": "Research Project",
+    "description": "An independent research project carried out under the supervision of a faculty member. This course is only available for exchange, visiting and visiting internship students.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1319",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "SHE, Dongdong"
             ],
             "venue": "TBA",
             "fromDate": "2025-06-16",
@@ -5079,7 +5196,7 @@
         "number": "1062",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 65,
-        "enroll": 12,
+        "enroll": 11,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5756,7 +5873,7 @@
         "number": "1094",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 100,
-        "enroll": 46,
+        "enroll": 45,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5837,7 +5954,7 @@
         "number": "1096",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025",
         "quota": 100,
-        "enroll": 67,
+        "enroll": 66,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6229,6 +6346,45 @@
     ]
   },
   {
+    "career": "RPG",
+    "subject": "IEDA",
+    "number": "6900A",
+    "code": "IEDA6900A",
+    "name": "Research Project",
+    "description": "An independent research project carried out under the supervision of a faculty member. This course is only available for exchange, visiting and visiting internship students.",
+    "previousCodes": "IELM6900A,IELM690A",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1320",
+        "remarks": " ",
+        "quota": 3,
+        "enroll": 3,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "UGRD",
     "subject": "ISDN",
     "number": "2300",
@@ -6571,6 +6727,45 @@
             ],
             "fromTime": "14:00",
             "toTime": "15:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ISDN",
+    "number": "4900A",
+    "code": "ISDN4900A",
+    "name": "Independent Study",
+    "description": "Independent studies or projects under the directed guidance of a faculty member on an integrative systems and design topic. A written report, presentation, and/or an examination are required. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. May be repeated for credits. Graded P or F. May be graded PP.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1321",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -8576,7 +8771,7 @@
         "number": "1026",
         "remarks": " ",
         "quota": 5,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -9252,7 +9447,7 @@
         "number": "1157",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 90,
-        "enroll": 80,
+        "enroll": 81,
         "waitlist": 19,
         "consent": false,
         "reservedQuota": [],
@@ -9305,7 +9500,7 @@
         "number": "1305",
         "remarks": " ",
         "quota": 40,
-        "enroll": 30,
+        "enroll": 31,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
