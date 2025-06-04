@@ -732,6 +732,45 @@
     ]
   },
   {
+    "career": "UGRD",
+    "subject": "BIEN",
+    "number": "4930",
+    "code": "BIEN4930",
+    "name": "Bioengineering Thesis Research",
+    "description": "A final-year project course offers an opportunity to conduct individual bioengineering research under the direct supervision of a faculty member, which leads to a Bachelor's thesis. Credit load may be spread over a year. May be graded PP. For students in the Bioengineering major with approval from the department only.",
+    "previousCodes": "",
+    "prerequisites": "BIEN 3910 AND (CENG 4980 OR UROP 2100)",
+    "corequisites": "",
+    "exclusions": "BIEN 4920, BIEN 4940",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1326",
+        "remarks": "> Add/Drop Deadline : 21-Jun-2025",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAKERVELD, Richard"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "TPG",
     "subject": "BTEC",
     "number": "5210",
@@ -884,7 +923,7 @@
         "remarks": "> The class is delivered in a blended learning mode\n> Add/Drop Deadline: 15-Jul-2025",
         "quota": 64,
         "enroll": 64,
-        "waitlist": 77,
+        "waitlist": 76,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -935,7 +974,7 @@
         "remarks": " ",
         "quota": 32,
         "enroll": 32,
-        "waitlist": 38,
+        "waitlist": 37,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -960,7 +999,7 @@
         "remarks": " ",
         "quota": 64,
         "enroll": 64,
-        "waitlist": 77,
+        "waitlist": 76,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -1421,7 +1460,7 @@
         "remarks": "> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 7,
+        "waitlist": 8,
         "consent": false,
         "reservedQuota": [
           {
@@ -2243,7 +2282,7 @@
         "number": "1031",
         "remarks": "> This course is a self-learning course without any face-to-face lectures or face-to-face labs. There will be an on-site in-person final exam scheduled near the end of the semester.\n> Add/Drop Deadline: 21-Jun-2025",
         "quota": 50,
-        "enroll": 25,
+        "enroll": 24,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2266,7 +2305,7 @@
         "number": "1032",
         "remarks": " ",
         "quota": 50,
-        "enroll": 25,
+        "enroll": 24,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2743,8 +2782,8 @@
         "section": "T1",
         "number": "1268",
         "remarks": "> Add/Drop Deadline: 21-Jun-2025",
-        "quota": 8,
-        "enroll": 8,
+        "quota": 10,
+        "enroll": 10,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2782,7 +2821,7 @@
         "section": "R1",
         "number": "1322",
         "remarks": " ",
-        "quota": 12,
+        "quota": 14,
         "enroll": 12,
         "waitlist": 0,
         "consent": true,
@@ -4363,6 +4402,45 @@
   },
   {
     "career": "UGRD",
+    "subject": "ENEG",
+    "number": "4920",
+    "code": "ENEG4920",
+    "name": "Final Year Design Project",
+    "description": "A one-year project course offers practice of engineering design through a group design project chosen to integrate materials covered in the curriculum. Each student will be assigned a component of a large project which may be sponsored by industry. Credit load will be spread over the year. For students in the Sustainable Energy Engineering program in their fourth year of study only. Instructor's approval is required for enrollment in the course. May be graded PP.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1327",
+        "remarks": "> Add/Drop Deadline : 21-Jun-2025",
+        "quota": 2,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAKERVELD, Richard"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
     "subject": "ENGG",
     "number": "1200",
     "code": "ENGG1200",
@@ -5230,7 +5308,7 @@
         "number": "1061",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 70,
-        "enroll": 32,
+        "enroll": 31,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5831,7 +5909,7 @@
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 100,
         "enroll": 100,
-        "waitlist": 23,
+        "waitlist": 22,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -5871,7 +5949,7 @@
         "remarks": " ",
         "quota": 100,
         "enroll": 100,
-        "waitlist": 23,
+        "waitlist": 22,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -6761,7 +6839,7 @@
         "number": "1145",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 30,
-        "enroll": 21,
+        "enroll": 22,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6788,7 +6866,7 @@
         "number": "1146",
         "remarks": " ",
         "quota": 30,
-        "enroll": 21,
+        "enroll": 22,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -9795,7 +9873,7 @@
         "number": "1086",
         "remarks": "> Add/Drop Deadline: 21-Jun-2025",
         "quota": 130,
-        "enroll": 67,
+        "enroll": 66,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -10928,7 +11006,7 @@
         "number": "1165",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 200,
-        "enroll": 80,
+        "enroll": 79,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -11134,7 +11212,7 @@
         "number": "1304",
         "remarks": "> For MSc(EHS) students only.\n> Add/Drop Deadline : 06-Jun-2025",
         "quota": 40,
-        "enroll": 12,
+        "enroll": 13,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -13235,7 +13313,7 @@
         "number": "1101",
         "remarks": "> The class is delivered in a self-paced online mode\n> Add/Drop Deadline : 21-Jun-2025",
         "quota": 400,
-        "enroll": 303,
+        "enroll": 305,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -13864,7 +13942,7 @@
         "number": "1117",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025",
         "quota": 100,
-        "enroll": 16,
+        "enroll": 17,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
