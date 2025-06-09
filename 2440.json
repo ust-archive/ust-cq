@@ -10587,19 +10587,19 @@
         "number": "1257",
         "remarks": "> Instructor : Mr CALENDRIER, Antoine\n> For SBM TPG students only\n> Add/Drop Deadline : 9-Jun-2025",
         "quota": 60,
-        "enroll": 47,
+        "enroll": 40,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 17,
-            "enroll": 12
+            "enroll": 9
           },
           {
             "name": "ECON",
             "quota": 10,
-            "enroll": 7
+            "enroll": 4
           },
           {
             "name": "ISM",
@@ -10609,7 +10609,7 @@
           {
             "name": "MARK",
             "quota": 11,
-            "enroll": 10
+            "enroll": 9
           },
           {
             "name": "MIMT",
@@ -13383,9 +13383,9 @@
       {
         "section": "LX",
         "number": "1101",
-        "remarks": "> The class is delivered in a self-paced online mode\n> Add/Drop Deadline : 21-Jun-2025",
+        "remarks": "> The class is delivered in a self-paced online mode\n> For course details, please visit https://sosc.hkust.edu.hk/sites/default/files/2025-04/Sosc1662%20Summer%202025.pdf.\n> Add/Drop Deadline : 21-Jun-2025",
         "quota": 400,
-        "enroll": 321,
+        "enroll": 322,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -13394,14 +13394,12 @@
             "instructors": [
               "GROVES, Julian Mcallister"
             ],
-            "venue": "Lecture Theater A (401)",
-            "fromDate": "2025-08-07",
-            "toDate": "2025-08-07",
-            "weekdays": [
-              4
-            ],
-            "fromTime": "14:00",
-            "toTime": "16:50"
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
