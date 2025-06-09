@@ -5606,6 +5606,52 @@
     ]
   },
   {
+    "career": "UGRD",
+    "subject": "HLTH",
+    "number": "1010",
+    "code": "HLTH1010",
+    "name": "Healthy Lifestyle",
+    "description": "A compulsory, one-year course for all undergraduates to learn how to maintain a well-balanced and healthy lifestyle that will help them to manage their lives, learning, transitions and holistic development. Students will complete at least 45 hours of activities including physical and wellness assessments, sports skill classes, organized sports and fitness events, community service, as well as enrichment topics, for example, mental health, wellness, transitions, student life, and personal growth. Students with special personal reasons may seek exemption from the Director of Student Affairs. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [
+      {
+        "attribute": "4Y",
+        "value": "19",
+        "attributeDescription": "Students admitted before 2022",
+        "valueDescription": "Common Core (HLTH) for 36-credit program"
+      }
+    ],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1329",
+        "remarks": " ",
+        "quota": 2,
+        "enroll": 2,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "TPG",
     "subject": "HMMA",
     "number": "6300",
@@ -8412,7 +8458,7 @@
         "number": "1230",
         "remarks": "> For SBM TPG students only\n> Add/Drop Deadline : 16-Jun-2025",
         "quota": 65,
-        "enroll": 45,
+        "enroll": 46,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
@@ -8429,7 +8475,7 @@
           {
             "name": "FINA",
             "quota": 6,
-            "enroll": 5
+            "enroll": 6
           },
           {
             "name": "GO",
@@ -13934,7 +13980,7 @@
         "number": "1115",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025",
         "quota": 250,
-        "enroll": 73,
+        "enroll": 74,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
