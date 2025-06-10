@@ -2839,8 +2839,8 @@
         "section": "T1",
         "number": "1268",
         "remarks": "> Add/Drop Deadline: 21-Jun-2025",
-        "quota": 12,
-        "enroll": 12,
+        "quota": 18,
+        "enroll": 15,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -9802,6 +9802,45 @@
   {
     "career": "UGRD",
     "subject": "MATH",
+    "number": "4981N",
+    "code": "MATH4981N",
+    "name": "Independent Study",
+    "description": "Advanced undergraduate topics independently studied under the supervision of a faculty member. May be repeated for credit if different topics are studied. May be graded P/F or letter grade.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1332",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "MATH",
     "number": "4985P",
     "code": "MATH4985P",
     "name": "Independent Study: Heat Index Estimation",
@@ -10990,7 +11029,7 @@
         "number": "1217",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 40,
-        "enroll": 4,
+        "enroll": 5,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -11814,6 +11853,45 @@
     ]
   },
   {
+    "career": "RPG",
+    "subject": "PHYS",
+    "number": "6100A",
+    "code": "PHYS6100A",
+    "name": "Individual Study in Physics",
+    "description": "This course covers in-depth study on topics selected by the instructor on the basis of individual postgraduate student's request. The instructor's approval is required for taking this course.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1330",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "TPG",
     "subject": "PPOL",
     "number": "5440",
@@ -11875,6 +11953,45 @@
             ],
             "fromTime": "09:30",
             "toTime": "13:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "PPOL",
+    "number": "5770",
+    "code": "PPOL5770",
+    "name": "Professional Development for Taught Postgraduate Students",
+    "description": "This course aims at equipping taught postgraduate students with transferrable skills conducive to their professional and career developments. Students are required to attend a mandatory training session on topics including plagiarism, group work and approaching the case study methods as well as a series of compulsory and optional sessions of career talks, presentation skills and English enhancement workshops in their course of program study. Graded PP, P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1331",
+        "remarks": "> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
+        "quota": 8,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "BERNAL, Marie"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
