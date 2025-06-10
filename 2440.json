@@ -3386,6 +3386,45 @@
     ]
   },
   {
+    "career": "RPG",
+    "subject": "COMP",
+    "number": "6922P",
+    "code": "COMP6922P",
+    "name": "Research Project",
+    "description": "An independent research project carried out under the supervision of a faculty member. This course is only available for exchange, visiting and visiting internship students.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1337",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "PARREAUX, Lionel"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "TPG",
     "subject": "CSIT",
     "number": "6910A",
@@ -3866,7 +3905,7 @@
         "number": "1229",
         "remarks": "> For FT-MBA; PT-MBA; MBA Bi-Weekly and Digital MBA students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 16-Jun-2025",
         "quota": 65,
-        "enroll": 62,
+        "enroll": 61,
         "waitlist": 2,
         "consent": false,
         "reservedQuota": [
@@ -3883,7 +3922,7 @@
           {
             "name": "MBA Bi-weekly",
             "quota": 7,
-            "enroll": 5
+            "enroll": 4
           }
         ],
         "schedule": [
@@ -4381,6 +4420,45 @@
           {
             "instructors": [
               "POON, Andrew Wing On"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "ELEC",
+    "number": "6900A",
+    "code": "ELEC6900A",
+    "name": "Independent Study",
+    "description": "Selected topics in electronic and computer engineering studied under the supervision of a faculty member. Graded P or F.",
+    "previousCodes": "ELEC690",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1338",
+        "remarks": " ",
+        "quota": 8,
+        "enroll": 8,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
             ],
             "venue": "TBA",
             "fromDate": "2025-06-16",
@@ -5849,7 +5927,7 @@
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 100,
         "enroll": 100,
-        "waitlist": 45,
+        "waitlist": 44,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -6137,7 +6215,7 @@
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 100,
         "enroll": 100,
-        "waitlist": 22,
+        "waitlist": 20,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -6177,7 +6255,7 @@
         "remarks": " ",
         "quota": 100,
         "enroll": 100,
-        "waitlist": 22,
+        "waitlist": 20,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -9411,7 +9489,7 @@
         "number": "1238",
         "remarks": "> For MSc(MAFM) students only.\n> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 80,
-        "enroll": 22,
+        "enroll": 23,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -11803,7 +11881,7 @@
         "number": "1045",
         "remarks": "> Add/Drop Deadline : 23-Jun-2025",
         "quota": 60,
-        "enroll": 44,
+        "enroll": 45,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -11854,7 +11932,7 @@
         "number": "1048",
         "remarks": " ",
         "quota": 30,
-        "enroll": 14,
+        "enroll": 15,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -12026,8 +12104,8 @@
         "section": "R1",
         "number": "1330",
         "remarks": " ",
-        "quota": 1,
-        "enroll": 1,
+        "quota": 2,
+        "enroll": 2,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -14294,7 +14372,7 @@
         "number": "1116",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025",
         "quota": 220,
-        "enroll": 48,
+        "enroll": 49,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -14333,7 +14411,7 @@
         "number": "1117",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025",
         "quota": 100,
-        "enroll": 24,
+        "enroll": 25,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
