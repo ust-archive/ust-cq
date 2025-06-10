@@ -670,7 +670,7 @@
         "quota": 2,
         "enroll": 2,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -969,7 +969,7 @@
         "remarks": "> The class is delivered in a blended learning mode\n> Add/Drop Deadline: 15-Jul-2025",
         "quota": 64,
         "enroll": 64,
-        "waitlist": 74,
+        "waitlist": 73,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -1020,7 +1020,7 @@
         "remarks": " ",
         "quota": 32,
         "enroll": 32,
-        "waitlist": 36,
+        "waitlist": 35,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -1045,7 +1045,7 @@
         "remarks": " ",
         "quota": 64,
         "enroll": 64,
-        "waitlist": 74,
+        "waitlist": 73,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -1715,7 +1715,7 @@
         "quota": 50,
         "enroll": 27,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -3367,7 +3367,7 @@
         "quota": 40,
         "enroll": 15,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -5252,7 +5252,7 @@
         "number": "1126",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 60,
-        "enroll": 60,
+        "enroll": 59,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6357,7 +6357,7 @@
         "quota": 60,
         "enroll": 8,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -8591,7 +8591,7 @@
         "quota": 50,
         "enroll": 25,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -9789,7 +9789,7 @@
         "number": "1158",
         "remarks": " ",
         "quota": 50,
-        "enroll": 50,
+        "enroll": 49,
         "waitlist": 15,
         "consent": false,
         "reservedQuota": [],
@@ -9815,8 +9815,8 @@
         "number": "1305",
         "remarks": " ",
         "quota": 40,
-        "enroll": 39,
-        "waitlist": 3,
+        "enroll": 40,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -10015,7 +10015,7 @@
         "quota": 90,
         "enroll": 22,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -10138,6 +10138,45 @@
     ]
   },
   {
+    "career": "RPG",
+    "subject": "MECH",
+    "number": "6950C",
+    "code": "MECH6950C",
+    "name": "Independent Studies",
+    "description": "An independent research project carried out under the supervision of a faculty member. (Only one independent studies course may be used to satisfy the course requirements for any postgraduate program in the Department of Mechanical Engineering.)",
+    "previousCodes": "MECH695C",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1334",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "TPG",
     "subject": "MESF",
     "number": "6950A",
@@ -10197,7 +10236,7 @@
         "quota": 60,
         "enroll": 18,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -11070,7 +11109,7 @@
         "quota": 40,
         "enroll": 13,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -11109,7 +11148,7 @@
         "quota": 40,
         "enroll": 4,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -11328,7 +11367,7 @@
         "number": "1168",
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 25,
-        "enroll": 11,
+        "enroll": 12,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -13589,7 +13628,7 @@
         "number": "1101",
         "remarks": "> The class is delivered in a self-paced online mode\n> For course details, please visit https://sosc.hkust.edu.hk/sites/default/files/2025-04/Sosc1662%20Summer%202025.pdf.\n> Add/Drop Deadline : 21-Jun-2025",
         "quota": 400,
-        "enroll": 328,
+        "enroll": 326,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -14138,7 +14177,7 @@
         "number": "1115",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025",
         "quota": 250,
-        "enroll": 74,
+        "enroll": 77,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -14177,7 +14216,7 @@
         "number": "1116",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025",
         "quota": 220,
-        "enroll": 45,
+        "enroll": 46,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
