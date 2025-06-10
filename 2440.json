@@ -473,7 +473,7 @@
         "number": "1223",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 30,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -512,7 +512,7 @@
         "number": "1224",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 60,
-        "enroll": 2,
+        "enroll": 23,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -629,7 +629,7 @@
         "number": "1211",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 40,
-        "enroll": 0,
+        "enroll": 11,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -668,9 +668,9 @@
         "number": "1212",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 2,
-        "enroll": 0,
+        "enroll": 2,
         "waitlist": 0,
-        "consent": true,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -1713,9 +1713,9 @@
         "number": "1215",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 50,
-        "enroll": 0,
+        "enroll": 27,
         "waitlist": 0,
-        "consent": true,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -2062,7 +2062,7 @@
         "remarks": "> Add/Drop Deadline: 21-Jun-2025",
         "quota": 60,
         "enroll": 60,
-        "waitlist": 3,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -2101,7 +2101,7 @@
         "remarks": " ",
         "quota": 60,
         "enroll": 60,
-        "waitlist": 3,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -2840,7 +2840,7 @@
         "number": "1268",
         "remarks": "> Add/Drop Deadline: 21-Jun-2025",
         "quota": 18,
-        "enroll": 15,
+        "enroll": 17,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2972,6 +2972,45 @@
             "instructors": [
               "FUNG, Yi R. (May)",
               "SONG, Yangqiu"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "COMP",
+    "number": "4971F",
+    "code": "COMP4971F",
+    "name": "Independent Work",
+    "description": "Independent studies or projects under the directed guidance of a faculty member on a computer science topic. A written report, presentation, and/or an examination are required. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. May be repeated for credits.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1333",
+        "remarks": "> Add/Drop Deadline: 21-Jun-2025",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CHEN, Hao"
             ],
             "venue": "TBA",
             "fromDate": "2025-06-16",
@@ -3326,9 +3365,9 @@
         "number": "1209",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 40,
-        "enroll": 14,
+        "enroll": 15,
         "waitlist": 0,
-        "consent": true,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -4162,7 +4201,7 @@
         "number": "1139",
         "remarks": "> Add/Drop Deadline: 19-Jun-2025",
         "quota": 50,
-        "enroll": 38,
+        "enroll": 39,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -4189,7 +4228,7 @@
         "number": "1141",
         "remarks": " ",
         "quota": 50,
-        "enroll": 38,
+        "enroll": 39,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -4215,7 +4254,7 @@
         "number": "1140",
         "remarks": " ",
         "quota": 50,
-        "enroll": 38,
+        "enroll": 39,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5213,7 +5252,7 @@
         "number": "1126",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 60,
-        "enroll": 59,
+        "enroll": 60,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6020,7 +6059,7 @@
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 100,
         "enroll": 100,
-        "waitlist": 23,
+        "waitlist": 22,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -6060,7 +6099,7 @@
         "remarks": " ",
         "quota": 100,
         "enroll": 100,
-        "waitlist": 23,
+        "waitlist": 22,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -6316,9 +6355,9 @@
         "number": "1220",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 8,
         "waitlist": 0,
-        "consent": true,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -8550,9 +8589,9 @@
         "number": "1216",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 50,
-        "enroll": 0,
+        "enroll": 25,
         "waitlist": 0,
-        "consent": true,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -9723,7 +9762,7 @@
         "number": "1157",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 90,
-        "enroll": 90,
+        "enroll": 89,
         "waitlist": 17,
         "consent": false,
         "reservedQuota": [],
@@ -9776,8 +9815,8 @@
         "number": "1305",
         "remarks": " ",
         "quota": 40,
-        "enroll": 40,
-        "waitlist": 2,
+        "enroll": 39,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -9974,9 +10013,9 @@
         "number": "1214",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 90,
-        "enroll": 0,
+        "enroll": 22,
         "waitlist": 0,
-        "consent": true,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -10156,9 +10195,9 @@
         "number": "1222",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 18,
         "waitlist": 0,
-        "consent": true,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -11029,9 +11068,9 @@
         "number": "1217",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 40,
-        "enroll": 5,
+        "enroll": 13,
         "waitlist": 0,
-        "consent": true,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -11068,9 +11107,9 @@
         "number": "1218",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 40,
-        "enroll": 2,
+        "enroll": 4,
         "waitlist": 0,
-        "consent": true,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -11165,7 +11204,7 @@
         "number": "1165",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 200,
-        "enroll": 82,
+        "enroll": 83,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -11209,7 +11248,7 @@
         "number": "1166",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025",
         "quota": 20,
-        "enroll": 10,
+        "enroll": 12,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
