@@ -969,7 +969,7 @@
         "remarks": "> The class is delivered in a blended learning mode\n> Add/Drop Deadline: 15-Jul-2025",
         "quota": 64,
         "enroll": 64,
-        "waitlist": 73,
+        "waitlist": 72,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -995,7 +995,7 @@
         "remarks": " ",
         "quota": 32,
         "enroll": 32,
-        "waitlist": 39,
+        "waitlist": 38,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -1045,7 +1045,7 @@
         "remarks": " ",
         "quota": 64,
         "enroll": 64,
-        "waitlist": 73,
+        "waitlist": 72,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -1831,7 +1831,7 @@
         "number": "1005",
         "remarks": "> Add/Drop Deadline: 21-Jun-2025",
         "quota": 30,
-        "enroll": 16,
+        "enroll": 17,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1857,7 +1857,7 @@
         "number": "1006",
         "remarks": " ",
         "quota": 30,
-        "enroll": 16,
+        "enroll": 17,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -3090,6 +3090,84 @@
           {
             "instructors": [
               "FUNG, Yi R. (May)"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "COMP",
+    "number": "4981",
+    "code": "COMP4981",
+    "name": "Final Year Project",
+    "description": "Students are expected to complete a project in an area of specialization in Computer Science and Engineering under the guidance of a faculty member. Objectives are to integrate the classroom material from several courses, and to apply them to solve practical problems. Credit load will be spread over the year. For students in the BEng in Computer Science and BEng in Computer Engineering programs under the four-year degree only.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "COMP 4981H",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1335",
+        "remarks": "> The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3\n> Add/Drop Deadline: 21-Jun-2025",
+        "quota": 159,
+        "enroll": 127,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "COMP",
+    "number": "4981H",
+    "code": "COMP4981H",
+    "name": "Final Year Thesis",
+    "description": "Students are expected to conduct research under the supervision of a faculty member, summarize their work in an individual thesis and make a defense at the end. Credit load will be spread over the year. For students in the BEng in Computer Science and BEng in Computer Engineering programs under the four-year degree only. Instructor's approval is required for enrollment in the course.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "COMP 4981",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1336",
+        "remarks": "> The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3\n> Add/Drop Deadline: 21-Jun-2025",
+        "quota": 12,
+        "enroll": 7,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
             ],
             "venue": "TBA",
             "fromDate": "2025-06-16",
@@ -9762,8 +9840,8 @@
         "number": "1157",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 90,
-        "enroll": 89,
-        "waitlist": 17,
+        "enroll": 90,
+        "waitlist": 16,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -9789,8 +9867,8 @@
         "number": "1158",
         "remarks": " ",
         "quota": 50,
-        "enroll": 49,
-        "waitlist": 15,
+        "enroll": 50,
+        "waitlist": 14,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -10325,7 +10403,7 @@
         "number": "1093",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 60,
-        "enroll": 59,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -10871,7 +10949,7 @@
         "number": "1097",
         "remarks": "> For MA(ILE) students only\n> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 70,
-        "enroll": 32,
+        "enroll": 31,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -14177,7 +14255,7 @@
         "number": "1115",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025",
         "quota": 250,
-        "enroll": 77,
+        "enroll": 78,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -14216,7 +14294,7 @@
         "number": "1116",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025",
         "quota": 220,
-        "enroll": 46,
+        "enroll": 47,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -14255,7 +14333,7 @@
         "number": "1117",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025",
         "quota": 100,
-        "enroll": 22,
+        "enroll": 24,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
