@@ -1231,6 +1231,45 @@
     ]
   },
   {
+    "career": "RPG",
+    "subject": "CENG",
+    "number": "6900C",
+    "code": "CENG6900C",
+    "name": "Independent Study",
+    "description": "Selected topics in chemical engineering studied under the supervision of a faculty member. Graded P or F.",
+    "previousCodes": "CENG690C",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "CENG 6800",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1339",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "UGRD",
     "subject": "CHEM",
     "number": "1002",
@@ -1765,7 +1804,7 @@
         "number": "1002",
         "remarks": "> Add/Drop Deadline: 19-Jun-2025",
         "quota": 160,
-        "enroll": 12,
+        "enroll": 11,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1792,7 +1831,7 @@
         "number": "1003",
         "remarks": " ",
         "quota": 160,
-        "enroll": 12,
+        "enroll": 11,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2331,7 +2370,7 @@
         "number": "1031",
         "remarks": "> This course is a self-learning course without any face-to-face lectures or face-to-face labs. There will be an on-site in-person final exam scheduled near the end of the semester.\n> Add/Drop Deadline: 21-Jun-2025",
         "quota": 50,
-        "enroll": 26,
+        "enroll": 27,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2354,7 +2393,7 @@
         "number": "1032",
         "remarks": " ",
         "quota": 50,
-        "enroll": 26,
+        "enroll": 27,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6215,7 +6254,7 @@
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 100,
         "enroll": 100,
-        "waitlist": 20,
+        "waitlist": 19,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -6255,7 +6294,7 @@
         "remarks": " ",
         "quota": 100,
         "enroll": 100,
-        "waitlist": 20,
+        "waitlist": 19,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -6416,7 +6455,7 @@
         "number": "1096",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025",
         "quota": 100,
-        "enroll": 75,
+        "enroll": 76,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -8370,7 +8409,7 @@
         "number": "1173",
         "remarks": "> The class is delivered in a face-to-face mode partially\n> For FT-MBA; PT-MBA; MBA Bi-Weekly and DI-MBA students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 09-Jul-2025",
         "quota": 65,
-        "enroll": 43,
+        "enroll": 44,
         "waitlist": 3,
         "consent": false,
         "reservedQuota": [
@@ -8387,7 +8426,7 @@
           {
             "name": "MBA Bi-weekly",
             "quota": 15,
-            "enroll": 10
+            "enroll": 11
           }
         ],
         "schedule": [
@@ -8655,14 +8694,14 @@
         "number": "1230",
         "remarks": "> For SBM TPG students only\n> Add/Drop Deadline : 16-Jun-2025",
         "quota": 65,
-        "enroll": 46,
+        "enroll": 45,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 8,
-            "enroll": 6
+            "enroll": 5
           },
           {
             "name": "ECON",
@@ -8671,12 +8710,12 @@
           },
           {
             "name": "FINA",
-            "quota": 6,
+            "quota": 7,
             "enroll": 6
           },
           {
             "name": "GO",
-            "quota": 32,
+            "quota": 31,
             "enroll": 23
           },
           {
@@ -9063,7 +9102,7 @@
         "number": "1019",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025",
         "quota": 15,
-        "enroll": 0,
+        "enroll": 6,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -9103,6 +9142,45 @@
         "remarks": " ",
         "quota": 5,
         "enroll": 5,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "LIFS",
+    "number": "4910D",
+    "code": "LIFS4910D",
+    "name": "Independent Study",
+    "description": "The course will cover review topics restricted to life sciences. Enrolled students will conduct research project or literature review exercise on a mutually agreed topic under the supervision of a faculty member. For third year LIFS students and visiting interns only. Approval of the course instructor is needed for students to enroll in this course. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1340",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -9882,6 +9960,7 @@
         "schedule": [
           {
             "instructors": [
+              "LIU, Ziyun",
               "SU, Wei"
             ],
             "venue": "Rm 2502, Lift 25-26 (120)",
@@ -9952,7 +10031,8 @@
         "schedule": [
           {
             "instructors": [
-              "HU, Yu"
+              "HU, Yu",
+              "JIANG, Peiqi"
             ],
             "venue": "Rm 2502, Lift 25-26 (120)",
             "fromDate": "2025-06-16",
@@ -9978,7 +10058,8 @@
         "schedule": [
           {
             "instructors": [
-              "HU, Yu"
+              "HU, Yu",
+              "LIANG, Phyllis Shi-Xin"
             ],
             "venue": "Rm 4579, Lift 27-28 (60)",
             "fromDate": "2025-06-16",
@@ -10311,8 +10392,8 @@
         "section": "R1",
         "number": "1334",
         "remarks": " ",
-        "quota": 1,
-        "enroll": 1,
+        "quota": 9,
+        "enroll": 9,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -11302,7 +11383,7 @@
         "number": "1218",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 40,
-        "enroll": 4,
+        "enroll": 5,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -12074,6 +12155,45 @@
           {
             "instructors": [
               "CHEUNG, Man Fung"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "PHYS",
+    "number": "4090A",
+    "code": "PHYS4090A",
+    "name": "Directed Studies in Physics III",
+    "description": "This course covers special topics selected by the instructor on the basis of individual student's request. For students in their fourth year of study only. The instructor's approval is required for taking this course. May be repeated for credits.",
+    "previousCodes": "",
+    "prerequisites": "CGA at 2.70 or above",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1341",
+        "remarks": " ",
+        "quota": 2,
+        "enroll": 2,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
             ],
             "venue": "TBA",
             "fromDate": "2025-06-16",
@@ -13784,7 +13904,7 @@
         "number": "1101",
         "remarks": "> The class is delivered in a self-paced online mode\n> For course details, please visit https://sosc.hkust.edu.hk/sites/default/files/2025-04/Sosc1662%20Summer%202025.pdf.\n> Add/Drop Deadline : 21-Jun-2025",
         "quota": 400,
-        "enroll": 326,
+        "enroll": 325,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
