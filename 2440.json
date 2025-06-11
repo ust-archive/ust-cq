@@ -3464,6 +3464,45 @@
     ]
   },
   {
+    "career": "RPG",
+    "subject": "COMP",
+    "number": "6931A",
+    "code": "COMP6931A",
+    "name": "Independent Studies",
+    "description": "An independent research project carried out under the supervision of a faculty member.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1343",
+        "remarks": "> Add/Drop Deadline: 21-Jun-2025\n> Extended Drop Deadline: 28-Jun-2025",
+        "quota": 2,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "TPG",
     "subject": "CSIT",
     "number": "6910A",
@@ -13904,7 +13943,7 @@
         "number": "1101",
         "remarks": "> The class is delivered in a self-paced online mode\n> For course details, please visit https://sosc.hkust.edu.hk/sites/default/files/2025-04/Sosc1662%20Summer%202025.pdf.\n> Add/Drop Deadline : 21-Jun-2025",
         "quota": 400,
-        "enroll": 329,
+        "enroll": 328,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
