@@ -82,7 +82,7 @@
         "number": "1205",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> Instructor : CAO, Zhe\n> Supervisor : Prof TANG, Chao\n> Add/Drop Deadline : 19-Jun-2025",
         "quota": 20,
-        "enroll": 7,
+        "enroll": 6,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2307,7 +2307,7 @@
         "number": "1029",
         "remarks": "> This course is a self-learning course without any face-to-face lectures or face-to-face labs. There will be an on-site in-person final exam scheduled near the end of the semester.\n> Add/Drop Deadline: 21-Jun-2025",
         "quota": 50,
-        "enroll": 7,
+        "enroll": 8,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2330,7 +2330,7 @@
         "number": "1030",
         "remarks": " ",
         "quota": 50,
-        "enroll": 7,
+        "enroll": 8,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -3482,7 +3482,7 @@
         "number": "1343",
         "remarks": "> Add/Drop Deadline: 21-Jun-2025\n> Extended Drop Deadline: 28-Jun-2025",
         "quota": 2,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -3886,14 +3886,14 @@
         "number": "1053",
         "remarks": "> For MSc(ECON) students only\n> Add/Drop Deadline : 19-Jun-2025",
         "quota": 100,
-        "enroll": 38,
+        "enroll": 37,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECON",
             "quota": 100,
-            "enroll": 38
+            "enroll": 37
           }
         ],
         "schedule": [
@@ -5486,7 +5486,7 @@
         "number": "1126",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 60,
-        "enroll": 59,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5505,6 +5505,84 @@
             ],
             "fromTime": "09:00",
             "toTime": "12:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENVR",
+    "number": "2900A",
+    "code": "ENVR2900A",
+    "name": "Internship/Service Learning",
+    "description": "The internship/service learning provides students a first-hand understanding of interconnected sectors of environment, business and society. Students will be working in teams enabling them to practice teamwork, communication and professional skills. The internship is a structured professional work experience in which students can apply their knowledge to problems and situations relevant to their professional preparation. Service learning benefits students by providing the opportunity to apply knowledge and skills to improve our community and solve real-world community problems as well as civic problems. The credit may be earned part-time during summer months. Students are required to take a pre-internship/service orientation session. May be repeated for credits if different topics are taken, but the total credits may not exceed two. Instructor's approval is required for enrollment in the course. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "LA1",
+        "number": "1345",
+        "remarks": " ",
+        "quota": 6,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENVR",
+    "number": "2900B",
+    "code": "ENVR2900B",
+    "name": "Internship/Service Learning",
+    "description": "The internship/service learning provides students a first-hand understanding of interconnected sectors of environment, business and society. Students will be working in teams enabling them to practice teamwork, communication and professional skills. The internship is a structured professional work experience in which students can apply their knowledge to problems and situations relevant to their professional preparation. Service learning benefits students by providing the opportunity to apply knowledge and skills to improve our community and solve real-world community problems as well as civic problems. The credit may be earned part-time during summer months. Students are required to take a pre-internship/service orientation session. May be repeated for credits if different topics are taken, but the total credits may not exceed two. Instructor's approval is required for enrollment in the course. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "LA1",
+        "number": "1346",
+        "remarks": " ",
+        "quota": 2,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -9000,7 +9078,7 @@
         "number": "1008",
         "remarks": "> Add/Drop Deadline : 16-Jun-2025",
         "quota": 120,
-        "enroll": 45,
+        "enroll": 46,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -10386,7 +10464,7 @@
         "number": "1086",
         "remarks": "> Add/Drop Deadline: 21-Jun-2025",
         "quota": 130,
-        "enroll": 66,
+        "enroll": 65,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -14062,7 +14140,7 @@
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 120,
         "enroll": 120,
-        "waitlist": 7,
+        "waitlist": 8,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -14531,7 +14609,7 @@
         "number": "1115",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025",
         "quota": 250,
-        "enroll": 94,
+        "enroll": 96,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -14570,7 +14648,7 @@
         "number": "1116",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025",
         "quota": 220,
-        "enroll": 56,
+        "enroll": 57,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
