@@ -32,7 +32,7 @@
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 75,
         "enroll": 75,
-        "waitlist": 21,
+        "waitlist": 20,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -2525,8 +2525,8 @@
         "number": "1071",
         "remarks": "> Add/Drop Deadline: 21-Jun-2025",
         "quota": 60,
-        "enroll": 57,
-        "waitlist": 3,
+        "enroll": 58,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -2578,8 +2578,8 @@
         "number": "1072",
         "remarks": " ",
         "quota": 60,
-        "enroll": 57,
-        "waitlist": 3,
+        "enroll": 58,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -6426,7 +6426,7 @@
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 100,
         "enroll": 100,
-        "waitlist": 13,
+        "waitlist": 14,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -6466,7 +6466,7 @@
         "remarks": " ",
         "quota": 100,
         "enroll": 100,
-        "waitlist": 13,
+        "waitlist": 14,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -7859,18 +7859,7 @@
         "enroll": 11,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "IS",
-            "quota": 15,
-            "enroll": 2
-          },
-          {
-            "name": "SBM",
-            "quota": 10,
-            "enroll": 9
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -7922,21 +7911,10 @@
         "number": "1241",
         "remarks": "> Instructor : WONG, Ka Chau\n> Supervisor : Prof HONG, Weiyin\n> Add/Drop Deadline : 19-Jun-2025",
         "quota": 25,
-        "enroll": 13,
-        "waitlist": 1,
+        "enroll": 14,
+        "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "IS",
-            "quota": 12,
-            "enroll": 0
-          },
-          {
-            "name": "SBM",
-            "quota": 13,
-            "enroll": 13
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -8030,8 +8008,8 @@
         "number": "1245",
         "remarks": " ",
         "quota": 25,
-        "enroll": 13,
-        "waitlist": 1,
+        "enroll": 14,
+        "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -8091,18 +8069,7 @@
         "enroll": 17,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "IS",
-            "quota": 30,
-            "enroll": 0
-          },
-          {
-            "name": "SBM",
-            "quota": 30,
-            "enroll": 14
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -9133,7 +9100,7 @@
         "number": "1008",
         "remarks": "> Add/Drop Deadline : 16-Jun-2025",
         "quota": 120,
-        "enroll": 45,
+        "enroll": 44,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -11691,7 +11658,7 @@
         "number": "1165",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 200,
-        "enroll": 86,
+        "enroll": 88,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -12048,7 +12015,7 @@
         "number": "1042",
         "remarks": "> Add/Drop Deadline : 23-Jun-2025",
         "quota": 120,
-        "enroll": 85,
+        "enroll": 84,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -14168,7 +14135,7 @@
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 120,
         "enroll": 120,
-        "waitlist": 17,
+        "waitlist": 18,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
