@@ -985,7 +985,7 @@
         "remarks": "> The class is delivered in a blended learning mode\n> Add/Drop Deadline: 15-Jul-2025",
         "quota": 64,
         "enroll": 64,
-        "waitlist": 72,
+        "waitlist": 71,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -1036,7 +1036,7 @@
         "remarks": " ",
         "quota": 32,
         "enroll": 32,
-        "waitlist": 35,
+        "waitlist": 34,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -1061,7 +1061,7 @@
         "remarks": " ",
         "quota": 64,
         "enroll": 64,
-        "waitlist": 72,
+        "waitlist": 71,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -1820,7 +1820,7 @@
         "number": "1002",
         "remarks": "> Add/Drop Deadline: 19-Jun-2025",
         "quota": 160,
-        "enroll": 13,
+        "enroll": 12,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1847,7 +1847,7 @@
         "number": "1003",
         "remarks": " ",
         "quota": 160,
-        "enroll": 13,
+        "enroll": 12,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5713,7 +5713,7 @@
         "number": "1126",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 60,
-        "enroll": 51,
+        "enroll": 50,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6378,7 +6378,7 @@
         "number": "1014",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 60,
-        "enroll": 14,
+        "enroll": 15,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6418,7 +6418,7 @@
         "number": "1017",
         "remarks": " ",
         "quota": 60,
-        "enroll": 14,
+        "enroll": 15,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -7985,7 +7985,7 @@
         "number": "1172",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> Instructor : ZHOU, Xinyi\n> Supervisor : Prof LU, Lijian\n> Add/Drop Deadline : 17-Jul-2025",
         "quota": 60,
-        "enroll": 40,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -12234,6 +12234,45 @@
     ]
   },
   {
+    "career": "RPG",
+    "subject": "PDEV",
+    "number": "6800E",
+    "code": "PDEV6800E",
+    "name": "Introduction to Teaching and Learning in Higher Education",
+    "description": "The course is designed to strengthen students’ competence in teaching. It comprises 2 parts: Part 1 aims to equip all full-time research postgraduate (RPg) students with basic teaching skills before assuming teaching assistant duties for the department. Good teaching skills can be acquired through learning and practice.  This 10-hour mandatory training course provides all graduate teaching assistants (GTA) with the necessary theoretical knowledge with practical opportunities to apply and build up their knowledge, skills and confidence in taking up their teaching duties. At the end of the course, GTAs should be able to (1) facilitate teaching in tutorials and laboratory settings; (2) provide meaningful feedback to their students; and (3) design an active learning environment to engage their students. In Part 2, students are required to perform instructional delivery assigned by their respective departments to complete this course. MPhil students are required to give at least one 30-minute session of instructional delivery in front of a group of students for one term. PhD students are required to give at least one such session each in two different terms. Graded PP, P or F.",
+    "previousCodes": "",
+    "prerequisites": "PDEV 6800Z",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1354",
+        "remarks": " ",
+        "quota": 2,
+        "enroll": 2,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "UGRD",
     "subject": "PHYS",
     "number": "1002",
@@ -14317,7 +14356,7 @@
         "number": "1103",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 120,
-        "enroll": 120,
+        "enroll": 119,
         "waitlist": 15,
         "consent": false,
         "reservedQuota": [],
@@ -14814,7 +14853,7 @@
         "number": "1115",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025",
         "quota": 250,
-        "enroll": 117,
+        "enroll": 118,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
