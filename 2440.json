@@ -32,7 +32,7 @@
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 75,
         "enroll": 75,
-        "waitlist": 20,
+        "waitlist": 21,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -881,7 +881,7 @@
             ],
             "venue": "Rm 2503, Lift 25-26 (87)",
             "fromDate": "2025-06-14",
-            "toDate": "2025-06-21",
+            "toDate": "2025-07-05",
             "weekdays": [
               6
             ],
@@ -2526,7 +2526,7 @@
         "remarks": "> Add/Drop Deadline: 21-Jun-2025",
         "quota": 60,
         "enroll": 58,
-        "waitlist": 2,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -2579,7 +2579,7 @@
         "remarks": " ",
         "quota": 60,
         "enroll": 58,
-        "waitlist": 2,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -3503,6 +3503,123 @@
     ]
   },
   {
+    "career": "UGRD",
+    "subject": "CPEG",
+    "number": "4901",
+    "code": "CPEG4901",
+    "name": "Computer Engineering Final Year Project in COMP",
+    "description": "Each student of the Computer Engineering program is required to complete a final year project before graduation. The student is expected to conduct a project on a topic related to Computer Engineering and/or its application. The project is guided and conducted under the supervision of faculty members from the Department of Computer Science and Engineering. Credit load will be spread over the year. Instructor's approval is required for enrollment in the course. For CPEG students only.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1348",
+        "remarks": "> The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3\n> Add/Drop Deadline: 21-Jun-2025",
+        "quota": 87,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "CPEG",
+    "number": "4902",
+    "code": "CPEG4902",
+    "name": "Computer Engineering Final Year Thesis in COMP",
+    "description": "Each student taking the Research Option of the Computer Engineering program is required to complete an individual thesis before graduation. The student is expected to conduct a research on a topic related to Computer Engineering and/or its application. The thesis is conducted under the supervision of faculty members from the Department of Computer Science and Engineering. Credit load will be spread over the year. Instructor's approval is required for enrollment in the course. For CPEG students only.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1349",
+        "remarks": "> The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3\n> Add/Drop Deadline: 21-Jun-2025",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "CPEG",
+    "number": "4911",
+    "code": "CPEG4911",
+    "name": "Computer Engineering Final Year Project in ELEC",
+    "description": "Each student of the Computer Engineering program is required to complete a final year project before graduation. The student is expected to conduct a project on a topic related to Computer Engineering and/or its application. The project is guided and conducted under the supervision of faculty members from the Department of Electronic and Computer Engineering. Credit load will be spread over the year. Instructor's approval is required for enrollment in the course. For CPEG students only.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1350",
+        "remarks": "> The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3\n> Add/Drop Deadline: 21-Jun-2025",
+        "quota": 48,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "TPG",
     "subject": "CSIT",
     "number": "6910A",
@@ -3742,7 +3859,7 @@
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 30,
         "enroll": 30,
-        "waitlist": 1,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -3769,7 +3886,7 @@
         "remarks": " ",
         "quota": 30,
         "enroll": 30,
-        "waitlist": 1,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -3818,7 +3935,7 @@
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 30,
         "enroll": 30,
-        "waitlist": 19,
+        "waitlist": 20,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -3845,7 +3962,7 @@
         "remarks": " ",
         "quota": 30,
         "enroll": 30,
-        "waitlist": 19,
+        "waitlist": 20,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -3886,14 +4003,14 @@
         "number": "1053",
         "remarks": "> For MSc(ECON) students only\n> Add/Drop Deadline : 19-Jun-2025",
         "quota": 100,
-        "enroll": 39,
+        "enroll": 38,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECON",
             "quota": 100,
-            "enroll": 39
+            "enroll": 38
           }
         ],
         "schedule": [
@@ -6137,7 +6254,7 @@
         "number": "1009",
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 100,
-        "enroll": 100,
+        "enroll": 99,
         "waitlist": 42,
         "consent": false,
         "reservedQuota": [],
@@ -9001,7 +9118,7 @@
         "number": "1153",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 20,
-        "enroll": 14,
+        "enroll": 15,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -10783,7 +10900,7 @@
         "number": "1095",
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 60,
-        "enroll": 41,
+        "enroll": 40,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -11658,7 +11775,7 @@
         "number": "1165",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 200,
-        "enroll": 87,
+        "enroll": 88,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -14014,7 +14131,7 @@
         "number": "1100",
         "remarks": "> Add Drop Deadline : 19-Jun-2025",
         "quota": 120,
-        "enroll": 28,
+        "enroll": 27,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
