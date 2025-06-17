@@ -1561,7 +1561,7 @@
         "remarks": "> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 12,
+        "waitlist": 10,
         "consent": false,
         "reservedQuota": [
           {
@@ -3350,6 +3350,45 @@
           {
             "instructors": [
               "CHEN, Hao"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "COMP",
+    "number": "6922H",
+    "code": "COMP6922H",
+    "name": "Research Project",
+    "description": "An independent research project carried out under the supervision of a faculty member. This course is only available for exchange, visiting and visiting internship students.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1356",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "GUO, Song"
             ],
             "venue": "TBA",
             "fromDate": "2025-06-16",
@@ -6598,7 +6637,7 @@
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 100,
         "enroll": 100,
-        "waitlist": 16,
+        "waitlist": 17,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -6638,7 +6677,7 @@
         "remarks": " ",
         "quota": 100,
         "enroll": 100,
-        "waitlist": 16,
+        "waitlist": 17,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -7733,7 +7772,7 @@
         "section": "L2",
         "number": "1067",
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
-        "quota": 80,
+        "quota": 51,
         "enroll": 14,
         "waitlist": 0,
         "consent": false,
@@ -7744,7 +7783,7 @@
               "CHAN, Wing Yan",
               "XU, Yan"
             ],
-            "venue": "Rm 2465, Lift 25-26 (122)",
+            "venue": "Rm 1033, LSK Bldg (51)",
             "fromDate": "2025-06-16",
             "toDate": "2025-06-27",
             "weekdays": [
@@ -7759,7 +7798,7 @@
             "instructors": [
               "XU, Yan"
             ],
-            "venue": "Rm 2465, Lift 25-26 (122)",
+            "venue": "Rm 1033, LSK Bldg (51)",
             "fromDate": "2025-07-02",
             "toDate": "2025-07-02",
             "weekdays": [
@@ -7772,7 +7811,7 @@
             "instructors": [
               "XU, Yan"
             ],
-            "venue": "Rm 2465, Lift 25-26 (122)",
+            "venue": "Rm 1033, LSK Bldg (51)",
             "fromDate": "2025-07-07",
             "toDate": "2025-07-09",
             "weekdays": [
@@ -7786,7 +7825,7 @@
             "instructors": [
               "XU, Yan"
             ],
-            "venue": "Rm 2465, Lift 25-26 (122)",
+            "venue": "Rm 1033, LSK Bldg (51)",
             "fromDate": "2025-07-11",
             "toDate": "2025-07-11",
             "weekdays": [
@@ -8894,6 +8933,62 @@
     ]
   },
   {
+    "career": "RPG",
+    "subject": "ISOM",
+    "number": "6390E",
+    "code": "ISOM6390E",
+    "name": "Independent Study in Information Systems",
+    "description": "Study of selected information and systems management issues under the supervision of a faculty member. This course may be repeated for credit. (Special permission from the Associate Dean is required for MBA students to take this course.)",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1355",
+        "remarks": "> For MPhil and PhD students in IS only.\n> Instructor : Prof. FANG Xiao\n> Add/Drop Deadline : 09-July-2025",
+        "quota": 2,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-07-09",
+            "toDate": "2025-07-11",
+            "weekdays": [
+              3,
+              4,
+              5
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-07-12",
+            "toDate": "2025-07-12",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "09:00",
+            "toTime": "11:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "TPG",
     "subject": "ISOM",
     "number": "6790O",
@@ -9917,7 +10012,7 @@
         "number": "1238",
         "remarks": "> For MSc(MAFM) students only.\n> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 80,
-        "enroll": 35,
+        "enroll": 36,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -12825,7 +12920,7 @@
         "number": "1259",
         "remarks": "> Add/Drop Deadline: 17-Jun-2025\n> Extended Drop Deadline: 23-Jun-2025",
         "quota": 30,
-        "enroll": 24,
+        "enroll": 25,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -14357,7 +14452,7 @@
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 120,
         "enroll": 120,
-        "waitlist": 14,
+        "waitlist": 13,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -14853,7 +14948,7 @@
         "number": "1115",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025",
         "quota": 250,
-        "enroll": 119,
+        "enroll": 120,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
