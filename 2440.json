@@ -32,7 +32,7 @@
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 75,
         "enroll": 75,
-        "waitlist": 16,
+        "waitlist": 17,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -4929,6 +4929,45 @@
   {
     "career": "UGRD",
     "subject": "EMIA",
+    "number": "4900B",
+    "code": "EMIA4900B",
+    "name": "Independent Study",
+    "description": "Independent studies or projects under the directed guidance of a faculty member. Course requirements include readings on the relevant topic and a research or survey project specifically defined for the research topic. Credits assigned depend on the workload and may be repeated if different topics are taken. For students with approval from instructor for enrolling in the course. May be graded by letter, P/F or DI/PA/F for different offerings.",
+    "previousCodes": "IIMP4900B",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1360",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "EMIA",
     "number": "4990",
     "code": "EMIA4990",
     "name": "Interdisciplinary Capstone Design",
@@ -5920,6 +5959,45 @@
           {
             "instructors": [
               "CHAN, Keith"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENVR",
+    "number": "4010D",
+    "code": "ENVR4010D",
+    "name": "Independent Study in Environment Issues",
+    "description": "Faculty directed independent study of selected topics in Environmental issues.  For EVMT students and students with consent from the instructor.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1359",
+        "remarks": "> Add/Drop Deadline : 21-Jun-2025",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAU, Pui Sang"
             ],
             "venue": "TBA",
             "fromDate": "2025-06-16",
@@ -10560,7 +10638,7 @@
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 90,
         "enroll": 89,
-        "waitlist": 12,
+        "waitlist": 11,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -10614,7 +10692,7 @@
         "remarks": " ",
         "quota": 40,
         "enroll": 40,
-        "waitlist": 3,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -10912,7 +10990,7 @@
         "number": "1159",
         "remarks": "> Add/Drop Deadline: 19-Jun-2025",
         "quota": 60,
-        "enroll": 10,
+        "enroll": 11,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -11945,7 +12023,7 @@
         "number": "1218",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 40,
-        "enroll": 16,
+        "enroll": 17,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -12724,6 +12802,45 @@
             ],
             "fromTime": "09:30",
             "toTime": "10:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "PHYS",
+    "number": "2090A",
+    "code": "PHYS2090A",
+    "name": "Directed Studies in Physics I",
+    "description": "This course covers special topics selected by the instructor on the basis of individual student's request. For students in the second year of study under the four-year degree only. Instructor's approval is required for enrollment in the course. May be repeated for credits.",
+    "previousCodes": "",
+    "prerequisites": "CGA at 2.70 or above",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1358",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -14987,7 +15104,7 @@
         "number": "1115",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025",
         "quota": 250,
-        "enroll": 124,
+        "enroll": 125,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
