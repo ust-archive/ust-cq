@@ -1561,7 +1561,7 @@
         "remarks": "> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 9,
+        "waitlist": 8,
         "consent": false,
         "reservedQuota": [
           {
@@ -1656,14 +1656,14 @@
         "number": "1235",
         "remarks": "> Add/Drop Deadline : 25-Jun-2025\n> Extended Drop Deadline : 02-Jul-2025",
         "quota": 50,
-        "enroll": 49,
-        "waitlist": 4,
+        "enroll": 50,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [
           {
             "name": "CIEM",
             "quota": 50,
-            "enroll": 49
+            "enroll": 50
           }
         ],
         "schedule": [
@@ -1820,7 +1820,7 @@
         "number": "1002",
         "remarks": "> Add/Drop Deadline: 19-Jun-2025",
         "quota": 160,
-        "enroll": 12,
+        "enroll": 11,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1847,7 +1847,7 @@
         "number": "1003",
         "remarks": " ",
         "quota": 160,
-        "enroll": 12,
+        "enroll": 11,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2386,7 +2386,7 @@
         "number": "1031",
         "remarks": "> This course is a self-learning course without any face-to-face lectures or face-to-face labs. There will be an on-site in-person final exam scheduled near the end of the semester.\n> Add/Drop Deadline: 21-Jun-2025",
         "quota": 50,
-        "enroll": 30,
+        "enroll": 29,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2409,7 +2409,7 @@
         "number": "1032",
         "remarks": " ",
         "quota": 50,
-        "enroll": 30,
+        "enroll": 29,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2665,7 +2665,7 @@
         "number": "1080",
         "remarks": "> Add/Drop Deadline: 21-Jun-2025",
         "quota": 60,
-        "enroll": 37,
+        "enroll": 36,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2718,7 +2718,7 @@
         "number": "1082",
         "remarks": " ",
         "quota": 60,
-        "enroll": 37,
+        "enroll": 36,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2746,7 +2746,7 @@
         "number": "1081",
         "remarks": " ",
         "quota": 60,
-        "enroll": 37,
+        "enroll": 36,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5830,7 +5830,7 @@
         "number": "1126",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 60,
-        "enroll": 47,
+        "enroll": 48,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6320,7 +6320,7 @@
         "remarks": "> Add/Drop Deadline : 26-Jun-2025",
         "quota": 30,
         "enroll": 30,
-        "waitlist": 1,
+        "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -7271,6 +7271,45 @@
   {
     "career": "UGRD",
     "subject": "IEDA",
+    "number": "4900",
+    "code": "IEDA4900",
+    "name": "Independent Study in Industrial Engineering and Decision Analytics",
+    "description": "Undertaken by students under the supervision of a faculty member. Course requirements include readings on the relevant topic and a research or survey project specifically defined for the research option. For students of the Department of Industrial Engineering and Decision Analytics only. Instructor's approval is required for enrollment in the course.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1362",
+        "remarks": "> Add/Drop Deadline : 21-Jun-2025",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "IEDA",
     "number": "4920",
     "code": "IEDA4920",
     "name": "Decision Analytics Final Year Project",
@@ -7288,6 +7327,45 @@
         "remarks": "> Add/Drop Deadline: 21-Jun-2025",
         "quota": 5,
         "enroll": 3,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "IEDA",
+    "number": "4950C",
+    "code": "IEDA4950C",
+    "name": "Industrial Engineering Special Project",
+    "description": "A special project supervised by a faculty member. A project proposal and a final report are required. May be repeated for credit if the projects cover different topics.",
+    "previousCodes": "IELM4950C",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1363",
+        "remarks": "> Add/Drop Deadline : 21-Jun-2025",
+        "quota": 1,
+        "enroll": 0,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -7999,7 +8077,7 @@
         "number": "1296",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 80,
-        "enroll": 15,
+        "enroll": 16,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -10638,7 +10716,7 @@
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 90,
         "enroll": 89,
-        "waitlist": 9,
+        "waitlist": 10,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -10665,7 +10743,7 @@
         "remarks": " ",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 8,
+        "waitlist": 9,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -14432,6 +14510,45 @@
   {
     "career": "UGRD",
     "subject": "SCIE",
+    "number": "1010B",
+    "code": "SCIE1010B",
+    "name": "Enrichment Project",
+    "description": "For Science students only.  This course aims to provide complementary educational experience to students outside normal academic curriculum through engagements in internship or outside-classroom project activities related to his/her own discipline.  Students enrolled would work under the supervision of a faculty member and are required to submit a report by the end of the semester, in addition to other criteria set by his/her supervisor.  Course coordinator's approval is required for taking the course.  1 credit is normally assigned for 40 hours of work. Graded P or F. Maybe graded PP.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1361",
+        "remarks": " ",
+        "quota": 9,
+        "enroll": 8,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAM, Ka Sin Cindy"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "SCIE",
     "number": "1010C",
     "code": "SCIE1010C",
     "name": "Enrichment Project",
@@ -14562,7 +14679,7 @@
         "number": "1101",
         "remarks": "> The class is delivered in a self-paced online mode\n> For course details, please visit https://sosc.hkust.edu.hk/sites/default/files/2025-04/Sosc1662%20Summer%202025.pdf.\n> Add/Drop Deadline : 21-Jun-2025",
         "quota": 400,
-        "enroll": 361,
+        "enroll": 362,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -14641,7 +14758,7 @@
         "number": "1105",
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 120,
-        "enroll": 120,
+        "enroll": 119,
         "waitlist": 7,
         "consent": false,
         "reservedQuota": [],
@@ -15150,7 +15267,7 @@
         "number": "1116",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025",
         "quota": 220,
-        "enroll": 94,
+        "enroll": 96,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
