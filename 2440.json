@@ -32,7 +32,7 @@
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 75,
         "enroll": 75,
-        "waitlist": 17,
+        "waitlist": 16,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -1318,7 +1318,7 @@
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 60,
         "enroll": 60,
-        "waitlist": 34,
+        "waitlist": 32,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -5186,7 +5186,7 @@
         "number": "1347",
         "remarks": "> Add/Drop Deadline: 21-Jun-2025",
         "quota": 8,
-        "enroll": 6,
+        "enroll": 7,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -9463,7 +9463,7 @@
         "number": "1153",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 20,
-        "enroll": 14,
+        "enroll": 13,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -9506,7 +9506,7 @@
         "number": "1154",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 20,
-        "enroll": 20,
+        "enroll": 19,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -10716,7 +10716,7 @@
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 90,
         "enroll": 90,
-        "waitlist": 11,
+        "waitlist": 10,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -10770,7 +10770,7 @@
         "remarks": " ",
         "quota": 40,
         "enroll": 40,
-        "waitlist": 3,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -12205,7 +12205,7 @@
         "number": "1165",
         "remarks": "> Add/Drop Deadline : 19-Jun-2025",
         "quota": 200,
-        "enroll": 86,
+        "enroll": 87,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -14573,6 +14573,45 @@
           {
             "instructors": [
               "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "SHSS",
+    "number": "1020A",
+    "code": "SHSS1020A",
+    "name": "Humanities and Social Science Internship",
+    "description": "This course aims to provide students with internship educational opportunities locally and globally. Under the guidance of the course coordinator, students will undertake training and supervised internships with our potential collaborators (including government departments, NGOs, museums, media and press, cultural industries, social enterprises, social service organizations, business firms, and public corporations). Course assessment will be based on students' written reports and supervisors' evaluation. Cantonese may be used in off-campus trainings and internships, in some situations. May be repeated for credits. For students of GCS and QSA program only. Instructor's approval is required for enrolling in the course. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1364",
+        "remarks": " ",
+        "quota": 2,
+        "enroll": 2,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "WONG, James K."
             ],
             "venue": "TBA",
             "fromDate": "2025-06-16",
