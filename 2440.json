@@ -1544,14 +1544,14 @@
         "number": "1247",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 50,
-        "enroll": 43,
+        "enroll": 42,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "CIEM",
             "quota": 50,
-            "enroll": 43
+            "enroll": 42
           }
         ],
         "schedule": [
@@ -8243,7 +8243,7 @@
         "number": "1172",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> Instructor : ZHOU, Xinyi\n> Supervisor : Prof LU, Lijian\n> Add/Drop Deadline : 17-Jul-2025",
         "quota": 60,
-        "enroll": 41,
+        "enroll": 40,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -9984,6 +9984,45 @@
         "number": "1026",
         "remarks": " ",
         "quota": 5,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "LIFS",
+    "number": "6990",
+    "code": "LIFS6990",
+    "name": "MPhil Thesis Research",
+    "description": "Master's thesis research supervised by a faculty member. A successful defense of the thesis leads to the grade Pass. No course credit is assigned.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1366",
+        "remarks": " ",
+        "quota": 1,
         "enroll": 1,
         "waitlist": 0,
         "consent": false,
@@ -15291,7 +15330,7 @@
         "number": "1115",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025",
         "quota": 250,
-        "enroll": 159,
+        "enroll": 160,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
