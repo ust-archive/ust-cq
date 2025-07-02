@@ -31,7 +31,7 @@
         "number": "1001",
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 75,
-        "enroll": 75,
+        "enroll": 74,
         "waitlist": 13,
         "consent": false,
         "reservedQuota": [],
@@ -1880,6 +1880,45 @@
     ]
   },
   {
+    "career": "UGRD",
+    "subject": "CIVL",
+    "number": "4900A",
+    "code": "CIVL4900A",
+    "name": "Directed Studies",
+    "description": "Specialist courses where instruction is generally given on a one-to-one basis. Graded P or F.",
+    "previousCodes": "CIVL390A",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1373",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "RPG",
     "subject": "CIVL",
     "number": "6010A",
@@ -2803,8 +2842,8 @@
         "section": "R1",
         "number": "1322",
         "remarks": " ",
-        "quota": 16,
-        "enroll": 16,
+        "quota": 19,
+        "enroll": 19,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -4689,8 +4728,8 @@
         "section": "R1",
         "number": "1342",
         "remarks": "> Add/Drop Deadline: 21-Jun-2025",
-        "quota": 1,
-        "enroll": 1,
+        "quota": 4,
+        "enroll": 4,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -4712,8 +4751,8 @@
         "section": "R2",
         "number": "1367",
         "remarks": " ",
-        "quota": 2,
-        "enroll": 2,
+        "quota": 0,
+        "enroll": 0,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -7949,7 +7988,7 @@
         "number": "1069",
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 80,
-        "enroll": 11,
+        "enroll": 10,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
