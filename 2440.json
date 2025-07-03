@@ -1448,6 +1448,45 @@
     ]
   },
   {
+    "career": "RPG",
+    "subject": "CHEM",
+    "number": "6980A",
+    "code": "CHEM6980A",
+    "name": "Research Project",
+    "description": "An independent research project carried out under the supervision of a faculty member. This course is only available for exchange, visiting and visiting internship students.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1375",
+        "remarks": " ",
+        "quota": 3,
+        "enroll": 3,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "TPG",
     "subject": "CIEM",
     "number": "5180",
@@ -1976,7 +2015,7 @@
         "number": "1013",
         "remarks": "> Add/Drop Deadline: 21-Jun-2025\n> Extended Drop Deadline: 28-Jun-2025",
         "quota": 5,
-        "enroll": 1,
+        "enroll": 2,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -2842,8 +2881,8 @@
         "section": "R1",
         "number": "1322",
         "remarks": " ",
-        "quota": 19,
-        "enroll": 19,
+        "quota": 24,
+        "enroll": 24,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -3941,6 +3980,45 @@
   },
   {
     "career": "UGRD",
+    "subject": "DSCT",
+    "number": "4900",
+    "code": "DSCT4900",
+    "name": "Academic and Professional Development",
+    "description": "This course is for academic and professional development of students in the BSc program in Data Science and Technology offered by the Department of Mathematics and Department of Computer Science and Engineering. Activities may include seminars, workshops, advising and sharing sessions, interaction with faculty and teaching staff, and discussion with student peers or alumni. Graded PP, P or F. For DSCT students only.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1374",
+        "remarks": " ",
+        "quota": 2,
+        "enroll": 2,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
     "subject": "ECON",
     "number": "2103",
     "code": "ECON2103",
@@ -4728,9 +4806,9 @@
       {
         "section": "R1",
         "number": "1342",
-        "remarks": "> Add/Drop Deadline: 21-Jun-2025",
-        "quota": 4,
-        "enroll": 4,
+        "remarks": " ",
+        "quota": 5,
+        "enroll": 5,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -5756,7 +5834,7 @@
         "number": "1125",
         "remarks": "> The class is delivered in a experiential learning mode\n> Add/Drop Deadline : 17-Jul-2025",
         "quota": 60,
-        "enroll": 54,
+        "enroll": 55,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5775,6 +5853,45 @@
             ],
             "fromTime": "14:00",
             "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENVR",
+    "number": "2001",
+    "code": "ENVR2001",
+    "name": "Academic and Professional Development I",
+    "description": "This is the first course of the series designed to assist students in developing attributes necessary for professional growth. This course is a one-year course designed to provide academic advising to students, to enhance their understanding of the latest environment topics, and to improve their communication skills. Students are required to attend discussion sessions with advisors and selected seminars. For EVMT students only. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1376",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAU, Pui Sang"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -5902,6 +6019,45 @@
           {
             "instructors": [
               "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENVR",
+    "number": "3001",
+    "code": "ENVR3001",
+    "name": "Academic and Professional Development II",
+    "description": "This is second course of the series designed to assist students in developing attributes necessary for professional growth. This course is a one-year course designed to provide academic advising to students, to enhance their understanding of the latest environment topics, and to improve their communication skills. Students are required to attend discussion sessions with advisors and selected seminars. For EVMT students only. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1379",
+        "remarks": " ",
+        "quota": 4,
+        "enroll": 4,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAU, Pui Sang"
             ],
             "venue": "TBA",
             "fromDate": "2025-06-16",
@@ -7194,6 +7350,45 @@
         "enroll": 3,
         "waitlist": 0,
         "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "IEDA",
+    "number": "4950A",
+    "code": "IEDA4950A",
+    "name": "Industrial Engineering Special Project",
+    "description": "A special project supervised by a faculty member. A project proposal and a final report are required. May be repeated for credit if the projects cover different topics.",
+    "previousCodes": "IELM4950A",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1377",
+        "remarks": " ",
+        "quota": 7,
+        "enroll": 7,
+        "waitlist": 0,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -9530,7 +9725,7 @@
         "number": "1019",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025",
         "quota": 15,
-        "enroll": 6,
+        "enroll": 11,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -10076,7 +10271,7 @@
         "number": "1353",
         "remarks": "> Students should seek the instructor's approval to take this course.\n> Add/Drop Deadline : 21-Jun-2025\n> Extended Drop Deadline : 28-Jun-2025",
         "quota": 10,
-        "enroll": 4,
+        "enroll": 5,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -10638,8 +10833,8 @@
         "section": "L1",
         "number": "1332",
         "remarks": " ",
-        "quota": 1,
-        "enroll": 1,
+        "quota": 13,
+        "enroll": 13,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -10898,8 +11093,8 @@
         "section": "R1",
         "number": "1334",
         "remarks": " ",
-        "quota": 9,
-        "enroll": 9,
+        "quota": 10,
+        "enroll": 10,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -12658,8 +12853,8 @@
         "section": "T1",
         "number": "1358",
         "remarks": " ",
-        "quota": 1,
-        "enroll": 1,
+        "quota": 6,
+        "enroll": 6,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -12706,6 +12901,45 @@
           {
             "instructors": [
               "CHEUNG, Man Fung"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "PHYS",
+    "number": "3090A",
+    "code": "PHYS3090A",
+    "name": "Directed Studies in Physics II",
+    "description": "This course covers special topics selected by the instructor on the basis of individual student's request. For students in their third year of study under the four-year degree only. The instructor's approval is required for taking this course. May be repeated for credits.",
+    "previousCodes": "",
+    "prerequisites": "CGA at 2.70 or above",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1378",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
             ],
             "venue": "TBA",
             "fromDate": "2025-06-16",
