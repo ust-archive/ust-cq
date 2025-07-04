@@ -1450,6 +1450,45 @@
   {
     "career": "RPG",
     "subject": "CHEM",
+    "number": "6772",
+    "code": "CHEM6772",
+    "name": "Professional Development in Chemistry",
+    "description": "This one-credit course aims at providing research postgraduate students basic training in teaching skills, research management, career development, and related professional skills in chemistry. This course normally lasts for one year, and is composed of a number of mini-workshops or tasks which are coordinated by the department. Graded PP, P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "CHEM 6770 (prior to 2024-25), CHEM 6771",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1381",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "GUO, Zhihong"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "CHEM",
     "number": "6980A",
     "code": "CHEM6980A",
     "name": "Research Project",
@@ -4123,7 +4162,7 @@
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 30,
         "enroll": 30,
-        "waitlist": 16,
+        "waitlist": 15,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -4150,7 +4189,7 @@
         "remarks": " ",
         "quota": 30,
         "enroll": 30,
-        "waitlist": 16,
+        "waitlist": 15,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -7116,6 +7155,7 @@
         "schedule": [
           {
             "instructors": [
+              "LIN, Ruihan",
               "YANG, Bo"
             ],
             "venue": "Rm 2504, Lift 25-26 (84)",
@@ -7225,7 +7265,8 @@
         "schedule": [
           {
             "instructors": [
-              "QI, Xiangtong"
+              "QI, Xiangtong",
+              "ZHANG, Runze"
             ],
             "venue": "Rm 2302, Lift 17-18 (74)",
             "fromDate": "2025-07-14",
@@ -9884,7 +9925,7 @@
         "number": "1025",
         "remarks": "> Add/Drop Deadline : 15-Jul-2025",
         "quota": 40,
-        "enroll": 11,
+        "enroll": 12,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -14860,7 +14901,7 @@
         "number": "1106",
         "remarks": "> The class is delivered in a blended learning mode\n> Add/Drop Deadline : 17-Jul-2025",
         "quota": 70,
-        "enroll": 32,
+        "enroll": 33,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
