@@ -930,7 +930,7 @@
         "remarks": "> The class is delivered in a blended learning mode\n> Add/Drop Deadline: 15-Jul-2025",
         "quota": 64,
         "enroll": 64,
-        "waitlist": 64,
+        "waitlist": 63,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -981,7 +981,7 @@
         "remarks": " ",
         "quota": 32,
         "enroll": 32,
-        "waitlist": 31,
+        "waitlist": 30,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -1006,7 +1006,7 @@
         "remarks": " ",
         "quota": 64,
         "enroll": 64,
-        "waitlist": 64,
+        "waitlist": 63,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -6506,7 +6506,7 @@
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 100,
         "enroll": 100,
-        "waitlist": 29,
+        "waitlist": 30,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -12433,6 +12433,45 @@
         "number": "1372",
         "remarks": " ",
         "quota": 2,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "PDEV",
+    "number": "6800B",
+    "code": "PDEV6800B",
+    "name": "Introduction to Teaching and Learning in Higher Education",
+    "description": "The course is designed to strengthen students’ competence in teaching. It comprises 2 parts: Part 1 aims to equip all full-time research postgraduate (RPg) students with basic teaching skills before assuming teaching assistant duties for the department. Good teaching skills can be acquired through learning and practice.  This 10-hour mandatory training course provides all graduate teaching assistants (GTA) with the necessary theoretical knowledge with practical opportunities to apply and build up their knowledge, skills and confidence in taking up their teaching duties. At the end of the course, GTAs should be able to (1) facilitate teaching in tutorials and laboratory settings; (2) provide meaningful feedback to their students; and (3) design an active learning environment to engage their students. In Part 2, students are required to perform instructional delivery assigned by their respective departments to complete this course. MPhil students are required to give at least one 30-minute session of instructional delivery in front of a group of students for one term. PhD students are required to give at least one such session each in two different terms. Graded PP, P or F.",
+    "previousCodes": "",
+    "prerequisites": "PDEV 6800Z",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1380",
+        "remarks": " ",
+        "quota": 1,
         "enroll": 1,
         "waitlist": 0,
         "consent": false,
