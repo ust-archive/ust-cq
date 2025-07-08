@@ -1504,8 +1504,8 @@
         "section": "R1",
         "number": "1375",
         "remarks": " ",
-        "quota": 11,
-        "enroll": 11,
+        "quota": 16,
+        "enroll": 16,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2922,8 +2922,8 @@
         "section": "R1",
         "number": "1322",
         "remarks": " ",
-        "quota": 25,
-        "enroll": 25,
+        "quota": 27,
+        "enroll": 27,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -4851,8 +4851,8 @@
         "section": "R1",
         "number": "1342",
         "remarks": " ",
-        "quota": 5,
-        "enroll": 5,
+        "quota": 6,
+        "enroll": 6,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -7409,7 +7409,7 @@
         "number": "1377",
         "remarks": " ",
         "quota": 17,
-        "enroll": 12,
+        "enroll": 15,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -7499,6 +7499,84 @@
             "venue": "TBA",
             "fromDate": "2025-06-16",
             "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "IMBA",
+    "number": "5600",
+    "code": "IMBA5600",
+    "name": "Negotiations Globally",
+    "description": "The course offers a comprehensive exploration of negotiation strategy within a global context. Participants will gain a broad intellectual understanding of core concepts while building practical skills for effective negotiation. With a focus on cultural differences and maximizing gains, this course enables learners to adapt their strategies and evaluate potential agreements.",
+    "previousCodes": "IMBA6900I",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1383",
+        "remarks": "> Class Duration/Dates : 28-Jun-2025 to 29-Jun-2025\n> Instructor : Prof. BRETT, Jeanne \n> Add/Drop Deadline : 28-Jun-2025",
+        "quota": 42,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-28",
+            "toDate": "2025-06-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "IMBA",
+    "number": "5610",
+    "code": "IMBA5610",
+    "name": "Competitive Strategy",
+    "description": "This course explores Competitive Strategy, focusing on two key components: Blue Ocean Strategy and Platform Economics. Participants will learn how to create uncontested market spaces and make competition irrelevant through Blue Ocean Strategy. They will also gain insights into Platform Economics, including network effects and collaboration, and discover how to leverage existing platforms or build new ones for successful market disruption using Platform Invasion Strategy.",
+    "previousCodes": "IMBA6900V",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1382",
+        "remarks": "> Class Duration/Dates : 26-Jun-2025 to 27-Jun-2025\n> Add/Drop Deadline : 26-Jun-2025",
+        "quota": 42,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "FONG, Yuk Fai"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-26",
+            "toDate": "2025-06-27",
             "weekdays": [],
             "fromTime": null,
             "toTime": null
@@ -9747,8 +9825,8 @@
         "section": "T1",
         "number": "1019",
         "remarks": "> Add/Drop Deadline : 21-Jun-2025",
-        "quota": 15,
-        "enroll": 15,
+        "quota": 16,
+        "enroll": 16,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -10856,8 +10934,8 @@
         "section": "L1",
         "number": "1332",
         "remarks": " ",
-        "quota": 30,
-        "enroll": 30,
+        "quota": 34,
+        "enroll": 34,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -11116,8 +11194,8 @@
         "section": "R1",
         "number": "1334",
         "remarks": " ",
-        "quota": 12,
-        "enroll": 12,
+        "quota": 14,
+        "enroll": 14,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -12283,6 +12361,45 @@
   {
     "career": "UGRD",
     "subject": "OCES",
+    "number": "4910A",
+    "code": "OCES4910A",
+    "name": "Independent Study",
+    "description": "Independent studies or projects under the directed guidance of a faculty member. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. Students may repeat the course up to two times if different topics are taken. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1384",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "OCES",
     "number": "4910C",
     "code": "OCES4910C",
     "name": "Independent Study",
@@ -13032,8 +13149,8 @@
         "section": "T1",
         "number": "1341",
         "remarks": " ",
-        "quota": 2,
-        "enroll": 2,
+        "quota": 6,
+        "enroll": 6,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
