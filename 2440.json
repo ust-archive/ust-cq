@@ -3375,8 +3375,8 @@
         "section": "R1",
         "number": "1369",
         "remarks": " ",
-        "quota": 1,
-        "enroll": 1,
+        "quota": 2,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -3492,8 +3492,8 @@
         "section": "R1",
         "number": "1370",
         "remarks": " ",
-        "quota": 1,
-        "enroll": 1,
+        "quota": 2,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -4828,6 +4828,123 @@
             ],
             "fromTime": "14:30",
             "toTime": "17:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ELEC",
+    "number": "4900",
+    "code": "ELEC4900",
+    "name": "Final Year Design Project",
+    "description": "Each undergraduate student enrolled in Electronic Engineering and Computer Engineering is required to complete a final year design project before graduation. The project is conducted under the supervision of a faculty member. Credit load will be spread over the project period.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1385",
+        "remarks": "> The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3\n> Add/Drop Deadline: 21-Jun-2025",
+        "quota": 149,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ELEC",
+    "number": "4901",
+    "code": "ELEC4901",
+    "name": "Final Year Thesis",
+    "description": "Each undergraduate student taking the Research Option of the Electronic Engineering program is required to complete an individual thesis and the thesis should summarize his/her work conducted under the supervision of a faculty member. Credit load will be spread over the project period.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1386",
+        "remarks": "> The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3\n> Add/Drop Deadline: 21-Jun-2025",
+        "quota": 7,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ELEC",
+    "number": "4910",
+    "code": "ELEC4910",
+    "name": "Co-op Program",
+    "description": "Students in this co-op program will be engaged in practical hands-on training for a period of at least 5 months working in an organization or company that provides qualified training relevant to the electronic and computer engineering profession. Students are required to complete a final year project under the supervision of an industrial supervisor and a faculty member during the co-op. May be graded PP. For ELEC students in their third or fourth year of study only. Approval of the course coordinator is required for enrollment in the course.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "ELEC 4900, ELEC 4901",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1387",
+        "remarks": "> Add/Drop Deadline: 21-Jun-2025",
+        "quota": 3,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -7526,7 +7643,7 @@
         "number": "1383",
         "remarks": "> Class Duration/Dates : 28-Jun-2025 to 29-Jun-2025\n> Instructor : Prof. BRETT, Jeanne \n> Add/Drop Deadline : 28-Jun-2025",
         "quota": 42,
-        "enroll": 0,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -7565,7 +7682,7 @@
         "number": "1382",
         "remarks": "> Class Duration/Dates : 26-Jun-2025 to 27-Jun-2025\n> Add/Drop Deadline : 26-Jun-2025",
         "quota": 42,
-        "enroll": 0,
+        "enroll": 40,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
