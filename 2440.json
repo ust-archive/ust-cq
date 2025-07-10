@@ -9194,7 +9194,7 @@
         "number": "1173",
         "remarks": "> The class is delivered in a face-to-face mode partially\n> For FT-MBA; PT-MBA; MBA Bi-Weekly and DI-MBA students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 09-Jul-2025",
         "quota": 65,
-        "enroll": 51,
+        "enroll": 50,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -9206,7 +9206,7 @@
           {
             "name": "MBA",
             "quota": 30,
-            "enroll": 28
+            "enroll": 27
           },
           {
             "name": "MBA Bi-weekly",
@@ -14897,6 +14897,146 @@
             "weekdays": [],
             "fromTime": null,
             "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "SISP",
+    "number": "1001",
+    "code": "SISP1001",
+    "name": "Innovation in STEM Projects",
+    "description": "This course aims to introduce STEM projects and state-of-the-art technologies in science and engineering to solve environmental problems in daily life. This experiential course will provide an overview to potential students who wish to engage in STEM education. Students will design and develop a prototype through various innovative learning activities under the guidance of instructors, explain the underlying scientific principles, integrate the multidisciplinary knowledge with innovation and creativity to critically evaluate complex, real-world problems. This course also serves to strengthen students' concepts in science and engineering, and improves their organization and presentation skills, which are important in their future study.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1388",
+        "remarks": " ",
+        "quota": 17,
+        "enroll": 17,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAM, Ka Sin Cindy",
+              "LAM, Leung Yuk Frank"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-08-04",
+            "toDate": "2025-08-13",
+            "weekdays": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "fromTime": "10:00",
+            "toTime": "12:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "SISP",
+    "number": "1102",
+    "code": "SISP1102",
+    "name": "Chemistry in the Modern World",
+    "description": "This course is offered under the program of the HKUST Summer Institute for Secondary School Students by the School of Science. Starting with fundamental chemistry concepts, this course intends to inspire students to appreciate how chemistry benefits our society. This course has both lecture and laboratory components covering topics of applications of chemistry to environmental and materials science and medicine.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1389",
+        "remarks": " ",
+        "quota": 43,
+        "enroll": 43,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CHAN, Dennis Ho Wai",
+              "TSANG, Ming Wai Emily"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-08-04",
+            "toDate": "2025-08-13",
+            "weekdays": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "fromTime": "14:30",
+            "toTime": "16:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "SISP",
+    "number": "1113",
+    "code": "SISP1113",
+    "name": "Human Body and Diseases",
+    "description": "This course is offered under the program of the HKUST Summer Institute for Secondary School Students by the School of Science. This course aims to provide an overview of the structure and function of the human body. Fundamental principles of bioscience such as cell biology, anatomy, and physiology will be introduced. The relationship between human health and the environment will be discussed. Students will also analyze factors that disrupt normal body functions, explore mechanisms of disease, and learn about the prevention of diseases through the control of risk factors. From the physiological and anatomical perspective, students will be guided to analyze the marvels and limitations of the human body, and what they would do if they were to ‘re-design’ it. Students can also try to design, conceptualize, or build prototypes of devices that can be beneficial to human well-being or prevent diseases.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1390",
+        "remarks": " ",
+        "quota": 36,
+        "enroll": 36,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAM, Yeung"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-08-04",
+            "toDate": "2025-08-13",
+            "weekdays": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "fromTime": "10:00",
+            "toTime": "12:20"
           }
         ]
       }
