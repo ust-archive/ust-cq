@@ -10885,7 +10885,7 @@
         "remarks": "> Add/Drop Deadline : 17-Jul-2025",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 31,
+        "waitlist": 30,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -10912,7 +10912,7 @@
         "remarks": " ",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 31,
+        "waitlist": 30,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -12709,7 +12709,46 @@
         "section": "T1",
         "number": "1372",
         "remarks": " ",
-        "quota": 2,
+        "quota": 3,
+        "enroll": 3,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "PDEV",
+    "number": "6800A",
+    "code": "PDEV6800A",
+    "name": "Introduction to Teaching and Learning in Higher Education",
+    "description": "The course is designed to strengthen students’ competence in teaching. It comprises 2 parts: Part 1 aims to equip all full-time research postgraduate (RPg) students with basic teaching skills before assuming teaching assistant duties for the department. Good teaching skills can be acquired through learning and practice.  This 10-hour mandatory training course provides all graduate teaching assistants (GTA) with the necessary theoretical knowledge with practical opportunities to apply and build up their knowledge, skills and confidence in taking up their teaching duties. At the end of the course, GTAs should be able to (1) facilitate teaching in tutorials and laboratory settings; (2) provide meaningful feedback to their students; and (3) design an active learning environment to engage their students. In Part 2, students are required to perform instructional delivery assigned by their respective departments to complete this course. MPhil students are required to give at least one 30-minute session of instructional delivery in front of a group of students for one term. PhD students are required to give at least one such session each in two different terms. Graded PP, P or F.",
+    "previousCodes": "",
+    "prerequisites": "PDEV 6800Z",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1394",
+        "remarks": " ",
+        "quota": 1,
         "enroll": 1,
         "waitlist": 0,
         "consent": false,
@@ -15023,6 +15062,237 @@
           {
             "instructors": [
               "LAM, Yeung"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-08-04",
+            "toDate": "2025-08-13",
+            "weekdays": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "fromTime": "10:00",
+            "toTime": "12:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "SISP",
+    "number": "1115",
+    "code": "SISP1115",
+    "name": "Microbial Control in Health and the Environment",
+    "description": "This course is offered under the program of the HKUST Summer Institute for Secondary School Students by the School of Science. This course aims to provide students with an introduction to the world of managing and controlling unwanted microorganisms in both our bodies and the environment. Through engaging lectures and hands-on laboratory sessions, students will explore the diverse types of microbes that exist within our surroundings. The course delves into the mechanisms and strategies employed to effectively control microbes in various settings. Students will have the opportunity to gain hands-on experience in safely handling microorganisms, applying sterile procedures, and designing experiments to evaluate antimicrobial efficacy against bacteria.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1391",
+        "remarks": " ",
+        "quota": 37,
+        "enroll": 37,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TANG, Jessica Ce Mun"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-08-04",
+            "toDate": "2025-08-13",
+            "weekdays": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "fromTime": "14:30",
+            "toTime": "16:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "SISP",
+    "number": "1116",
+    "code": "SISP1116",
+    "name": "Astronomy for Beginners",
+    "description": "This course is offered under the program of the HKUST Summer Institute for Secondary School Students by the School of Science. The course aims to provide beginners with a comprehensive understanding of the fundamental concepts and principles of modern astronomy. Key topics include origins and ancient roots of astronomy, scientific principles that underpin our understanding of the universe, lunar phases, eclipses, solar system, Newton's law of gravitation and Kepler's laws of planetary motion, stellar evolution, white dwarfs, neutron stars, and black holes, galaxies and the expansion of the universe, dark matter and dark energy.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1392",
+        "remarks": " ",
+        "quota": 34,
+        "enroll": 34,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CHEN, Tian Wen"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-08-04",
+            "toDate": "2025-08-13",
+            "weekdays": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "fromTime": "14:30",
+            "toTime": "16:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "SISP",
+    "number": "1117",
+    "code": "SISP1117",
+    "name": "A First Step to Probability",
+    "description": "This course is offered under the program of the HKUST Summer Institute for Secondary School Students by the School of Science. The course aims to cover the materials about the fundamental concepts of counting, probability theory and random variables. The key topics are permutation, combination, sample spaces, conditional probability, random variables, independence, discrete distributions, expectation, and some results related to statistics.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1393",
+        "remarks": " ",
+        "quota": 39,
+        "enroll": 39,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "YU, Chi Wai"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-08-04",
+            "toDate": "2025-08-13",
+            "weekdays": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "fromTime": "10:00",
+            "toTime": "12:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "SISP",
+    "number": "1303",
+    "code": "SISP1303",
+    "name": "Intelligent Sensing Technologies",
+    "description": "This course is offered under the program of the HKUST Summer Institute for Secondary School Students by the School of Engineering. Aiming at encouraging students’ interest in engineering, this course is designed to illustrate the interesting link between science, technology, engineering and mathematics. Students will work in teams or individually and improve their knowledge of technology through fun and enlightening activities. Throughout the lectures, students will explore some fundamental engineering technologies including sound generation, color detection, temperature detection and distance measurement. They will further extend their high-school Mathematics knowledge into advanced technologies and their applications. Applications on motion sensing remote control robot, human motion sensing, hand gesture detection, face detection and recognition are examined with hands-on practice.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1395",
+        "remarks": " ",
+        "quota": 29,
+        "enroll": 29,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CHEUNG, Man Fung",
+              "WOO, Kam Tim"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-08-04",
+            "toDate": "2025-08-13",
+            "weekdays": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "fromTime": "14:30",
+            "toTime": "16:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "SISP",
+    "number": "1312",
+    "code": "SISP1312",
+    "name": "Developing Android Applications for Beginners",
+    "description": "The course is offered under the program of the HKUST Summer Institute for Secondary School Students by the School of Engineering. The course will give students hands-on experience in developing interesting Android applications. No previous experience in programming is needed, and the course is suitable for students with any level of computing experience. The MIT App Inventor will be used in the course. It is a blocks-based programming tool that allows everyone, even novices, to start programming and build fully functional apps for Android devices. Students are encouraged to bring their own Android devices for hands-on testing and exploitation.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1396",
+        "remarks": " ",
+        "quota": 37,
+        "enroll": 37,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LEUNG, Wai Ting"
             ],
             "venue": "TBA",
             "fromDate": "2025-08-04",
