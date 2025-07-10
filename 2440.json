@@ -675,7 +675,7 @@
         "number": "1162",
         "remarks": "> Add/Drop Deadline: 17-Jul-2025",
         "quota": 50,
-        "enroll": 33,
+        "enroll": 32,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -15491,6 +15491,98 @@
             ],
             "fromTime": "10:00",
             "toTime": "12:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "SISP",
+    "number": "1513",
+    "code": "SISP1513",
+    "name": "Managing Risk in Business and Daily Life",
+    "description": "This course is offered under the program of the HKUST Summer Institute for Secondary School Students by the School of Business and Management. This course explores the fundamental concepts of risk management with a focus on both business and personal contexts. Students will develop practical skills and knowledge to identify, analyze, and mitigate risks in today's dynamic and interconnected world. Throughout the course, students will engage in interactive discussions, case studies, and practical exercises to reinforce their understanding of risk management concepts. By the end of the course, students will have gained valuable insights into managing risks in both business and daily life, empowering them to make informed decisions and navigate uncertainties with confidence.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1401",
+        "remarks": " ",
+        "quota": 39,
+        "enroll": 39,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "DIAS, Garvin Percy"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-08-04",
+            "toDate": "2025-08-13",
+            "weekdays": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "fromTime": "10:00",
+            "toTime": "12:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "SISP",
+    "number": "1703",
+    "code": "SISP1703",
+    "name": "Psychology and Personal Growth",
+    "description": "This course is offered under the program of the HKUST Summer Institute for Secondary School Students by the School of Humanities and Social Science. The course will introduce challenges of adjustment individuals face during their transition to adulthood from a psychological perspective. Topics may include self-concept, personality, emotion, stress and coping, and interpersonal relationships.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1402",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-08-04",
+            "toDate": "2025-08-13",
+            "weekdays": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "fromTime": "14:30",
+            "toTime": "16:50"
           }
         ]
       }
