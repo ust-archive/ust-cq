@@ -15590,6 +15590,52 @@
   },
   {
     "career": "UGRD",
+    "subject": "SISP",
+    "number": "1706",
+    "code": "SISP1706",
+    "name": "Sociology and Everyday Life",
+    "description": "This course is offered under the program of the HKUST Summer Institute for Secondary School Students by the School of Humanities and Social Science. Through in-class discussions and activities, the course will explore how sociologists understand the society in which we live, including cultural differences, group behavior, rule-breaking, city life, inqualities, gender, inter-personal relations and family life.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1404",
+        "remarks": " ",
+        "quota": 18,
+        "enroll": 18,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "GROVES, Julian Mcallister"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-08-04",
+            "toDate": "2025-08-13",
+            "weekdays": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "fromTime": "10:00",
+            "toTime": "12:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
     "subject": "SOSC",
     "number": "1440",
     "code": "SOSC1440",
