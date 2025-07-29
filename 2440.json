@@ -4969,8 +4969,8 @@
         "section": "R1",
         "number": "1342",
         "remarks": " ",
-        "quota": 12,
-        "enroll": 12,
+        "quota": 13,
+        "enroll": 13,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -9218,7 +9218,7 @@
         "number": "1123",
         "remarks": "> For FT-MBA; PT-MBA and MBA (Bi-Weekly) and Digital MBA students only\n> Add/Drop Deadline : 02-Aug-2025",
         "quota": 65,
-        "enroll": 54,
+        "enroll": 53,
         "waitlist": 2,
         "consent": false,
         "reservedQuota": [
@@ -9230,7 +9230,7 @@
           {
             "name": "MBA",
             "quota": 38,
-            "enroll": 38
+            "enroll": 37
           },
           {
             "name": "MBA Bi-weekly",
@@ -14384,6 +14384,51 @@
             "venue": "TBA",
             "fromDate": "2025-06-09",
             "toDate": "2025-08-03",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "SBMT",
+    "number": "6100C",
+    "code": "SBMT6100C",
+    "name": "Field Study Project",
+    "description": "This is a supervised study of a real-life issue faced by an organization, including identification of strategic questions, design of studies, collection and analysis of data, development and reporting recommendation. The projects selected should bring a meaningful economic performance impact to the sponsoring companies. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "MIMT 6200",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1412",
+        "remarks": "> For FT-MBA students only\n> Add/Drop Deadline : 07-Aug-2025",
+        "quota": 5,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "MBA",
+            "quota": 5,
+            "enroll": 1
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-10",
+            "toDate": "2025-08-07",
             "weekdays": [],
             "fromTime": null,
             "toTime": null
