@@ -33013,6 +33013,45 @@
   {
     "career": "EXEC",
     "subject": "EMBA",
+    "number": "5080",
+    "code": "EMBA5080",
+    "name": "Managerial Finance",
+    "description": "Introduces the basic techniques of finance. Topics include discounting techniques and applications; evaluation of capital expenditures; firm valuation; and the implication of financing decisions for shareholder value creation.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4572",
+        "remarks": "> Instructor : NIELSEN, Kasper\n> Class Duration/Dates : 10-May-2025 to 11-May-2025 & 16-May-2025 to 18-May-2025\n> Add/Drop Deadline : 10-May-2025",
+        "quota": 28,
+        "enroll": 16,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-05-10",
+            "toDate": "2025-05-18",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "EMBA",
     "number": "5660",
     "code": "EMBA5660",
     "name": "Capstone",
