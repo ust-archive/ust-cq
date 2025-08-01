@@ -15130,7 +15130,7 @@
         "number": "2226",
         "remarks": " ",
         "quota": 90,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -15207,7 +15207,7 @@
         "number": "2232",
         "remarks": " ",
         "quota": 90,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -41057,7 +41057,7 @@
       {
         "section": "R1",
         "number": "1279",
-        "remarks": " ",
+        "remarks": "> For MPhil(FINA) students only",
         "quota": 5,
         "enroll": 3,
         "waitlist": 0,
@@ -41290,7 +41290,7 @@
       {
         "section": "R1",
         "number": "1284",
-        "remarks": " ",
+        "remarks": "> For PhD(FINA) students only",
         "quota": 10,
         "enroll": 2,
         "waitlist": 0,
@@ -51764,7 +51764,7 @@
         "quota": 20,
         "enroll": 0,
         "waitlist": 0,
-        "consent": true,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -51799,7 +51799,7 @@
       {
         "section": "R1",
         "number": "1364",
-        "remarks": " ",
+        "remarks": "> For MPhil(TLE) or MPhil(ISD) students only",
         "quota": 30,
         "enroll": 6,
         "waitlist": 0,
@@ -51838,7 +51838,7 @@
       {
         "section": "R1",
         "number": "1365",
-        "remarks": " ",
+        "remarks": "> For PhD(ISD) students only",
         "quota": 70,
         "enroll": 36,
         "waitlist": 0,
@@ -60190,7 +60190,7 @@
       {
         "section": "R1",
         "number": "1398",
-        "remarks": " ",
+        "remarks": "> For MPhil(ISOM) students only",
         "quota": 15,
         "enroll": 1,
         "waitlist": 0,
@@ -60258,7 +60258,7 @@
       {
         "section": "R1",
         "number": "1400",
-        "remarks": " ",
+        "remarks": "> For PhD(ISOM) students only",
         "quota": 25,
         "enroll": 20,
         "waitlist": 0,
@@ -77603,7 +77603,7 @@
       {
         "section": "R1",
         "number": "1515",
-        "remarks": " ",
+        "remarks": "> For MPhil(MARK) students only",
         "quota": 10,
         "enroll": 0,
         "waitlist": 0,
@@ -77642,7 +77642,7 @@
       {
         "section": "R1",
         "number": "1516",
-        "remarks": " ",
+        "remarks": "> For PhD(MARK) students only",
         "quota": 10,
         "enroll": 3,
         "waitlist": 0,
@@ -80331,7 +80331,7 @@
         "number": "3640",
         "remarks": " ",
         "quota": 120,
-        "enroll": 4,
+        "enroll": 5,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -80469,7 +80469,7 @@
         "number": "3647",
         "remarks": " ",
         "quota": 40,
-        "enroll": 1,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -104179,7 +104179,7 @@
       {
         "section": "R1",
         "number": "1673",
-        "remarks": " ",
+        "remarks": "> For MPhil(PP) students only",
         "quota": 30,
         "enroll": 4,
         "waitlist": 0,
@@ -104224,7 +104224,7 @@
       {
         "section": "R1",
         "number": "1674",
-        "remarks": " ",
+        "remarks": "> For PhD(PP) students only",
         "quota": 30,
         "enroll": 22,
         "waitlist": 0,
