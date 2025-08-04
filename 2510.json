@@ -5781,7 +5781,7 @@
         "section": "L1",
         "number": "1474",
         "remarks": " ",
-        "quota": 30,
+        "quota": 57,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -5910,7 +5910,7 @@
         "section": "T1",
         "number": "1475",
         "remarks": " ",
-        "quota": 30,
+        "quota": 57,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -6055,7 +6055,7 @@
         "section": "L1",
         "number": "1476",
         "remarks": " ",
-        "quota": 70,
+        "quota": 74,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -6193,7 +6193,7 @@
         "section": "T1",
         "number": "1477",
         "remarks": " ",
-        "quota": 70,
+        "quota": 74,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -89493,13 +89493,19 @@
         "value": "BLD",
         "attributeDescription": "Mode of Delivery",
         "valueDescription": "[BLD] Blended learning"
+      },
+      {
+        "attribute": "DELI",
+        "value": "RTO",
+        "attributeDescription": "Mode of Delivery",
+        "valueDescription": "[RTO] Real-time online delivery"
       }
     ],
     "classes": [
       {
         "section": "L1",
         "number": "1818",
-        "remarks": "> For MSc(GCS) students only\n> The class is delivered in a blended learning mode",
+        "remarks": "> For MSc(GCS) students only\n> The class is delivered in a blended learning and real-time online mode",
         "quota": 30,
         "enroll": 0,
         "waitlist": 0,
@@ -89510,7 +89516,7 @@
             "instructors": [
               "ZWEIG, David Stephen"
             ],
-            "venue": "Rm 5, 30/F, Tower 1,Millennity",
+            "venue": "TBA",
             "fromDate": "2025-09-01",
             "toDate": "2025-11-29",
             "weekdays": [
