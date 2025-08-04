@@ -2922,8 +2922,8 @@
         "section": "R1",
         "number": "1322",
         "remarks": " ",
-        "quota": 36,
-        "enroll": 36,
+        "quota": 37,
+        "enroll": 37,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -4969,8 +4969,8 @@
         "section": "R1",
         "number": "1342",
         "remarks": " ",
-        "quota": 14,
-        "enroll": 14,
+        "quota": 15,
+        "enroll": 15,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -12337,10 +12337,22 @@
             ],
             "venue": "Rm 1003, LSK Bldg (75)",
             "fromDate": "2025-08-12",
-            "toDate": "2025-08-15",
+            "toDate": "2025-08-14",
             "weekdays": [
               2,
-              4,
+              4
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "WONG, Kin Fai Ellick"
+            ],
+            "venue": "G001, LSK Bldg (75)",
+            "fromDate": "2025-08-15",
+            "toDate": "2025-08-15",
+            "weekdays": [
               5
             ],
             "fromTime": "14:00",
@@ -14198,7 +14210,7 @@
         "number": "1124",
         "remarks": "> For FT-MBA; PT-MBA and MBA (Bi-Weekly) and Digital MBA students only\n> Instructor : SUH, Jung\n> Add/Drop Deadline : 09-Aug-2025",
         "quota": 65,
-        "enroll": 63,
+        "enroll": 62,
         "waitlist": 1,
         "consent": false,
         "reservedQuota": [
@@ -14210,7 +14222,7 @@
           {
             "name": "MBA",
             "quota": 40,
-            "enroll": 40
+            "enroll": 39
           },
           {
             "name": "MBA Bi-weekly",
