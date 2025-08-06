@@ -27474,6 +27474,53 @@
   {
     "career": "TPG",
     "subject": "EESM",
+    "number": "6000F",
+    "code": "EESM6000F",
+    "name": "Fundamentals of Embodied Artificial Intelligence",
+    "description": "This course provides an in-depth introduction to Embodied Artificial Intelligence - a fast-emerging interdisciplinary field at the intersection of robotics, artificial intelligence, and human cognition. Embodied AI focuses on developing intelligent agents capable of perceiving, reasoning, and acting within the physical world. Combining theoretical foundations with practical applications, this course guides students through the key concepts and systems necessary for designing embodied agents.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4419",
+        "remarks": " ",
+        "quota": 90,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "EESM",
+            "quota": 90,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "GUAN, Isabel"
+            ],
+            "venue": "Rm 5, 30/F, Tower 1,Millennity",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "19:00",
+            "toTime": "21:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "EESM",
     "number": "6900",
     "code": "EESM6900",
     "name": "Independent Study",
@@ -28100,19 +28147,12 @@
     "corequisites": "(COMP 1021 OR COMP 1022P OR COMP 1023) AND (MATH 1003 OR MATH 1014 OR MATH 1020 OR MATH 1024)",
     "exclusions": "",
     "credits": 4,
-    "attributes": [
-      {
-        "attribute": "DELI",
-        "value": "BLD",
-        "attributeDescription": "Mode of Delivery",
-        "valueDescription": "[BLD] Blended learning"
-      }
-    ],
+    "attributes": [],
     "classes": [
       {
         "section": "L1",
         "number": "2364",
-        "remarks": "> The class is delivered in a blended learning mode",
+        "remarks": "> The class is delivered in a conventional face-to-face mode",
         "quota": 140,
         "enroll": 0,
         "waitlist": 0,
@@ -29040,19 +29080,12 @@
     "corequisites": "",
     "exclusions": "",
     "credits": 4,
-    "attributes": [
-      {
-        "attribute": "DELI",
-        "value": "BLD",
-        "attributeDescription": "Mode of Delivery",
-        "valueDescription": "[BLD] Blended learning"
-      }
-    ],
+    "attributes": [],
     "classes": [
       {
         "section": "L1",
         "number": "2397",
-        "remarks": "> The class is delivered in a blended learning mode",
+        "remarks": "> The class is delivered in a conventional face-to-face mode",
         "quota": 140,
         "enroll": 0,
         "waitlist": 0,
@@ -33064,7 +33097,7 @@
         "number": "2569",
         "remarks": "> The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
         "quota": 162,
-        "enroll": 148,
+        "enroll": 147,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -52943,7 +52976,7 @@
         "section": "L07",
         "number": "2937",
         "remarks": "> Add/Drop Deadline : 06-Sep-2025",
-        "quota": 71,
+        "quota": 65,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -52955,7 +52988,7 @@
           },
           {
             "name": "SBM",
-            "quota": 70,
+            "quota": 64,
             "enroll": 0
           }
         ],
@@ -52979,14 +53012,14 @@
         "section": "L08",
         "number": "2939",
         "remarks": "> Add/Drop Deadline : 06-Sep-2025",
-        "quota": 40,
+        "quota": 42,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
-            "quota": 40,
+            "quota": 42,
             "enroll": 0
           }
         ],
@@ -53010,14 +53043,14 @@
         "section": "L09",
         "number": "2941",
         "remarks": "> Add/Drop Deadline : 06-Sep-2025",
-        "quota": 40,
+        "quota": 42,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
-            "quota": 40,
+            "quota": 42,
             "enroll": 0
           }
         ],
@@ -53041,14 +53074,14 @@
         "section": "L10",
         "number": "2943",
         "remarks": "> Add/Drop Deadline : 06-Sep-2025",
-        "quota": 40,
+        "quota": 42,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
-            "quota": 40,
+            "quota": 42,
             "enroll": 0
           }
         ],
@@ -54388,7 +54421,7 @@
         "section": "LA1",
         "number": "3004",
         "remarks": " ",
-        "quota": 30,
+        "quota": 25,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -54413,7 +54446,7 @@
         "section": "LA2",
         "number": "3006",
         "remarks": " ",
-        "quota": 30,
+        "quota": 25,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -54593,7 +54626,7 @@
         "section": "LA1",
         "number": "3013",
         "remarks": " ",
-        "quota": 50,
+        "quota": 45,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -54618,7 +54651,7 @@
         "section": "LA2",
         "number": "3015",
         "remarks": " ",
-        "quota": 50,
+        "quota": 45,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -54643,7 +54676,7 @@
         "section": "LA3",
         "number": "3016",
         "remarks": " ",
-        "quota": 50,
+        "quota": 45,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -54668,7 +54701,7 @@
         "section": "LA4",
         "number": "3017",
         "remarks": " ",
-        "quota": 50,
+        "quota": 45,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -54783,7 +54816,7 @@
         "section": "LA1",
         "number": "3022",
         "remarks": " ",
-        "quota": 45,
+        "quota": 43,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -54808,7 +54841,7 @@
         "section": "LA2",
         "number": "3024",
         "remarks": " ",
-        "quota": 45,
+        "quota": 43,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -54833,7 +54866,7 @@
         "section": "LA3",
         "number": "3025",
         "remarks": " ",
-        "quota": 45,
+        "quota": 43,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -54905,7 +54938,7 @@
         "section": "LA1",
         "number": "3028",
         "remarks": " ",
-        "quota": 35,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -54930,7 +54963,7 @@
         "section": "LA2",
         "number": "3030",
         "remarks": " ",
-        "quota": 35,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -54955,7 +54988,7 @@
         "section": "T1",
         "number": "3031",
         "remarks": " ",
-        "quota": 70,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -55157,7 +55190,7 @@
         "section": "LA1",
         "number": "2923",
         "remarks": " ",
-        "quota": 70,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -56103,14 +56136,14 @@
         "section": "L1",
         "number": "3068",
         "remarks": " ",
-        "quota": 50,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "IS",
-            "quota": 50,
+            "quota": 60,
             "enroll": 0
           }
         ],
@@ -56176,14 +56209,14 @@
         "section": "L1",
         "number": "3070",
         "remarks": " ",
-        "quota": 50,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "IS",
-            "quota": 50,
+            "quota": 60,
             "enroll": 0
           }
         ],
@@ -56224,14 +56257,14 @@
         "section": "L1",
         "number": "3071",
         "remarks": " ",
-        "quota": 50,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "IS",
-            "quota": 50,
+            "quota": 60,
             "enroll": 0
           }
         ],
@@ -56284,14 +56317,14 @@
         "section": "L1",
         "number": "3072",
         "remarks": " ",
-        "quota": 50,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "IS",
-            "quota": 50,
+            "quota": 60,
             "enroll": 0
           }
         ],
@@ -75552,6 +75585,53 @@
             "toDate": "2025-11-29",
             "weekdays": [
               2
+            ],
+            "fromTime": "19:00",
+            "toTime": "21:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MAIE",
+    "number": "6000A",
+    "code": "MAIE6000A",
+    "name": "AI Venture for Entrepreneur",
+    "description": "Artificial Intelligence is redefining the rules of business, igniting rapid transformations across industries worldwide. Entrepreneurs and corporations alike are racing to leverage AI technologies, presenting vast opportunities as well as significant challenges. How will you position yourself in this rapidly evolving landscape? This course uniquely blends technical know-how with entrepreneurial acumen to prepare you for the exciting journey ahead. Dive into experiential learning through dynamic case studies, interactive sessions with seasoned entrepreneurs, insightful practitioner interviews, and hands-on experimentation with advanced AI-driven tools. Collaborate with peers from diverse backgrounds to apply design thinking and lean startup methodologies, turning visionary ideas into tangible startup projects. Embrace the essential entrepreneurial mindset of learning through trial and error - building resilience, adaptability, and innovation. Join us to sharpen your Attitude, Skills, and Knowledge, and become adept at continuously \"learning to learn.\" Equip yourself to not only navigate but also thrive amidst the AI revolution. In today’s global race, everyone from OpenAI in the U.S. to emerging giants in the PRC is vying to define the next frontier of AI. We’ll market ecosystems with its unique market opportunities, regulatory frameworks, and investment climates. Through comparative case studies and expert insights, you’ll explore how to position your venture for success in diverse, high-stakes markets. Your future in AI entrepreneurship starts here.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4420",
+        "remarks": " ",
+        "quota": 90,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "MAIE",
+            "quota": 90,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "HUANG, Erwin"
+            ],
+            "venue": "Rm 5404, Lift 17-18 (93)",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [
+              5
             ],
             "fromTime": "19:00",
             "toTime": "21:50"
