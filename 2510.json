@@ -49499,7 +49499,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "MEI, Sanyou"
             ],
             "venue": "Rm 4502, Lift 25-26 (60)",
             "fromDate": "2025-09-01",
@@ -49525,7 +49525,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "MEI, Sanyou"
             ],
             "venue": "Multi-function Room, LG4, LIB",
             "fromDate": "2025-09-01",
@@ -86452,6 +86452,45 @@
             ],
             "fromTime": "15:00",
             "toTime": "15:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "MATH",
+    "number": "6906A",
+    "code": "MATH6906A",
+    "name": "Reading Course: Free Probability and Random Matrices",
+    "description": "Topics include: 1. Free independence and non-commutative probability spaces; 2. R-transform and S-transform in free probability; 3. Free central limit theorem and free convolution; 4. Combinatorics of non-crossing partitions; 5. Random matrix models and their connection to free probability; 6. Asymptotic eigenvalue distributions of random matrix ensembles. Students should seek approval from the course instructor to take this course.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4421",
+        "remarks": "> Students should seek approval from the course instructor to take this course.",
+        "quota": 2,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "WANG, Ke"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
