@@ -48556,7 +48556,7 @@
         "section": "L1",
         "number": "2818",
         "remarks": " ",
-        "quota": 124,
+        "quota": 160,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -48594,7 +48594,7 @@
         "section": "T1",
         "number": "2820",
         "remarks": " ",
-        "quota": 62,
+        "quota": 80,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -48619,7 +48619,7 @@
         "section": "T2",
         "number": "2822",
         "remarks": " ",
-        "quota": 62,
+        "quota": 80,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -60224,6 +60224,138 @@
             ],
             "fromTime": "19:00",
             "toTime": "22:20"
+          }
+        ]
+      },
+      {
+        "section": "L2",
+        "number": "4414",
+        "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 01-Sep-2025",
+        "quota": 55,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "Digital MBA",
+            "quota": 5,
+            "enroll": 0
+          },
+          {
+            "name": "MBA",
+            "quota": 15,
+            "enroll": 0
+          },
+          {
+            "name": "MBA Bi-weekly",
+            "quota": 35,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "CHOI, Joon Nak"
+            ],
+            "venue": "Rm 1005, LSK Bldg (75)",
+            "fromDate": "2025-08-31",
+            "toDate": "2025-08-31",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "CHOI, Joon Nak"
+            ],
+            "venue": "Rm 1005, LSK Bldg (75)",
+            "fromDate": "2025-08-31",
+            "toDate": "2025-08-31",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "CHOI, Joon Nak"
+            ],
+            "venue": "Rm 1005, LSK Bldg (75)",
+            "fromDate": "2025-09-14",
+            "toDate": "2025-09-14",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "CHOI, Joon Nak"
+            ],
+            "venue": "Rm 1005, LSK Bldg (75)",
+            "fromDate": "2025-09-14",
+            "toDate": "2025-09-14",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "CHOI, Joon Nak"
+            ],
+            "venue": "Rm 1005, LSK Bldg (75)",
+            "fromDate": "2025-09-28",
+            "toDate": "2025-09-28",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "CHOI, Joon Nak"
+            ],
+            "venue": "Rm 1005, LSK Bldg (75)",
+            "fromDate": "2025-09-28",
+            "toDate": "2025-09-28",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "CHOI, Joon Nak"
+            ],
+            "venue": "Rm 1005, LSK Bldg (75)",
+            "fromDate": "2025-10-26",
+            "toDate": "2025-10-26",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "CHOI, Joon Nak"
+            ],
+            "venue": "Rm 1005, LSK Bldg (75)",
+            "fromDate": "2025-10-26",
+            "toDate": "2025-10-26",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
           }
         ]
       }
@@ -108653,14 +108785,14 @@
         "section": "L1",
         "number": "2702",
         "remarks": "> The class is delivered in a blended learning mode",
-        "quota": 60,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ENVR",
-            "quota": 60,
+            "quota": 40,
             "enroll": 0
           }
         ],
@@ -108677,6 +108809,37 @@
             ],
             "fromTime": "10:30",
             "toTime": "13:20"
+          }
+        ]
+      },
+      {
+        "section": "L2",
+        "number": "4415",
+        "remarks": "> The class is delivered in a blended learning mode",
+        "quota": 40,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "ENVR",
+            "quota": 40,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "LAU, Pui Sang"
+            ],
+            "venue": "Rm 5619, Lift 31-32 (60)",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "12:00",
+            "toTime": "14:50"
           }
         ]
       }
@@ -108711,31 +108874,6 @@
     "classes": [
       {
         "section": "L1",
-        "number": "2703",
-        "remarks": "> The class is delivered in a blended learning mode",
-        "quota": 60,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "SAUERWEIN, Meike"
-            ],
-            "venue": "Rm 5619, Lift 31-32 (60)",
-            "fromDate": "2025-09-01",
-            "toDate": "2025-11-29",
-            "weekdays": [
-              4
-            ],
-            "fromTime": "12:00",
-            "toTime": "14:50"
-          }
-        ]
-      },
-      {
-        "section": "L2",
         "number": "2704",
         "remarks": "> The class is delivered in a blended learning mode",
         "quota": 60,
