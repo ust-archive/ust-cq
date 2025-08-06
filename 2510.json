@@ -14762,7 +14762,7 @@
         "number": "2203",
         "remarks": " ",
         "quota": 150,
-        "enroll": 145,
+        "enroll": 144,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -15754,7 +15754,7 @@
         "number": "2256",
         "remarks": " ",
         "quota": 90,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -15806,7 +15806,7 @@
         "number": "2260",
         "remarks": " ",
         "quota": 130,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -17778,7 +17778,7 @@
         "number": "2334",
         "remarks": " ",
         "quota": 700,
-        "enroll": 602,
+        "enroll": 600,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -17803,7 +17803,7 @@
         "number": "2335",
         "remarks": " ",
         "quota": 100,
-        "enroll": 84,
+        "enroll": 83,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -29386,7 +29386,7 @@
         "number": "2415",
         "remarks": " ",
         "quota": 110,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -29449,7 +29449,7 @@
         "number": "2419",
         "remarks": " ",
         "quota": 42,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -29524,7 +29524,7 @@
         "number": "2423",
         "remarks": " ",
         "quota": 55,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -30510,7 +30510,7 @@
         "section": "T27",
         "number": "4378",
         "remarks": " ",
-        "quota": 4,
+        "quota": 5,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -30535,7 +30535,7 @@
         "section": "T28",
         "number": "4379",
         "remarks": " ",
-        "quota": 4,
+        "quota": 5,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -30560,7 +30560,7 @@
         "section": "T29",
         "number": "4380",
         "remarks": " ",
-        "quota": 4,
+        "quota": 5,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -30585,7 +30585,7 @@
         "section": "T30",
         "number": "4381",
         "remarks": " ",
-        "quota": 4,
+        "quota": 5,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -101495,6 +101495,44 @@
             "toTime": "15:50"
           }
         ]
+      },
+      {
+        "section": "LA4",
+        "number": "4416",
+        "remarks": " ",
+        "quota": 10,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "XU, Qin"
+            ],
+            "venue": "Rm 6135, Lift 19, 22",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "13:00",
+            "toTime": "14:50"
+          },
+          {
+            "instructors": [
+              "XU, Qin"
+            ],
+            "venue": "Rm 6135, Lift 19, 22",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "09:00",
+            "toTime": "10:50"
+          }
+        ]
       }
     ]
   },
@@ -101541,7 +101579,7 @@
         "section": "LA1",
         "number": "4124",
         "remarks": "> Venue: Room 6135",
-        "quota": 10,
+        "quota": 12,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -101612,6 +101650,44 @@
             ],
             "fromTime": "14:00",
             "toTime": "15:50"
+          }
+        ]
+      },
+      {
+        "section": "LA4",
+        "number": "4417",
+        "remarks": "> Venue: Room 6135",
+        "quota": 10,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "WANG, Jue"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "13:00",
+            "toTime": "14:50"
+          },
+          {
+            "instructors": [
+              "WANG, Jue"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "09:00",
+            "toTime": "10:50"
           }
         ]
       }
