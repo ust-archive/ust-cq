@@ -3660,6 +3660,53 @@
   },
   {
     "career": "TPG",
+    "subject": "AMCC",
+    "number": "6500B",
+    "code": "AMCC6500B",
+    "name": "Intelligent Remote Sensing Data Computation and Processing",
+    "description": "The course is designed for graduate students in computer science and related fields. It provides an introduction to the cutting-edge theories and technologies in intelligent remote sensing data computation and processing. The course combines deep learning, computer vision, and traditional remote sensing analysis methods to cultivate students' ability to solve practical problems.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4412",
+        "remarks": "> For AMC students\n> Instructor : CAI, Zhan Chuan",
+        "quota": 65,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "AMCC",
+            "quota": 65,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 1527, Lift 22 (74)",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "18:30",
+            "toTime": "21:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
     "subject": "ARIN",
     "number": "5101",
     "code": "ARIN5101",
@@ -5653,7 +5700,7 @@
         "number": "1503",
         "remarks": "> Additional lecture hours to be arranged by Division",
         "quota": 30,
-        "enroll": 0,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5743,7 +5790,7 @@
         "number": "1478",
         "remarks": " ",
         "quota": 30,
-        "enroll": 0,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5782,7 +5829,7 @@
         "number": "1474",
         "remarks": " ",
         "quota": 57,
-        "enroll": 0,
+        "enroll": 12,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5911,7 +5958,7 @@
         "number": "1475",
         "remarks": " ",
         "quota": 57,
-        "enroll": 0,
+        "enroll": 12,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6056,7 +6103,7 @@
         "number": "1476",
         "remarks": " ",
         "quota": 74,
-        "enroll": 0,
+        "enroll": 9,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6194,7 +6241,7 @@
         "number": "1477",
         "remarks": " ",
         "quota": 74,
-        "enroll": 0,
+        "enroll": 9,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6348,7 +6395,7 @@
         "number": "1479",
         "remarks": " ",
         "quota": 38,
-        "enroll": 0,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6386,7 +6433,7 @@
         "number": "1480",
         "remarks": " ",
         "quota": 38,
-        "enroll": 0,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -8358,7 +8405,7 @@
         "section": "L1",
         "number": "1963",
         "remarks": " ",
-        "quota": 120,
+        "quota": 200,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -9465,7 +9512,7 @@
         "section": "LA1",
         "number": "1990",
         "remarks": " ",
-        "quota": 20,
+        "quota": 23,
         "enroll": 0,
         "waitlist": 0,
         "consent": true,
@@ -11683,7 +11730,7 @@
         "section": "T1",
         "number": "2024",
         "remarks": "> Classes held in LTB",
-        "quota": 170,
+        "quota": 177,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -12867,7 +12914,7 @@
         "section": "T1",
         "number": "2063",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 2; Spring: 4",
-        "quota": 165,
+        "quota": 178,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -12961,7 +13008,7 @@
         "section": "L1",
         "number": "2065",
         "remarks": " ",
-        "quota": 165,
+        "quota": 178,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -12992,7 +13039,7 @@
         "section": "T1",
         "number": "2066",
         "remarks": " ",
-        "quota": 165,
+        "quota": 178,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -14692,7 +14739,7 @@
         "number": "2202",
         "remarks": " ",
         "quota": 200,
-        "enroll": 145,
+        "enroll": 152,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -14715,7 +14762,7 @@
         "number": "2203",
         "remarks": " ",
         "quota": 150,
-        "enroll": 143,
+        "enroll": 145,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -21306,7 +21353,7 @@
         "section": "L1",
         "number": "4268",
         "remarks": " ",
-        "quota": 40,
+        "quota": 45,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -21332,7 +21379,7 @@
         "section": "T1",
         "number": "4269",
         "remarks": " ",
-        "quota": 40,
+        "quota": 45,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -23347,7 +23394,7 @@
         "section": "L1",
         "number": "2639",
         "remarks": " ",
-        "quota": 40,
+        "quota": 59,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -23373,7 +23420,7 @@
         "section": "T1",
         "number": "2640",
         "remarks": " ",
-        "quota": 40,
+        "quota": 59,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -23757,7 +23804,7 @@
         "section": "L1",
         "number": "2654",
         "remarks": " ",
-        "quota": 50,
+        "quota": 64,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -23795,7 +23842,7 @@
         "section": "T1",
         "number": "2655",
         "remarks": " ",
-        "quota": 50,
+        "quota": 64,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -23874,7 +23921,7 @@
         "section": "L2",
         "number": "2658",
         "remarks": " ",
-        "quota": 65,
+        "quota": 66,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -23937,7 +23984,7 @@
         "section": "T2",
         "number": "2662",
         "remarks": " ",
-        "quota": 65,
+        "quota": 66,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -30388,7 +30435,7 @@
         "section": "T24",
         "number": "2462",
         "remarks": "> Classes held in Room 2129B",
-        "quota": 4,
+        "quota": 5,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -30413,7 +30460,7 @@
         "section": "T25",
         "number": "2463",
         "remarks": "> Classes held in Room 2129C",
-        "quota": 4,
+        "quota": 5,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -30438,7 +30485,7 @@
         "section": "T26",
         "number": "4377",
         "remarks": "> Classes held in Room 2129C",
-        "quota": 4,
+        "quota": 5,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -32834,10 +32881,10 @@
             "fromDate": "2025-09-01",
             "toDate": "2025-11-29",
             "weekdays": [
-              1
+              3
             ],
-            "fromTime": "12:00",
-            "toTime": "14:50"
+            "fromTime": "15:00",
+            "toTime": "17:50"
           }
         ]
       }
@@ -35826,7 +35873,7 @@
         "section": "L1",
         "number": "2688",
         "remarks": " ",
-        "quota": 40,
+        "quota": 44,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -37684,7 +37731,7 @@
         "section": "L1",
         "number": "2706",
         "remarks": " ",
-        "quota": 80,
+        "quota": 70,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -37715,7 +37762,7 @@
         "section": "L2",
         "number": "2707",
         "remarks": " ",
-        "quota": 80,
+        "quota": 70,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -37762,14 +37809,14 @@
         "section": "L1",
         "number": "2708",
         "remarks": " ",
-        "quota": 85,
+        "quota": 80,
         "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
-            "quota": 85,
+            "quota": 80,
             "enroll": 1
           }
         ],
@@ -37806,14 +37853,14 @@
         "section": "L2",
         "number": "2709",
         "remarks": " ",
-        "quota": 85,
+        "quota": 80,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
-            "quota": 85,
+            "quota": 80,
             "enroll": 0
           }
         ],
@@ -37850,14 +37897,14 @@
         "section": "L3",
         "number": "2710",
         "remarks": " ",
-        "quota": 85,
+        "quota": 80,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
-            "quota": 85,
+            "quota": 80,
             "enroll": 0
           }
         ],
@@ -37894,14 +37941,14 @@
         "section": "L4",
         "number": "2711",
         "remarks": " ",
-        "quota": 85,
+        "quota": 80,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
-            "quota": 85,
+            "quota": 80,
             "enroll": 0
           }
         ],
@@ -37926,14 +37973,14 @@
         "section": "L5",
         "number": "2712",
         "remarks": " ",
-        "quota": 85,
+        "quota": 80,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
-            "quota": 85,
+            "quota": 80,
             "enroll": 0
           }
         ],
@@ -37958,14 +38005,14 @@
         "section": "L6",
         "number": "2713",
         "remarks": " ",
-        "quota": 85,
+        "quota": 80,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
-            "quota": 85,
+            "quota": 80,
             "enroll": 0
           }
         ],
@@ -37990,14 +38037,14 @@
         "section": "L7",
         "number": "2714",
         "remarks": " ",
-        "quota": 85,
+        "quota": 80,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
-            "quota": 85,
+            "quota": 80,
             "enroll": 0
           }
         ],
@@ -38022,14 +38069,14 @@
         "section": "L8",
         "number": "2715",
         "remarks": " ",
-        "quota": 85,
+        "quota": 80,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
-            "quota": 85,
+            "quota": 80,
             "enroll": 0
           }
         ],
@@ -38115,14 +38162,14 @@
         "section": "L1",
         "number": "2717",
         "remarks": " ",
-        "quota": 70,
+        "quota": 65,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
-            "quota": 70,
+            "quota": 65,
             "enroll": 0
           }
         ],
@@ -38147,14 +38194,14 @@
         "section": "L2",
         "number": "2718",
         "remarks": " ",
-        "quota": 70,
+        "quota": 65,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
-            "quota": 70,
+            "quota": 65,
             "enroll": 0
           }
         ],
@@ -38179,14 +38226,14 @@
         "section": "L3",
         "number": "2719",
         "remarks": " ",
-        "quota": 70,
+        "quota": 65,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
-            "quota": 70,
+            "quota": 65,
             "enroll": 0
           }
         ],
@@ -38211,14 +38258,14 @@
         "section": "L4",
         "number": "2720",
         "remarks": " ",
-        "quota": 70,
+        "quota": 65,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
-            "quota": 70,
+            "quota": 65,
             "enroll": 0
           }
         ],
@@ -38306,14 +38353,14 @@
         "section": "L1",
         "number": "2722",
         "remarks": " ",
-        "quota": 70,
+        "quota": 65,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
-            "quota": 70,
+            "quota": 65,
             "enroll": 0
           }
         ],
@@ -38354,14 +38401,14 @@
         "section": "L1",
         "number": "2723",
         "remarks": " ",
-        "quota": 80,
+        "quota": 70,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
-            "quota": 80,
+            "quota": 70,
             "enroll": 0
           }
         ],
@@ -38398,14 +38445,14 @@
         "section": "L2",
         "number": "2724",
         "remarks": " ",
-        "quota": 80,
+        "quota": 70,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
-            "quota": 80,
+            "quota": 70,
             "enroll": 0
           }
         ],
@@ -38442,14 +38489,14 @@
         "section": "L3",
         "number": "2725",
         "remarks": " ",
-        "quota": 80,
+        "quota": 70,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
-            "quota": 80,
+            "quota": 70,
             "enroll": 0
           }
         ],
@@ -38580,14 +38627,14 @@
         "section": "L1",
         "number": "2728",
         "remarks": " ",
-        "quota": 65,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
-            "quota": 65,
+            "quota": 60,
             "enroll": 0
           }
         ],
@@ -38628,14 +38675,14 @@
         "section": "L1",
         "number": "2729",
         "remarks": " ",
-        "quota": 65,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
-            "quota": 65,
+            "quota": 60,
             "enroll": 0
           }
         ],
@@ -38659,14 +38706,14 @@
         "section": "L2",
         "number": "2730",
         "remarks": " ",
-        "quota": 65,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
-            "quota": 65,
+            "quota": 60,
             "enroll": 0
           }
         ],
@@ -38707,14 +38754,14 @@
         "section": "L1",
         "number": "2731",
         "remarks": " ",
-        "quota": 65,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
-            "quota": 65,
+            "quota": 60,
             "enroll": 0
           }
         ],
@@ -38754,14 +38801,14 @@
         "section": "L1",
         "number": "2732",
         "remarks": " ",
-        "quota": 65,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
-            "quota": 65,
+            "quota": 60,
             "enroll": 0
           }
         ],
@@ -38786,14 +38833,14 @@
         "section": "L2",
         "number": "2733",
         "remarks": " ",
-        "quota": 65,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
-            "quota": 65,
+            "quota": 60,
             "enroll": 0
           }
         ],
@@ -38834,14 +38881,14 @@
         "section": "L1",
         "number": "2734",
         "remarks": " ",
-        "quota": 65,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
-            "quota": 65,
+            "quota": 60,
             "enroll": 0
           }
         ],
@@ -48519,7 +48566,7 @@
             "instructors": [
               "CHEN, Yi"
             ],
-            "venue": "G010, CYT Bldg (140)",
+            "venue": "Lecture Theater J (300)",
             "fromDate": "2025-09-01",
             "toDate": "2025-11-29",
             "weekdays": [
@@ -48532,7 +48579,7 @@
             "instructors": [
               "CHEN, Yi"
             ],
-            "venue": "G010, CYT Bldg (140)",
+            "venue": "Lecture Theater J (300)",
             "fromDate": "2025-09-01",
             "toDate": "2025-11-29",
             "weekdays": [
@@ -49871,7 +49918,7 @@
         "section": "R1",
         "number": "2867",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 3; Spring: 3",
-        "quota": 45,
+        "quota": 46,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -51316,7 +51363,7 @@
         "section": "LA1",
         "number": "2920",
         "remarks": " ",
-        "quota": 30,
+        "quota": 35,
         "enroll": 0,
         "waitlist": 0,
         "consent": true,
@@ -60125,6 +60172,66 @@
   {
     "career": "TPG",
     "subject": "ISOM",
+    "number": "6670G",
+    "code": "ISOM6670G",
+    "name": "Practical AI for Business",
+    "description": "In this course, we will bridge this gap, investigating the technology and business of AI in theory and practice. We will examine what really AI is, how businesses should use it – and how they shouldn’t. The reality is that AI isn’t as complicated as everyone seems to be making it and that all Business Analytics graduates should be able to explain it to their colleagues, bosses, and customers. You will have this ability by the end of the course.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4411",
+        "remarks": "> For MSc(BA) students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 03-Nov-2025",
+        "quota": 60,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "BA",
+            "quota": 60,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "CHOI, Joon Nak"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-10-30",
+            "toDate": "2025-10-30",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "CHOI, Joon Nak"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-11-05",
+            "toDate": "2025-12-17",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "ISOM",
     "number": "6790O",
     "code": "ISOM6790O",
     "name": "Managing Business to Create Value through Sustainability",
@@ -60262,7 +60369,7 @@
         "number": "1398",
         "remarks": "> For MPhil(ISOM) students only",
         "quota": 15,
-        "enroll": 1,
+        "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -61332,6 +61439,32 @@
             ],
             "fromTime": "12:00",
             "toTime": "13:20"
+          }
+        ]
+      },
+      {
+        "section": "T05",
+        "number": "4413",
+        "remarks": " ",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 5560, Lift 27-28 (30)",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [
+              2,
+              4
+            ],
+            "fromTime": "09:00",
+            "toTime": "10:20"
           }
         ]
       }
@@ -68312,15 +68445,15 @@
             "instructors": [
               "TBA"
             ],
-            "venue": "Rm 2126C, Lift 19 (28)",
+            "venue": "Rm 2129A, Lift 19 (28)",
             "fromDate": "2025-09-01",
             "toDate": "2025-11-29",
             "weekdays": [
-              2,
-              4
+              1,
+              3
             ],
-            "fromTime": "15:00",
-            "toTime": "16:20"
+            "fromTime": "10:30",
+            "toTime": "11:50"
           }
         ]
       }
@@ -68455,15 +68588,15 @@
             "instructors": [
               "TBA"
             ],
-            "venue": "Rm 2129A, Lift 19 (28)",
+            "venue": "Rm 2126C, Lift 19 (28)",
             "fromDate": "2025-09-01",
             "toDate": "2025-11-29",
             "weekdays": [
-              1,
-              3
+              2,
+              4
             ],
-            "fromTime": "10:30",
-            "toTime": "11:50"
+            "fromTime": "15:00",
+            "toTime": "16:20"
           }
         ]
       },
@@ -74410,7 +74543,7 @@
         "number": "1502",
         "remarks": " ",
         "quota": 190,
-        "enroll": 152,
+        "enroll": 151,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -88621,7 +88754,7 @@
         "number": "1571",
         "remarks": " ",
         "quota": 40,
-        "enroll": 13,
+        "enroll": 18,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -88660,7 +88793,7 @@
         "number": "1572",
         "remarks": " ",
         "quota": 190,
-        "enroll": 139,
+        "enroll": 161,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -96942,7 +97075,7 @@
         "number": "1608",
         "remarks": " ",
         "quota": 30,
-        "enroll": 19,
+        "enroll": 18,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
