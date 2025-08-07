@@ -27845,7 +27845,7 @@
         "section": "L1",
         "number": "2349",
         "remarks": " ",
-        "quota": 240,
+        "quota": 280,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -27943,10 +27943,35 @@
         ]
       },
       {
+        "section": "LA4",
+        "number": "4425",
+        "remarks": " ",
+        "quota": 40,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "SHEN, Shaojie"
+            ],
+            "venue": "Rm 2133, Lift 19, 21, 22",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "13:30",
+            "toTime": "16:30"
+          }
+        ]
+      },
+      {
         "section": "T1",
         "number": "2355",
         "remarks": " ",
-        "quota": 80,
+        "quota": 90,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -27971,7 +27996,7 @@
         "section": "T2",
         "number": "2357",
         "remarks": " ",
-        "quota": 80,
+        "quota": 95,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -27996,7 +28021,7 @@
         "section": "T3",
         "number": "2358",
         "remarks": " ",
-        "quota": 80,
+        "quota": 95,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -41636,8 +41661,18 @@
         "consent": false,
         "reservedQuota": [
           {
+            "name": "ACCT",
+            "quota": 5,
+            "enroll": 0
+          },
+          {
             "name": "FOFB",
-            "quota": 40,
+            "quota": 30,
+            "enroll": 0
+          },
+          {
+            "name": "MIMT",
+            "quota": 5,
             "enroll": 0
           }
         ],
@@ -41710,7 +41745,17 @@
         "reservedQuota": [
           {
             "name": "FOFB",
-            "quota": 40,
+            "quota": 30,
+            "enroll": 0
+          },
+          {
+            "name": "MARK",
+            "quota": 5,
+            "enroll": 0
+          },
+          {
+            "name": "MIMT",
+            "quota": 5,
             "enroll": 0
           }
         ],
@@ -41782,8 +41827,18 @@
         "consent": false,
         "reservedQuota": [
           {
+            "name": "ACCT",
+            "quota": 5,
+            "enroll": 0
+          },
+          {
             "name": "FOFB",
-            "quota": 40,
+            "quota": 32,
+            "enroll": 0
+          },
+          {
+            "name": "MBA",
+            "quota": 3,
             "enroll": 0
           }
         ],
@@ -58224,8 +58279,28 @@
         "consent": false,
         "reservedQuota": [
           {
+            "name": "FOFB",
+            "quota": 2,
+            "enroll": 0
+          },
+          {
+            "name": "GO",
+            "quota": 2,
+            "enroll": 0
+          },
+          {
+            "name": "ICSM",
+            "quota": 2,
+            "enroll": 0
+          },
+          {
             "name": "ISM",
-            "quota": 50,
+            "quota": 41,
+            "enroll": 0
+          },
+          {
+            "name": "MARK",
+            "quota": 3,
             "enroll": 0
           }
         ],
@@ -58492,7 +58567,12 @@
         "reservedQuota": [
           {
             "name": "ISM",
-            "quota": 50,
+            "quota": 45,
+            "enroll": 0
+          },
+          {
+            "name": "MBA",
+            "quota": 5,
             "enroll": 0
           }
         ],
@@ -77924,8 +78004,8 @@
             "weekdays": [
               3
             ],
-            "fromTime": "10:30",
-            "toTime": "13:20"
+            "fromTime": "10:00",
+            "toTime": "12:50"
           }
         ]
       },
@@ -92408,7 +92488,17 @@
         "reservedQuota": [
           {
             "name": "FOFB",
-            "quota": 40,
+            "quota": 33,
+            "enroll": 0
+          },
+          {
+            "name": "ICSM",
+            "quota": 2,
+            "enroll": 0
+          },
+          {
+            "name": "MARK",
+            "quota": 5,
             "enroll": 0
           }
         ],
