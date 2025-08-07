@@ -64412,32 +64412,6 @@
             "toTime": "13:20"
           }
         ]
-      },
-      {
-        "section": "T87",
-        "number": "3213",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2130C, Lift 19 (28)",
-            "fromDate": "2025-09-01",
-            "toDate": "2025-11-29",
-            "weekdays": [
-              2,
-              4
-            ],
-            "fromTime": "12:00",
-            "toTime": "13:20"
-          }
-        ]
       }
     ]
   },
@@ -107176,53 +107150,8 @@
     "corequisites": "",
     "exclusions": "",
     "credits": 3,
-    "attributes": [
-      {
-        "attribute": "4Y",
-        "value": "10",
-        "attributeDescription": "Students admitted before 2022",
-        "valueDescription": "Common Core (SSC-SA) for 36-credit program"
-      },
-      {
-        "attribute": "4Y",
-        "value": "13",
-        "attributeDescription": "Students admitted before 2022",
-        "valueDescription": "Common Core (SA) for 36-credit program"
-      }
-    ],
-    "classes": [
-      {
-        "section": "L1",
-        "number": "4248",
-        "remarks": " ",
-        "quota": 120,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SHSS",
-            "quota": 80,
-            "enroll": 0
-          }
-        ],
-        "schedule": [
-          {
-            "instructors": [
-              "YIK, Michelle"
-            ],
-            "venue": "Lecture Theater F (133)",
-            "fromDate": "2025-09-01",
-            "toDate": "2025-11-29",
-            "weekdays": [
-              3
-            ],
-            "fromTime": "13:30",
-            "toTime": "16:20"
-          }
-        ]
-      }
-    ]
+    "attributes": [],
+    "classes": []
   },
   {
     "career": "UGRD",
