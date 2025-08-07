@@ -11333,6 +11333,50 @@
   {
     "career": "RPG",
     "subject": "MATH",
+    "number": "6906B",
+    "code": "MATH6906B",
+    "name": "Reading Course: Seminar on Tilings and Related Problems",
+    "description": "We discuss the latest development in the tilings of planes and surfaces. Topics include: 1. Non-edge-to-edge tiling of the sphere by congruent polygon; 2. Tiling of plane by hexagon; 3. Tiling of hyperbolic surface of fixed genus; 4. Tiling by congruent curvilinear polygon; 5. Tiling by angle congruent polygons; 6. Combinatorial structure on tiling; 7. Computer programming for solving tiling problems. We intend to learn the basic theory, investigate and prove theorems about these topics. Regular UG and PG students should seek the course instructor’s approval to take this course.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1416",
+        "remarks": " ",
+        "quota": 8,
+        "enroll": 7,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "YAN, Min"
+            ],
+            "venue": "Rm 2612A, Lift 31-32 (29)",
+            "fromDate": "2025-08-11",
+            "toDate": "2025-08-28",
+            "weekdays": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "fromTime": "10:00",
+            "toTime": "11:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "MATH",
     "number": "6912L",
     "code": "MATH6912L",
     "name": "Reading Course: Deep Learning Methods with Their Applications",

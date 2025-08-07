@@ -4876,7 +4876,7 @@
         "section": "L1",
         "number": "1905",
         "remarks": " ",
-        "quota": 30,
+        "quota": 34,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -4902,7 +4902,7 @@
         "section": "T1",
         "number": "1906",
         "remarks": " ",
-        "quota": 30,
+        "quota": 34,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -6703,7 +6703,7 @@
         "section": "T2",
         "number": "1920",
         "remarks": " ",
-        "quota": 30,
+        "quota": 25,
         "enroll": 18,
         "waitlist": 0,
         "consent": false,
@@ -7118,7 +7118,7 @@
         "section": "L1",
         "number": "1931",
         "remarks": " ",
-        "quota": 30,
+        "quota": 26,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -7144,7 +7144,7 @@
         "section": "T1",
         "number": "1932",
         "remarks": " ",
-        "quota": 30,
+        "quota": 26,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -21355,7 +21355,7 @@
         "section": "L1",
         "number": "4268",
         "remarks": " ",
-        "quota": 45,
+        "quota": 46,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -21381,7 +21381,7 @@
         "section": "T1",
         "number": "4269",
         "remarks": " ",
-        "quota": 45,
+        "quota": 46,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -29895,7 +29895,7 @@
         "section": "T01",
         "number": "2439",
         "remarks": "> Classes held in Room 2126A",
-        "quota": 5,
+        "quota": 6,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -29920,7 +29920,7 @@
         "section": "T02",
         "number": "2440",
         "remarks": "> Classes held in Room 2126A",
-        "quota": 5,
+        "quota": 6,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -29945,7 +29945,7 @@
         "section": "T03",
         "number": "2441",
         "remarks": "> Classes held in Room 2126B",
-        "quota": 5,
+        "quota": 6,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -48874,7 +48874,7 @@
         "section": "L1",
         "number": "2830",
         "remarks": " ",
-        "quota": 110,
+        "quota": 112,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -48900,7 +48900,7 @@
         "section": "T1",
         "number": "2832",
         "remarks": " ",
-        "quota": 55,
+        "quota": 56,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -48925,7 +48925,7 @@
         "section": "T2",
         "number": "2834",
         "remarks": " ",
-        "quota": 55,
+        "quota": 56,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -50814,7 +50814,7 @@
         "section": "L1",
         "number": "2902",
         "remarks": " ",
-        "quota": 30,
+        "quota": 31,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -50839,7 +50839,7 @@
         "section": "LA1",
         "number": "2903",
         "remarks": " ",
-        "quota": 30,
+        "quota": 31,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -50880,7 +50880,7 @@
         "section": "L1",
         "number": "2904",
         "remarks": " ",
-        "quota": 30,
+        "quota": 36,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -50905,7 +50905,7 @@
         "section": "LA1",
         "number": "2905",
         "remarks": " ",
-        "quota": 30,
+        "quota": 36,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -51286,7 +51286,7 @@
         "section": "L1",
         "number": "2916",
         "remarks": " ",
-        "quota": 30,
+        "quota": 37,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -51311,7 +51311,7 @@
         "section": "LA1",
         "number": "2917",
         "remarks": " ",
-        "quota": 30,
+        "quota": 37,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -64440,32 +64440,6 @@
             "toTime": "13:20"
           }
         ]
-      },
-      {
-        "section": "T88",
-        "number": "3214",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2131A, Lift 19 (28)",
-            "fromDate": "2025-09-01",
-            "toDate": "2025-11-29",
-            "weekdays": [
-              2,
-              4
-            ],
-            "fromTime": "12:00",
-            "toTime": "13:20"
-          }
-        ]
       }
     ]
   },
@@ -69090,32 +69064,6 @@
             "toTime": "13:20"
           }
         ]
-      },
-      {
-        "section": "T10",
-        "number": "3353",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2126C, Lift 19 (28)",
-            "fromDate": "2025-09-01",
-            "toDate": "2025-11-29",
-            "weekdays": [
-              1,
-              3
-            ],
-            "fromTime": "09:00",
-            "toTime": "10:20"
-          }
-        ]
       }
     ]
   },
@@ -69298,32 +69246,6 @@
             ],
             "fromTime": "10:30",
             "toTime": "11:50"
-          }
-        ]
-      },
-      {
-        "section": "T07",
-        "number": "3360",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2611, Lift 31-32 (28)",
-            "fromDate": "2025-09-01",
-            "toDate": "2025-11-29",
-            "weekdays": [
-              1,
-              3
-            ],
-            "fromTime": "12:00",
-            "toTime": "13:20"
           }
         ]
       }
@@ -70303,61 +70225,6 @@
   {
     "career": "UGRD",
     "subject": "LANG",
-    "number": "2067",
-    "code": "LANG2067",
-    "name": "Digital Communication: Expressing Your Perspective in Digital Spaces",
-    "description": "This course equips students with essential skills for effective communication on digital platforms, which are crucial for success in today’s academic, personal, and professional arenas. Students will design and share digital artifacts, such as podcasts, vlogs, and digital portfolios, and craft engaging multimodal content tailored to specific audiences. They will also reflect on the ethical implications of digital media use by analyzing authentic digital content and their social influence, including analyzing the source, purpose, and audience of the content and assessing the authenticity of the information being shared. Through engaging tasks and assessments, students will refine their online multimodal communication skills to create compelling digital identities that showcase their learning and enhance their future professional profiles.",
-    "previousCodes": "",
-    "prerequisites": "LANG 1403 OR LANG 1404 OR LANG 1406 OR LANG 1407 OR LANG 1408 OR LANG 1409",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 3,
-    "attributes": [
-      {
-        "attribute": "CC22",
-        "value": "22",
-        "attributeDescription": "Students admitted in 2022-2024",
-        "valueDescription": "Common Core (E-Comm) for 30-credit program"
-      },
-      {
-        "attribute": "CC25",
-        "value": "35",
-        "attributeDescription": "Students admitted from 2025",
-        "valueDescription": "Common Core (E-Comm) for 30-credit program"
-      }
-    ],
-    "classes": [
-      {
-        "section": "T01",
-        "number": "3402",
-        "remarks": " ",
-        "quota": 40,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 4504, Lift 25-26 (54)",
-            "fromDate": "2025-09-01",
-            "toDate": "2025-11-29",
-            "weekdays": [
-              2,
-              4
-            ],
-            "fromTime": "10:30",
-            "toTime": "11:50"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "UGRD",
-    "subject": "LANG",
     "number": "2068",
     "code": "LANG2068",
     "name": "Speaking with Impact",
@@ -70969,6 +70836,32 @@
             "toTime": "14:50"
           }
         ]
+      },
+      {
+        "section": "T04",
+        "number": "4422",
+        "remarks": " ",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 2131B, Lift 19 (28)",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [
+              1,
+              3
+            ],
+            "fromTime": "09:00",
+            "toTime": "10:20"
+          }
+        ]
       }
     ]
   },
@@ -71061,84 +70954,6 @@
             ],
             "fromTime": "12:00",
             "toTime": "13:20"
-          }
-        ]
-      },
-      {
-        "section": "T04",
-        "number": "3422",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2610, Lift 31-32 (26)",
-            "fromDate": "2025-09-01",
-            "toDate": "2025-11-29",
-            "weekdays": [
-              3,
-              5
-            ],
-            "fromTime": "16:30",
-            "toTime": "17:50"
-          }
-        ]
-      },
-      {
-        "section": "T05",
-        "number": "3423",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2131B, Lift 19 (28)",
-            "fromDate": "2025-09-01",
-            "toDate": "2025-11-29",
-            "weekdays": [
-              2,
-              4
-            ],
-            "fromTime": "10:30",
-            "toTime": "11:50"
-          }
-        ]
-      },
-      {
-        "section": "T06",
-        "number": "3424",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2131B, Lift 19 (28)",
-            "fromDate": "2025-09-01",
-            "toDate": "2025-11-29",
-            "weekdays": [
-              1,
-              3
-            ],
-            "fromTime": "09:00",
-            "toTime": "10:20"
           }
         ]
       }
@@ -86484,6 +86299,45 @@
           {
             "instructors": [
               "WANG, Ke"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "MATH",
+    "number": "6906B",
+    "code": "MATH6906B",
+    "name": "Reading Course: Seminar on Tilings and Related Problems",
+    "description": "We discuss the latest development in the tilings of planes and surfaces. Topics include: 1. Non-edge-to-edge tiling of the sphere by congruent polygon; 2. Tiling of plane by hexagon; 3. Tiling of hyperbolic surface of fixed genus; 4. Tiling by congruent curvilinear polygon; 5. Tiling by angle congruent polygons; 6. Combinatorial structure on tiling; 7. Computer programming for solving tiling problems. We intend to learn the basic theory, investigate and prove theorems about these topics. Regular UG and PG students should seek the course instructor’s approval to take this course.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4423",
+        "remarks": "> Students should seek the course instructor’s approval to take this course.",
+        "quota": 22,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "YAN, Min"
             ],
             "venue": "TBA",
             "fromDate": "2025-09-01",
