@@ -48613,7 +48613,7 @@
         "section": "L1",
         "number": "2818",
         "remarks": " ",
-        "quota": 160,
+        "quota": 174,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -48651,7 +48651,7 @@
         "section": "T1",
         "number": "2820",
         "remarks": " ",
-        "quota": 80,
+        "quota": 86,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -48676,7 +48676,7 @@
         "section": "T2",
         "number": "2822",
         "remarks": " ",
-        "quota": 80,
+        "quota": 86,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -107141,21 +107141,6 @@
   {
     "career": "UGRD",
     "subject": "SOSC",
-    "number": "1980",
-    "code": "SOSC1980",
-    "name": "Psychology of Personal Growth",
-    "description": "This course introduces major challenges of adjustment individuals face during their transition to adulthood from a psychological perspective. Topics include self-concept, emotion, coping, romantic love, interpersonal relationships, and workplace issues.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 3,
-    "attributes": [],
-    "classes": []
-  },
-  {
-    "career": "UGRD",
-    "subject": "SOSC",
     "number": "1990",
     "code": "SOSC1990",
     "name": "Research Methods in Psychological Science",
@@ -107534,6 +107519,53 @@
               3
             ],
             "fromTime": "10:30",
+            "toTime": "11:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "SOSC",
+    "number": "2980",
+    "code": "SOSC2980",
+    "name": "Personality Psychology",
+    "description": "This course surveys the principal approaches to studying personality and examines relevant modern research.",
+    "previousCodes": "",
+    "prerequisites": "SOSC 1960 OR SOSC 1980 OR SOSC 1969",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4424",
+        "remarks": " ",
+        "quota": 50,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "SHSS",
+            "quota": 40,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "YIK, Michelle"
+            ],
+            "venue": "Lecture Theater H (72)",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "09:00",
             "toTime": "11:50"
           }
         ]
