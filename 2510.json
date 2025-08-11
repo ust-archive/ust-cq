@@ -1525,7 +1525,12 @@
         "reservedQuota": [
           {
             "name": "ACCT",
-            "quota": 65,
+            "quota": 60,
+            "enroll": 0
+          },
+          {
+            "name": "FOFB",
+            "quota": 5,
             "enroll": 0
           }
         ],
@@ -1613,7 +1618,12 @@
         "reservedQuota": [
           {
             "name": "ACCT",
-            "quota": 65,
+            "quota": 60,
+            "enroll": 0
+          },
+          {
+            "name": "FOFB",
+            "quota": 5,
             "enroll": 0
           }
         ],
