@@ -9919,6 +9919,45 @@
   {
     "career": "RPG",
     "subject": "CHEM",
+    "number": "6980A",
+    "code": "CHEM6980A",
+    "name": "Research Project",
+    "description": "An independent research project carried out under the supervision of a faculty member. This course is only available for exchange, visiting and visiting internship students.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4430",
+        "remarks": " ",
+        "quota": 2,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "CHEM",
     "number": "6990",
     "code": "CHEM6990",
     "name": "MPhil Thesis Research",
@@ -17618,7 +17657,7 @@
       {
         "section": "LA1",
         "number": "2329",
-        "remarks": "> Classes held in Room 4210",
+        "remarks": " ",
         "quota": 30,
         "enroll": 0,
         "waitlist": 0,
@@ -17632,11 +17671,9 @@
             "venue": "TBA",
             "fromDate": "2025-09-01",
             "toDate": "2025-11-29",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "18:00",
-            "toTime": "21:50"
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -17982,7 +18019,7 @@
         "number": "2339",
         "remarks": "> The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
         "quota": 211,
-        "enroll": 211,
+        "enroll": 209,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -18020,8 +18057,8 @@
         "section": "R1",
         "number": "2340",
         "remarks": "> The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
-        "quota": 12,
-        "enroll": 12,
+        "quota": 13,
+        "enroll": 13,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -20372,7 +20409,7 @@
         "number": "2130",
         "remarks": "> Classes held in Room 2132C",
         "quota": 6,
-        "enroll": 6,
+        "enroll": 5,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -33798,6 +33835,45 @@
             ],
             "fromTime": "10:30",
             "toTime": "13:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "ELEC",
+    "number": "6900A",
+    "code": "ELEC6900A",
+    "name": "Independent Study",
+    "description": "Selected topics in electronic and computer engineering studied under the supervision of a faculty member. Graded P or F.",
+    "previousCodes": "ELEC690",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4431",
+        "remarks": " ",
+        "quota": 11,
+        "enroll": 8,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -47404,13 +47480,13 @@
         "number": "1322",
         "remarks": " ",
         "quota": 20,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "HUMA",
-            "quota": 20,
+            "quota": 19,
             "enroll": 0
           }
         ],
@@ -47711,13 +47787,13 @@
         "number": "1330",
         "remarks": " ",
         "quota": 20,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "HUMA",
-            "quota": 20,
+            "quota": 19,
             "enroll": 0
           }
         ],
@@ -50374,7 +50450,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "HAN, Jun"
             ],
             "venue": "Rm 4504, Lift 25-26 (54)",
             "fromDate": "2025-09-01",
@@ -89154,7 +89230,7 @@
         "number": "1570",
         "remarks": " ",
         "quota": 10,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -96514,7 +96590,7 @@
         "number": "1632",
         "remarks": " ",
         "quota": 25,
-        "enroll": 3,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -108770,13 +108846,13 @@
         "number": "1868",
         "remarks": "> Mon 1900-2020 : Classes held in Room LSK1034\n> Tue 1900-2020 : Classes held in Room LSK1011\n> Co-list with PPOL 5110 L1",
         "quota": 10,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SOSC",
-            "quota": 10,
+            "quota": 9,
             "enroll": 0
           }
         ],
