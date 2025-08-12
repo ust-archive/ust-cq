@@ -18462,7 +18462,7 @@
         "section": "L1",
         "number": "1155",
         "remarks": " ",
-        "quota": 60,
+        "quota": 59,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -18510,7 +18510,7 @@
         "section": "L1",
         "number": "1156",
         "remarks": " ",
-        "quota": 60,
+        "quota": 59,
         "enroll": 0,
         "waitlist": 0,
         "consent": true,
@@ -18631,6 +18631,53 @@
             ],
             "fromTime": "13:30",
             "toTime": "14:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "COMP",
+    "number": "6613F",
+    "code": "COMP6613F",
+    "name": "Introduction to Quantum Information Processing",
+    "description": "This introductory course provides a foundational overview of quantum information processing, aimed at students with little or no prior background in quantum theory. Topics include basic principles of quantum mechanics relevant to computation, qubits and quantum gates, superposition, entanglement, and simple quantum algorithms. The course emphasizes the computer science perspective, exploring how quantum concepts translate into computational models and problem-solving approaches. Students will engage with selected contemporary literature, gaining exposure to emerging research directions such as quantum algorithms, quantum machine learning, and distributed quantum computing via student-led presentations. As a culminating activity, students will work individually or in small groups on a focused, research-oriented project-developing it from inception to realization and delivering a final presentation. By the end of the course, participants will understand core concepts, appreciate the potential and limitations of quantum computation, and be equipped to follow to some extend current developments in the field.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4444",
+        "remarks": " ",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "CSE",
+            "quota": 20,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "JACOBSEN, Arno"
+            ],
+            "venue": "Rm 5564, Lift 27-28 (30)",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "10:30",
+            "toTime": "13:20"
           }
         ]
       }
@@ -47798,7 +47845,7 @@
         "reservedQuota": [
           {
             "name": "HUMA",
-            "quota": 19,
+            "quota": 20,
             "enroll": 0
           }
         ],
@@ -48105,7 +48152,7 @@
         "reservedQuota": [
           {
             "name": "HUMA",
-            "quota": 19,
+            "quota": 20,
             "enroll": 0
           }
         ],
@@ -75563,8 +75610,8 @@
               "TBA"
             ],
             "venue": "Lecture Theater E (143)",
-            "fromDate": "2025-09-01",
-            "toDate": "2025-11-29",
+            "fromDate": "2025-09-07",
+            "toDate": "2025-11-30",
             "weekdays": [
               7
             ],
@@ -87884,7 +87931,7 @@
             "instructors": [
               "TAO, Hong"
             ],
-            "venue": "Rm 2306, Lift 17-18 (111)",
+            "venue": "Lecture Theater A (401)",
             "fromDate": "2025-09-01",
             "toDate": "2025-11-29",
             "weekdays": [
@@ -103723,7 +103770,7 @@
         "section": "L1",
         "number": "1637",
         "remarks": " ",
-        "quota": 40,
+        "quota": 39,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -109320,7 +109367,7 @@
         "reservedQuota": [
           {
             "name": "SOSC",
-            "quota": 9,
+            "quota": 10,
             "enroll": 0
           }
         ],
