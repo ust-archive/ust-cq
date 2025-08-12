@@ -13408,6 +13408,45 @@
   {
     "career": "RPG",
     "subject": "CIVL",
+    "number": "6010A",
+    "code": "CIVL6010A",
+    "name": "Directed Studies",
+    "description": "Specialist courses where instruction is generally on a one-to-one basis. Graded P or F.",
+    "previousCodes": "CIVL610A",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4434",
+        "remarks": " ",
+        "quota": 2,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "CIVL",
     "number": "6010G",
     "code": "CIVL6010G",
     "name": "Directed Studies",
@@ -17832,7 +17871,7 @@
         "number": "2334",
         "remarks": " ",
         "quota": 800,
-        "enroll": 667,
+        "enroll": 666,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -17857,7 +17896,7 @@
         "number": "2335",
         "remarks": " ",
         "quota": 83,
-        "enroll": 82,
+        "enroll": 83,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -18003,6 +18042,45 @@
   {
     "career": "UGRD",
     "subject": "COMP",
+    "number": "4971A",
+    "code": "COMP4971A",
+    "name": "Independent Work",
+    "description": "Independent studies or projects under the directed guidance of a faculty member on a computer science topic. A written report, presentation, and/or an examination are required. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. May be repeated for credits.",
+    "previousCodes": "COMP390A",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4440",
+        "remarks": " ",
+        "quota": 16,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "COMP",
     "number": "4981",
     "code": "COMP4981",
     "name": "Final Year Project",
@@ -18018,7 +18096,7 @@
         "section": "R1",
         "number": "2339",
         "remarks": "> The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
-        "quota": 211,
+        "quota": 209,
         "enroll": 209,
         "waitlist": 0,
         "consent": true,
@@ -18647,6 +18725,123 @@
             ],
             "fromTime": "16:00",
             "toTime": "16:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "COMP",
+    "number": "6921U",
+    "code": "COMP6921U",
+    "name": "Research Project",
+    "description": "An independent research project carried out under the supervision of a faculty member. This course is only available for exchange, visiting and visiting internship students.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4441",
+        "remarks": " ",
+        "quota": 2,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "MA, Xiaojuan"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "COMP",
+    "number": "6922H",
+    "code": "COMP6922H",
+    "name": "Research Project",
+    "description": "An independent research project carried out under the supervision of a faculty member. This course is only available for exchange, visiting and visiting internship students.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4442",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "GUO, Song"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "COMP",
+    "number": "6922J",
+    "code": "COMP6922J",
+    "name": "Research Project",
+    "description": "An independent research project carried out under the supervision of a faculty member. This course is only available for exchange, visiting and visiting internship students.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4443",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "SHEN, Jiasi"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -20408,7 +20603,7 @@
         "section": "T17",
         "number": "2130",
         "remarks": "> Classes held in Room 2132C",
-        "quota": 6,
+        "quota": 5,
         "enroll": 5,
         "waitlist": 0,
         "consent": false,
@@ -33278,6 +33473,45 @@
     ]
   },
   {
+    "career": "UGRD",
+    "subject": "ELEC",
+    "number": "4940C",
+    "code": "ELEC4940C",
+    "name": "Independent Study",
+    "description": "Selected topics in electronic and computer engineering studied under the supervision of a faculty member. Enrollment subject to approval by the department.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4437",
+        "remarks": " ",
+        "quota": 6,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "RPG",
     "subject": "ELEC",
     "number": "5010",
@@ -34559,6 +34793,45 @@
   {
     "career": "UGRD",
     "subject": "EMIA",
+    "number": "4900B",
+    "code": "EMIA4900B",
+    "name": "Independent Study",
+    "description": "Independent studies or projects under the directed guidance of a faculty member. Course requirements include readings on the relevant topic and a research or survey project specifically defined for the research topic. Credits assigned depend on the workload and may be repeated if different topics are taken. For students with approval from instructor for enrolling in the course. May be graded by letter, P/F or DI/PA/F for different offerings.",
+    "previousCodes": "IIMP4900B",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4436",
+        "remarks": " ",
+        "quota": 2,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "EMIA",
     "number": "4990",
     "code": "EMIA4990",
     "name": "Interdisciplinary Capstone Design",
@@ -34672,6 +34945,45 @@
             ],
             "fromTime": "12:00",
             "toTime": "14:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "EMIA",
+    "number": "6950A",
+    "code": "EMIA6950A",
+    "name": "Independent Study",
+    "description": "Independent studies or projects under the direct guidance of a faculty member. Course requirements include readings on the relevant topic and a research or survey project specifically defined for the research topic. Credits assigned depend on the workload and may be repeated if different topics are taken. May be graded by letter, P/F or PP for different offerings.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4435",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -50150,6 +50462,45 @@
   {
     "career": "UGRD",
     "subject": "IEDA",
+    "number": "4950A",
+    "code": "IEDA4950A",
+    "name": "Industrial Engineering Special Project",
+    "description": "A special project supervised by a faculty member. A project proposal and a final report are required. May be repeated for credit if the projects cover different topics.",
+    "previousCodes": "IELM4950A",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4438",
+        "remarks": " ",
+        "quota": 4,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "IEDA",
     "number": "4960",
     "code": "IEDA4960",
     "name": "Industrial Engineering and Engineering Management Final Year Project",
@@ -51654,6 +52005,45 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ISDN",
+    "number": "4900A",
+    "code": "ISDN4900A",
+    "name": "Independent Study",
+    "description": "Independent studies or projects under the directed guidance of a faculty member on an integrative systems and design topic. A written report, presentation, and/or an examination are required. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. May be repeated for credits. Graded P or F. May be graded PP.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "4439",
+        "remarks": " ",
+        "quota": 2,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -86694,6 +87084,45 @@
   {
     "career": "RPG",
     "subject": "MATH",
+    "number": "6912L",
+    "code": "MATH6912L",
+    "name": "Reading Course: Deep Learning Methods with Their Applications",
+    "description": "The topics covered in this reading course include: 1. Network structure: Residual networks; 2. Transformers; 3. Graph neural networks; 4. Deep Generative models: GANs, Normalizing flows, and Variational autoencoders; 5. Deep Generative models:  Diffusion models; 6. Deep reinforcement learning; 7. Deep learning and its  applications in Science. Students should seek approval from the course instructor to take this reading course.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4433",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "YANG, Can"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "MATH",
     "number": "6915",
     "code": "MATH6915",
     "name": "Scientific Computation Seminar",
@@ -89230,7 +89659,7 @@
         "number": "1570",
         "remarks": " ",
         "quota": 10,
-        "enroll": 1,
+        "enroll": 6,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -97337,6 +97766,45 @@
             ],
             "fromTime": "10:00",
             "toTime": "11:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "OCES",
+    "number": "4910A",
+    "code": "OCES4910A",
+    "name": "Independent Study",
+    "description": "Independent studies or projects under the directed guidance of a faculty member. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. Students may repeat the course up to two times if different topics are taken. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4432",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
