@@ -5844,7 +5844,7 @@
         "number": "1474",
         "remarks": " ",
         "quota": 57,
-        "enroll": 52,
+        "enroll": 51,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5973,7 +5973,7 @@
         "number": "1475",
         "remarks": " ",
         "quota": 57,
-        "enroll": 52,
+        "enroll": 51,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6502,7 +6502,7 @@
         "number": "1481",
         "remarks": " ",
         "quota": 20,
-        "enroll": 0,
+        "enroll": 15,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6525,7 +6525,7 @@
         "number": "1482",
         "remarks": " ",
         "quota": 20,
-        "enroll": 0,
+        "enroll": 15,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6564,7 +6564,7 @@
         "number": "1483",
         "remarks": " ",
         "quota": 25,
-        "enroll": 0,
+        "enroll": 8,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6587,7 +6587,69 @@
         "number": "1484",
         "remarks": " ",
         "quota": 25,
-        "enroll": 0,
+        "enroll": 8,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "BTEC",
+    "number": "6940",
+    "code": "BTEC6940",
+    "name": "Advanced Biotechnological Research",
+    "description": "Students will undertake a research project in an area of biotechnology under the supervision of a faculty member. The results of the research will be presented in a seminar and be formally written in the form of a final report. For full time MSc students only.",
+    "previousCodes": "",
+    "prerequisites": "BTEC 6930",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 4,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "LA1",
+        "number": "4445",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "T1",
+        "number": "4446",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
