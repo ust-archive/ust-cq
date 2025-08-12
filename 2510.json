@@ -13676,7 +13676,7 @@
         "number": "1136",
         "remarks": " ",
         "quota": 80,
-        "enroll": 18,
+        "enroll": 17,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -18524,7 +18524,7 @@
         "section": "L1",
         "number": "1155",
         "remarks": " ",
-        "quota": 59,
+        "quota": 58,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -19092,7 +19092,7 @@
         "number": "2067",
         "remarks": " ",
         "quota": 8,
-        "enroll": 5,
+        "enroll": 4,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -60065,7 +60065,17 @@
         "reservedQuota": [
           {
             "name": "BA",
-            "quota": 60,
+            "quota": 53,
+            "enroll": 0
+          },
+          {
+            "name": "ICSM",
+            "quota": 2,
+            "enroll": 0
+          },
+          {
+            "name": "MIMT",
+            "quota": 5,
             "enroll": 0
           }
         ],
@@ -60109,7 +60119,22 @@
         "reservedQuota": [
           {
             "name": "BA",
-            "quota": 60,
+            "quota": 51,
+            "enroll": 0
+          },
+          {
+            "name": "FINA",
+            "quota": 4,
+            "enroll": 0
+          },
+          {
+            "name": "FOFB",
+            "quota": 2,
+            "enroll": 0
+          },
+          {
+            "name": "MARK",
+            "quota": 3,
             "enroll": 0
           }
         ],
