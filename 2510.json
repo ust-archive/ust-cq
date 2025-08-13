@@ -3083,6 +3083,52 @@
     ]
   },
   {
+    "career": "UGRD",
+    "subject": "AISC",
+    "number": "2800",
+    "code": "AISC2800",
+    "name": "AIS Cooperative Education Program",
+    "description": "This course is intended to enhance AIS students’ career readiness by combining classroom-based education with practical work experience. By taking any two standalone career development programs offered by the Career Center or those as recognized by the School, students are required to apply the skills and knowledge learnt in a full-time coop work experience for a single employer for at least 4 months. Approval from the course coordinator is required for enrollment in the course. For AIS Year 2 students or above only. Graded P of F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [
+      {
+        "attribute": "DELI",
+        "value": "EXP",
+        "attributeDescription": "Mode of Delivery",
+        "valueDescription": "[EXP] Experiential learning"
+      }
+    ],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "4452",
+        "remarks": "> The class is delivered in a experiential learning mode",
+        "quota": 100,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "RPG",
     "subject": "AMAT",
     "number": "7990",
@@ -40017,14 +40063,14 @@
         "number": "4410",
         "remarks": "> For MSc(FOFB) students only\n> The class is delivered in a conventional face-to-face mode\n> Add/Drop Deadline : 01-Sep-2025",
         "quota": 40,
-        "enroll": 0,
+        "enroll": 29,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FOFB",
             "quota": 40,
-            "enroll": 0
+            "enroll": 29
           }
         ],
         "schedule": [
@@ -40181,14 +40227,14 @@
         "number": "1264",
         "remarks": "> For MSc(FOFB) students only\n> Add/Drop Deadline : 01-Sep-2025",
         "quota": 40,
-        "enroll": 0,
+        "enroll": 37,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FOFB",
             "quota": 40,
-            "enroll": 0
+            "enroll": 37
           }
         ],
         "schedule": [
@@ -41490,14 +41536,14 @@
         "number": "1306",
         "remarks": "> For MSc(FOFB) students only\n> Add/Drop Deadline : 04-Nov-2025",
         "quota": 40,
-        "enroll": 0,
+        "enroll": 37,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FOFB",
             "quota": 40,
-            "enroll": 0
+            "enroll": 37
           }
         ],
         "schedule": [
@@ -42171,14 +42217,14 @@
         "number": "1574",
         "remarks": "> Instructor : STEWART, Christian\n> For MSc(FOFB) students only\n> Add/Drop Deadline : 01-Sep-2025",
         "quota": 40,
-        "enroll": 0,
+        "enroll": 37,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FOFB",
             "quota": 40,
-            "enroll": 0
+            "enroll": 37
           }
         ],
         "schedule": [
@@ -42244,14 +42290,14 @@
         "number": "1596",
         "remarks": "> Instructor : TANG, Jacky\n> For MSc(FOFB) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 40,
-        "enroll": 0,
+        "enroll": 37,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FOFB",
             "quota": 40,
-            "enroll": 0
+            "enroll": 37
           }
         ],
         "schedule": [
@@ -42951,7 +42997,7 @@
         "section": "T01",
         "number": "4277",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -42989,7 +43035,7 @@
         "section": "T02",
         "number": "4278",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -43027,7 +43073,7 @@
         "section": "T03",
         "number": "4279",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -43065,7 +43111,7 @@
         "section": "T04",
         "number": "4280",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -43103,7 +43149,7 @@
         "section": "T05",
         "number": "4281",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -43141,7 +43187,7 @@
         "section": "T06",
         "number": "4282",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -43179,7 +43225,7 @@
         "section": "T07",
         "number": "4283",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -43217,7 +43263,7 @@
         "section": "T08",
         "number": "4284",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -43255,7 +43301,7 @@
         "section": "T09",
         "number": "4285",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -43293,7 +43339,7 @@
         "section": "T10",
         "number": "4286",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -43331,7 +43377,7 @@
         "section": "T11",
         "number": "4287",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -43369,7 +43415,7 @@
         "section": "T12",
         "number": "4288",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -43407,7 +43453,7 @@
         "section": "T13",
         "number": "4289",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -43445,7 +43491,7 @@
         "section": "T14",
         "number": "4290",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -43483,7 +43529,7 @@
         "section": "T15",
         "number": "4291",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -43521,7 +43567,7 @@
         "section": "T16",
         "number": "4292",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -43559,7 +43605,7 @@
         "section": "T17",
         "number": "4293",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -43597,7 +43643,7 @@
         "section": "T18",
         "number": "4294",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -43635,7 +43681,7 @@
         "section": "T19",
         "number": "4295",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -43673,7 +43719,7 @@
         "section": "T20",
         "number": "4296",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -43711,7 +43757,7 @@
         "section": "T21",
         "number": "4297",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -43749,7 +43795,7 @@
         "section": "T22",
         "number": "4298",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -43787,7 +43833,7 @@
         "section": "T23",
         "number": "4299",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -43825,7 +43871,7 @@
         "section": "T24",
         "number": "4300",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -43863,7 +43909,7 @@
         "section": "T25",
         "number": "4301",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -43901,7 +43947,7 @@
         "section": "T26",
         "number": "4302",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -43939,7 +43985,7 @@
         "section": "T27",
         "number": "4303",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -43977,7 +44023,7 @@
         "section": "T28",
         "number": "4304",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -44015,7 +44061,7 @@
         "section": "T29",
         "number": "4305",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -44053,7 +44099,7 @@
         "section": "T30",
         "number": "4306",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -44091,7 +44137,7 @@
         "section": "T31",
         "number": "4307",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -44129,7 +44175,7 @@
         "section": "T32",
         "number": "4308",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -44167,7 +44213,7 @@
         "section": "T33",
         "number": "4309",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -44205,7 +44251,7 @@
         "section": "T34",
         "number": "4310",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -44231,7 +44277,7 @@
         "section": "T35",
         "number": "4311",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -58997,14 +59043,14 @@
         "number": "1438",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 50,
-        "enroll": 0,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FOFB",
             "quota": 2,
-            "enroll": 0
+            "enroll": 2
           },
           {
             "name": "GO",
@@ -60192,7 +60238,7 @@
         "number": "1428",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -60209,7 +60255,7 @@
           {
             "name": "FOFB",
             "quota": 2,
-            "enroll": 0
+            "enroll": 2
           },
           {
             "name": "MARK",
@@ -78385,14 +78431,14 @@
         "number": "1509",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 01-Sep-2025",
         "quota": 65,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FOFB",
             "quota": 2,
-            "enroll": 0
+            "enroll": 1
           },
           {
             "name": "ICSM",
