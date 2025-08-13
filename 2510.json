@@ -19085,7 +19085,7 @@
         "number": "1163",
         "remarks": " ",
         "quota": 250,
-        "enroll": 189,
+        "enroll": 188,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -83329,7 +83329,7 @@
         "section": "L1",
         "number": "3729",
         "remarks": " ",
-        "quota": 120,
+        "quota": 184,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -83339,7 +83339,7 @@
             "instructors": [
               "YAN, Min"
             ],
-            "venue": "Rm 4620, Lift 31-32 (126)",
+            "venue": "Lecture Theater A (401)",
             "fromDate": "2025-09-01",
             "toDate": "2025-11-29",
             "weekdays": [
@@ -83352,7 +83352,7 @@
             "instructors": [
               "YAN, Min"
             ],
-            "venue": "Rm 4620, Lift 31-32 (126)",
+            "venue": "Lecture Theater A (401)",
             "fromDate": "2025-09-01",
             "toDate": "2025-11-29",
             "weekdays": [
@@ -83402,36 +83402,10 @@
         ]
       },
       {
-        "section": "L3",
-        "number": "3733",
-        "remarks": " ",
-        "quota": 120,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "WU, Lixin"
-            ],
-            "venue": "Rm 4619, Lift 31-32 (126)",
-            "fromDate": "2025-09-01",
-            "toDate": "2025-11-29",
-            "weekdays": [
-              2,
-              4
-            ],
-            "fromTime": "09:00",
-            "toTime": "10:20"
-          }
-        ]
-      },
-      {
-        "section": "T1A",
+        "section": "T01",
         "number": "3735",
         "remarks": " ",
-        "quota": 40,
+        "quota": 38,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -83453,10 +83427,10 @@
         ]
       },
       {
-        "section": "T1B",
+        "section": "T02",
         "number": "3737",
         "remarks": " ",
-        "quota": 40,
+        "quota": 38,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -83478,10 +83452,10 @@
         ]
       },
       {
-        "section": "T1C",
+        "section": "T03",
         "number": "3738",
         "remarks": " ",
-        "quota": 40,
+        "quota": 38,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -83503,10 +83477,10 @@
         ]
       },
       {
-        "section": "T2A",
+        "section": "T04",
         "number": "3739",
         "remarks": " ",
-        "quota": 40,
+        "quota": 38,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -83528,10 +83502,10 @@
         ]
       },
       {
-        "section": "T2B",
+        "section": "T05",
         "number": "3740",
         "remarks": " ",
-        "quota": 40,
+        "quota": 38,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -83553,10 +83527,10 @@
         ]
       },
       {
-        "section": "T2C",
+        "section": "T06",
         "number": "3741",
         "remarks": " ",
-        "quota": 40,
+        "quota": 38,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -83578,10 +83552,10 @@
         ]
       },
       {
-        "section": "T3A",
+        "section": "T07",
         "number": "3742",
         "remarks": " ",
-        "quota": 40,
+        "quota": 38,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -83589,7 +83563,7 @@
         "schedule": [
           {
             "instructors": [
-              "WU, Lixin"
+              "YAN, Min"
             ],
             "venue": "Rm 2406, Lift 17-18 (76)",
             "fromDate": "2025-09-01",
@@ -83603,10 +83577,10 @@
         ]
       },
       {
-        "section": "T3B",
+        "section": "T08",
         "number": "3743",
         "remarks": " ",
-        "quota": 40,
+        "quota": 38,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -83614,7 +83588,7 @@
         "schedule": [
           {
             "instructors": [
-              "WU, Lixin"
+              "YAN, Min"
             ],
             "venue": "Rm 5583, Lift 29-30 (80)",
             "fromDate": "2025-09-01",
@@ -83624,31 +83598,6 @@
             ],
             "fromTime": "14:00",
             "toTime": "14:50"
-          }
-        ]
-      },
-      {
-        "section": "T3C",
-        "number": "3744",
-        "remarks": " ",
-        "quota": 40,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "WU, Lixin"
-            ],
-            "venue": "Rm 2504, Lift 25-26 (84)",
-            "fromDate": "2025-09-01",
-            "toDate": "2025-11-29",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "09:00",
-            "toTime": "09:50"
           }
         ]
       }
@@ -83672,7 +83621,7 @@
         "section": "L1",
         "number": "3745",
         "remarks": " ",
-        "quota": 80,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -83708,31 +83657,6 @@
       },
       {
         "section": "T1A",
-        "number": "3747",
-        "remarks": " ",
-        "quota": 40,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "MENG, Guowu"
-            ],
-            "venue": "Rm 1527, Lift 22 (74)",
-            "fromDate": "2025-09-01",
-            "toDate": "2025-11-29",
-            "weekdays": [
-              1
-            ],
-            "fromTime": "12:30",
-            "toTime": "13:20"
-          }
-        ]
-      },
-      {
-        "section": "T1B",
         "number": "3749",
         "remarks": " ",
         "quota": 40,
@@ -95526,7 +95450,7 @@
         "section": "L1",
         "number": "1682",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 01-Sep-2025",
-        "quota": 41,
+        "quota": 40,
         "enroll": 40,
         "waitlist": 0,
         "consent": false,
