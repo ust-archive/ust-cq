@@ -14809,44 +14809,7 @@
     "corequisites": "",
     "exclusions": "",
     "credits": 3,
-    "attributes": [
-      {
-        "attribute": "4Y",
-        "value": "13",
-        "attributeDescription": "Students admitted before 2022",
-        "valueDescription": "Common Core (SA) for 36-credit program"
-      },
-      {
-        "attribute": "4Y",
-        "value": "14",
-        "attributeDescription": "Students admitted before 2022",
-        "valueDescription": "Common Core (S&T) for 36-credit program"
-      },
-      {
-        "attribute": "CC22",
-        "value": "27",
-        "attributeDescription": "Students admitted in 2022-2024",
-        "valueDescription": "Common Core (T) for 30-credit prog in 22-24"
-      },
-      {
-        "attribute": "CC22",
-        "value": "28",
-        "attributeDescription": "Students admitted in 2022-2024",
-        "valueDescription": "Common Core (SA) for 30-credit prog in 22-24"
-      },
-      {
-        "attribute": "CC25",
-        "value": "40",
-        "attributeDescription": "Students admitted from 2025",
-        "valueDescription": "Common Core (T) for 30-credit prog fr 25"
-      },
-      {
-        "attribute": "CC25",
-        "value": "41",
-        "attributeDescription": "Students admitted from 2025",
-        "valueDescription": "Common Core (SA) for 30-credit prog fr 25"
-      }
-    ],
+    "attributes": [],
     "classes": [
       {
         "section": "L1",
@@ -14856,7 +14819,13 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "CSE",
+            "quota": 70,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -16233,6 +16202,31 @@
             ],
             "fromTime": "15:00",
             "toTime": "16:20"
+          }
+        ]
+      },
+      {
+        "section": "LA2",
+        "number": "4448",
+        "remarks": " ",
+        "quota": 10,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "PARREAUX, Lionel"
+            ],
+            "venue": "Rm 4214, Lift 19 (52)",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "09:00",
+            "toTime": "10:20"
           }
         ]
       }
@@ -29677,7 +29671,7 @@
         "section": "L1",
         "number": "2406",
         "remarks": " ",
-        "quota": 160,
+        "quota": 163,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -29778,7 +29772,7 @@
         "section": "T1",
         "number": "2412",
         "remarks": " ",
-        "quota": 80,
+        "quota": 82,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -29788,7 +29782,7 @@
             "instructors": [
               "XIE, Zhiyao"
             ],
-            "venue": "G009A, CYT Bldg (80)",
+            "venue": "Rm 2306, Lift 17-18 (111)",
             "fromDate": "2025-09-01",
             "toDate": "2025-11-29",
             "weekdays": [
@@ -29803,7 +29797,7 @@
         "section": "T2",
         "number": "2414",
         "remarks": " ",
-        "quota": 80,
+        "quota": 82,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -29813,7 +29807,7 @@
             "instructors": [
               "XIE, Zhiyao"
             ],
-            "venue": "G009A, CYT Bldg (80)",
+            "venue": "Rm 6573, Lift 29-30 (88)",
             "fromDate": "2025-09-01",
             "toDate": "2025-11-29",
             "weekdays": [
@@ -32487,8 +32481,8 @@
         "section": "T16",
         "number": "2528",
         "remarks": "> Classes held in Room 2128A",
-        "quota": 6,
-        "enroll": 6,
+        "quota": 7,
+        "enroll": 7,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -35722,7 +35716,7 @@
         "number": "4212",
         "remarks": " ",
         "quota": 900,
-        "enroll": 847,
+        "enroll": 848,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -42250,7 +42244,7 @@
         "number": "1575",
         "remarks": "> Instructor : TO, Christopher\n> For MSc(FOFB) students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 01-Sep-2025",
         "quota": 40,
-        "enroll": 0,
+        "enroll": 4,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -42267,7 +42261,7 @@
           {
             "name": "MIMT",
             "quota": 5,
-            "enroll": 0
+            "enroll": 4
           }
         ],
         "schedule": [
@@ -42333,7 +42327,7 @@
         "number": "1592",
         "remarks": "> Instructor : MA, Josephine\n> For MSc(FOFB) students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 40,
-        "enroll": 0,
+        "enroll": 5,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -42350,7 +42344,7 @@
           {
             "name": "MIMT",
             "quota": 5,
-            "enroll": 0
+            "enroll": 5
           }
         ],
         "schedule": [
@@ -57858,7 +57852,7 @@
         "number": "1417",
         "remarks": "> Instructor : KANG, Meng-Chow\n> For MSc(ICSM) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 40,
-        "enroll": 0,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -57875,7 +57869,7 @@
           {
             "name": "MIMT",
             "quota": 5,
-            "enroll": 0
+            "enroll": 2
           }
         ],
         "schedule": [
@@ -60097,7 +60091,7 @@
         "number": "1423",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -60114,7 +60108,7 @@
           {
             "name": "MIMT",
             "quota": 5,
-            "enroll": 0
+            "enroll": 3
           }
         ],
         "schedule": [
@@ -61053,7 +61047,7 @@
         "number": "1402",
         "remarks": "> For MSc(ICSM) students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 40,
-        "enroll": 0,
+        "enroll": 5,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -61070,7 +61064,7 @@
           {
             "name": "MIMT",
             "quota": 5,
-            "enroll": 0
+            "enroll": 5
           }
         ],
         "schedule": [
@@ -61369,7 +61363,7 @@
         "number": "1429",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 40,
-        "enroll": 0,
+        "enroll": 29,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -93710,7 +93704,7 @@
         "number": "1579",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 01-Sep-2025",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 43,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -94332,7 +94326,7 @@
         "number": "1597",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 36,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -95127,7 +95121,7 @@
         "number": "1681",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 01-Sep-2025",
         "quota": 45,
-        "enroll": 0,
+        "enroll": 25,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -95194,7 +95188,7 @@
         "number": "1677",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 19-Aug-2025",
         "quota": 50,
-        "enroll": 0,
+        "enroll": 13,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -95304,7 +95298,7 @@
         "number": "1703",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 10-Nov-2025",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 36,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -95358,7 +95352,7 @@
         "number": "1702",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 13,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -95399,7 +95393,7 @@
         "number": "1700",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 36,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -95466,7 +95460,7 @@
         "number": "1680",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 01-Sep-2025",
         "quota": 50,
-        "enroll": 0,
+        "enroll": 37,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -95532,8 +95526,8 @@
         "section": "L1",
         "number": "1682",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 01-Sep-2025",
-        "quota": 40,
-        "enroll": 0,
+        "quota": 41,
+        "enroll": 40,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
