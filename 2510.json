@@ -107273,6 +107273,52 @@
   {
     "career": "UGRD",
     "subject": "SCIE",
+    "number": "2800",
+    "code": "SCIE2800",
+    "name": "SCIE Cooperative Education Program",
+    "description": "This course is intended to enhance Science students’ career readiness by combining classroom-based education with practical work experience. By taking any two standalone career development programs offered by the Career Center or those as recognized by the School, students are required to apply the skills and knowledge learnt in a full-time coop work experience for a single employer for at least 4 months. Approval from the course coordinator is required for enrollment in the course. For SSCI Year 2 students or above only. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [
+      {
+        "attribute": "DELI",
+        "value": "EXP",
+        "attributeDescription": "Mode of Delivery",
+        "valueDescription": "[EXP] Experiential learning"
+      }
+    ],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "4453",
+        "remarks": "> The class is delivered in a experiential learning mode",
+        "quota": 100,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "SIU, Wai Sze Grace"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "SCIE",
     "number": "3500",
     "code": "SCIE3500",
     "name": "IRE Research Project I",
