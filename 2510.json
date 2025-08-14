@@ -3085,6 +3085,47 @@
   {
     "career": "UGRD",
     "subject": "AISC",
+    "number": "2500B",
+    "code": "AISC2500B",
+    "name": "Hakka Unicorn Dance",
+    "description": "About 300 years ago, the Hakka people (客家) settled in Hong Kong’s Clear Water Bay Peninsula and established their villages in narrow valleys and coastal flatlands forming the current Hang Hau District (坑口區). These Hakka people maintain a “unicorn dance” tradition, which plays an important role in local rituals and entertainments. In 2014, this unique tradition was inscribed onto China’s National List of Intangible Cultural Heritage (國家級非物質文化遺產代表性項目名錄). Masters form the “Joint Association of Traditional Hakka Unicorn in Sai Kung and Hang Hau Hong Kong,” the official safeguarding unit, will be the instructors teaching the dance and the accompaniment music. Students are expected to master the basic skills in dance and percussion music, as well as to understand the history and community of Hang Hau.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4454",
+        "remarks": " ",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LIU, Tik Sang"
+            ],
+            "venue": "Rm 5402, Lift 17-18 (43)",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "14:00",
+            "toTime": "15:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "AISC",
     "number": "2800",
     "code": "AISC2800",
     "name": "AIS Cooperative Education Program",
@@ -62915,7 +62956,7 @@
         "number": "3127",
         "remarks": " ",
         "quota": 20,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
