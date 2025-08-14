@@ -2335,14 +2335,14 @@
         "section": "L1",
         "number": "1010",
         "remarks": "> Instructor : KMPG Speaker\n> For MSc(ACCT) students only\n> Add/Drop Deadline : 01-Sep-2025",
-        "quota": 70,
+        "quota": 75,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
-            "quota": 70,
+            "quota": 75,
             "enroll": 0
           }
         ],
@@ -40084,6 +40084,19 @@
             "instructors": [
               "MAK, Vincent"
             ],
+            "venue": "TBA",
+            "fromDate": "2025-09-16",
+            "toDate": "2025-09-16",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "16:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "MAK, Vincent"
+            ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2025-10-02",
             "toDate": "2025-10-02",
@@ -59351,7 +59364,7 @@
       {
         "section": "L1",
         "number": "1386",
-        "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 01-Sep-2025",
+        "remarks": "> For MSc(ISM); FT-MBA; PT-MBA and MBA Exchange students only\n> Add/Drop Deadline : 01-Sep-2025",
         "quota": 50,
         "enroll": 0,
         "waitlist": 0,
