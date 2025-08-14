@@ -5808,7 +5808,7 @@
         "number": "1503",
         "remarks": "> Additional lecture hours to be arranged by Division",
         "quota": 30,
-        "enroll": 28,
+        "enroll": 29,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5898,7 +5898,7 @@
         "number": "1478",
         "remarks": " ",
         "quota": 30,
-        "enroll": 28,
+        "enroll": 29,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5937,7 +5937,7 @@
         "number": "1474",
         "remarks": " ",
         "quota": 57,
-        "enroll": 51,
+        "enroll": 54,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6066,7 +6066,7 @@
         "number": "1475",
         "remarks": " ",
         "quota": 57,
-        "enroll": 51,
+        "enroll": 54,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6211,7 +6211,7 @@
         "number": "1476",
         "remarks": " ",
         "quota": 74,
-        "enroll": 69,
+        "enroll": 72,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6349,7 +6349,7 @@
         "number": "1477",
         "remarks": " ",
         "quota": 74,
-        "enroll": 69,
+        "enroll": 72,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6503,7 +6503,7 @@
         "number": "1479",
         "remarks": " ",
         "quota": 38,
-        "enroll": 35,
+        "enroll": 36,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6541,7 +6541,7 @@
         "number": "1480",
         "remarks": " ",
         "quota": 38,
-        "enroll": 35,
+        "enroll": 36,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6657,7 +6657,7 @@
         "number": "1483",
         "remarks": " ",
         "quota": 25,
-        "enroll": 8,
+        "enroll": 9,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6680,7 +6680,7 @@
         "number": "1484",
         "remarks": " ",
         "quota": 25,
-        "enroll": 8,
+        "enroll": 9,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -17586,7 +17586,7 @@
         "schedule": [
           {
             "instructors": [
-              "CHUNG, Albert Chi Shing"
+              "CHEN, Hao"
             ],
             "venue": "LG5202, Lift 10-12 (104)",
             "fromDate": "2025-09-01",
@@ -17612,7 +17612,7 @@
         "schedule": [
           {
             "instructors": [
-              "CHUNG, Albert Chi Shing"
+              "CHEN, Hao"
             ],
             "venue": "Rm 2306, Lift 17-18 (111)",
             "fromDate": "2025-09-01",
@@ -18019,7 +18019,7 @@
         "number": "2334",
         "remarks": " ",
         "quota": 800,
-        "enroll": 665,
+        "enroll": 663,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -18538,54 +18538,6 @@
   {
     "career": "RPG",
     "subject": "COMP",
-    "number": "5423",
-    "code": "COMP5423",
-    "name": "Deep Learning for Medical Image Analysis",
-    "description": "Nowadays medical image analysis is rapidly growing and plays an indispensable role in healthcare. Recent advances of deep learning techniques have made significant breakthroughs in medical image analysis applications. This course will cover fundamental knowledge of medical imaging and various medical image analysis tasks, including computer-aided detection, segmentation, diagnosis and prognosis. Deep learning methods for solving these tasks will be introduced and state-of-the-art methods will be discussed. The remaining significant challenges and limitations will also be presented, including limited amount of labeled data, deep learning with interpretation and generalization issues, etc. This course will equip students with practical knowledge of medical imaging and analysis with deep learning techniques.",
-    "previousCodes": "COMP6211H",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "ARIN 5302, BEHI 5011",
-    "credits": 3,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "L1",
-        "number": "1153",
-        "remarks": " ",
-        "quota": 60,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [
-          {
-            "name": "CSE",
-            "quota": 40,
-            "enroll": 0
-          }
-        ],
-        "schedule": [
-          {
-            "instructors": [
-              "CHEN, Hao"
-            ],
-            "venue": "LG5202, Lift 10-12 (104)",
-            "fromDate": "2025-09-01",
-            "toDate": "2025-11-29",
-            "weekdays": [
-              1,
-              3
-            ],
-            "fromTime": "12:00",
-            "toTime": "13:20"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "RPG",
-    "subject": "COMP",
     "number": "5621",
     "code": "COMP5621",
     "name": "Computer Networks",
@@ -18983,7 +18935,7 @@
         "number": "4441",
         "remarks": " ",
         "quota": 2,
-        "enroll": 0,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -33725,7 +33677,7 @@
         "number": "4437",
         "remarks": " ",
         "quota": 6,
-        "enroll": 0,
+        "enroll": 6,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -40194,15 +40146,30 @@
       {
         "section": "L1",
         "number": "1293",
-        "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 03-Nov-2025",
+        "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM); FT-MBA and MBA Exchange students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 65,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
+            "name": "BA",
+            "quota": 2,
+            "enroll": 0
+          },
+          {
             "name": "FINA",
-            "quota": 65,
+            "quota": 55,
+            "enroll": 0
+          },
+          {
+            "name": "MARK",
+            "quota": 3,
+            "enroll": 0
+          },
+          {
+            "name": "MBA",
+            "quota": 5,
             "enroll": 0
           }
         ],
@@ -40769,13 +40736,28 @@
         "number": "1266",
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Will have normal class on 07-Oct-2025\n> Add/Drop Deadline : 01-Sep-2025",
         "quota": 65,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
-            "quota": 65,
+            "quota": 60,
+            "enroll": 0
+          },
+          {
+            "name": "FOFB",
+            "quota": 1,
+            "enroll": 1
+          },
+          {
+            "name": "MARK",
+            "quota": 2,
+            "enroll": 0
+          },
+          {
+            "name": "MIMT",
+            "quota": 2,
             "enroll": 0
           }
         ],
@@ -44485,7 +44467,7 @@
         "number": "4197",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 200,
-        "enroll": 77,
+        "enroll": 76,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -48214,14 +48196,14 @@
         "number": "1327",
         "remarks": " ",
         "quota": 20,
-        "enroll": 3,
+        "enroll": 4,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "HUMA",
             "quota": 20,
-            "enroll": 3
+            "enroll": 4
           }
         ],
         "schedule": [
@@ -48245,7 +48227,7 @@
         "number": "1328",
         "remarks": " ",
         "quota": 20,
-        "enroll": 3,
+        "enroll": 4,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
