@@ -25343,7 +25343,7 @@
         "number": "1239",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -25365,7 +25365,7 @@
           {
             "name": "ICSM",
             "quota": 2,
-            "enroll": 0
+            "enroll": 1
           }
         ],
         "schedule": [
@@ -32843,6 +32843,73 @@
             ],
             "fromTime": "12:00",
             "toTime": "13:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ELEC",
+    "number": "4010U",
+    "code": "ELEC4010U",
+    "name": "Error-Correcting Codes and Basic Information Theory",
+    "description": "This course gives an introduction to error-correcting codes and basic information theory, which have been one of the key driving forces of the Digital Revolution and are indispensable tools in designing modern communication and storage systems. Key topics in error-correcting codes: linear block codes; cyclic block codes (CRC & BCH codes) and syndrome decoding; convolutional codes and Viterbi decoding; interleaving for burst error correction; advanced coding topic(s). Key topics in basic information theory: information measures (entropy & mutual information); source coding bound; channel capacity.",
+    "previousCodes": "",
+    "prerequisites": "ELEC 1200",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4455",
+        "remarks": " ",
+        "quota": 60,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "MOW, Wai Ho"
+            ],
+            "venue": "Rm 1527, Lift 22 (74)",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [
+              2,
+              4
+            ],
+            "fromTime": "12:00",
+            "toTime": "13:20"
+          }
+        ]
+      },
+      {
+        "section": "T1",
+        "number": "4456",
+        "remarks": " ",
+        "quota": 60,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "MOW, Wai Ho"
+            ],
+            "venue": "Rm 6602, Lift 31-32 (60)",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "15:00",
+            "toTime": "15:50"
           }
         ]
       }
@@ -57936,13 +58003,18 @@
         "number": "1379",
         "remarks": "> For MSc(ISM) students only\n> Will have normal class on 01-Oct-2025\n> Venue on 15-Oct-2025: LSKG012\n> Add/Drop Deadline : 01-Sep-2025",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 19,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
+            "name": "ICSM",
+            "quota": 24,
+            "enroll": 19
+          },
+          {
             "name": "ISM",
-            "quota": 60,
+            "quota": 36,
             "enroll": 0
           }
         ],
@@ -58053,13 +58125,18 @@
         "number": "1368",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 01-Sep-2025",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 21,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
+            "name": "ICSM",
+            "quota": 27,
+            "enroll": 21
+          },
+          {
             "name": "ISM",
-            "quota": 60,
+            "quota": 33,
             "enroll": 0
           }
         ],
@@ -58115,8 +58192,13 @@
         "consent": false,
         "reservedQuota": [
           {
+            "name": "FINTECH",
+            "quota": 5,
+            "enroll": 0
+          },
+          {
             "name": "ISM",
-            "quota": 60,
+            "quota": 55,
             "enroll": 0
           }
         ],
@@ -58331,13 +58413,18 @@
         "number": "1383",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 01-Sep-2025",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 4,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
+            "name": "ICSM",
+            "quota": 5,
+            "enroll": 4
+          },
+          {
             "name": "ISM",
-            "quota": 60,
+            "quota": 55,
             "enroll": 0
           }
         ],
@@ -58699,8 +58786,13 @@
         "consent": false,
         "reservedQuota": [
           {
+            "name": "FINTECH",
+            "quota": 5,
+            "enroll": 0
+          },
+          {
             "name": "ISM",
-            "quota": 68,
+            "quota": 63,
             "enroll": 0
           }
         ],
@@ -59008,8 +59100,13 @@
         "consent": false,
         "reservedQuota": [
           {
+            "name": "FINTECH",
+            "quota": 5,
+            "enroll": 0
+          },
+          {
             "name": "ISM",
-            "quota": 60,
+            "quota": 55,
             "enroll": 0
           }
         ],
@@ -61022,14 +61119,14 @@
         "number": "1408",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FOFB",
             "quota": 1,
-            "enroll": 0
+            "enroll": 1
           },
           {
             "name": "GO",
@@ -61039,7 +61136,7 @@
           {
             "name": "ICSM",
             "quota": 1,
-            "enroll": 0
+            "enroll": 1
           },
           {
             "name": "MARK",
@@ -80426,8 +80523,8 @@
         "section": "L01",
         "number": "3581",
         "remarks": " ",
-        "quota": 140,
-        "enroll": 0,
+        "quota": 178,
+        "enroll": 178,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -80748,8 +80845,8 @@
         "section": "T01A",
         "number": "3603",
         "remarks": " ",
-        "quota": 35,
-        "enroll": 0,
+        "quota": 45,
+        "enroll": 45,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -80773,8 +80870,8 @@
         "section": "T01B",
         "number": "3605",
         "remarks": " ",
-        "quota": 35,
-        "enroll": 0,
+        "quota": 45,
+        "enroll": 45,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -80798,8 +80895,8 @@
         "section": "T01C",
         "number": "3606",
         "remarks": " ",
-        "quota": 35,
-        "enroll": 0,
+        "quota": 44,
+        "enroll": 44,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -80823,8 +80920,8 @@
         "section": "T01D",
         "number": "3607",
         "remarks": " ",
-        "quota": 35,
-        "enroll": 0,
+        "quota": 44,
+        "enroll": 44,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
