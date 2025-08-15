@@ -33682,8 +33682,8 @@
         "section": "R1",
         "number": "2569",
         "remarks": "> The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
-        "quota": 148,
-        "enroll": 148,
+        "quota": 149,
+        "enroll": 149,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -60272,14 +60272,14 @@
         "number": "1416",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 60,
-            "enroll": 0
+            "enroll": 1
           }
         ],
         "schedule": [
@@ -73366,7 +73366,7 @@
             ],
             "venue": "Rm 3006, Lift 3-4",
             "fromDate": "2025-10-27",
-            "toDate": "2025-12-17",
+            "toDate": "2025-11-26",
             "weekdays": [
               1,
               3
