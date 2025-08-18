@@ -11497,6 +11497,45 @@
   {
     "career": "RPG",
     "subject": "MATH",
+    "number": "6906C",
+    "code": "MATH6906C",
+    "name": "Reading Course: Reweighting Methods for Transfer Learning",
+    "description": "In this course, reweighting methods for transfer learning methods will be discussed, including algorithms, theoretical analysis, and simulation results.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1422",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "XIANG, Yang"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "MATH",
     "number": "6912L",
     "code": "MATH6912L",
     "name": "Reading Course: Deep Learning Methods with Their Applications",
@@ -14176,7 +14215,7 @@
         "number": "1204",
         "remarks": "> The class is delivered in a real-time online mode\n> For FT-MBA; PT-MBA; MBA Bi-Weekly and Di-MBA students only\n> Instructor : LOBELLO, Chris \n> Add/Drop Deadline : 22-Aug-2025",
         "quota": 24,
-        "enroll": 24,
+        "enroll": 23,
         "waitlist": 6,
         "consent": false,
         "reservedQuota": [
@@ -14188,7 +14227,7 @@
           {
             "name": "MBA",
             "quota": 5,
-            "enroll": 5
+            "enroll": 4
           },
           {
             "name": "MBA Bi-weekly",
