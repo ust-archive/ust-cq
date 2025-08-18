@@ -6635,8 +6635,8 @@
         "section": "L1",
         "number": "1481",
         "remarks": " ",
-        "quota": 20,
-        "enroll": 20,
+        "quota": 24,
+        "enroll": 24,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6658,8 +6658,8 @@
         "section": "T1",
         "number": "1482",
         "remarks": " ",
-        "quota": 20,
-        "enroll": 20,
+        "quota": 24,
+        "enroll": 24,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -26021,7 +26021,7 @@
               "FONG, Yuk Fai"
             ],
             "venue": "Rm 3, 31/F, Tower 1,Millennity",
-            "fromDate": "2025-10-09",
+            "fromDate": "2025-10-14",
             "toDate": "2025-10-21",
             "weekdays": [
               2,
@@ -26054,6 +26054,19 @@
             "weekdays": [
               2,
               4
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "FONG, Yuk Fai"
+            ],
+            "venue": "Rm 3, 31/F, Tower 1,Millennity",
+            "fromDate": "2025-10-06",
+            "toDate": "2025-10-06",
+            "weekdays": [
+              1
             ],
             "fromTime": "09:30",
             "toTime": "12:20"
@@ -26211,14 +26224,14 @@
             "instructors": [
               "FONG, Yuk Fai"
             ],
-            "venue": "TBA",
+            "venue": "Rm 3, 31/F, Tower 1,Millennity",
             "fromDate": "2025-10-08",
             "toDate": "2025-10-08",
             "weekdays": [
               3
             ],
             "fromTime": "09:30",
-            "toTime": "12:30"
+            "toTime": "12:20"
           }
         ]
       }
