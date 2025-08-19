@@ -3025,7 +3025,7 @@
         "quota": 60,
         "enroll": 0,
         "waitlist": 0,
-        "consent": true,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -11148,7 +11148,7 @@
         "quota": 50,
         "enroll": 0,
         "waitlist": 0,
-        "consent": true,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -13899,7 +13899,7 @@
         "section": "R1",
         "number": "1137",
         "remarks": " ",
-        "quota": 130,
+        "quota": 150,
         "enroll": 142,
         "waitlist": 0,
         "consent": false,
@@ -21823,7 +21823,7 @@
         "quota": 40,
         "enroll": 0,
         "waitlist": 0,
-        "consent": true,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -24568,7 +24568,7 @@
         "section": "L1",
         "number": "2656",
         "remarks": " ",
-        "quota": 65,
+        "quota": 66,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -24644,7 +24644,7 @@
         "section": "T1",
         "number": "2660",
         "remarks": " ",
-        "quota": 65,
+        "quota": 66,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -34839,6 +34839,53 @@
   {
     "career": "RPG",
     "subject": "ELEC",
+    "number": "6910K",
+    "code": "ELEC6910K",
+    "name": "Advanced Computer Architecture for AI Systems",
+    "description": "This graduate-level course explores cutting-edge computer architecture in the era of artificial intelligence, with a focus on the hardware foundations that enable modern machine learning workloads. The course begins with an in-depth study of GPGPU architecture and its evolution for parallel computing. We then dive into specialized AI hardware architectures for both convolutional neural networks (CNNs) and transformer-based models, examining how these architectures balance throughput, efficiency, and scalability. A major emphasis is placed on algorithm-hardware co-design, highlighting how AI models and hardware should be co-optimized for maximum performance and energy efficiency. We also analyze advanced technology trends shaping the future of AI systems, including 3D integration, emerging memory technologies, and near-memory or in-memory computing. Students will critically evaluate the trade-offs in designing hardware for AI acceleration and explore how technology scaling impacts architectural choices. By the end, students will be able to understand, analyze, and conceptualize AI-centric architectures from both a systems and design perspective.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4465",
+        "remarks": " ",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "ECE",
+            "quota": 30,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "XIE, Yuan"
+            ],
+            "venue": "Rm 5506, Lift 25-26 (30)",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "09:00",
+            "toTime": "11:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "ELEC",
     "number": "6950A",
     "code": "ELEC6950A",
     "name": "Departmental Seminar",
@@ -44263,7 +44310,7 @@
         "section": "T23",
         "number": "4299",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 27,
+        "quota": 29,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -49437,7 +49484,7 @@
         "quota": 60,
         "enroll": 0,
         "waitlist": 0,
-        "consent": true,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -58281,14 +58328,14 @@
         "section": "L1",
         "number": "1372",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 01-Sep-2025",
-        "quota": 60,
-        "enroll": 57,
+        "quota": 65,
+        "enroll": 61,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ISM",
-            "quota": 60,
+            "quota": 65,
             "enroll": 57
           }
         ],
@@ -58338,8 +58385,8 @@
         "section": "L2",
         "number": "1379",
         "remarks": "> For MSc(ISM) students only\n> Will have normal class on 01-Oct-2025\n> Venue on 15-Oct-2025: LSKG012\n> Add/Drop Deadline : 01-Sep-2025",
-        "quota": 60,
-        "enroll": 53,
+        "quota": 65,
+        "enroll": 57,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -58350,7 +58397,7 @@
           },
           {
             "name": "ISM",
-            "quota": 36,
+            "quota": 41,
             "enroll": 34
           }
         ],
@@ -58460,8 +58507,8 @@
         "section": "L1",
         "number": "1368",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 01-Sep-2025",
-        "quota": 60,
-        "enroll": 59,
+        "quota": 68,
+        "enroll": 62,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -58472,8 +58519,8 @@
           },
           {
             "name": "ISM",
-            "quota": 33,
-            "enroll": 38
+            "quota": 41,
+            "enroll": 41
           }
         ],
         "schedule": [
@@ -58522,8 +58569,8 @@
         "section": "L2",
         "number": "1373",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 01-Sep-2025",
-        "quota": 60,
-        "enroll": 59,
+        "quota": 65,
+        "enroll": 56,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -58534,8 +58581,8 @@
           },
           {
             "name": "ISM",
-            "quota": 55,
-            "enroll": 59
+            "quota": 60,
+            "enroll": 56
           }
         ],
         "schedule": [
@@ -59116,7 +59163,7 @@
         "section": "L1",
         "number": "1404",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 03-Nov-2025",
-        "quota": 68,
+        "quota": 65,
         "enroll": 57,
         "waitlist": 0,
         "consent": false,
@@ -59128,7 +59175,7 @@
           },
           {
             "name": "ISM",
-            "quota": 63,
+            "quota": 60,
             "enroll": 57
           }
         ],
@@ -59165,14 +59212,14 @@
         "section": "L2",
         "number": "1412",
         "remarks": "> For MSc(ISM) students only\n> Will have normal class on 29-Oct-2025\n> Add/Drop Deadline : 03-Nov-2025",
-        "quota": 68,
+        "quota": 65,
         "enroll": 59,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ISM",
-            "quota": 68,
+            "quota": 65,
             "enroll": 59
           }
         ],
@@ -59269,14 +59316,19 @@
         "section": "L1",
         "number": "1409",
         "remarks": "> For MSc(ISM) students only\n> Will have normal class on 29-Oct-2025\n> Add/Drop Deadline : 03-Nov-2025",
-        "quota": 60,
+        "quota": 55,
         "enroll": 45,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
+            "name": "ICSM",
+            "quota": 5,
+            "enroll": 0
+          },
+          {
             "name": "ISM",
-            "quota": 60,
+            "quota": 50,
             "enroll": 45
           }
         ],
@@ -59313,14 +59365,14 @@
         "section": "L2",
         "number": "1433",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 03-Nov-2025",
-        "quota": 60,
+        "quota": 55,
         "enroll": 50,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ISM",
-            "quota": 60,
+            "quota": 55,
             "enroll": 50
           }
         ],
@@ -60263,7 +60315,7 @@
           {
             "name": "BA",
             "quota": 67,
-            "enroll": 59
+            "enroll": 60
           }
         ],
         "schedule": [
@@ -60287,14 +60339,14 @@
         "number": "4427",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 14-Sep-2025",
         "quota": 67,
-        "enroll": 55,
+        "enroll": 56,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 67,
-            "enroll": 55
+            "enroll": 56
           }
         ],
         "schedule": [
@@ -62509,7 +62561,7 @@
         "quota": 50,
         "enroll": 0,
         "waitlist": 0,
-        "consent": true,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -88586,7 +88638,7 @@
         "quota": 90,
         "enroll": 0,
         "waitlist": 0,
-        "consent": true,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -88770,12 +88822,12 @@
             "instructors": [
               "TAO, Hong"
             ],
-            "venue": "Rm 2464, Lift 25-26 (122)",
+            "venue": "LTL, CYT Bldg (354)",
             "fromDate": "2025-09-01",
             "toDate": "2025-11-29",
             "weekdays": [
-              3,
-              5
+              2,
+              4
             ],
             "fromTime": "13:30",
             "toTime": "14:50"
@@ -88796,7 +88848,7 @@
             "instructors": [
               "TAO, Hong"
             ],
-            "venue": "Rm 2464, Lift 25-26 (122)",
+            "venue": "Lecture Theater J (300)",
             "fromDate": "2025-09-01",
             "toDate": "2025-11-29",
             "weekdays": [
@@ -90924,7 +90976,7 @@
         "quota": 60,
         "enroll": 0,
         "waitlist": 0,
-        "consent": true,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -95703,7 +95755,7 @@
         "number": "1681",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 01-Sep-2025",
         "quota": 45,
-        "enroll": 39,
+        "enroll": 42,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -96548,7 +96600,7 @@
         "quota": 40,
         "enroll": 0,
         "waitlist": 0,
-        "consent": true,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -96587,7 +96639,7 @@
         "quota": 40,
         "enroll": 0,
         "waitlist": 0,
-        "consent": true,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -110805,7 +110857,7 @@
         "section": "T1",
         "number": "2888",
         "remarks": " ",
-        "quota": 31,
+        "quota": 32,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
