@@ -15072,7 +15072,7 @@
         "section": "R2",
         "number": "2203",
         "remarks": " ",
-        "quota": 139,
+        "quota": 138,
         "enroll": 138,
         "waitlist": 0,
         "consent": true,
@@ -18111,8 +18111,8 @@
         "section": "T1",
         "number": "2334",
         "remarks": " ",
-        "quota": 788,
-        "enroll": 664,
+        "quota": 791,
+        "enroll": 667,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -18493,7 +18493,7 @@
         "section": "R1",
         "number": "2339",
         "remarks": "> The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
-        "quota": 208,
+        "quota": 207,
         "enroll": 207,
         "waitlist": 0,
         "consent": true,
@@ -19778,8 +19778,8 @@
         "section": "T17",
         "number": "2083",
         "remarks": " ",
-        "quota": 7,
-        "enroll": 7,
+        "quota": 8,
+        "enroll": 8,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -31373,7 +31373,7 @@
         "section": "T30",
         "number": "4381",
         "remarks": " ",
-        "quota": 5,
+        "quota": 4,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -36244,7 +36244,7 @@
         "number": "4212",
         "remarks": " ",
         "quota": 900,
-        "enroll": 847,
+        "enroll": 845,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -66407,7 +66407,7 @@
         "section": "T01",
         "number": "3228",
         "remarks": " ",
-        "quota": 21,
+        "quota": 24,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -66433,7 +66433,7 @@
         "section": "T02",
         "number": "3229",
         "remarks": " ",
-        "quota": 20,
+        "quota": 24,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -66485,7 +66485,7 @@
         "section": "T04",
         "number": "3231",
         "remarks": " ",
-        "quota": 20,
+        "quota": 24,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -66703,7 +66703,7 @@
         "section": "T11",
         "number": "3238",
         "remarks": " ",
-        "quota": 20,
+        "quota": 24,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -66781,7 +66781,7 @@
         "section": "T14",
         "number": "3241",
         "remarks": " ",
-        "quota": 20,
+        "quota": 24,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -68443,6 +68443,32 @@
             "toTime": "14:50"
           }
         ]
+      },
+      {
+        "section": "T06",
+        "number": "4470",
+        "remarks": " ",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 2127B, Lift 19 (28)",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [
+              3,
+              5
+            ],
+            "fromTime": "13:30",
+            "toTime": "14:50"
+          }
+        ]
       }
     ]
   },
@@ -68621,32 +68647,6 @@
             ],
             "fromTime": "16:30",
             "toTime": "17:50"
-          }
-        ]
-      },
-      {
-        "section": "T04",
-        "number": "3293",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2127B, Lift 19 (28)",
-            "fromDate": "2025-09-01",
-            "toDate": "2025-11-29",
-            "weekdays": [
-              3,
-              5
-            ],
-            "fromTime": "13:30",
-            "toTime": "14:50"
           }
         ]
       },
@@ -69877,32 +69877,6 @@
         ]
       },
       {
-        "section": "T02",
-        "number": "3330",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2126B, Lift 19 (28)",
-            "fromDate": "2025-09-01",
-            "toDate": "2025-11-29",
-            "weekdays": [
-              1,
-              3
-            ],
-            "fromTime": "09:00",
-            "toTime": "10:20"
-          }
-        ]
-      },
-      {
         "section": "T03",
         "number": "3331",
         "remarks": " ",
@@ -69948,32 +69922,6 @@
             "weekdays": [
               3,
               5
-            ],
-            "fromTime": "16:30",
-            "toTime": "17:50"
-          }
-        ]
-      },
-      {
-        "section": "T05",
-        "number": "3333",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2127B, Lift 19 (28)",
-            "fromDate": "2025-09-01",
-            "toDate": "2025-11-29",
-            "weekdays": [
-              2,
-              4
             ],
             "fromTime": "16:30",
             "toTime": "17:50"
@@ -70302,6 +70250,58 @@
             ],
             "fromTime": "13:30",
             "toTime": "14:50"
+          }
+        ]
+      },
+      {
+        "section": "T06",
+        "number": "4468",
+        "remarks": " ",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 2126B, Lift 19 (28)",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [
+              1,
+              3
+            ],
+            "fromTime": "09:00",
+            "toTime": "10:20"
+          }
+        ]
+      },
+      {
+        "section": "T07",
+        "number": "4469",
+        "remarks": " ",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 2127B, Lift 19 (28)",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [
+              2,
+              4
+            ],
+            "fromTime": "16:30",
+            "toTime": "17:50"
           }
         ]
       }
@@ -95829,6 +95829,9 @@
         "schedule": [
           {
             "instructors": [
+              "CHOI, Joon Nak",
+              "NASON, Stephen William",
+              "SHARIF, Naubahar",
               "SULLIVAN, Bilian NI"
             ],
             "venue": "Rm 2001, LSK Bldg",
@@ -95844,6 +95847,9 @@
           },
           {
             "instructors": [
+              "CHOI, Joon Nak",
+              "NASON, Stephen William",
+              "SHARIF, Naubahar",
               "SULLIVAN, Bilian NI"
             ],
             "venue": "Rm 2001, LSK Bldg",
@@ -95859,6 +95865,9 @@
           },
           {
             "instructors": [
+              "CHOI, Joon Nak",
+              "NASON, Stephen William",
+              "SHARIF, Naubahar",
               "SULLIVAN, Bilian NI"
             ],
             "venue": "Rm 2001, LSK Bldg",
@@ -95872,6 +95881,9 @@
           },
           {
             "instructors": [
+              "CHOI, Joon Nak",
+              "NASON, Stephen William",
+              "SHARIF, Naubahar",
               "SULLIVAN, Bilian NI"
             ],
             "venue": "Rm 2001, LSK Bldg",
@@ -95885,6 +95897,9 @@
           },
           {
             "instructors": [
+              "CHOI, Joon Nak",
+              "NASON, Stephen William",
+              "SHARIF, Naubahar",
               "SULLIVAN, Bilian NI"
             ],
             "venue": "Rm 3003, LSK Bldg",
@@ -95898,6 +95913,9 @@
           },
           {
             "instructors": [
+              "CHOI, Joon Nak",
+              "NASON, Stephen William",
+              "SHARIF, Naubahar",
               "SULLIVAN, Bilian NI"
             ],
             "venue": "Rm 3003, LSK Bldg",
@@ -110482,7 +110500,7 @@
         "reservedQuota": [
           {
             "name": "SOSC",
-            "quota": 20,
+            "quota": 10,
             "enroll": 4
           }
         ],

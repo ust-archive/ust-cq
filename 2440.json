@@ -7863,7 +7863,7 @@
         "number": "1424",
         "remarks": "> Class Duration/Dates : 16-Aug-2025 to 17-Aug-2025\n> Instructor : Prof. YIN, Eden\n> Add/Drop Deadline : 16-Aug-2025",
         "quota": 48,
-        "enroll": 0,
+        "enroll": 48,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -8021,7 +8021,7 @@
         "number": "1423",
         "remarks": "> Class Duration/Dates : 14-Aug-2025 to 15-Aug-2025\n> Instructor : Mr. WANG, Vincent\n> Add/Drop Deadline : 14-Aug-2025",
         "quota": 45,
-        "enroll": 0,
+        "enroll": 45,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -8111,6 +8111,45 @@
             "venue": "TBA",
             "fromDate": "2025-06-26",
             "toDate": "2025-06-27",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "IMBA",
+    "number": "6970B",
+    "code": "IMBA6970B",
+    "name": "Independent Study",
+    "description": "Study of selected business issues under the supervision of a faculty member. (Special permission from the Academic Director is required for IEMBA students to take this course.) The course may be repeated for credit.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1425",
+        "remarks": "> Class Duration/Dates : 17-Jul-2025 to 17-Aug-2025\n> Add/Drop Deadline : 17-Jul-2025",
+        "quota": 5,
+        "enroll": 5,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "SULLIVAN, Bilian NI"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-07-17",
+            "toDate": "2025-08-17",
             "weekdays": [],
             "fromTime": null,
             "toTime": null
