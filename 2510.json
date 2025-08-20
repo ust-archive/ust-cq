@@ -45297,7 +45297,7 @@
         "section": "T02",
         "number": "2881",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 31,
+        "quota": 32,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -67164,6 +67164,32 @@
             "toTime": "14:50"
           }
         ]
+      },
+      {
+        "section": "T28",
+        "number": "4471",
+        "remarks": " ",
+        "quota": 24,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 2611, Lift 31-32 (28)",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [
+              1,
+              3
+            ],
+            "fromTime": "12:00",
+            "toTime": "13:20"
+          }
+        ]
       }
     ]
   },
@@ -80912,7 +80938,7 @@
         "number": "3581",
         "remarks": " ",
         "quota": 212,
-        "enroll": 196,
+        "enroll": 212,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -81234,7 +81260,7 @@
         "number": "3603",
         "remarks": " ",
         "quota": 53,
-        "enroll": 49,
+        "enroll": 53,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -81259,7 +81285,7 @@
         "number": "3605",
         "remarks": " ",
         "quota": 53,
-        "enroll": 49,
+        "enroll": 53,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -81284,7 +81310,7 @@
         "number": "3606",
         "remarks": " ",
         "quota": 53,
-        "enroll": 49,
+        "enroll": 53,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -81309,7 +81335,7 @@
         "number": "3607",
         "remarks": " ",
         "quota": 53,
-        "enroll": 49,
+        "enroll": 53,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -110159,14 +110185,14 @@
         "section": "L1",
         "number": "1866",
         "remarks": " ",
-        "quota": 20,
+        "quota": 19,
         "enroll": 5,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SOSC",
-            "quota": 20,
+            "quota": 19,
             "enroll": 5
           }
         ],
