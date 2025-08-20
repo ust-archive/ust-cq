@@ -11616,7 +11616,7 @@
         "reservedQuota": [
           {
             "name": "CIVL",
-            "quota": 170,
+            "quota": 167,
             "enroll": 0
           }
         ],
@@ -11714,7 +11714,7 @@
         "reservedQuota": [
           {
             "name": "CIVL",
-            "quota": 170,
+            "quota": 167,
             "enroll": 0
           }
         ],
@@ -12236,7 +12236,7 @@
         "reservedQuota": [
           {
             "name": "CIVL",
-            "quota": 180,
+            "quota": 177,
             "enroll": 0
           }
         ],
@@ -12505,7 +12505,7 @@
         "reservedQuota": [
           {
             "name": "CIVL",
-            "quota": 60,
+            "quota": 55,
             "enroll": 0
           }
         ],
@@ -12553,7 +12553,7 @@
         "reservedQuota": [
           {
             "name": "CIVL",
-            "quota": 150,
+            "quota": 146,
             "enroll": 0
           }
         ],
@@ -12759,7 +12759,7 @@
         "reservedQuota": [
           {
             "name": "CIVL",
-            "quota": 30,
+            "quota": 29,
             "enroll": 0
           }
         ],
@@ -12832,7 +12832,7 @@
         "reservedQuota": [
           {
             "name": "CIVL",
-            "quota": 50,
+            "quota": 48,
             "enroll": 0
           }
         ],
@@ -18111,8 +18111,8 @@
         "section": "T1",
         "number": "2334",
         "remarks": " ",
-        "quota": 792,
-        "enroll": 667,
+        "quota": 794,
+        "enroll": 669,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -29648,8 +29648,8 @@
         "section": "T25",
         "number": "2396",
         "remarks": " ",
-        "quota": 4,
-        "enroll": 0,
+        "quota": 5,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -29673,8 +29673,8 @@
         "section": "T26",
         "number": "4371",
         "remarks": "> Classes held in Room 2129C",
-        "quota": 4,
-        "enroll": 0,
+        "quota": 5,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -29698,8 +29698,8 @@
         "section": "T27",
         "number": "4372",
         "remarks": " ",
-        "quota": 4,
-        "enroll": 0,
+        "quota": 5,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -36748,7 +36748,7 @@
         "number": "1750",
         "remarks": " ",
         "quota": 1100,
-        "enroll": 0,
+        "enroll": 91,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -44310,7 +44310,7 @@
         "section": "T23",
         "number": "4299",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 29,
+        "quota": 30,
         "enroll": 1,
         "waitlist": 0,
         "consent": false,
@@ -44856,7 +44856,7 @@
         "section": "T01",
         "number": "4224",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 403,
+        "quota": 412,
         "enroll": 4,
         "waitlist": 0,
         "consent": false,
@@ -44881,7 +44881,7 @@
         "section": "T02",
         "number": "4225",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 403,
+        "quota": 412,
         "enroll": 2,
         "waitlist": 0,
         "consent": false,
@@ -44906,7 +44906,7 @@
         "section": "T03",
         "number": "4226",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 404,
+        "quota": 411,
         "enroll": 2,
         "waitlist": 0,
         "consent": false,
@@ -50210,7 +50210,7 @@
         "reservedQuota": [
           {
             "name": "IEDA",
-            "quota": 100,
+            "quota": 89,
             "enroll": 0
           }
         ],
@@ -50412,7 +50412,7 @@
         "reservedQuota": [
           {
             "name": "IEDA",
-            "quota": 110,
+            "quota": 103,
             "enroll": 0
           }
         ],
@@ -55655,18 +55655,8 @@
         "consent": false,
         "reservedQuota": [
           {
-            "name": "DD",
-            "quota": 4,
-            "enroll": 0
-          },
-          {
-            "name": "RMBI",
-            "quota": 33,
-            "enroll": 0
-          },
-          {
             "name": "SBM",
-            "quota": 33,
+            "quota": 70,
             "enroll": 0
           }
         ],
@@ -57036,7 +57026,12 @@
         "reservedQuota": [
           {
             "name": "OM",
-            "quota": 40,
+            "quota": 37,
+            "enroll": 0
+          },
+          {
+            "name": "SBM",
+            "quota": 3,
             "enroll": 0
           }
         ],
@@ -57331,7 +57326,12 @@
         "reservedQuota": [
           {
             "name": "OM",
-            "quota": 28,
+            "quota": 27,
+            "enroll": 0
+          },
+          {
+            "name": "SBM",
+            "quota": 1,
             "enroll": 0
           }
         ],
@@ -59117,7 +59117,7 @@
         "number": "1427",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 65,
-        "enroll": 44,
+        "enroll": 46,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -78135,7 +78135,7 @@
         "number": "1505",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(MARK) students only\n> Add/Drop Deadline : 01-Sep-2025",
         "quota": 65,
-        "enroll": 58,
+        "enroll": 59,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -78779,7 +78779,7 @@
         "number": "1512",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 02-Sep-2025",
         "quota": 65,
-        "enroll": 57,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -82443,7 +82443,7 @@
         "section": "T1C",
         "number": "3654",
         "remarks": " ",
-        "quota": 46,
+        "quota": 47,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -82468,7 +82468,7 @@
         "section": "T1D",
         "number": "4458",
         "remarks": " ",
-        "quota": 46,
+        "quota": 47,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -95597,7 +95597,7 @@
               "LI, Po Lung",
               "LIANG, Sheila, Xin"
             ],
-            "venue": "Rm 3301, Lift 17-18",
+            "venue": "Rm 3401, Lift 17-18",
             "fromDate": "2025-09-01",
             "toDate": "2025-11-29",
             "weekdays": [
