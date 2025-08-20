@@ -54830,8 +54830,13 @@
         "consent": false,
         "reservedQuota": [
           {
+            "name": "CSE",
+            "quota": 1,
+            "enroll": 0
+          },
+          {
             "name": "SBM",
-            "quota": 90,
+            "quota": 89,
             "enroll": 1
           }
         ],
@@ -54863,12 +54868,12 @@
         "reservedQuota": [
           {
             "name": "BIBU",
-            "quota": 31,
+            "quota": 27,
             "enroll": 0
           },
           {
             "name": "ENVR",
-            "quota": 38,
+            "quota": 42,
             "enroll": 0
           },
           {
@@ -77196,13 +77201,13 @@
         "consent": false,
         "reservedQuota": [
           {
-            "name": "SBM",
-            "quota": 40,
+            "name": "BIBU",
+            "quota": 21,
             "enroll": 0
           },
           {
-            "name": "SSCI",
-            "quota": 21,
+            "name": "SBM",
+            "quota": 40,
             "enroll": 0
           }
         ],
