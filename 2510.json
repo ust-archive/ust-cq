@@ -36748,7 +36748,7 @@
         "number": "1750",
         "remarks": " ",
         "quota": 1100,
-        "enroll": 615,
+        "enroll": 910,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -59579,14 +59579,14 @@
         "number": "1438",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 50,
-        "enroll": 5,
+        "enroll": 4,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FOFB",
             "quota": 2,
-            "enroll": 2
+            "enroll": 1
           },
           {
             "name": "GO",
@@ -95803,7 +95803,7 @@
         "number": "1681",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 01-Sep-2025",
         "quota": 45,
-        "enroll": 41,
+        "enroll": 40,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -107119,6 +107119,114 @@
           {
             "instructors": [
               "SIU, Wai Sze Grace"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "SBMT",
+    "number": "3200X",
+    "code": "SBMT3200X",
+    "name": "Corporate Project",
+    "description": "Students apply skills and knowledge learned from business courses to focus on specific projects in a business corporation setting. Students will work on group projects sponsored by participating corporations and supervised by Faculty members. Approval from the course coordinator is needed prior to enrolling in the course. Graded PP, P or F. Students may repeat the course for credits if different topics are taken.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "4472",
+        "remarks": "> Participating Corporation: UNIQLO\n> The credit load will usually be spread in the following pattern: Fall: 1; Winter: 1",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "KOH, Tat Koon"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "T2",
+        "number": "4473",
+        "remarks": "> Participating Corporation:  SOCAM Development Limited  \n> The credit load will usually be spread in the following pattern: Fall: 1; Winter: 1",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "KOH, Tat Koon"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "T3",
+        "number": "4474",
+        "remarks": "> Participating Corporation: Shanghai Commercial Bank\n> The credit load will usually be spread in the following pattern: Fall: 1; Winter: 1",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "KOH, Tat Koon"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "T4",
+        "number": "4475",
+        "remarks": "> Participating Corporation: CMB International Capital Corporation Limited\n> The credit load will usually be spread in the following pattern: Fall: 1; Winter: 1",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "KOH, Tat Koon"
             ],
             "venue": "TBA",
             "fromDate": "2025-09-01",
