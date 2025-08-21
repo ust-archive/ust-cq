@@ -26678,14 +26678,14 @@
         "number": "1241",
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 65,
-        "enroll": 0,
+        "enroll": 17,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 65,
-            "enroll": 0
+            "enroll": 17
           }
         ],
         "schedule": [
@@ -64072,7 +64072,7 @@
         "number": "3147",
         "remarks": " ",
         "quota": 24,
-        "enroll": 20,
+        "enroll": 21,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -64098,7 +64098,7 @@
         "number": "3148",
         "remarks": " ",
         "quota": 21,
-        "enroll": 20,
+        "enroll": 21,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -64124,7 +64124,7 @@
         "number": "3149",
         "remarks": " ",
         "quota": 21,
-        "enroll": 20,
+        "enroll": 21,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -65606,7 +65606,7 @@
         "number": "3200",
         "remarks": " ",
         "quota": 21,
-        "enroll": 20,
+        "enroll": 21,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -83621,7 +83621,13 @@
         "enroll": 115,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "RMBI",
+            "quota": 5,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -83647,7 +83653,13 @@
         "enroll": 111,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "RMBI",
+            "quota": 9,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -83673,7 +83685,13 @@
         "enroll": 118,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "RMBI",
+            "quota": 2,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -83711,7 +83729,13 @@
         "enroll": 119,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "RMBI",
+            "quota": 1,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -84053,7 +84077,13 @@
         "enroll": 177,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "RMBI",
+            "quota": 7,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -84091,7 +84121,13 @@
         "enroll": 114,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "RMBI",
+            "quota": 6,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -87903,6 +87939,45 @@
             ],
             "fromTime": "10:30",
             "toTime": "11:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "MATH",
+    "number": "6906C",
+    "code": "MATH6906C",
+    "name": "Reading Course: Reweighting Methods for Transfer Learning",
+    "description": "In this course, reweighting methods for transfer learning methods will be discussed, including algorithms, theoretical analysis, and simulation results.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4480",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "XIANG, Yang"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -99190,7 +99265,7 @@
         "section": "T1",
         "number": "1838",
         "remarks": " ",
-        "quota": 33,
+        "quota": 40,
         "enroll": 33,
         "waitlist": 0,
         "consent": false,
@@ -102924,7 +102999,7 @@
         "number": "4105",
         "remarks": " ",
         "quota": 70,
-        "enroll": 53,
+        "enroll": 51,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -102950,7 +103025,7 @@
         "number": "4107",
         "remarks": " ",
         "quota": 30,
-        "enroll": 27,
+        "enroll": 26,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -102975,7 +103050,7 @@
         "number": "4109",
         "remarks": " ",
         "quota": 30,
-        "enroll": 26,
+        "enroll": 25,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
