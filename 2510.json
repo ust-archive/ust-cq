@@ -62027,7 +62027,7 @@
         "number": "1429",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 40,
-        "enroll": 32,
+        "enroll": 31,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -88066,6 +88066,45 @@
   {
     "career": "RPG",
     "subject": "MATH",
+    "number": "6914C",
+    "code": "MATH6914C",
+    "name": "Reading Course: Fast Sweeping Methods for Hamilton-Jacobi Equations",
+    "description": "Fast sweeping methods (FSM) is a class of iterative approaches for solving the Hamilton-Jacobi Equations. The idea is to use upwind difference for discretization and Gauss–Seidel iterations with alternating sweeping ordering to update the discretized value. Students in the course will study the FSM based on the Godunov and Lax–Friedrichs Hamiltonians for both rectangular and triangular meshes, and some convergence theories for various HJ equations. Students should seek the course instructor’s approval to take this course.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4481",
+        "remarks": "> Students should seek the course instructor’s approval to take this course.",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LEUNG, Shing Yu"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "MATH",
     "number": "6915",
     "code": "MATH6915",
     "name": "Scientific Computation Seminar",
@@ -95898,7 +95937,7 @@
         "number": "1681",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 01-Sep-2025",
         "quota": 45,
-        "enroll": 40,
+        "enroll": 39,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
