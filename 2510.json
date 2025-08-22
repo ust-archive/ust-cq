@@ -37623,6 +37623,45 @@
   {
     "career": "UGRD",
     "subject": "ENVR",
+    "number": "4010B",
+    "code": "ENVR4010B",
+    "name": "Independent Study in Environment Issues",
+    "description": "Faculty directed independent study of selected topics in Environmental issues.  For EVMT students and students with consent from the instructor. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4486",
+        "remarks": " ",
+        "quota": 3,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENVR",
     "number": "4320",
     "code": "ENVR4320",
     "name": "ESG Management and Reporting",
@@ -42243,7 +42282,7 @@
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 36,
         "enroll": 36,
-        "waitlist": 40,
+        "waitlist": 41,
         "consent": false,
         "reservedQuota": [
           {
@@ -42900,7 +42939,7 @@
         "number": "1575",
         "remarks": "> Instructor : TO, Christopher\n> For MSc(FOFB) students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 01-Sep-2025",
         "quota": 40,
-        "enroll": 22,
+        "enroll": 23,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -42917,7 +42956,7 @@
           {
             "name": "MIMT",
             "quota": 5,
-            "enroll": 4
+            "enroll": 5
           }
         ],
         "schedule": [
@@ -43067,7 +43106,7 @@
         "remarks": "> For MSc(FOFB); FT-MBA and MBA Exchange students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 40,
         "enroll": 35,
-        "waitlist": 4,
+        "waitlist": 5,
         "consent": false,
         "reservedQuota": [
           {
@@ -58732,14 +58771,14 @@
         "number": "1394",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 01-Sep-2025",
         "quota": 60,
-        "enroll": 54,
+        "enroll": 55,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ISM",
             "quota": 60,
-            "enroll": 54
+            "enroll": 55
           }
         ],
         "schedule": [
@@ -80865,7 +80904,7 @@
         "number": "3574",
         "remarks": " ",
         "quota": 90,
-        "enroll": 64,
+        "enroll": 63,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -80941,7 +80980,7 @@
         "number": "3579",
         "remarks": " ",
         "quota": 45,
-        "enroll": 33,
+        "enroll": 32,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -81272,7 +81311,7 @@
         "number": "3599",
         "remarks": " ",
         "quota": 135,
-        "enroll": 112,
+        "enroll": 113,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -82061,7 +82100,7 @@
         "number": "3633",
         "remarks": " ",
         "quota": 45,
-        "enroll": 38,
+        "enroll": 39,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -83243,7 +83282,7 @@
         "number": "3687",
         "remarks": " ",
         "quota": 119,
-        "enroll": 89,
+        "enroll": 88,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -83374,7 +83413,7 @@
         "number": "3696",
         "remarks": " ",
         "quota": 40,
-        "enroll": 30,
+        "enroll": 29,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -84125,7 +84164,7 @@
         "number": "3729",
         "remarks": " ",
         "quota": 184,
-        "enroll": 177,
+        "enroll": 175,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -84213,7 +84252,7 @@
         "number": "3735",
         "remarks": " ",
         "quota": 38,
-        "enroll": 36,
+        "enroll": 35,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -84288,7 +84327,7 @@
         "number": "3739",
         "remarks": " ",
         "quota": 38,
-        "enroll": 37,
+        "enroll": 36,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -94785,7 +94824,7 @@
         "number": "1579",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 01-Sep-2025",
         "quota": 60,
-        "enroll": 54,
+        "enroll": 55,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -95202,8 +95241,8 @@
         "number": "1601",
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 60,
-        "enroll": 53,
-        "waitlist": 10,
+        "enroll": 55,
+        "waitlist": 9,
         "consent": false,
         "reservedQuota": [
           {
@@ -95219,7 +95258,7 @@
           {
             "name": "MBA Bi-weekly",
             "quota": 35,
-            "enroll": 32
+            "enroll": 34
           }
         ],
         "schedule": [
@@ -95474,7 +95513,7 @@
         "number": "1577",
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 01-Sep-2025",
         "quota": 65,
-        "enroll": 30,
+        "enroll": 31,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -95486,7 +95525,7 @@
           {
             "name": "MBA",
             "quota": 40,
-            "enroll": 19
+            "enroll": 20
           },
           {
             "name": "MBA Bi-weekly",
@@ -96652,7 +96691,7 @@
         "number": "1682",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 01-Sep-2025",
         "quota": 42,
-        "enroll": 42,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -107875,14 +107914,14 @@
         "number": "1678",
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 01-Sep-2025",
         "quota": 50,
-        "enroll": 39,
+        "enroll": 40,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "Digital MBA",
             "quota": 5,
-            "enroll": 1
+            "enroll": 2
           },
           {
             "name": "MBA",
@@ -107945,7 +107984,7 @@
         "number": "1697",
         "remarks": "> Instructor : WONG, Dan\n> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 06-Oct-2025",
         "quota": 60,
-        "enroll": 32,
+        "enroll": 33,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -107957,7 +107996,7 @@
           {
             "name": "MBA",
             "quota": 30,
-            "enroll": 26
+            "enroll": 27
           },
           {
             "name": "MBA Bi-weekly",
@@ -108028,8 +108067,8 @@
         "number": "1704",
         "remarks": "> Instructor : LU, Bo\n> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 28-Nov-2025\n> Extended Drop Deadline : 30-Nov-2025",
         "quota": 55,
-        "enroll": 24,
-        "waitlist": 7,
+        "enroll": 25,
+        "waitlist": 6,
         "consent": false,
         "reservedQuota": [
           {
@@ -108045,7 +108084,7 @@
           {
             "name": "MBA Bi-weekly",
             "quota": 40,
-            "enroll": 13
+            "enroll": 14
           }
         ],
         "schedule": [
