@@ -15540,6 +15540,64 @@
             "toTime": null
           }
         ]
+      },
+      {
+        "section": "L2",
+        "number": "1426",
+        "remarks": "> For PT-MBA students only\n> Add/Drop Deadline : 03-Aug-2025",
+        "quota": 74,
+        "enroll": 74,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "MBA",
+            "quota": 74,
+            "enroll": 74
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "L3",
+        "number": "1427",
+        "remarks": "> For Part-time MBA (Bi-weekly) students only\n> Add/Drop Deadline : 03-Aug-2025",
+        "quota": 56,
+        "enroll": 56,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "MBA Bi-weekly",
+            "quota": 56,
+            "enroll": 56
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
       }
     ]
   },
