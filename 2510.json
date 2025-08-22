@@ -37076,7 +37076,7 @@
         "section": "LA1",
         "number": "2687",
         "remarks": " ",
-        "quota": 35,
+        "quota": 43,
         "enroll": 0,
         "waitlist": 0,
         "consent": true,
@@ -41753,14 +41753,14 @@
         "number": "1288",
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 65,
-        "enroll": 47,
+        "enroll": 48,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 65,
-            "enroll": 47
+            "enroll": 48
           }
         ],
         "schedule": [
@@ -42290,7 +42290,7 @@
         "remarks": "> Instructor : GALLAGHER, Joseph\n> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 01-Sep-2025",
         "quota": 65,
         "enroll": 65,
-        "waitlist": 38,
+        "waitlist": 37,
         "consent": false,
         "reservedQuota": [
           {
@@ -58782,8 +58782,13 @@
         "reservedQuota": [
           {
             "name": "ICSM",
-            "quota": 40,
+            "quota": 38,
             "enroll": 22
+          },
+          {
+            "name": "ISM",
+            "quota": 2,
+            "enroll": 0
           }
         ],
         "schedule": [
@@ -59455,8 +59460,13 @@
         "consent": false,
         "reservedQuota": [
           {
+            "name": "ICSM",
+            "quota": 5,
+            "enroll": 0
+          },
+          {
             "name": "ISM",
-            "quota": 55,
+            "quota": 50,
             "enroll": 45
           }
         ],
@@ -59730,7 +59740,7 @@
         "number": "1419",
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 45,
-        "enroll": 27,
+        "enroll": 28,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -59742,7 +59752,7 @@
           {
             "name": "MBA",
             "quota": 25,
-            "enroll": 15
+            "enroll": 16
           },
           {
             "name": "MBA Bi-weekly",
@@ -79405,7 +79415,7 @@
         "remarks": "> Instructor : JACKSON, Mark\n> For MSc(MARK) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 65,
         "enroll": 65,
-        "waitlist": 1,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [
           {
@@ -95193,7 +95203,7 @@
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 60,
         "enroll": 53,
-        "waitlist": 9,
+        "waitlist": 10,
         "consent": false,
         "reservedQuota": [
           {
@@ -96192,7 +96202,7 @@
         "number": "1681",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 01-Sep-2025",
         "quota": 45,
-        "enroll": 41,
+        "enroll": 40,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -108019,7 +108029,7 @@
         "remarks": "> Instructor : LU, Bo\n> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 28-Nov-2025\n> Extended Drop Deadline : 30-Nov-2025",
         "quota": 55,
         "enroll": 24,
-        "waitlist": 6,
+        "waitlist": 7,
         "consent": false,
         "reservedQuota": [
           {
