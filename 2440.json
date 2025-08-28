@@ -6574,7 +6574,7 @@
         "number": "1409",
         "remarks": "> Course instructor : NYU faculty\n> Class Duration/Dates : 19-Aug-2025 to 22-Aug-2025\n> Add/Drop Deadline : 19-Aug-2025",
         "quota": 18,
-        "enroll": 18,
+        "enroll": 17,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6652,7 +6652,7 @@
         "number": "1410",
         "remarks": "> Course instructor : NYU faculty\n> Class Duration/Dates : 26-Aug-2025 to 27-Aug-2025\n> Add/Drop Deadline : 26-Aug-2025",
         "quota": 18,
-        "enroll": 18,
+        "enroll": 17,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6691,7 +6691,7 @@
         "number": "1411",
         "remarks": "> Course instructor : NYU faculty\n> Class Duration/Dates : 25 & 28-Aug-2025\n> Add/Drop Deadline : 25-Aug-2025",
         "quota": 18,
-        "enroll": 18,
+        "enroll": 17,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -13262,6 +13262,45 @@
         "remarks": " ",
         "quota": 5,
         "enroll": 5,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-06-16",
+            "toDate": "2025-08-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "PDEV",
+    "number": "6770E",
+    "code": "PDEV6770E",
+    "name": "Professional Development for Research Postgraduate Students",
+    "description": "This course aims at equipping research postgraduate students with transferrable skills conducive to their professional development. Students are required to attend 3 hours of mandatory training on Professional Conduct, and complete 12 hours of workshops, at their own choice, under the themes of Communication Skills, Research Competency, Entrepreneurship, Self‐Management, and Career Development. Graded PP, P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "CHEM 6770 (prior to 2024-25), ENVS 6770 (prior to 2024-25), LIFS 6770 (prior to 2023-24), MATH 6770, PHYS 6770, BIEN 6770 (prior to 2022-23), CENG 6770 (prior to 2020-21), CIVL 6770 (prior to 2023-24), COMP 6770 (prior to 2022-23), ELEC 6770, ENGG 6770, EVNG 6770 (prior to 2023-24), IEDA 6770 (prior to 2023-24), MECH 6770, SBMT 6770 (prior to 2022-23), SHSS 6770 (prior to 2022-23), IDPO 6770, ENVR 6770",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1428",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
