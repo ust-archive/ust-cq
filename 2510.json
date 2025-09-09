@@ -14327,7 +14327,7 @@
         "remarks": "> The class is delivered in a real-time online mode",
         "quota": 172,
         "enroll": 139,
-        "waitlist": 15,
+        "waitlist": 16,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -14715,7 +14715,7 @@
         "remarks": " ",
         "quota": 110,
         "enroll": 110,
-        "waitlist": 63,
+        "waitlist": 64,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -16309,7 +16309,7 @@
         "section": "T2",
         "number": "2262",
         "remarks": " ",
-        "quota": 132,
+        "quota": 180,
         "enroll": 132,
         "waitlist": 37,
         "consent": false,
@@ -16320,7 +16320,7 @@
               "LEUNG, Wai Ting",
               "PAPADIAS, Dimitrios"
             ],
-            "venue": "Lecture Theater G (132)",
+            "venue": "Lecture Theater C (211)",
             "fromDate": "2025-09-01",
             "toDate": "2025-11-29",
             "weekdays": [
@@ -16335,7 +16335,7 @@
         "section": "T3",
         "number": "2263",
         "remarks": " ",
-        "quota": 140,
+        "quota": 180,
         "enroll": 140,
         "waitlist": 21,
         "consent": false,
@@ -16346,7 +16346,7 @@
               "LEUNG, Wai Ting",
               "PAPADIAS, Dimitrios"
             ],
-            "venue": "G010, CYT Bldg (140)",
+            "venue": "Lecture Theater C (211)",
             "fromDate": "2025-09-01",
             "toDate": "2025-11-29",
             "weekdays": [
@@ -16378,7 +16378,7 @@
         "number": "2264",
         "remarks": " ",
         "quota": 95,
-        "enroll": 92,
+        "enroll": 93,
         "waitlist": 2,
         "consent": false,
         "reservedQuota": [],
@@ -16404,7 +16404,7 @@
         "number": "2265",
         "remarks": " ",
         "quota": 95,
-        "enroll": 92,
+        "enroll": 93,
         "waitlist": 2,
         "consent": false,
         "reservedQuota": [],
@@ -16636,7 +16636,7 @@
         "number": "2272",
         "remarks": "> The class is delivered in a blended learning mode",
         "quota": 90,
-        "enroll": 43,
+        "enroll": 42,
         "waitlist": 2,
         "consent": false,
         "reservedQuota": [],
@@ -16661,7 +16661,7 @@
         "number": "2274",
         "remarks": " ",
         "quota": 90,
-        "enroll": 89,
+        "enroll": 88,
         "waitlist": 3,
         "consent": false,
         "reservedQuota": [],
@@ -21824,8 +21824,8 @@
         "number": "1734",
         "remarks": " ",
         "quota": 90,
-        "enroll": 36,
-        "waitlist": 12,
+        "enroll": 38,
+        "waitlist": 10,
         "consent": false,
         "reservedQuota": [
           {
@@ -21923,7 +21923,7 @@
         "number": "1736",
         "remarks": " ",
         "quota": 120,
-        "enroll": 103,
+        "enroll": 102,
         "waitlist": 7,
         "consent": false,
         "reservedQuota": [
@@ -22027,7 +22027,7 @@
         "number": "1738",
         "remarks": " ",
         "quota": 120,
-        "enroll": 50,
+        "enroll": 49,
         "waitlist": 2,
         "consent": false,
         "reservedQuota": [
@@ -28339,8 +28339,8 @@
         "number": "1744",
         "remarks": " ",
         "quota": 80,
-        "enroll": 72,
-        "waitlist": 26,
+        "enroll": 74,
+        "waitlist": 25,
         "consent": false,
         "reservedQuota": [
           {
@@ -29703,7 +29703,7 @@
         "remarks": " ",
         "quota": 80,
         "enroll": 80,
-        "waitlist": 25,
+        "waitlist": 26,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -29728,7 +29728,7 @@
         "remarks": " ",
         "quota": 80,
         "enroll": 80,
-        "waitlist": 20,
+        "waitlist": 23,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -29778,7 +29778,7 @@
         "remarks": " ",
         "quota": 60,
         "enroll": 60,
-        "waitlist": 10,
+        "waitlist": 11,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -33071,7 +33071,7 @@
         "remarks": " ",
         "quota": 40,
         "enroll": 39,
-        "waitlist": 1,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -39305,6 +39305,45 @@
             ],
             "fromTime": "09:30",
             "toTime": "12:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "ENVR",
+    "number": "6100A",
+    "code": "ENVR6100A",
+    "name": "Independent Study",
+    "description": "Study on selected topics in environmental science under the supervision of a faculty member. The course may be repeated once for credits if the topic is different. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4598",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "FUNG, Jimmy Chi Hung"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-10-13",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -48547,7 +48586,7 @@
         "section": "L1",
         "number": "2790",
         "remarks": " ",
-        "quota": 100,
+        "quota": 114,
         "enroll": 98,
         "waitlist": 14,
         "consent": false,
@@ -48572,7 +48611,7 @@
         "section": "T1",
         "number": "2791",
         "remarks": " ",
-        "quota": 100,
+        "quota": 114,
         "enroll": 98,
         "waitlist": 14,
         "consent": false,
@@ -55039,7 +55078,7 @@
         "remarks": " ",
         "quota": 52,
         "enroll": 52,
-        "waitlist": 12,
+        "waitlist": 14,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -72785,7 +72824,7 @@
       {
         "section": "T04",
         "number": "4422",
-        "remarks": " ",
+        "remarks": "> Class cancelled",
         "quota": 0,
         "enroll": 4,
         "waitlist": 0,
@@ -72796,7 +72835,7 @@
             "instructors": [
               "TBA"
             ],
-            "venue": "Rm 2131B, Lift 19 (28)",
+            "venue": "TBA",
             "fromDate": "2025-09-01",
             "toDate": "2025-11-29",
             "weekdays": [
@@ -77589,7 +77628,7 @@
         "number": "4420",
         "remarks": " ",
         "quota": 90,
-        "enroll": 46,
+        "enroll": 44,
         "waitlist": 23,
         "consent": false,
         "reservedQuota": [
@@ -84757,7 +84796,7 @@
         "remarks": " ",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 1,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -85595,7 +85634,7 @@
         "section": "T1A",
         "number": "3784",
         "remarks": " ",
-        "quota": 40,
+        "quota": 55,
         "enroll": 40,
         "waitlist": 34,
         "consent": false,
@@ -85605,7 +85644,7 @@
             "instructors": [
               "QIAN, Shuaijie"
             ],
-            "venue": "Rm 5402, Lift 17-18 (43)",
+            "venue": "Rm 4579, Lift 27-28 (60)",
             "fromDate": "2025-09-01",
             "toDate": "2025-11-29",
             "weekdays": [
@@ -89462,7 +89501,7 @@
         "section": "L1",
         "number": "1765",
         "remarks": " ",
-        "quota": 80,
+        "quota": 100,
         "enroll": 76,
         "waitlist": 14,
         "consent": false,
@@ -89474,7 +89513,7 @@
           },
           {
             "name": "MCEE",
-            "quota": 75,
+            "quota": 95,
             "enroll": 75
           }
         ],
@@ -89483,7 +89522,7 @@
             "instructors": [
               "LAM, Leung Yuk Frank"
             ],
-            "venue": "Rm 5583, Lift 29-30 (80)",
+            "venue": "Rm 4620, Lift 31-32 (126)",
             "fromDate": "2025-09-01",
             "toDate": "2025-11-29",
             "weekdays": [
@@ -89874,7 +89913,7 @@
         "number": "4365",
         "remarks": " ",
         "quota": 80,
-        "enroll": 43,
+        "enroll": 42,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -92029,7 +92068,7 @@
         "number": "1777",
         "remarks": "> MESF 5210 is not co-listing with AESF 5210 in Fall 2025-26",
         "quota": 100,
-        "enroll": 57,
+        "enroll": 56,
         "waitlist": 4,
         "consent": false,
         "reservedQuota": [
@@ -102833,7 +102872,7 @@
         "remarks": " ",
         "quota": 52,
         "enroll": 51,
-        "waitlist": 4,
+        "waitlist": 5,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -103374,7 +103413,7 @@
         "remarks": " ",
         "quota": 168,
         "enroll": 146,
-        "waitlist": 18,
+        "waitlist": 21,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
