@@ -22801,6 +22801,58 @@
   },
   {
     "career": "TPG",
+    "subject": "DBAB",
+    "number": "5201",
+    "code": "DBAB5201",
+    "name": "Geo-economics and World Economy",
+    "description": "This course explores intricate relationship between geography and economic activity on a global scale. Through a comprehensive exploration of regional economic blocs, resource distribution, and geopolitical strategies, participants will gain a nuanced understanding of the world economy's dynamics. The course aims to equip students with the analytical tools to assess the impact of geography on economic outcomes, and to develop strategies that leverage geo-economic insights for competitive advantage in the global marketplace.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [
+      {
+        "attribute": "MEDI",
+        "value": "PU",
+        "attributeDescription": "Medium of Instruction",
+        "valueDescription": "[PU] Putonghua"
+      },
+      {
+        "attribute": "READ",
+        "value": "C",
+        "attributeDescription": "Reading Material",
+        "valueDescription": "[C] Require Chinese reading"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4630",
+        "remarks": "> Class Duration/Dates : 04-Sep-2025 to 05-Sep-2025\n> Add/Drop Deadline : 04-Sep-2025\n> Instructor : JIN, Keyu",
+        "quota": 42,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-04",
+            "toDate": "2025-09-05",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
     "subject": "DBAP",
     "number": "5010",
     "code": "DBAP5010",
@@ -22986,6 +23038,45 @@
             ],
             "venue": "TBA",
             "fromDate": "2025-10-23",
+            "toDate": "2025-10-24",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "DBAP",
+    "number": "5120",
+    "code": "DBAP5120",
+    "name": "Frontiers in Economics Research",
+    "description": "This course introduces students to frontier topics in economics research relevant for business, including topics such as innovation, globalization (trade and FDI), personnel management, industrial organization, competition, and digital economy.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4631",
+        "remarks": "> Class Duration/Dates : 06-Sep-2025 to 07-Sep-2025 and 23-Oct-2025 to 24-Oct-2025\n> Add/Drop Deadline : 06-Sep-2025\n> Instructor : LU, Yi",
+        "quota": 42,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-06",
             "toDate": "2025-10-24",
             "weekdays": [],
             "fromTime": null,
@@ -48756,7 +48847,8 @@
         "schedule": [
           {
             "instructors": [
-              "DERMAN, Joshua"
+              "DERMAN, Joshua",
+              "PUN, Wing Man Winnie"
             ],
             "venue": "Rm 5403, Lift 17-18 (126)",
             "fromDate": "2025-09-01",
@@ -79891,14 +79983,14 @@
         "number": "1517",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 65,
-        "enroll": 63,
+        "enroll": 62,
         "waitlist": 2,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
             "quota": 65,
-            "enroll": 63
+            "enroll": 62
           }
         ],
         "schedule": [
