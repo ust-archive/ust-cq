@@ -22802,6 +22802,110 @@
   {
     "career": "TPG",
     "subject": "DBAB",
+    "number": "5120",
+    "code": "DBAB5120",
+    "name": "Frontiers in Economics Research",
+    "description": "This course aims to introduce frontier economics research that is relevant to business and management. Students are expected to understand research methods and the latest research topics in economics, and link theoretical insights with empirical evidence in economic analysis and conceptualize and design economics research to address selected business problems.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [
+      {
+        "attribute": "MEDI",
+        "value": "PU",
+        "attributeDescription": "Medium of Instruction",
+        "valueDescription": "[PU] Putonghua"
+      },
+      {
+        "attribute": "READ",
+        "value": "C",
+        "attributeDescription": "Reading Material",
+        "valueDescription": "[C] Require Chinese reading"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4633",
+        "remarks": "> Class Duration/Dates : 06-Sep-2025 to 07-Sep-2025 and 23-Oct-2025 to 24-Oct-2025\n> Add/Drop Deadline : 06-Sep-2025\n> Instructor : LU, Yi",
+        "quota": 42,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-06",
+            "toDate": "2025-10-24",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "DBAB",
+    "number": "5160",
+    "code": "DBAB5160",
+    "name": "Frontiers in Management Research",
+    "description": "This introductory course exposes students to the latest research and trends in management research. Students will read and critique research papers from selected topics and participate in class discussion. Students are expected to understand management issues of current and future concerns, identify an interesting and practically important frontier research question in a management topic of choice, and write an initial research proposal to address the question.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [
+      {
+        "attribute": "MEDI",
+        "value": "PU",
+        "attributeDescription": "Medium of Instruction",
+        "valueDescription": "[PU] Putonghua"
+      },
+      {
+        "attribute": "READ",
+        "value": "C",
+        "attributeDescription": "Reading Material",
+        "valueDescription": "[C] Require Chinese reading"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4635",
+        "remarks": "> Class Duration/Dates : 18-Dec-2025 to 19-Dec-2025\n> Add/Drop Deadline : 18-Dec-2025\n> Instructor : LOCH, Christoph",
+        "quota": 42,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-12-18",
+            "toDate": "2025-12-19",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "DBAB",
     "number": "5201",
     "code": "DBAB5201",
     "name": "Geo-economics and World Economy",
@@ -22843,6 +22947,162 @@
             "venue": "TBA",
             "fromDate": "2025-09-04",
             "toDate": "2025-09-05",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "DBAB",
+    "number": "5204",
+    "code": "DBAB5204",
+    "name": "Wealth Management and Family Office",
+    "description": "This course offers an in-depth exploration of the sophisticated strategies and practices essential for the stewardship of significant wealth. Through a blend of expert instruction, case studies, and interactive sessions, participants will acquire a robust understanding of investment strategies, risk management, estate planning, and the critical role of family governance. With a focus on both the theoretical underpinnings and the practical application of asset management principles, this course equips students with the skills to navigate the complexities of the financial world and uphold the legacy of their family's wealth.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [
+      {
+        "attribute": "MEDI",
+        "value": "PU",
+        "attributeDescription": "Medium of Instruction",
+        "valueDescription": "[PU] Putonghua"
+      },
+      {
+        "attribute": "READ",
+        "value": "C",
+        "attributeDescription": "Reading Material",
+        "valueDescription": "[C] Require Chinese reading"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4636",
+        "remarks": "> Class Duration/Dates : 20-Dec-2025 to 21-Dec-2025\n> Add/Drop Deadline : 20-Dec-2025\n> Instructor : KING, Roger; PENG, Winne",
+        "quota": 42,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-12-20",
+            "toDate": "2025-12-21",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "DBAB",
+    "number": "5207",
+    "code": "DBAB5207",
+    "name": "Artificial Intelligence and Data Science",
+    "description": "This course provides a comprehensive introduction to Artificial Intelligence (AI) and Data Science, covering key concepts such as machine learning, data mining, and big data analytics. Students will explore the use of AI techniques in data-driven decision-making and predictive modeling. The course emphasizes practical applications in various domains, including business, healthcare, and technology.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [
+      {
+        "attribute": "MEDI",
+        "value": "PU",
+        "attributeDescription": "Medium of Instruction",
+        "valueDescription": "[PU] Putonghua"
+      },
+      {
+        "attribute": "READ",
+        "value": "C",
+        "attributeDescription": "Reading Material",
+        "valueDescription": "[C] Require Chinese reading"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4634",
+        "remarks": "> Class Duration/Dates : 26-Oct-2025\n> Add/Drop Deadline : 26-Oct-2025\n> Instructor : ZHU, Songchun",
+        "quota": 42,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "DBAB",
+    "number": "5209",
+    "code": "DBAB5209",
+    "name": "Chip Technology",
+    "description": "This course offers an in-depth exploration of semiconductor chip technology, covering the design, fabrication, and testing of integrated circuits (ICs). Students will learn about the underlying principles of semiconductor physics, microfabrication techniques, and the latest advancements in chip architecture. The course also examines the challenges in scaling, power consumption, and the integration of novel materials in chip design.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [
+      {
+        "attribute": "MEDI",
+        "value": "PU",
+        "attributeDescription": "Medium of Instruction",
+        "valueDescription": "[PU] Putonghua"
+      },
+      {
+        "attribute": "READ",
+        "value": "C",
+        "attributeDescription": "Reading Material",
+        "valueDescription": "[C] Require Chinese reading"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4632",
+        "remarks": "> Class Duration/Dates : 25-Oct-2025\n> Add/Drop Deadline : 25-Oct-2025\n> Instructor : WEI, Shaojun",
+        "quota": 42,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
             "weekdays": [],
             "fromTime": null,
             "toTime": null
