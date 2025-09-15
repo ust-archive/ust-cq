@@ -18288,8 +18288,8 @@
         "section": "T2",
         "number": "2335",
         "remarks": " ",
-        "quota": 96,
-        "enroll": 96,
+        "quota": 97,
+        "enroll": 97,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -18474,7 +18474,7 @@
         "number": "4440",
         "remarks": " ",
         "quota": 22,
-        "enroll": 17,
+        "enroll": 18,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -38097,7 +38097,7 @@
         "number": "1750",
         "remarks": " ",
         "quota": 1200,
-        "enroll": 1157,
+        "enroll": 1159,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -49334,90 +49334,8 @@
     "corequisites": "",
     "exclusions": "CORE 3603",
     "credits": 3,
-    "attributes": [
-      {
-        "attribute": "4Y",
-        "value": "16",
-        "attributeDescription": "Students admitted before 2022",
-        "valueDescription": "Common Core (Arts) for 36-credit program"
-      },
-      {
-        "attribute": "CC22",
-        "value": "24",
-        "attributeDescription": "Students admitted in 2022-2024",
-        "valueDescription": "Common Core (A) for 30-credit prog in 22-24"
-      },
-      {
-        "attribute": "CC25",
-        "value": "37",
-        "attributeDescription": "Students admitted from 2025",
-        "valueDescription": "Common Core (A) for 30-credit prog fr 25"
-      },
-      {
-        "attribute": "MEDI",
-        "value": "PU",
-        "attributeDescription": "Medium of Instruction",
-        "valueDescription": "[PU] Putonghua"
-      },
-      {
-        "attribute": "READ",
-        "value": "C",
-        "attributeDescription": "Reading Material",
-        "valueDescription": "[C] Require Chinese reading"
-      }
-    ],
-    "classes": [
-      {
-        "section": "L1",
-        "number": "2802",
-        "remarks": "> Class cancelled",
-        "quota": 0,
-        "enroll": 1,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "WU, Shengqing"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-09-01",
-            "toDate": "2025-11-29",
-            "weekdays": [
-              4
-            ],
-            "fromTime": "12:00",
-            "toTime": "13:50"
-          }
-        ]
-      },
-      {
-        "section": "T1",
-        "number": "2803",
-        "remarks": " ",
-        "quota": 0,
-        "enroll": 1,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "WU, Shengqing"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-09-01",
-            "toDate": "2025-11-29",
-            "weekdays": [
-              4
-            ],
-            "fromTime": "14:00",
-            "toTime": "14:50"
-          }
-        ]
-      }
-    ]
+    "attributes": [],
+    "classes": []
   },
   {
     "career": "UGRD",
@@ -53738,7 +53656,7 @@
         ]
       },
       {
-        "section": "LA1",
+        "section": "T1",
         "number": "4395",
         "remarks": " ",
         "quota": 24,
@@ -72224,74 +72142,8 @@
     "corequisites": "",
     "exclusions": "LANG 2061",
     "credits": 3,
-    "attributes": [
-      {
-        "attribute": "CC22",
-        "value": "22",
-        "attributeDescription": "Students admitted in 2022-2024",
-        "valueDescription": "Common Core (E-Comm) for 30-credit prog in 22-24"
-      },
-      {
-        "attribute": "CC25",
-        "value": "35",
-        "attributeDescription": "Students admitted from 2025",
-        "valueDescription": "Common Core (E-Comm) for 30-credit prog fr 25"
-      }
-    ],
-    "classes": [
-      {
-        "section": "T04",
-        "number": "3391",
-        "remarks": "> Class cancelled",
-        "quota": 0,
-        "enroll": 1,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-09-01",
-            "toDate": "2025-11-29",
-            "weekdays": [
-              2,
-              4
-            ],
-            "fromTime": "13:30",
-            "toTime": "14:50"
-          }
-        ]
-      },
-      {
-        "section": "T05",
-        "number": "3392",
-        "remarks": "> Class cancelled",
-        "quota": 0,
-        "enroll": 1,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-09-01",
-            "toDate": "2025-11-29",
-            "weekdays": [
-              2,
-              4
-            ],
-            "fromTime": "12:00",
-            "toTime": "13:20"
-          }
-        ]
-      }
-    ]
+    "attributes": [],
+    "classes": []
   },
   {
     "career": "UGRD",
@@ -98036,7 +97888,7 @@
         "number": "1702",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 30,
-        "enroll": 28,
+        "enroll": 30,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -111398,7 +111250,7 @@
             "instructors": [
               "GIETEL-BASTEN, Stuart Arthur"
             ],
-            "venue": "TBA",
+            "venue": "Rm 5620, Lift 31-32 (70)",
             "fromDate": "2025-09-01",
             "toDate": "2025-11-29",
             "weekdays": [
