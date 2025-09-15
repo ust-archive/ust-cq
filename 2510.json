@@ -1864,7 +1864,7 @@
         "remarks": "> For MSc(ACCT) students only\n> Will have normal class on 29-Oct-2025\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 70,
         "enroll": 70,
-        "waitlist": 14,
+        "waitlist": 15,
         "consent": false,
         "reservedQuota": [
           {
@@ -8571,6 +8571,29 @@
             ],
             "fromTime": "10:30",
             "toTime": "11:50"
+          }
+        ]
+      },
+      {
+        "section": "L3",
+        "number": "4623",
+        "remarks": "> For students enrolling in the “Secondary Schools - HKUST Dual Program”",
+        "quota": 13,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -18481,7 +18504,18 @@
         "schedule": [
           {
             "instructors": [
-              "LAM, Ngok"
+              "CHEN, Long",
+              "FUNG, Yi R. (May)",
+              "GUO, Song",
+              "LAM, Ngok",
+              "LI, Mo",
+              "LI, Xiaomeng",
+              "MA, Xiaojuan",
+              "OUYANG, Xiaomin",
+              "QU, Huamin",
+              "SHE, Dongdong",
+              "WANG, Xi",
+              "YUAN, Binhang"
             ],
             "venue": "TBA",
             "fromDate": "2025-09-01",
@@ -43002,7 +43036,7 @@
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 65,
         "enroll": 65,
-        "waitlist": 4,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [
           {
@@ -74407,6 +74441,29 @@
             "toTime": "10:20"
           }
         ]
+      },
+      {
+        "section": "L3",
+        "number": "4624",
+        "remarks": "> The class is delivered in a blended learning mode\n> For students enrolling in the “Secondary Schools - HKUST Dual Program”",
+        "quota": 11,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
       }
     ]
   },
@@ -82951,6 +83008,68 @@
             ],
             "fromTime": "16:30",
             "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "MATH",
+    "number": "1020",
+    "code": "MATH1020",
+    "name": "Accelerated Calculus",
+    "description": "A concise introduction to one-variable calculus, primarily designed for talented secondary school students through the Center for the Development of the Gifted and Talented. Topics include functions, limits, derivatives, definite and indefinite integrals and their applications, infinite sequences and series, Taylor series, first order differential equations.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "MATH 1013, MATH 1014, MATH 1023, MATH 1024",
+    "credits": 4,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4628",
+        "remarks": "> For students enrolling in the “Secondary Schools - HKUST Dual Program”",
+        "quota": 26,
+        "enroll": 26,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "T1A",
+        "number": "4629",
+        "remarks": "> For students enrolling in the “Secondary Schools - HKUST Dual Program”",
+        "quota": 26,
+        "enroll": 26,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -102563,6 +102682,29 @@
         ]
       },
       {
+        "section": "L8",
+        "number": "4625",
+        "remarks": "> For students enrolling in the “Secondary Schools - HKUST Dual Program”",
+        "quota": 12,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
         "section": "T01",
         "number": "4036",
         "remarks": " ",
@@ -103109,6 +103251,29 @@
             ],
             "fromTime": "12:00",
             "toTime": "12:50"
+          }
+        ]
+      },
+      {
+        "section": "T23",
+        "number": "4626",
+        "remarks": "> For students enrolling in the “Secondary Schools - HKUST Dual Program”",
+        "quota": 12,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
