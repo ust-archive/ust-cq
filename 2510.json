@@ -13990,7 +13990,7 @@
         "number": "1134",
         "remarks": " ",
         "quota": 160,
-        "enroll": 153,
+        "enroll": 152,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -14113,7 +14113,7 @@
         "number": "1137",
         "remarks": " ",
         "quota": 200,
-        "enroll": 197,
+        "enroll": 196,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -22829,7 +22829,7 @@
       {
         "section": "L1",
         "number": "4633",
-        "remarks": "> Instructor : SONG, Zheng; LU, Yi\n> Class Duration/Dates : 06-Sep-2025 to 07-Sep-2025 and 23-Oct-2025 to 24-Oct-2025\n> Add/Drop Deadline : 06-Sep-2025",
+        "remarks": "> Instructor : SONG, Zheng and LU, Yi\n> Class Duration/Dates : 06-Sep-2025 to 07-Sep-2025 and 23-Oct-2025 to 24-Oct-2025\n> Add/Drop Deadline : 06-Sep-2025",
         "quota": 42,
         "enroll": 0,
         "waitlist": 0,
@@ -22985,7 +22985,7 @@
       {
         "section": "L1",
         "number": "4636",
-        "remarks": "> Instructor : KING, Roger; PENG, Winnie\n> Class Duration/Dates : 20-Dec-2025 to 21-Dec-2025\n> Add/Drop Deadline : 20-Dec-2025",
+        "remarks": "> Instructor : KING, Roger and PENG, Winnie\n> Class Duration/Dates : 20-Dec-2025 to 21-Dec-2025\n> Add/Drop Deadline : 20-Dec-2025",
         "quota": 42,
         "enroll": 0,
         "waitlist": 0,
@@ -38489,7 +38489,7 @@
         "number": "1750",
         "remarks": " ",
         "quota": 1200,
-        "enroll": 1159,
+        "enroll": 1158,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -39530,7 +39530,7 @@
         "number": "1250",
         "remarks": "> For MPhil/PhD (AES); MPhil/PhD (ESPM) and MSc/PGD (EVSM) students only",
         "quota": 120,
-        "enroll": 112,
+        "enroll": 111,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -42243,7 +42243,8 @@
         "schedule": [
           {
             "instructors": [
-              "MAK, Vincent"
+              "MAK, Vincent",
+              "RANA, Gobin"
             ],
             "venue": "Rm 3, 31/F, Tower 1,Millennity",
             "fromDate": "2025-08-29",
@@ -42437,6 +42438,7 @@
         "schedule": [
           {
             "instructors": [
+              "CHOI, C.K. Katy",
               "PENG, Qian"
             ],
             "venue": "Rm 2003, LSK Bldg",
@@ -42450,6 +42452,7 @@
           },
           {
             "instructors": [
+              "CHOI, C.K. Katy",
               "PENG, Qian"
             ],
             "venue": "Rm 1001, LSK Bldg (75)",
@@ -42463,6 +42466,7 @@
           },
           {
             "instructors": [
+              "CHOI, C.K. Katy",
               "PENG, Qian"
             ],
             "venue": "Rm 2003, LSK Bldg",
@@ -43813,6 +43817,7 @@
         "schedule": [
           {
             "instructors": [
+              "CHOI, C.K. Katy",
               "PENG, Qian"
             ],
             "venue": "G001, LSK Bldg (75)",
@@ -43826,6 +43831,7 @@
           },
           {
             "instructors": [
+              "CHOI, C.K. Katy",
               "PENG, Qian"
             ],
             "venue": "Rm 1001, LSK Bldg (75)",
@@ -59354,6 +59360,19 @@
             ],
             "fromTime": "19:00",
             "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "KANG, Meng Chow"
+            ],
+            "venue": "G001, LSK Bldg (75)",
+            "fromDate": "2025-12-16",
+            "toDate": "2025-12-16",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
           }
         ]
       }
@@ -60182,14 +60201,14 @@
         "number": "1427",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 42,
-        "enroll": 36,
+        "enroll": 35,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
             "quota": 42,
-            "enroll": 35
+            "enroll": 34
           }
         ],
         "schedule": [
@@ -60345,6 +60364,19 @@
             ],
             "fromTime": "09:30",
             "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 1003, LSK Bldg (75)",
+            "fromDate": "2025-12-20",
+            "toDate": "2025-12-20",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
           }
         ]
       }
@@ -69369,8 +69401,8 @@
         "section": "T01",
         "number": "3282",
         "remarks": " ",
-        "quota": 24,
-        "enroll": 24,
+        "quota": 25,
+        "enroll": 25,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -77150,7 +77182,7 @@
         "number": "1526",
         "remarks": "> For MSc(MAED) students only.",
         "quota": 120,
-        "enroll": 81,
+        "enroll": 80,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -77191,7 +77223,7 @@
         "number": "1527",
         "remarks": "> For MSc(MAED) students only.",
         "quota": 120,
-        "enroll": 82,
+        "enroll": 81,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -77232,7 +77264,7 @@
         "number": "1528",
         "remarks": "> For MSc(MAED) students only.",
         "quota": 120,
-        "enroll": 47,
+        "enroll": 46,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -77314,7 +77346,7 @@
         "number": "1530",
         "remarks": "> For MSc(MAED) students only.",
         "quota": 120,
-        "enroll": 83,
+        "enroll": 82,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -77355,7 +77387,7 @@
         "number": "1531",
         "remarks": "> For MSc(MAED) students only.",
         "quota": 100,
-        "enroll": 56,
+        "enroll": 55,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -80243,14 +80275,14 @@
         "number": "1517",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 65,
-        "enroll": 60,
+        "enroll": 59,
         "waitlist": 2,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
             "quota": 65,
-            "enroll": 60
+            "enroll": 59
           }
         ],
         "schedule": [
@@ -80494,6 +80526,68 @@
             ],
             "fromTime": "19:00",
             "toTime": "21:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MARK",
+    "number": "6950",
+    "code": "MARK6950",
+    "name": "Marketing Action Learning Project",
+    "description": "A team project that focuses on analyzing and solving a real-world marketing challenge within an organization (e.g., company, NGO). Students will develop marketing consulting experience, collaborate to produce a marketing report, and present their in-depth insights and recommended solutions to the sponsor.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4637",
+        "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 19-Sep-2025",
+        "quota": 30,
+        "enroll": 2,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [
+          {
+            "name": "MARK",
+            "quota": 30,
+            "enroll": 2
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "HELSEN, Kristiaan",
+              "HONG, Jiewen"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-10-27",
+            "toDate": "2025-12-08",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "HELSEN, Kristiaan",
+              "HONG, Jiewen"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-12-16",
+            "toDate": "2025-12-16",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
           }
         ]
       }
@@ -101725,7 +101819,7 @@
         "number": "1803",
         "remarks": " ",
         "quota": 1100,
-        "enroll": 1073,
+        "enroll": 1072,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -101943,7 +102037,7 @@
         "number": "1804",
         "remarks": " ",
         "quota": 550,
-        "enroll": 507,
+        "enroll": 506,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
