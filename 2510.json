@@ -3149,45 +3149,6 @@
   {
     "career": "TPG",
     "subject": "AESF",
-    "number": "6950A",
-    "code": "AESF6950A",
-    "name": "Aeronautical Independent Project",
-    "description": "An independent research project on Aeronautical Engineering carried out under the supervision of a faculty member.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 3,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "R1",
-        "number": "1713",
-        "remarks": " ",
-        "quota": 30,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-09-01",
-            "toDate": "2025-11-29",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "TPG",
-    "subject": "AESF",
     "number": "6950B",
     "code": "AESF6950B",
     "name": "Aeronautical Independent Project",
@@ -10791,74 +10752,6 @@
         "remarks": " ",
         "quota": 70,
         "enroll": 60,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "QIU, Wenting",
-              "TUNG, Joanne Wai Ting"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-09-01",
-            "toDate": "2025-11-29",
-            "weekdays": [
-              6
-            ],
-            "fromTime": "10:00",
-            "toTime": "10:50"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "TPG",
-    "subject": "CHMS",
-    "number": "5202",
-    "code": "CHMS5202",
-    "name": "Analytical Instrumentation Laboratory II",
-    "description": "Students will choose from a further array of experiments, complementary to CHMS 5201, involving analytical techniques that have been introduced in either the core and the elective courses. Students must attend and write up experimental reports for at least eight laboratory sessions to complete the course. Maybe graded PP.",
-    "previousCodes": "",
-    "prerequisites": "CHMS 5201",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 3,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "LA1",
-        "number": "1123",
-        "remarks": "> For MSc(ANCHEM) students only.",
-        "quota": 70,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "QIU, Wenting",
-              "TUNG, Joanne Wai Ting"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-09-01",
-            "toDate": "2025-11-29",
-            "weekdays": [
-              6
-            ],
-            "fromTime": "11:00",
-            "toTime": "16:50"
-          }
-        ]
-      },
-      {
-        "section": "T1",
-        "number": "1124",
-        "remarks": " ",
-        "quota": 70,
-        "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -28544,45 +28437,6 @@
         "enroll": 18,
         "waitlist": 0,
         "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-09-01",
-            "toDate": "2025-11-29",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "RPG",
-    "subject": "ECON",
-    "number": "6990",
-    "code": "ECON6990",
-    "name": "MPhil Thesis Research",
-    "description": "Master's thesis research supervised by a faculty member.  A successful defense of the thesis leads to the grade Pass.  No course credit is assigned.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 0,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "R1",
-        "number": "1231",
-        "remarks": "> For MPhil(ECON) students",
-        "quota": 15,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {
@@ -63251,19 +63105,7 @@
     "exclusions": "",
     "credits": 0,
     "attributes": [],
-    "classes": [
-      {
-        "section": "R1",
-        "number": "1398",
-        "remarks": "> For MPhil(ISOM) students only",
-        "quota": 15,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": []
-      }
-    ]
+    "classes": []
   },
   {
     "career": "RPG",
@@ -73760,7 +73602,7 @@
         "number": "1440",
         "remarks": " ",
         "quota": 20,
-        "enroll": 18,
+        "enroll": 19,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -77913,29 +77755,6 @@
             "toTime": null
           }
         ]
-      },
-      {
-        "section": "R2",
-        "number": "4618",
-        "remarks": "> Students should seek the instructor's approval to take this course.",
-        "quota": 3,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "CHEN, Kani"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-09-01",
-            "toDate": "2025-11-29",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
       }
     ]
   },
@@ -80612,31 +80431,7 @@
     "exclusions": "",
     "credits": 0,
     "attributes": [],
-    "classes": [
-      {
-        "section": "R1",
-        "number": "1515",
-        "remarks": "> For MPhil(MARK) students only",
-        "quota": 10,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-09-01",
-            "toDate": "2025-11-29",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
+    "classes": []
   },
   {
     "career": "RPG",
@@ -98057,31 +97852,7 @@
     "exclusions": "",
     "credits": 0,
     "attributes": [],
-    "classes": [
-      {
-        "section": "R1",
-        "number": "1585",
-        "remarks": "> For MPhil(MGMT) students only",
-        "quota": 10,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-09-01",
-            "toDate": "2025-11-29",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
+    "classes": []
   },
   {
     "career": "RPG",
@@ -100566,31 +100337,7 @@
     "exclusions": "",
     "credits": 3,
     "attributes": [],
-    "classes": [
-      {
-        "section": "T1",
-        "number": "1630",
-        "remarks": " ",
-        "quota": 10,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-09-01",
-            "toDate": "2025-11-29",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
+    "classes": []
   },
   {
     "career": "RPG",
@@ -100605,31 +100352,7 @@
     "exclusions": "",
     "credits": 0,
     "attributes": [],
-    "classes": [
-      {
-        "section": "R1",
-        "number": "1631",
-        "remarks": " ",
-        "quota": 10,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-09-01",
-            "toDate": "2025-11-29",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
+    "classes": []
   },
   {
     "career": "RPG",
@@ -112994,37 +112717,7 @@
     "exclusions": "",
     "credits": 3,
     "attributes": [],
-    "classes": [
-      {
-        "section": "R1",
-        "number": "1871",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SOSC",
-            "quota": 20,
-            "enroll": 0
-          }
-        ],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2025-09-01",
-            "toDate": "2025-11-29",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
+    "classes": []
   },
   {
     "career": "RPG",
