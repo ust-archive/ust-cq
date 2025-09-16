@@ -1421,14 +1421,14 @@
         "number": "1017",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 65,
-        "enroll": 64,
+        "enroll": 65,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 64
+            "enroll": 65
           }
         ],
         "schedule": [
@@ -1452,14 +1452,14 @@
         "number": "1019",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 65,
-        "enroll": 45,
+        "enroll": 44,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 45
+            "enroll": 44
           }
         ],
         "schedule": [
@@ -1864,7 +1864,7 @@
         "remarks": "> For MSc(ACCT) students only\n> Will have normal class on 29-Oct-2025\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 70,
         "enroll": 70,
-        "waitlist": 14,
+        "waitlist": 16,
         "consent": false,
         "reservedQuota": [
           {
@@ -8119,7 +8119,7 @@
         "number": "1091",
         "remarks": " ",
         "quota": 30,
-        "enroll": 29,
+        "enroll": 28,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -22585,7 +22585,7 @@
         "number": "4635",
         "remarks": "> Instructor : LOCH, Christoph\n> Class Duration/Dates : 18-Dec-2025 to 19-Dec-2025\n> Add/Drop Deadline : 18-Dec-2025",
         "quota": 42,
-        "enroll": 0,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -22689,7 +22689,7 @@
         "number": "4636",
         "remarks": "> Instructor : KING, Roger and PENG, Winnie\n> Class Duration/Dates : 20-Dec-2025 to 21-Dec-2025\n> Add/Drop Deadline : 20-Dec-2025",
         "quota": 42,
-        "enroll": 0,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -22741,7 +22741,7 @@
         "number": "4634",
         "remarks": "> Instructor : ZHU, Songchun\n> Class Duration/Dates : 26-Oct-2025\n> Add/Drop Deadline : 26-Oct-2025",
         "quota": 42,
-        "enroll": 0,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -22793,7 +22793,7 @@
         "number": "4632",
         "remarks": "> Instructor : WEI, Shaojun\n> Class Duration/Dates : 25-Oct-2025\n> Add/Drop Deadline : 25-Oct-2025",
         "quota": 42,
-        "enroll": 34,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -41457,14 +41457,14 @@
         "number": "1286",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(ACCT) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 65,
-        "enroll": 56,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 55
+            "enroll": 57
           }
         ],
         "schedule": [
@@ -41549,14 +41549,14 @@
         "number": "1299",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> Instructor : MAK, Vincent Hin Chun\n> For MSc(ACCT) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 65,
-        "enroll": 47,
+        "enroll": 45,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 47
+            "enroll": 45
           }
         ],
         "schedule": [
@@ -43944,7 +43944,7 @@
       {
         "section": "L1",
         "number": "1575",
-        "remarks": "> Instructor : TO, Christopher\n> For MSc(FOFB) students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 01-Sep-2025",
+        "remarks": "> For MSc(FOFB) students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 01-Sep-2025",
         "quota": 22,
         "enroll": 22,
         "waitlist": 0,
@@ -43964,7 +43964,8 @@
         "schedule": [
           {
             "instructors": [
-              "HU, Zhixin"
+              "HU, Zhixin",
+              "TO, Christopher"
             ],
             "venue": "TBA",
             "fromDate": "2025-08-26",
@@ -54256,6 +54257,7 @@
         "schedule": [
           {
             "instructors": [
+              "IEONG, Chao",
               "JAISINGH, Jeevan"
             ],
             "venue": "Rm 1007, LSK Bldg (80)",
@@ -54282,6 +54284,7 @@
         "schedule": [
           {
             "instructors": [
+              "IEONG, Chao",
               "XU, Yan"
             ],
             "venue": "Rm 2407, Lift 17-18 (126)",
@@ -54295,6 +54298,7 @@
           },
           {
             "instructors": [
+              "IEONG, Chao",
               "XU, Yan"
             ],
             "venue": "Rm 2407, Lift 17-18 (126)",
@@ -54373,6 +54377,7 @@
         "schedule": [
           {
             "instructors": [
+              "IEONG, Chao",
               "MENG, Zhaoli"
             ],
             "venue": "Rm 1034, LSK Bldg (80)",
@@ -54921,7 +54926,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "GU, Sophie J Y"
             ],
             "venue": "G021, LSK Bldg",
             "fromDate": "2025-09-01",
@@ -55437,7 +55442,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "WONG, Hei Tung"
             ],
             "venue": "G005, LSK Bldg",
             "fromDate": "2025-09-01",
@@ -56387,7 +56392,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "NG, Ka Wai Tommy"
             ],
             "venue": "G011, LSK Bldg",
             "fromDate": "2025-09-01",
@@ -56412,7 +56417,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "CHAN, Wing Yan"
             ],
             "venue": "G011, LSK Bldg",
             "fromDate": "2025-09-01",
@@ -56574,7 +56579,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "TSE, Chris"
             ],
             "venue": "Rm 1034, LSK Bldg (80)",
             "fromDate": "2025-09-01",
@@ -56599,7 +56604,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "TSE, Chris"
             ],
             "venue": "Rm 5620, Lift 31-32 (70)",
             "fromDate": "2025-09-01",
@@ -56624,7 +56629,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "TSE, Chris"
             ],
             "venue": "Rm 1034, LSK Bldg (80)",
             "fromDate": "2025-09-01",
@@ -56649,7 +56654,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "TSE, Chris"
             ],
             "venue": "Rm 1011, LSK Bldg (80)",
             "fromDate": "2025-09-01",
@@ -56742,7 +56747,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "WAN, On Yu"
             ],
             "venue": "G021, LSK Bldg",
             "fromDate": "2025-09-01",
@@ -56767,7 +56772,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "SETHI, Aryan"
             ],
             "venue": "G021, LSK Bldg",
             "fromDate": "2025-09-01",
@@ -56792,7 +56797,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "WAN, On Yu"
             ],
             "venue": "G021, LSK Bldg",
             "fromDate": "2025-09-01",
@@ -56858,7 +56863,8 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "LAI, Sum Yu",
+              "TSE, Chris"
             ],
             "venue": "G005, LSK Bldg",
             "fromDate": "2025-09-01",
@@ -56883,7 +56889,8 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "LAI, Sum Yu",
+              "TSE, Chris"
             ],
             "venue": "G005, LSK Bldg",
             "fromDate": "2025-09-01",
@@ -56947,6 +56954,7 @@
         "schedule": [
           {
             "instructors": [
+              "WONG, Hei Tung",
               "ZHU, Wangsheng"
             ],
             "venue": "Rm 1001, LSK Bldg (75)",
@@ -57015,7 +57023,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "WONG, Hei Tung"
             ],
             "venue": "TBA",
             "fromDate": "2025-09-01",
@@ -57054,6 +57062,7 @@
         "schedule": [
           {
             "instructors": [
+              "WAN, On Yu",
               "WANG, Jiying"
             ],
             "venue": "G021, LSK Bldg",
@@ -57067,6 +57076,7 @@
           },
           {
             "instructors": [
+              "WAN, On Yu",
               "WANG, Jiying"
             ],
             "venue": "G021, LSK Bldg",
@@ -57209,7 +57219,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "PANG, Ngai Cheung"
             ],
             "venue": "G005, LSK Bldg",
             "fromDate": "2025-09-01",
@@ -57234,7 +57244,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "GU, Sophie J Y"
             ],
             "venue": "G005, LSK Bldg",
             "fromDate": "2025-09-01",
@@ -57259,7 +57269,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "PANG, Ngai Cheung"
             ],
             "venue": "G005, LSK Bldg",
             "fromDate": "2025-09-01",
@@ -57364,7 +57374,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "SETHI, Aryan"
             ],
             "venue": "G021, LSK Bldg",
             "fromDate": "2025-09-01",
@@ -57389,7 +57399,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "SETHI, Aryan"
             ],
             "venue": "G021, LSK Bldg",
             "fromDate": "2025-09-01",
@@ -57414,7 +57424,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "YAP, William Khin Hoong"
             ],
             "venue": "G021, LSK Bldg",
             "fromDate": "2025-09-01",
@@ -57833,6 +57843,7 @@
         "schedule": [
           {
             "instructors": [
+              "NG, Ka Wai Tommy",
               "WU, Peter Ching-ting"
             ],
             "venue": "Rm 1007, LSK Bldg (80)",
@@ -57874,7 +57885,8 @@
         "schedule": [
           {
             "instructors": [
-              "JIA, Jia"
+              "JIA, Jia",
+              "SETHI, Aryan"
             ],
             "venue": "Rm 1003, LSK Bldg (75)",
             "fromDate": "2025-09-01",
@@ -57941,6 +57953,7 @@
         "schedule": [
           {
             "instructors": [
+              "WONG, Hei Tung",
               "YANG, Xiaodong"
             ],
             "venue": "Rm 1010, LSK Bldg (80)",
@@ -57983,6 +57996,7 @@
         "schedule": [
           {
             "instructors": [
+              "CHAN, Wing Yan",
               "KWOK, James Sai Ho"
             ],
             "venue": "Rm 1005, LSK Bldg (75)",
@@ -57996,6 +58010,7 @@
           },
           {
             "instructors": [
+              "CHAN, Wing Yan",
               "KWOK, James Sai Ho"
             ],
             "venue": "Rm 1005, LSK Bldg (75)",
@@ -58037,7 +58052,8 @@
         "schedule": [
           {
             "instructors": [
-              "DIAS, Garvin Percy"
+              "DIAS, Garvin Percy",
+              "GU, Sophie J Y"
             ],
             "venue": "Rm 1010, LSK Bldg (80)",
             "fromDate": "2025-09-01",
@@ -58486,7 +58502,8 @@
         "schedule": [
           {
             "instructors": [
-              "JAISINGH, Jeevan"
+              "JAISINGH, Jeevan",
+              "WONG, Hei Tung"
             ],
             "venue": "Rm 2003, LSK Bldg",
             "fromDate": "2025-11-01",
@@ -58499,7 +58516,8 @@
           },
           {
             "instructors": [
-              "JAISINGH, Jeevan"
+              "JAISINGH, Jeevan",
+              "WONG, Hei Tung"
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2025-11-22",
@@ -58512,7 +58530,8 @@
           },
           {
             "instructors": [
-              "JAISINGH, Jeevan"
+              "JAISINGH, Jeevan",
+              "WONG, Hei Tung"
             ],
             "venue": "Rm 2003, LSK Bldg",
             "fromDate": "2025-11-29",
@@ -58543,7 +58562,8 @@
         "schedule": [
           {
             "instructors": [
-              "KOH, Tat Koon"
+              "KOH, Tat Koon",
+              "WONG, Hei Tung"
             ],
             "venue": "Rm 2003, LSK Bldg",
             "fromDate": "2025-08-31",
@@ -58556,7 +58576,8 @@
           },
           {
             "instructors": [
-              "KOH, Tat Koon"
+              "KOH, Tat Koon",
+              "WONG, Hei Tung"
             ],
             "venue": "Rm 2003, LSK Bldg",
             "fromDate": "2025-08-31",
@@ -58569,7 +58590,8 @@
           },
           {
             "instructors": [
-              "KOH, Tat Koon"
+              "KOH, Tat Koon",
+              "WONG, Hei Tung"
             ],
             "venue": "Rm 2003, LSK Bldg",
             "fromDate": "2025-09-14",
@@ -58582,7 +58604,8 @@
           },
           {
             "instructors": [
-              "KOH, Tat Koon"
+              "KOH, Tat Koon",
+              "WONG, Hei Tung"
             ],
             "venue": "Rm 2003, LSK Bldg",
             "fromDate": "2025-09-14",
@@ -58595,7 +58618,8 @@
           },
           {
             "instructors": [
-              "KOH, Tat Koon"
+              "KOH, Tat Koon",
+              "WONG, Hei Tung"
             ],
             "venue": "Rm 2003, LSK Bldg",
             "fromDate": "2025-09-28",
@@ -58608,7 +58632,8 @@
           },
           {
             "instructors": [
-              "KOH, Tat Koon"
+              "KOH, Tat Koon",
+              "WONG, Hei Tung"
             ],
             "venue": "Rm 2003, LSK Bldg",
             "fromDate": "2025-09-28",
@@ -58621,7 +58646,8 @@
           },
           {
             "instructors": [
-              "KOH, Tat Koon"
+              "KOH, Tat Koon",
+              "WONG, Hei Tung"
             ],
             "venue": "Rm 2003, LSK Bldg",
             "fromDate": "2025-10-19",
@@ -58634,7 +58660,8 @@
           },
           {
             "instructors": [
-              "KOH, Tat Koon"
+              "KOH, Tat Koon",
+              "WONG, Hei Tung"
             ],
             "venue": "Rm 2003, LSK Bldg",
             "fromDate": "2025-10-19",
@@ -59172,7 +59199,8 @@
         "schedule": [
           {
             "instructors": [
-              "KWOK, James Sai Ho"
+              "KWOK, James Sai Ho",
+              "NG, Ka Wai Tommy"
             ],
             "venue": "TBA",
             "fromDate": "2025-10-29",
@@ -59312,6 +59340,7 @@
         "schedule": [
           {
             "instructors": [
+              "NG, Ka Wai Tommy",
               "THONG, James Yeong Liang"
             ],
             "venue": "G001, LSK Bldg (75)",
@@ -59343,6 +59372,7 @@
         "schedule": [
           {
             "instructors": [
+              "NG, Ka Wai Tommy",
               "THONG, James Yeong Liang"
             ],
             "venue": "G001, LSK Bldg (75)",
@@ -59356,6 +59386,7 @@
           },
           {
             "instructors": [
+              "NG, Ka Wai Tommy",
               "THONG, James Yeong Liang"
             ],
             "venue": "G003, LSK Bldg (75)",
@@ -59403,7 +59434,8 @@
         "schedule": [
           {
             "instructors": [
-              "FERNANDEZ LORIA, Carlos"
+              "FERNANDEZ LORIA, Carlos",
+              "PANG, Ngai Cheung"
             ],
             "venue": "Rm 2003, LSK Bldg",
             "fromDate": "2025-10-31",
@@ -59416,7 +59448,8 @@
           },
           {
             "instructors": [
-              "FERNANDEZ LORIA, Carlos"
+              "FERNANDEZ LORIA, Carlos",
+              "PANG, Ngai Cheung"
             ],
             "venue": "Rm 1005, LSK Bldg (75)",
             "fromDate": "2025-12-15",
@@ -59447,7 +59480,8 @@
         "schedule": [
           {
             "instructors": [
-              "FERNANDEZ LORIA, Carlos"
+              "FERNANDEZ LORIA, Carlos",
+              "PANG, Ngai Cheung"
             ],
             "venue": "Rm 2003, LSK Bldg",
             "fromDate": "2025-10-27",
@@ -59545,7 +59579,8 @@
         "schedule": [
           {
             "instructors": [
-              "FERNANDEZ LORIA, Carlos"
+              "FERNANDEZ LORIA, Carlos",
+              "PANG, Ngai Cheung"
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2025-10-31",
@@ -59864,6 +59899,7 @@
         "schedule": [
           {
             "instructors": [
+              "WAN, On Yu",
               "WANG, Jiying"
             ],
             "venue": "TBA",
@@ -60084,7 +60120,8 @@
         "schedule": [
           {
             "instructors": [
-              "KOH, Tat Koon"
+              "KOH, Tat Koon",
+              "WONG, Hei Tung"
             ],
             "venue": "TBA",
             "fromDate": "2025-10-30",
@@ -60138,6 +60175,7 @@
         "schedule": [
           {
             "instructors": [
+              "CHAN, Wing Yan",
               "JAISINGH, Jeevan"
             ],
             "venue": "Rm 3, 31/F, Tower 1,Millennity",
@@ -60151,6 +60189,7 @@
           },
           {
             "instructors": [
+              "CHAN, Wing Yan",
               "JAISINGH, Jeevan"
             ],
             "venue": "G010, LSK Bldg",
@@ -60164,6 +60203,7 @@
           },
           {
             "instructors": [
+              "CHAN, Wing Yan",
               "JAISINGH, Jeevan"
             ],
             "venue": "Rm 3, 31/F, Tower 1,Millennity",
@@ -60177,6 +60217,7 @@
           },
           {
             "instructors": [
+              "CHAN, Wing Yan",
               "JAISINGH, Jeevan"
             ],
             "venue": "Rm 1001, LSK Bldg (75)",
@@ -60208,6 +60249,7 @@
         "schedule": [
           {
             "instructors": [
+              "CHAN, Wing Yan",
               "JAISINGH, Jeevan"
             ],
             "venue": "Rm 1001, LSK Bldg (75)",
@@ -60221,6 +60263,7 @@
           },
           {
             "instructors": [
+              "CHAN, Wing Yan",
               "JAISINGH, Jeevan"
             ],
             "venue": "G010, LSK Bldg",
@@ -60234,6 +60277,7 @@
           },
           {
             "instructors": [
+              "CHAN, Wing Yan",
               "JAISINGH, Jeevan"
             ],
             "venue": "Rm 1001, LSK Bldg (75)",
@@ -60247,6 +60291,7 @@
           },
           {
             "instructors": [
+              "CHAN, Wing Yan",
               "JAISINGH, Jeevan"
             ],
             "venue": "Rm 1003, LSK Bldg (75)",
@@ -62058,7 +62103,8 @@
         "schedule": [
           {
             "instructors": [
-              "MENG, Zhaoli"
+              "MENG, Zhaoli",
+              "WONG, Hei Tung"
             ],
             "venue": "TBA",
             "fromDate": "2025-08-28",
@@ -62071,7 +62117,8 @@
           },
           {
             "instructors": [
-              "MENG, Zhaoli"
+              "MENG, Zhaoli",
+              "WONG, Hei Tung"
             ],
             "venue": "TBA",
             "fromDate": "2025-10-23",
@@ -75988,7 +76035,7 @@
         "number": "1493",
         "remarks": " ",
         "quota": 22,
-        "enroll": 22,
+        "enroll": 21,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -88400,7 +88447,7 @@
         "number": "1550",
         "remarks": " ",
         "quota": 40,
-        "enroll": 31,
+        "enroll": 30,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -92115,7 +92162,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "FU, Lin"
             ],
             "venue": "TBA",
             "fromDate": "2025-09-01",
