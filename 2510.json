@@ -41505,7 +41505,7 @@
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(ACCT) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 65,
         "enroll": 65,
-        "waitlist": 5,
+        "waitlist": 6,
         "consent": false,
         "reservedQuota": [
           {
@@ -46020,7 +46020,7 @@
         "number": "4225",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 600,
-        "enroll": 452,
+        "enroll": 451,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -60980,7 +60980,7 @@
       {
         "section": "L1",
         "number": "1410",
-        "remarks": "> For MSc(BA) students only\n> Will have normal class on 29-Oct-2025\n> Add/Drop Deadline : 03-Nov-2025",
+        "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 60,
         "enroll": 42,
         "waitlist": 0,
@@ -60999,7 +60999,34 @@
               "SUN, Xinyu"
             ],
             "venue": "Rm 2, 31/F, Tower 1,Millennity",
-            "fromDate": "2025-10-29",
+            "fromDate": "2025-11-05",
+            "toDate": "2025-11-12",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "LEE, Wai Hong",
+              "SUN, Xinyu"
+            ],
+            "venue": "Rm 2001, LSK Bldg",
+            "fromDate": "2025-11-17",
+            "toDate": "2025-11-17",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "SUN, Xinyu"
+            ],
+            "venue": "Rm 2, 31/F, Tower 1,Millennity",
+            "fromDate": "2025-11-19",
             "toDate": "2025-12-10",
             "weekdays": [
               3
@@ -61193,7 +61220,7 @@
         "number": "1428",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 63,
-        "enroll": 63,
+        "enroll": 62,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -61215,7 +61242,7 @@
           {
             "name": "MARK",
             "quota": 3,
-            "enroll": 2
+            "enroll": 1
           }
         ],
         "schedule": [
@@ -78747,14 +78774,14 @@
         "number": "1520",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 63,
-        "enroll": 62,
+        "enroll": 61,
         "waitlist": 1,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
             "quota": 63,
-            "enroll": 62
+            "enroll": 61
           }
         ],
         "schedule": [
@@ -79807,14 +79834,14 @@
         "number": "4637",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 19-Sep-2025",
         "quota": 30,
-        "enroll": 10,
+        "enroll": 11,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
           {
             "name": "MARK",
             "quota": 30,
-            "enroll": 10
+            "enroll": 11
           }
         ],
         "schedule": [
@@ -82972,7 +82999,7 @@
         "number": "3649",
         "remarks": " ",
         "quota": 212,
-        "enroll": 193,
+        "enroll": 192,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -82998,7 +83025,7 @@
         "number": "3651",
         "remarks": " ",
         "quota": 53,
-        "enroll": 52,
+        "enroll": 51,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -106618,14 +106645,14 @@
         "number": "1652",
         "remarks": " ",
         "quota": 40,
-        "enroll": 21,
+        "enroll": 20,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "PPOL",
             "quota": 40,
-            "enroll": 21
+            "enroll": 20
           }
         ],
         "schedule": [
