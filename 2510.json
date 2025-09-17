@@ -3382,7 +3382,7 @@
         "number": "1064",
         "remarks": "> For AMC students",
         "quota": 80,
-        "enroll": 57,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -41555,8 +41555,13 @@
         "reservedQuota": [
           {
             "name": "ACCT",
-            "quota": 65,
+            "quota": 64,
             "enroll": 45
+          },
+          {
+            "name": "FINA",
+            "quota": 1,
+            "enroll": 0
           }
         ],
         "schedule": [
@@ -49610,7 +49615,7 @@
         "number": "1327",
         "remarks": " ",
         "quota": 20,
-        "enroll": 13,
+        "enroll": 12,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -49635,7 +49640,7 @@
         "number": "1328",
         "remarks": " ",
         "quota": 20,
-        "enroll": 13,
+        "enroll": 12,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -96555,6 +96560,7 @@
         "schedule": [
           {
             "instructors": [
+              "BARRIOS, Marcela",
               "DORAN, Christopher"
             ],
             "venue": "Rm 1001, LSK Bldg (75)",
@@ -99376,7 +99382,7 @@
         "number": "1797",
         "remarks": " ",
         "quota": 70,
-        "enroll": 52,
+        "enroll": 53,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -99407,7 +99413,7 @@
         "number": "1798",
         "remarks": " ",
         "quota": 70,
-        "enroll": 52,
+        "enroll": 53,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -99430,7 +99436,7 @@
         "number": "1799",
         "remarks": " ",
         "quota": 70,
-        "enroll": 52,
+        "enroll": 53,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -112663,7 +112669,7 @@
         "number": "2883",
         "remarks": "> The class is delivered in a experiential learning mode",
         "quota": 24,
-        "enroll": 23,
+        "enroll": 24,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
