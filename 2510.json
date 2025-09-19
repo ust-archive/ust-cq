@@ -43692,7 +43692,7 @@
         "number": "1280",
         "remarks": " ",
         "quota": 10,
-        "enroll": 7,
+        "enroll": 6,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -101091,7 +101091,7 @@
         "number": "1683",
         "remarks": " ",
         "quota": 100,
-        "enroll": 61,
+        "enroll": 60,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -101642,7 +101642,7 @@
         "number": "1688",
         "remarks": " ",
         "quota": 50,
-        "enroll": 14,
+        "enroll": 13,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -109133,7 +109133,7 @@
       {
         "section": "L1",
         "number": "1697",
-        "remarks": "> Instructor : WONG, Dan\n> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 06-Oct-2025",
+        "remarks": "> Instructor : WONG, Dan\n> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Venue on 03-Oct-2025 : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 03-Oct-2025",
         "quota": 60,
         "enroll": 48,
         "waitlist": 0,
@@ -109160,6 +109160,19 @@
             "instructors": [
               "TBA"
             ],
+            "venue": "TBA",
+            "fromDate": "2025-10-03",
+            "toDate": "2025-10-03",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
             "venue": "Rm 2006, LSK Bldg",
             "fromDate": "2025-10-04",
             "toDate": "2025-10-11",
@@ -109174,19 +109187,6 @@
               "TBA"
             ],
             "venue": "Rm 2006, LSK Bldg",
-            "fromDate": "2025-10-19",
-            "toDate": "2025-10-19",
-            "weekdays": [
-              7
-            ],
-            "fromTime": "14:00",
-            "toTime": "17:20"
-          },
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
             "fromDate": "2025-10-25",
             "toDate": "2025-10-25",
             "weekdays": [
