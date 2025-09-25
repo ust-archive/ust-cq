@@ -8097,7 +8097,7 @@
         "number": "1088",
         "remarks": " ",
         "quota": 30,
-        "enroll": 16,
+        "enroll": 14,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -46898,7 +46898,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHU, Shun"
+              "CHU, Shun",
+              "LAW, Chun Yin"
             ],
             "venue": "Rm 4503, Lift 25-26 (64)",
             "fromDate": "2025-09-01",
@@ -46923,7 +46924,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHU, Shun"
+              "CHU, Shun",
+              "LAW, Chun Yin"
             ],
             "venue": "LG3008, Lift 10-12 (82)",
             "fromDate": "2025-09-01",
@@ -47033,7 +47035,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHU, Shun"
+              "CHU, Shun",
+              "LAW, Chun Yin"
             ],
             "venue": "Multi-function Room, LG4, LIB",
             "fromDate": "2025-09-01",
@@ -48281,7 +48284,8 @@
         "schedule": [
           {
             "instructors": [
-              "SNOWDEN, Steven Dewey"
+              "SNOWDEN, Steven Dewey",
+              "TAM, Alvin Lok-Hei"
             ],
             "venue": "Rm 105, Shaw Auditorium",
             "fromDate": "2025-09-01",
@@ -89789,6 +89793,45 @@
             ],
             "fromTime": "10:00",
             "toTime": "10:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "MATH",
+    "number": "6906T",
+    "code": "MATH6906T",
+    "name": "Reading Course: Numerical Linear Algebra in Machine Learning",
+    "description": "This course explores the pivotal role of numerical linear algebra in modern machine learning. We will delve into foundational matrix and tensor methods that are essential for deep learning and other machine learning models. Key topics include the linear algebra behind Transformer architectures and attention mechanisms, low-rank adaptation (LoRA) for efficient large language model (LLM) fine-tuning, and the tensor operations driving modern optimizers and model compression techniques.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4639",
+        "remarks": " ",
+        "quota": 2,
+        "enroll": 2,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CAI, Jianfeng"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
