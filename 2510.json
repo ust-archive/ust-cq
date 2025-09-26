@@ -8261,7 +8261,7 @@
         "number": "1092",
         "remarks": " ",
         "quota": 120,
-        "enroll": 112,
+        "enroll": 111,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -8302,7 +8302,7 @@
         "number": "1093",
         "remarks": "> Classes held in LTJ",
         "quota": 120,
-        "enroll": 120,
+        "enroll": 119,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -18881,7 +18881,7 @@
         "number": "1150",
         "remarks": " ",
         "quota": 82,
-        "enroll": 61,
+        "enroll": 60,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -24334,7 +24334,7 @@
         "number": "2589",
         "remarks": " ",
         "quota": 72,
-        "enroll": 72,
+        "enroll": 71,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -24568,7 +24568,7 @@
         "number": "2605",
         "remarks": " ",
         "quota": 72,
-        "enroll": 72,
+        "enroll": 71,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -62366,13 +62366,18 @@
           },
           {
             "name": "GO",
-            "quota": 53,
+            "quota": 52,
             "enroll": 41
           },
           {
             "name": "ICSM",
             "quota": 1,
             "enroll": 1
+          },
+          {
+            "name": "IS",
+            "quota": 1,
+            "enroll": 0
           },
           {
             "name": "MARK",
@@ -76523,7 +76528,7 @@
         "number": "1496",
         "remarks": "> For MPhil & PhD (LIFS) students only.",
         "quota": 40,
-        "enroll": 33,
+        "enroll": 31,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -76688,7 +76693,7 @@
         "number": "1500",
         "remarks": "> For MPhil & PhD (LIFS) students only.",
         "quota": 200,
-        "enroll": 184,
+        "enroll": 182,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
