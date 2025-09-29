@@ -62584,7 +62584,7 @@
       {
         "section": "L1",
         "number": "1391",
-        "remarks": "> Instructor : WONG, Jackson\n> For MSc(ICSM) students only\n> Add/Drop Deadline : 01-Sep-2025",
+        "remarks": "> For MSc(ICSM) students only\n> Add/Drop Deadline : 01-Sep-2025",
         "quota": 14,
         "enroll": 14,
         "waitlist": 0,
@@ -62604,7 +62604,8 @@
         "schedule": [
           {
             "instructors": [
-              "TSE, Chris"
+              "TSE, Chris",
+              "WONG, Jackson"
             ],
             "venue": "Rm 1, 31/F, Tower 1,Millennity",
             "fromDate": "2025-08-29",
@@ -110533,6 +110534,45 @@
           {
             "instructors": [
               "LEUNG, Shing Yu"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "SEEN",
+    "number": "6990",
+    "code": "SEEN6990",
+    "name": "MPhil Thesis Research",
+    "description": "Master's thesis research supervised by co-advisors from different disciplines. A successful defense of the thesis leads to the grade Pass. No course credit is assigned.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4641",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
             ],
             "venue": "TBA",
             "fromDate": "2025-09-01",
