@@ -4912,7 +4912,7 @@
         "number": "1895",
         "remarks": " ",
         "quota": 25,
-        "enroll": 14,
+        "enroll": 15,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -7306,6 +7306,45 @@
             ],
             "fromTime": "15:00",
             "toTime": "15:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "CENG",
+    "number": "1980",
+    "code": "CENG1980",
+    "name": "Industrial Training",
+    "description": "A practical training course in an industrial simulated environment. For students of the Chemical and Biological Engineering Department only. Graded P, PP or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4640",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -13840,8 +13879,8 @@
         "section": "R1",
         "number": "4434",
         "remarks": " ",
-        "quota": 7,
-        "enroll": 7,
+        "quota": 9,
+        "enroll": 9,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -13986,7 +14025,7 @@
         "number": "1134",
         "remarks": " ",
         "quota": 160,
-        "enroll": 152,
+        "enroll": 151,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -14028,7 +14067,7 @@
         "number": "1135",
         "remarks": " ",
         "quota": 80,
-        "enroll": 59,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -22071,7 +22110,7 @@
         "number": "1740",
         "remarks": " ",
         "quota": 120,
-        "enroll": 90,
+        "enroll": 89,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -27828,7 +27867,7 @@
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 63,
         "enroll": 62,
-        "waitlist": 0,
+        "waitlist": 1,
         "consent": false,
         "reservedQuota": [
           {
@@ -28332,7 +28371,7 @@
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 47,
         "enroll": 47,
-        "waitlist": 0,
+        "waitlist": 1,
         "consent": false,
         "reservedQuota": [
           {
@@ -29454,14 +29493,14 @@
         "number": "1185",
         "remarks": " ",
         "quota": 82,
-        "enroll": 81,
+        "enroll": 80,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "EESM",
             "quota": 82,
-            "enroll": 81
+            "enroll": 80
           }
         ],
         "schedule": [
@@ -29501,14 +29540,14 @@
         "number": "1186",
         "remarks": " ",
         "quota": 80,
-        "enroll": 72,
+        "enroll": 71,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "EESM",
             "quota": 80,
-            "enroll": 72
+            "enroll": 71
           }
         ],
         "schedule": [
@@ -29548,14 +29587,14 @@
         "number": "1187",
         "remarks": " ",
         "quota": 80,
-        "enroll": 56,
+        "enroll": 55,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "EESM",
             "quota": 80,
-            "enroll": 54
+            "enroll": 53
           }
         ],
         "schedule": [
@@ -29689,7 +29728,7 @@
         "number": "1190",
         "remarks": " ",
         "quota": 10,
-        "enroll": 5,
+        "enroll": 4,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -37365,7 +37404,9 @@
         "schedule": [
           {
             "instructors": [
-              "FAN, Zhiyong"
+              "FAN, Zhiyong",
+              "SHEN, Ke",
+              "ZHAO, Jianhao"
             ],
             "venue": "Rm 4580, Lift 27-28 (83)",
             "fromDate": "2025-09-01",
@@ -37406,7 +37447,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHEN, Kevin Jing"
+              "CHEN, Kevin Jing",
+              "ZHOU, Pengwei"
             ],
             "venue": "Rm 4503, Lift 25-26 (64)",
             "fromDate": "2025-09-01",
@@ -38039,7 +38081,7 @@
         "number": "1750",
         "remarks": " ",
         "quota": 1200,
-        "enroll": 1156,
+        "enroll": 1155,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -39033,7 +39075,7 @@
         "number": "1249",
         "remarks": "> For MPhil/PhD (AES); MPhil/PhD (ESPM) students only",
         "quota": 50,
-        "enroll": 17,
+        "enroll": 16,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -49750,7 +49792,7 @@
         "number": "1325",
         "remarks": " ",
         "quota": 20,
-        "enroll": 3,
+        "enroll": 4,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -62277,14 +62319,14 @@
         "number": "1430",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 52,
-        "enroll": 50,
+        "enroll": 49,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 52,
-            "enroll": 50
+            "enroll": 49
           }
         ],
         "schedule": [
@@ -62323,14 +62365,14 @@
         "number": "1431",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 52,
-        "enroll": 40,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 52,
-            "enroll": 40
+            "enroll": 41
           }
         ],
         "schedule": [
@@ -62399,7 +62441,7 @@
         "number": "1408",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 60,
-        "enroll": 45,
+        "enroll": 46,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -62421,7 +62463,7 @@
           {
             "name": "IS",
             "quota": 1,
-            "enroll": 0
+            "enroll": 1
           },
           {
             "name": "MARK",
@@ -63795,7 +63837,7 @@
         "number": "3113",
         "remarks": " ",
         "quota": 20,
-        "enroll": 20,
+        "enroll": 19,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -75687,7 +75729,7 @@
         "number": "4385",
         "remarks": " ",
         "quota": 88,
-        "enroll": 79,
+        "enroll": 80,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -76228,7 +76270,7 @@
         "number": "3477",
         "remarks": " ",
         "quota": 50,
-        "enroll": 48,
+        "enroll": 49,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -97476,14 +97518,14 @@
         "number": "1602",
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital\n MBA and MBA Exchange students only\n> Add/Drop Deadline : 24-Nov-2025",
         "quota": 65,
-        "enroll": 41,
+        "enroll": 42,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "Digital MBA",
             "quota": 20,
-            "enroll": 14
+            "enroll": 15
           },
           {
             "name": "MBA",
@@ -101588,7 +101630,7 @@
         "number": "1803",
         "remarks": " ",
         "quota": 1100,
-        "enroll": 1069,
+        "enroll": 1068,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -101806,7 +101848,7 @@
         "number": "1804",
         "remarks": " ",
         "quota": 550,
-        "enroll": 506,
+        "enroll": 505,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -106215,7 +106257,7 @@
         "number": "4155",
         "remarks": "> The credit load is spread in the following pattern: Fall: 3; Spring: 3",
         "quota": 40,
-        "enroll": 20,
+        "enroll": 21,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -112016,7 +112058,7 @@
         "number": "4260",
         "remarks": " ",
         "quota": 40,
-        "enroll": 38,
+        "enroll": 39,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
