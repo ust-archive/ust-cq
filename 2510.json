@@ -8381,8 +8381,8 @@
         "section": "R1",
         "number": "1094",
         "remarks": " ",
-        "quota": 9,
-        "enroll": 9,
+        "quota": 10,
+        "enroll": 10,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -13879,8 +13879,8 @@
         "section": "R1",
         "number": "4434",
         "remarks": " ",
-        "quota": 9,
-        "enroll": 9,
+        "quota": 11,
+        "enroll": 11,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -36096,8 +36096,8 @@
         "section": "R1",
         "number": "4431",
         "remarks": " ",
-        "quota": 11,
-        "enroll": 11,
+        "quota": 12,
+        "enroll": 12,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -43458,7 +43458,7 @@
             ],
             "venue": "G001, LSK Bldg (75)",
             "fromDate": "2025-11-03",
-            "toDate": "2025-12-15",
+            "toDate": "2025-12-01",
             "weekdays": [
               1
             ],
@@ -43475,6 +43475,34 @@
             "toDate": "2025-11-05",
             "weekdays": [
               3
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "CHOI, C.K. Katy",
+              "PENG, Qian"
+            ],
+            "venue": "Rm 1003, LSK Bldg (75)",
+            "fromDate": "2025-12-05",
+            "toDate": "2025-12-05",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "CHOI, C.K. Katy",
+              "PENG, Qian"
+            ],
+            "venue": "G001, LSK Bldg (75)",
+            "fromDate": "2025-12-15",
+            "toDate": "2025-12-15",
+            "weekdays": [
+              1
             ],
             "fromTime": "19:00",
             "toTime": "22:20"
