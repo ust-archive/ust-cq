@@ -48046,7 +48046,7 @@
         "number": "2764",
         "remarks": " ",
         "quota": 105,
-        "enroll": 84,
+        "enroll": 85,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -52874,6 +52874,84 @@
         "remarks": "> For PhD(IIP) students only",
         "quota": 70,
         "enroll": 68,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "IMBA",
+    "number": "5400",
+    "code": "IMBA5400",
+    "name": "International Management",
+    "description": "The why and the how of corporate international management will be analyzed throughout the course. In a world fixated by \"globalization\", the most fundamental questions for companies planning and managing their overseas growth will be examined. Successes and failures will be discussed in order to understand what management teams must do to get international growth right.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4645",
+        "remarks": "> Instructor : Prof. CASAS I KLETT, Tomas\n> Add/Drop Deadline : 06-Sep-2025\n> Class Duration/Dates : 06-Sep-2025 to 07-Sep-2025",
+        "quota": 42,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "IMBA",
+    "number": "5460",
+    "code": "IMBA5460",
+    "name": "Innovative Thinking",
+    "description": "This course focuses on using structured creativity templates to “think inside the box”. It provides best-practice tools for rapid creativity leading to valuable ideas and innovative solutions. It aims to develop the students’ understanding of creativity and innovation.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4644",
+        "remarks": "> Instructor : Prof. GOLDENBERG, Jacob\n> Add/Drop Deadline : 04-Sep-2025\n> Class Duration/Dates : 04-Sep-2025 to 05-Sep-2025",
+        "quota": 37,
+        "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
