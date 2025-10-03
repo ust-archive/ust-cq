@@ -35449,7 +35449,7 @@
         "number": "2569",
         "remarks": "> The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
         "quota": 152,
-        "enroll": 151,
+        "enroll": 152,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -38913,8 +38913,8 @@
         "section": "R1",
         "number": "4486",
         "remarks": " ",
-        "quota": 3,
-        "enroll": 3,
+        "quota": 4,
+        "enroll": 4,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -80492,7 +80492,7 @@
       {
         "section": "L1",
         "number": "4637",
-        "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 19-Sep-2025",
+        "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 10-Oct-2025",
         "quota": 30,
         "enroll": 16,
         "waitlist": 0,
@@ -80533,6 +80533,45 @@
             ],
             "fromTime": "09:30",
             "toTime": "12:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "MARK",
+    "number": "6970D",
+    "code": "MARK6970D",
+    "name": "Independent Study",
+    "description": "Study of selected marketing issues under the supervision of a faculty member. (Special permission from the Associate Dean is required for MBA students to take this course.)",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4646",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -106574,7 +106613,7 @@
         "number": "4160",
         "remarks": "> Add/Drop Deadline : 06-Sep-2025",
         "quota": 60,
-        "enroll": 57,
+        "enroll": 60,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -106600,7 +106639,7 @@
         "number": "4157",
         "remarks": " ",
         "quota": 60,
-        "enroll": 57,
+        "enroll": 60,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
