@@ -44557,7 +44557,7 @@
         "number": "1701",
         "remarks": "> Instructor : SUH, Jung\n> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Venue : Hong Thai Expo, 5/F United Centre, 95 Queensway, Admiralty, Hong Kong\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 54,
-        "enroll": 54,
+        "enroll": 53,
         "waitlist": 3,
         "consent": false,
         "reservedQuota": [
@@ -44569,7 +44569,7 @@
           {
             "name": "MBA",
             "quota": 49,
-            "enroll": 49
+            "enroll": 48
           },
           {
             "name": "MBA Bi-weekly",
@@ -45737,6 +45737,84 @@
             ],
             "fromTime": "18:00",
             "toTime": "19:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "GFIN",
+    "number": "5010",
+    "code": "GFIN5010",
+    "name": "Foundations of Investments",
+    "description": "This course provides an introduction to modern asset pricing theory. We begin by briefly reviewing portfolio theory. We then move on to discussing current determinants of asset prices such as cash risk and liquidity. One of the course's goals is to apply asset pricing theories to investment decision-making. A second goal is to prepare students for upcoming courses. A third goal is to build a fundamental knowledge of fixed income and derivatives products.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4648",
+        "remarks": "> Add/Drop Deadline : 13-Nov-2025\n> Class Duration/Dates : 13-Nov-2025 to 15-Nov-2025",
+        "quota": 27,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "YU, Jialin"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "GFIN",
+    "number": "5020",
+    "code": "GFIN5020",
+    "name": "Foundations of Corporate Finance",
+    "description": "The aim of the course is to provide students with a comprehensive overview of the financing and investment decisions made by firms.  It covers capital budgeting, dividend policy, financing policy and managerial incentives.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4647",
+        "remarks": "> Add/Drop Deadline : 10-Nov-2025\n> Class Duration/Dates : 10-Nov-2025 to 12-Nov-2025",
+        "quota": 29,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "NIELSEN, Kasper Meisner"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
