@@ -42687,8 +42687,13 @@
         "reservedQuota": [
           {
             "name": "ACCT",
-            "quota": 65,
+            "quota": 64,
             "enroll": 58
+          },
+          {
+            "name": "FINA",
+            "quota": 1,
+            "enroll": 0
           }
         ],
         "schedule": [
@@ -42779,13 +42784,8 @@
         "reservedQuota": [
           {
             "name": "ACCT",
-            "quota": 64,
+            "quota": 65,
             "enroll": 43
-          },
-          {
-            "name": "FINA",
-            "quota": 1,
-            "enroll": 0
           }
         ],
         "schedule": [
