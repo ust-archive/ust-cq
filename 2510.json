@@ -19039,7 +19039,7 @@
         "number": "4440",
         "remarks": " ",
         "quota": 22,
-        "enroll": 20,
+        "enroll": 21,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -50418,7 +50418,7 @@
         "number": "2797",
         "remarks": " ",
         "quota": 4,
-        "enroll": 3,
+        "enroll": 4,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -60828,7 +60828,7 @@
         "number": "1411",
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Will have normal class on 29-Oct-2025\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 52,
-        "enroll": 19,
+        "enroll": 20,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -60840,7 +60840,7 @@
           {
             "name": "MBA",
             "quota": 32,
-            "enroll": 13
+            "enroll": 14
           },
           {
             "name": "MBA Bi-weekly",
@@ -64115,10 +64115,23 @@
               "CHOI, Joon Nak"
             ],
             "venue": "TBA",
-            "fromDate": "2025-11-05",
+            "fromDate": "2025-11-12",
             "toDate": "2025-12-17",
             "weekdays": [
               3
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "CHOI, Joon Nak"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-11-13",
+            "toDate": "2025-11-13",
+            "weekdays": [
+              4
             ],
             "fromTime": "19:00",
             "toTime": "22:20"
