@@ -1473,14 +1473,14 @@
         "number": "1017",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 65,
-        "enroll": 65,
+        "enroll": 64,
         "waitlist": 1,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 65
+            "enroll": 64
           }
         ],
         "schedule": [
@@ -1504,14 +1504,14 @@
         "number": "1019",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 65,
-        "enroll": 43,
+        "enroll": 44,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 43
+            "enroll": 44
           }
         ],
         "schedule": [
@@ -29056,7 +29056,16 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "CHEN, Zhang",
+              "DORDAL CARRERAS, Marc",
+              "FENG, Junlong",
+              "FONG, Yuk Fai",
+              "LI, Yao Amber",
+              "RAO, Deyu",
+              "SUNADA, Kohei",
+              "TANG, Rui",
+              "WU, Qinggong",
+              "XU, Juanyi"
             ],
             "venue": "TBA",
             "fromDate": "2025-09-01",
@@ -98239,7 +98248,7 @@
       {
         "section": "L1",
         "number": "1584",
-        "remarks": "> For FT-MBA; PT-MBA; Part-time MBA (Bi-weekly); Digital MBA; MBA Exchange and MSc(ACCT) students only\n> Add/Drop Deadline : 01-Sep-2025",
+        "remarks": "> For FT-MBA; PT-MBA; Part-time MBA (Bi-weekly); Digital MBA; MBA Exchange and MSc(ACCT) students only\n> Additional lecture hours to be arranged by Department\n> Add/Drop Deadline : 01-Sep-2025",
         "quota": 37,
         "enroll": 23,
         "waitlist": 0,
@@ -98350,20 +98359,6 @@
             ],
             "fromTime": "14:00",
             "toTime": "17:20"
-          },
-          {
-            "instructors": [
-              "MUKHI, Rahul",
-              "WONG, Kin Fai Ellick"
-            ],
-            "venue": "Rm 2001, LSK Bldg",
-            "fromDate": "2025-10-26",
-            "toDate": "2025-10-26",
-            "weekdays": [
-              7
-            ],
-            "fromTime": "09:00",
-            "toTime": "12:20"
           },
           {
             "instructors": [
