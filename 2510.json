@@ -2752,14 +2752,14 @@
         "number": "1026",
         "remarks": "> Instructor : KPMG Speaker\n> For MSc(ACCT) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 70,
-        "enroll": 60,
-        "waitlist": 5,
+        "enroll": 61,
+        "waitlist": 4,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 70,
-            "enroll": 60
+            "enroll": 61
           }
         ],
         "schedule": [
@@ -22795,7 +22795,7 @@
         "number": "1742",
         "remarks": " ",
         "quota": 40,
-        "enroll": 12,
+        "enroll": 13,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -42980,7 +42980,7 @@
       {
         "section": "L1",
         "number": "1293",
-        "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM); FT-MBA and MBA Exchange students only\n> Add/Drop Deadline : 03-Nov-2025",
+        "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM); FT-MBA and MBA Exchange students only\n> Add/Drop Deadline : 10-Nov-2025",
         "quota": 65,
         "enroll": 63,
         "waitlist": 12,
@@ -43014,7 +43014,35 @@
               "PENG, Qian"
             ],
             "venue": "G003, LSK Bldg (75)",
-            "fromDate": "2025-10-28",
+            "fromDate": "2025-11-04",
+            "toDate": "2025-11-18",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "CHOI, C.K. Katy",
+              "PENG, Qian"
+            ],
+            "venue": "Rm 3001, LSK Bldg",
+            "fromDate": "2025-11-24",
+            "toDate": "2025-11-24",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "CHOI, C.K. Katy",
+              "PENG, Qian"
+            ],
+            "venue": "G003, LSK Bldg (75)",
+            "fromDate": "2025-11-25",
             "toDate": "2025-11-25",
             "weekdays": [
               2
@@ -45237,7 +45265,7 @@
       {
         "section": "L1",
         "number": "1596",
-        "remarks": "> Instructor : TANG, Jacky\n> For MSc(FOFB) students only\n> Add/Drop Deadline : 03-Nov-2025",
+        "remarks": "> For MSc(FOFB) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 40,
         "enroll": 39,
         "waitlist": 0,
@@ -45252,7 +45280,8 @@
         "schedule": [
           {
             "instructors": [
-              "HU, Zhixin"
+              "HU, Zhixin",
+              "TANG, Jacky"
             ],
             "venue": "Rm 2003, LSK Bldg",
             "fromDate": "2025-10-30",
@@ -64357,7 +64386,7 @@
         "number": "1429",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 34,
-        "enroll": 34,
+        "enroll": 35,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
