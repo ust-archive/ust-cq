@@ -13501,8 +13501,8 @@
         "section": "R1",
         "number": "2062",
         "remarks": " ",
-        "quota": 1,
-        "enroll": 1,
+        "quota": 4,
+        "enroll": 4,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -44108,14 +44108,14 @@
         "number": "1288",
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 65,
-        "enroll": 58,
+        "enroll": 57,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 65,
-            "enroll": 58
+            "enroll": 57
           }
         ],
         "schedule": [
@@ -44154,14 +44154,14 @@
         "number": "1291",
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 65,
-        "enroll": 64,
-        "waitlist": 1,
+        "enroll": 65,
+        "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 65,
-            "enroll": 64
+            "enroll": 65
           }
         ],
         "schedule": [
@@ -55236,8 +55236,8 @@
         "section": "T1",
         "number": "4439",
         "remarks": " ",
-        "quota": 2,
-        "enroll": 2,
+        "quota": 3,
+        "enroll": 3,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -62837,8 +62837,8 @@
             "weekdays": [
               4
             ],
-            "fromTime": "09:15",
-            "toTime": "12:35"
+            "fromTime": "09:30",
+            "toTime": "12:50"
           },
           {
             "instructors": [
