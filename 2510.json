@@ -1571,19 +1571,14 @@
         "number": "1020",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(ACCT) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 65,
-        "enroll": 60,
-        "waitlist": 6,
+        "enroll": 65,
+        "waitlist": 1,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
-            "quota": 60,
-            "enroll": 60
-          },
-          {
-            "name": "FOFB",
-            "quota": 5,
-            "enroll": 0
+            "quota": 65,
+            "enroll": 65
           }
         ],
         "schedule": [
@@ -1620,14 +1615,14 @@
         "number": "1023",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(ACCT) students only\n> Will have normal class on 29-Oct-2025\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 65,
-        "enroll": 61,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 61
+            "enroll": 58
           }
         ],
         "schedule": [
@@ -1664,14 +1659,14 @@
         "number": "1025",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(ACCT) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 65,
-        "enroll": 60,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 60,
-            "enroll": 54
+            "enroll": 52
           },
           {
             "name": "FOFB",
@@ -27288,7 +27283,7 @@
         "remarks": "> For MSc(ECON) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 60,
         "enroll": 60,
-        "waitlist": 67,
+        "waitlist": 66,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -43590,7 +43585,7 @@
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 65,
         "enroll": 65,
-        "waitlist": 10,
+        "waitlist": 9,
         "consent": false,
         "reservedQuota": [
           {
@@ -43697,14 +43692,14 @@
         "number": "1290",
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 65,
-        "enroll": 53,
+        "enroll": 52,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 65,
-            "enroll": 53
+            "enroll": 52
           }
         ],
         "schedule": [
@@ -44462,14 +44457,14 @@
         "number": "1304",
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 65,
-        "enroll": 45,
+        "enroll": 44,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 65,
-            "enroll": 45
+            "enroll": 44
           }
         ],
         "schedule": [
@@ -47632,7 +47627,7 @@
         "number": "4197",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 143,
-        "enroll": 142,
+        "enroll": 141,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -47732,7 +47727,7 @@
         "number": "4201",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 149,
-        "enroll": 145,
+        "enroll": 146,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -61623,7 +61618,7 @@
       {
         "section": "L1",
         "number": "1409",
-        "remarks": "> For MSc(ISM) students only\n> Will have normal class on 29-Oct-2025\n> Add/Drop Deadline : 03-Nov-2025",
+        "remarks": "> For MSc(ISM) students only\n> Will have normal class on 29-Oct-2025\n> Add/Drop Deadline : 04-Nov-2025",
         "quota": 55,
         "enroll": 55,
         "waitlist": 7,
@@ -61688,7 +61683,7 @@
       {
         "section": "L2",
         "number": "1433",
-        "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 03-Nov-2025",
+        "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 04-Nov-2025",
         "quota": 48,
         "enroll": 43,
         "waitlist": 0,
@@ -61977,7 +61972,7 @@
         "number": "1419",
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 45,
-        "enroll": 37,
+        "enroll": 36,
         "waitlist": 1,
         "consent": false,
         "reservedQuota": [
@@ -61989,7 +61984,7 @@
           {
             "name": "MBA",
             "quota": 25,
-            "enroll": 18
+            "enroll": 17
           },
           {
             "name": "MBA Bi-weekly",
@@ -64053,12 +64048,12 @@
           },
           {
             "name": "GO",
-            "quota": 51,
+            "quota": 49,
             "enroll": 36
           },
           {
             "name": "ICSM",
-            "quota": 2,
+            "quota": 4,
             "enroll": 2
           },
           {
@@ -64241,7 +64236,7 @@
         "number": "1402",
         "remarks": "> For MSc(ICSM) students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 03-Nov-2025",
         "quota": 21,
-        "enroll": 19,
+        "enroll": 20,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -64253,7 +64248,7 @@
           {
             "name": "MARK",
             "quota": 3,
-            "enroll": 2
+            "enroll": 3
           },
           {
             "name": "MIMT",
@@ -99562,14 +99557,14 @@
         "number": "1599",
         "remarks": "> For Part-time MBA (Bi-weekly) students only\n> Add/Drop Deadline : 31-Oct-2025\n> Extended Drop Deadline : 02-Nov-2025",
         "quota": 25,
-        "enroll": 18,
+        "enroll": 17,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MBA Bi-weekly",
             "quota": 25,
-            "enroll": 18
+            "enroll": 17
           }
         ],
         "schedule": [
