@@ -112001,6 +112001,35 @@
             "toTime": null
           }
         ]
+      },
+      {
+        "section": "R2",
+        "number": "4657",
+        "remarks": "> For FT-MBA students only\n> Add/Drop Deadline : 12-Nov-2025",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [
+          {
+            "name": "MBA",
+            "quota": 1,
+            "enroll": 1
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-12",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
       }
     ]
   },
