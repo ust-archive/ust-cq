@@ -54095,6 +54095,84 @@
   {
     "career": "EXEC",
     "subject": "IMBA",
+    "number": "5030",
+    "code": "IMBA5030",
+    "name": "Accounting Foundations",
+    "description": "Provides essential foundation tools of financial accounting and analysis from a management perspective, including balance sheets, income statements, cash flow statements, accrual concepts, revenue and expense recognition, asset and liability accounting.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "ACCT 5100, ACCT 5150",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4655",
+        "remarks": "> Add/Drop Deadline : 23-Oct-2025\n> Class Duration/Dates : 23-Oct-2025 to 24-Oct-2025",
+        "quota": 62,
+        "enroll": 62,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CHEN, Tai-Yuan"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "IMBA",
+    "number": "5060",
+    "code": "IMBA5060",
+    "name": "Accounting for Decision Making and Control",
+    "description": "This course covers the use of accounting information in decision-making, planning, control, and performance evaluation for managers of the corporation. It also discusses the use of accounting information in valuation and credit analysis for users external to the corporation.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "ACCT 5210",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4656",
+        "remarks": "> Add/Drop Deadline : 16-Nov-2025\n> Class Duration/Dates : 16-Nov-2025 to 17-Nov-2025",
+        "quota": 60,
+        "enroll": 60,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "SHIEH, Tony"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "IMBA",
     "number": "5400",
     "code": "IMBA5400",
     "name": "International Management",
@@ -55956,7 +56034,7 @@
         "number": "1364",
         "remarks": "> For MPhil(TLE) or MPhil(ISD) students only",
         "quota": 30,
-        "enroll": 8,
+        "enroll": 9,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -111618,7 +111696,7 @@
         "number": "1704",
         "remarks": "> Instructor : LU, Bo\n> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 28-Nov-2025\n> Extended Drop Deadline : 30-Nov-2025",
         "quota": 55,
-        "enroll": 40,
+        "enroll": 39,
         "waitlist": 7,
         "consent": false,
         "reservedQuota": [
@@ -111630,7 +111708,7 @@
           {
             "name": "MBA",
             "quota": 20,
-            "enroll": 19
+            "enroll": 18
           },
           {
             "name": "MBA Bi-weekly",
