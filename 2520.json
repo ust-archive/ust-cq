@@ -1887,11 +1887,37 @@
         "section": "L1",
         "number": "1041",
         "remarks": "> Add/Drop Deadline : 08-Jan-2026",
-        "quota": 60,
+        "quota": 34,
         "enroll": 0,
         "waitlist": 0,
         "consent": true,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "BA",
+            "quota": 5,
+            "enroll": 0
+          },
+          {
+            "name": "ECON",
+            "quota": 10,
+            "enroll": 0
+          },
+          {
+            "name": "FOFB",
+            "quota": 5,
+            "enroll": 0
+          },
+          {
+            "name": "IS",
+            "quota": 10,
+            "enroll": 0
+          },
+          {
+            "name": "MIMT",
+            "quota": 4,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
