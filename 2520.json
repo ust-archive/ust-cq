@@ -161,8 +161,8 @@
       {
         "section": "L1",
         "number": "1053",
-        "remarks": "> For AMC students only\n> Instructor : MATTHEWS, Justin; GUINBERT, Matthew\n> Add/Drop Deadline : 07-Jan-2026\n> Extended Drop Deadline : 12-Jan-2026",
-        "quota": 20,
+        "remarks": "> Instructor : MATTHEWS, Justin; GUINBERT, Matthew\n> Add/Drop Deadline : 07-Jan-2026\n> Extended Drop Deadline : 12-Jan-2026",
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -231,7 +231,13 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "AMCC",
+            "quota": 30,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -880,6 +886,45 @@
           {
             "instructors": [
               "LEUNG, Suk Wai Winnie"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-01-02",
+            "toDate": "2026-01-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENVR",
+    "number": "3001",
+    "code": "ENVR3001",
+    "name": "Academic and Professional Development II",
+    "description": "This is second course of the series designed to assist students in developing attributes necessary for professional growth. This course is a one-year course designed to provide academic advising to students, to enhance their understanding of the latest environment topics, and to improve their communication skills. Students are required to attend discussion sessions with advisors and selected seminars. For EVMT students only. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1059",
+        "remarks": "> Add/Drop Deadline : 08-Jan-2026",
+        "quota": 2,
+        "enroll": 2,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAU, Pui Sang"
             ],
             "venue": "TBA",
             "fromDate": "2026-01-02",
