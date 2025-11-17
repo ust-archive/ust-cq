@@ -2583,10 +2583,10 @@
         "section": "L1",
         "number": "1045",
         "remarks": "> Instructor : YIU, Kenny\n> For FT-MBA and Digital MBA students only\n> Add/Drop Deadline : 30-Nov-2025",
-        "quota": 40,
-        "enroll": 5,
+        "quota": 50,
+        "enroll": 45,
         "waitlist": 0,
-        "consent": true,
+        "consent": false,
         "reservedQuota": [
           {
             "name": "Digital MBA",
@@ -2595,8 +2595,8 @@
           },
           {
             "name": "MBA",
-            "quota": 30,
-            "enroll": 0
+            "quota": 35,
+            "enroll": 35
           }
         ],
         "schedule": [
