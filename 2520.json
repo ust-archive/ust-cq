@@ -290,7 +290,7 @@
         "number": "1020",
         "remarks": "> Add/Drop Deadline: 08-Jan-2026",
         "quota": 30,
-        "enroll": 2,
+        "enroll": 5,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -1276,7 +1276,7 @@
         "remarks": "> Add/Drop Deadline : 08-Jan-2026",
         "quota": 80,
         "enroll": 80,
-        "waitlist": 9,
+        "waitlist": 12,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -1369,7 +1369,7 @@
         "number": "1014",
         "remarks": "> Add/Drop Deadline : 05-Jan-2026",
         "quota": 180,
-        "enroll": 93,
+        "enroll": 95,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1452,7 +1452,7 @@
         "remarks": "> Add/Drop Deadline : 06-Jan-2026",
         "quota": 100,
         "enroll": 100,
-        "waitlist": 41,
+        "waitlist": 43,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -1510,7 +1510,7 @@
         "remarks": "> Add/Drop Deadline : 07-Jan-2026",
         "quota": 60,
         "enroll": 4,
-        "waitlist": 0,
+        "waitlist": 1,
         "consent": false,
         "reservedQuota": [
           {
@@ -1590,14 +1590,14 @@
         "number": "1015",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> Add/Drop Deadline : 05-Jan-2026",
         "quota": 60,
-        "enroll": 6,
-        "waitlist": 2,
+        "enroll": 7,
+        "waitlist": 1,
         "consent": false,
         "reservedQuota": [
           {
             "name": "OM",
             "quota": 60,
-            "enroll": 6
+            "enroll": 7
           }
         ],
         "schedule": [
