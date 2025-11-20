@@ -414,7 +414,7 @@
         "number": "1025",
         "remarks": "> The class is delivered in a self-paced online mode\n> Add/Drop Deadline: 08-Jan-2026",
         "quota": 50,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -570,7 +570,7 @@
         "number": "1033",
         "remarks": "> Add/Drop Deadline: 08-Jan-2026",
         "quota": 50,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -578,6 +578,45 @@
           {
             "instructors": [
               "LAM, Gibson"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-01-02",
+            "toDate": "2026-01-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ECON",
+    "number": "4670",
+    "code": "ECON4670",
+    "name": "Economics Research and Communication",
+    "description": "This course is to ensure that students will acquire research and communication skills through producing a research-based term paper. The paper may be one that has been written for ECON 4959, or any other 4000-level or above Economics course that has a term paper requirement. The paper should embody the equivalence of a minimum of two credits of workload if it is written for ECON 4959. A standard at grade C or above must be obtained for the paper. For Economics students only. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "LA1",
+        "number": "1060",
+        "remarks": "> Add/Drop Deadline: 08-Jan-2026",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
             ],
             "venue": "TBA",
             "fromDate": "2026-01-02",
@@ -1154,7 +1193,7 @@
         "number": "1010",
         "remarks": "> Add/Drop Deadline : 06-Jan-2026",
         "quota": 80,
-        "enroll": 0,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1236,7 +1275,7 @@
         "number": "1011",
         "remarks": "> Add/Drop Deadline : 08-Jan-2026",
         "quota": 80,
-        "enroll": 0,
+        "enroll": 10,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1330,7 +1369,7 @@
         "number": "1014",
         "remarks": "> Add/Drop Deadline : 05-Jan-2026",
         "quota": 180,
-        "enroll": 0,
+        "enroll": 12,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1412,7 +1451,7 @@
         "number": "1012",
         "remarks": "> Add/Drop Deadline : 06-Jan-2026",
         "quota": 100,
-        "enroll": 0,
+        "enroll": 26,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1552,7 +1591,7 @@
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> Add/Drop Deadline : 05-Jan-2026",
         "quota": 60,
         "enroll": 0,
-        "waitlist": 0,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [
           {
