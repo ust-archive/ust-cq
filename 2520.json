@@ -169,7 +169,7 @@
         "reservedQuota": [
           {
             "name": "AMCC",
-            "quota": 20,
+            "quota": 16,
             "enroll": 16
           }
         ],
@@ -234,7 +234,7 @@
         "reservedQuota": [
           {
             "name": "AMCC",
-            "quota": 30,
+            "quota": 8,
             "enroll": 8
           }
         ],
@@ -1032,7 +1032,7 @@
       {
         "section": "LA1",
         "number": "1004",
-        "remarks": "> Add/Drop Deadline : 08-Jan-2026",
+        "remarks": " ",
         "quota": 55,
         "enroll": 0,
         "waitlist": 0,
@@ -1193,7 +1193,7 @@
         "number": "1010",
         "remarks": "> Add/Drop Deadline : 06-Jan-2026",
         "quota": 80,
-        "enroll": 53,
+        "enroll": 54,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1276,7 +1276,7 @@
         "remarks": "> Add/Drop Deadline : 08-Jan-2026",
         "quota": 80,
         "enroll": 80,
-        "waitlist": 35,
+        "waitlist": 36,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -1509,7 +1509,7 @@
         "number": "1013",
         "remarks": "> Add/Drop Deadline : 07-Jan-2026",
         "quota": 60,
-        "enroll": 4,
+        "enroll": 5,
         "waitlist": 2,
         "consent": false,
         "reservedQuota": [
@@ -1521,7 +1521,7 @@
           {
             "name": "SBM",
             "quota": 20,
-            "enroll": 3
+            "enroll": 4
           }
         ],
         "schedule": [
@@ -1887,7 +1887,7 @@
         "section": "L1",
         "number": "1041",
         "remarks": "> Add/Drop Deadline : 08-Jan-2026",
-        "quota": 36,
+        "quota": 37,
         "enroll": 17,
         "waitlist": 0,
         "consent": true,
@@ -1899,7 +1899,7 @@
           },
           {
             "name": "ECON",
-            "quota": 12,
+            "quota": 13,
             "enroll": 9
           },
           {
@@ -2140,7 +2140,7 @@
         "number": "1051",
         "remarks": "> For MSc(GCS) students only\n> Add/Drop Deadline : 07-Jan-2026\n> Extended Drop Deadline : 13-Jan-2026",
         "quota": 30,
-        "enroll": 21,
+        "enroll": 22,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
