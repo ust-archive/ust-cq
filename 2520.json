@@ -229,7 +229,7 @@
         "remarks": "> Instructor : WANG, Pan\n> Add/Drop Deadline : 06-Jan-2026\n> Extended Drop Deadline : 12-Jan-2026",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 15,
+        "waitlist": 16,
         "consent": false,
         "reservedQuota": [
           {
@@ -879,7 +879,7 @@
         "number": "1034",
         "remarks": "> Course sub-title: STEAM Tutor Development\n> Add/Drop Deadline: 08-Jan-2026",
         "quota": 20,
-        "enroll": 3,
+        "enroll": 2,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -1905,14 +1905,14 @@
         "number": "1039",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 07-Jan-2026",
         "quota": 60,
-        "enroll": 55,
+        "enroll": 57,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 60,
-            "enroll": 55
+            "enroll": 57
           }
         ],
         "schedule": [
