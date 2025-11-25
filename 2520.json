@@ -274,6 +274,46 @@
   {
     "career": "UGRD",
     "subject": "CIVL",
+    "number": "2020",
+    "code": "CIVL2020",
+    "name": "Industrial and BIM Training",
+    "description": "A practical training course in an industrial simulated environment. For students of the Civil and Environmental Engineering Department only. Graded P, PP or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1061",
+        "remarks": "> Add/Drop Deadline: 08-Jan-2026",
+        "quota": 220,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "HU, Thomas",
+              "TSANG, Dan"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-01-02",
+            "toDate": "2026-01-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "CIVL",
     "number": "3020",
     "code": "CIVL3020",
     "name": "Internship Training",
@@ -414,7 +454,7 @@
         "number": "1025",
         "remarks": "> The class is delivered in a self-paced online mode\n> Add/Drop Deadline: 08-Jan-2026",
         "quota": 50,
-        "enroll": 32,
+        "enroll": 33,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -453,7 +493,7 @@
         "number": "1029",
         "remarks": "> Add/Drop Deadline: 08-Jan-2026",
         "quota": 50,
-        "enroll": 13,
+        "enroll": 14,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -492,7 +532,7 @@
         "number": "1030",
         "remarks": "> Add/Drop Deadline: 08-Jan-2026",
         "quota": 50,
-        "enroll": 7,
+        "enroll": 10,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -938,6 +978,45 @@
     ]
   },
   {
+    "career": "UGRD",
+    "subject": "ENVR",
+    "number": "3001",
+    "code": "ENVR3001",
+    "name": "Academic and Professional Development II",
+    "description": "This is second course of the series designed to assist students in developing attributes necessary for professional growth. This course is a one-year course designed to provide academic advising to students, to enhance their understanding of the latest environment topics, and to improve their communication skills. Students are required to attend discussion sessions with advisors and selected seminars. For EVMT students only. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1062",
+        "remarks": " ",
+        "quota": 2,
+        "enroll": 2,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAU, Pui Sang"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-01-02",
+            "toDate": "2026-01-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "TPG",
     "subject": "EVSM",
     "number": "6950A",
@@ -1034,7 +1113,7 @@
         "number": "1004",
         "remarks": " ",
         "quota": 55,
-        "enroll": 0,
+        "enroll": 49,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1193,7 +1272,7 @@
         "number": "1010",
         "remarks": "> Add/Drop Deadline : 06-Jan-2026",
         "quota": 80,
-        "enroll": 60,
+        "enroll": 65,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1276,7 +1355,7 @@
         "remarks": "> Add/Drop Deadline : 08-Jan-2026",
         "quota": 80,
         "enroll": 80,
-        "waitlist": 39,
+        "waitlist": 40,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -1370,7 +1449,7 @@
         "remarks": "> Add/Drop Deadline : 05-Jan-2026",
         "quota": 180,
         "enroll": 180,
-        "waitlist": 3,
+        "waitlist": 18,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -1452,7 +1531,7 @@
         "remarks": "> Add/Drop Deadline : 06-Jan-2026",
         "quota": 100,
         "enroll": 100,
-        "waitlist": 83,
+        "waitlist": 87,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -1591,7 +1670,7 @@
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> Add/Drop Deadline : 05-Jan-2026",
         "quota": 60,
         "enroll": 10,
-        "waitlist": 1,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [
           {
@@ -2368,7 +2447,7 @@
         "number": "1017",
         "remarks": "> Add/Drop Deadline : 08-Jan-2026\n> Participating Corporation: UNIQLO HONG KONG LIMITED\n> The credit load will usually be spread in the following pattern: Fall: 1; Winter: 1",
         "quota": 20,
-        "enroll": 0,
+        "enroll": 6,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -2391,7 +2470,7 @@
         "number": "1018",
         "remarks": "> Add/Drop Deadline : 08-Jan-2026\n> Participating Corporation: SOCAM Development Limited\n> The credit load will usually be spread in the following pattern: Fall: 1; Winter: 1",
         "quota": 20,
-        "enroll": 0,
+        "enroll": 5,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -2414,7 +2493,7 @@
         "number": "1019",
         "remarks": "> Add/Drop Deadline : 08-Jan-2026\n> Participating Corporation: Shanghai Commercial Bank\n> The credit load will usually be spread in the following pattern: Fall: 1; Winter: 1",
         "quota": 20,
-        "enroll": 0,
+        "enroll": 6,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -2437,7 +2516,7 @@
         "number": "1021",
         "remarks": "> Add/Drop Deadline : 08-Jan-2026\n> Participating Corporation: CMB International Capital Corporation Limited\n> The credit load will usually be spread in the following pattern: Fall: 1; Winter: 1",
         "quota": 20,
-        "enroll": 0,
+        "enroll": 7,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
