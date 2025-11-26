@@ -493,7 +493,7 @@
         "number": "1029",
         "remarks": "> Add/Drop Deadline: 08-Jan-2026",
         "quota": 50,
-        "enroll": 21,
+        "enroll": 22,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -532,7 +532,7 @@
         "number": "1030",
         "remarks": "> Add/Drop Deadline: 08-Jan-2026",
         "quota": 50,
-        "enroll": 17,
+        "enroll": 18,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -610,7 +610,7 @@
         "number": "1033",
         "remarks": "> Add/Drop Deadline: 08-Jan-2026",
         "quota": 50,
-        "enroll": 17,
+        "enroll": 19,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1273,7 +1273,7 @@
         "remarks": "> Add/Drop Deadline : 06-Jan-2026",
         "quota": 80,
         "enroll": 80,
-        "waitlist": 13,
+        "waitlist": 14,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -1449,7 +1449,7 @@
         "remarks": "> Add/Drop Deadline : 05-Jan-2026",
         "quota": 180,
         "enroll": 180,
-        "waitlist": 44,
+        "waitlist": 45,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -1531,7 +1531,7 @@
         "remarks": "> Add/Drop Deadline : 06-Jan-2026",
         "quota": 100,
         "enroll": 100,
-        "waitlist": 112,
+        "waitlist": 111,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -1966,7 +1966,7 @@
         "section": "L1",
         "number": "1041",
         "remarks": "> Add/Drop Deadline : 08-Jan-2026",
-        "quota": 37,
+        "quota": 42,
         "enroll": 18,
         "waitlist": 0,
         "consent": true,
@@ -1982,12 +1982,17 @@
             "enroll": 10
           },
           {
+            "name": "FINA",
+            "quota": 5,
+            "enroll": 0
+          },
+          {
             "name": "FOFB",
             "quota": 5,
             "enroll": 2
           },
           {
-            "name": "IS",
+            "name": "ISM",
             "quota": 10,
             "enroll": 0
           },
