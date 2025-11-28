@@ -1591,18 +1591,7 @@
         "enroll": 6,
         "waitlist": 2,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "IS",
-            "quota": 40,
-            "enroll": 2
-          },
-          {
-            "name": "SBM",
-            "quota": 20,
-            "enroll": 4
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
