@@ -799,7 +799,7 @@
         "remarks": "> For MSc(ECON) students only\n> Add/Drop Deadline : 07-Jan-2026",
         "quota": 80,
         "enroll": 80,
-        "waitlist": 9,
+        "waitlist": 10,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -894,6 +894,45 @@
             ],
             "fromTime": "19:00",
             "toTime": "21:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ELEC",
+    "number": "4940A",
+    "code": "ELEC4940A",
+    "name": "Independent Study",
+    "description": "Selected topics in electronic and computer engineering studied under the supervision of a faculty member. Enrollment subject to approval by the department.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1067",
+        "remarks": "> Add/Drop Deadline: 08-Jan-2026",
+        "quota": 5,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "WOO, Kam Tim"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-01-02",
+            "toDate": "2026-01-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
