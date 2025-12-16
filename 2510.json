@@ -65097,7 +65097,19 @@
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
-        "schedule": []
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-11-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
       }
     ]
   },
