@@ -20004,6 +20004,45 @@
   {
     "career": "RPG",
     "subject": "COMP",
+    "number": "6921T",
+    "code": "COMP6921T",
+    "name": "Research Project",
+    "description": "An independent research project carried out under the supervision of a faculty member. This course is only available for exchange, visiting and visiting internship students.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4679",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "KWOK, James Tin Yau"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-09-01",
+            "toDate": "2025-12-19",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "COMP",
     "number": "6921U",
     "code": "COMP6921U",
     "name": "Research Project",
@@ -51738,8 +51777,8 @@
         "section": "R1",
         "number": "4367",
         "remarks": " ",
-        "quota": 8,
-        "enroll": 8,
+        "quota": 9,
+        "enroll": 9,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
