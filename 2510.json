@@ -54675,6 +54675,58 @@
   {
     "career": "EXEC",
     "subject": "IMBA",
+    "number": "5170",
+    "code": "IMBA5170",
+    "name": "Business Simulation",
+    "description": "A computer-based business simulation where students operate as teams simulating corporate management and compete against each other (groups). The game involves group decision making on a wide range of functional areas, such as finance, marketing, manufacturing, and human resource management, to develop and implement a strategic plan in a competitive market.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [
+      {
+        "attribute": "MEDI",
+        "value": "PU",
+        "attributeDescription": "Medium of Instruction",
+        "valueDescription": "[PU] Putonghua"
+      },
+      {
+        "attribute": "READ",
+        "value": "C",
+        "attributeDescription": "Reading Material",
+        "valueDescription": "[C] Require Chinese reading"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4680",
+        "remarks": "> Class Duration/Dates : 11-Dec-2025 to 14-Dec-2025\n> Add/Drop Deadline : 11-Dec-2025",
+        "quota": 42,
+        "enroll": 42,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "WANG, Caroline"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-12-11",
+            "toDate": "2025-12-14",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "IMBA",
     "number": "5400",
     "code": "IMBA5400",
     "name": "International Management",
