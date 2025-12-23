@@ -37569,8 +37569,8 @@
         "section": "L1",
         "number": "4659",
         "remarks": "> Instructor : Prof CHEN, Mark\n> For Kellogg-HKUST EMBA students only\n> Class Duration/Dates : 07-Nov-2025 to 16-Nov-2025\n> Add/Drop Deadline : 07-Nov-2025",
-        "quota": 30,
-        "enroll": 0,
+        "quota": 26,
+        "enroll": 26,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -37608,8 +37608,8 @@
         "section": "L1",
         "number": "4658",
         "remarks": "> For Kellogg-HKUST EMBA students only\n> Class Duration/Dates : 07-Nov-2025 to 16-Nov-2025\n> Add/Drop Deadline : 07-Nov-2025",
-        "quota": 30,
-        "enroll": 0,
+        "quota": 26,
+        "enroll": 26,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -37620,6 +37620,45 @@
             ],
             "venue": "TBA",
             "fromDate": "2025-11-07",
+            "toDate": "2025-11-16",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "EMBA",
+    "number": "5700",
+    "code": "EMBA5700",
+    "name": "Strategic Human Resources Management",
+    "description": "Most organizations declare their employees to be among their most valuable assets, yet an examination of their systems and practices show inconsistencies in the management of this valuable asset. This course is designed to provide a basic understanding of five key challenges that general managers face in managing their human resources.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0.5,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4681",
+        "remarks": "> Instructor : Prof CHENG, Margaret\n> For Kellogg-HKUST EMBA students only\n> Class Duration/Dates : 15-Nov-2025 to 16-Nov-2025\n> Add/Drop Deadline : 15-Nov-2025",
+        "quota": 25,
+        "enroll": 25,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2025-11-15",
             "toDate": "2025-11-16",
             "weekdays": [],
             "fromTime": null,

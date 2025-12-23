@@ -1073,6 +1073,45 @@
     ]
   },
   {
+    "career": "RPG",
+    "subject": "ELEC",
+    "number": "6900A",
+    "code": "ELEC6900A",
+    "name": "Independent Study",
+    "description": "Selected topics in electronic and computer engineering studied under the supervision of a faculty member. Graded P or F.",
+    "previousCodes": "ELEC690",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1075",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-01-02",
+            "toDate": "2026-01-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "UGRD",
     "subject": "ENGG",
     "number": "1900",
@@ -1244,7 +1283,7 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "",
-    "credits": 3,
+    "credits": 0,
     "attributes": [],
     "classes": [
       {
@@ -1283,7 +1322,7 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "",
-    "credits": 3,
+    "credits": 0,
     "attributes": [],
     "classes": [
       {
@@ -1381,6 +1420,45 @@
             "venue": "TBA",
             "fromDate": "2026-01-11",
             "toDate": "2026-01-13",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "IEDA",
+    "number": "6900A",
+    "code": "IEDA6900A",
+    "name": "Research Project",
+    "description": "An independent research project carried out under the supervision of a faculty member. This course is only available for exchange, visiting and visiting internship students.",
+    "previousCodes": "IELM6900A,IELM690A",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1076",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-01-02",
+            "toDate": "2026-01-29",
             "weekdays": [],
             "fromTime": null,
             "toTime": null
