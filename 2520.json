@@ -2906,6 +2906,45 @@
   },
   {
     "career": "UGRD",
+    "subject": "PHYS",
+    "number": "4090C",
+    "code": "PHYS4090C",
+    "name": "Directed Studies in Physics III",
+    "description": "This course covers special topics selected by the instructor on the basis of individual student's request. For students in their fourth year of study only. The instructor's approval is required for taking this course. May be repeated for credits.",
+    "previousCodes": "",
+    "prerequisites": "CGA at 2.70 or above",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1077",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-01-02",
+            "toDate": "2026-01-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
     "subject": "SBMT",
     "number": "2200Z",
     "code": "SBMT2200Z",
