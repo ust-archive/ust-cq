@@ -361,6 +361,45 @@
   {
     "career": "RPG",
     "subject": "CIVL",
+    "number": "6010A",
+    "code": "CIVL6010A",
+    "name": "Directed Studies",
+    "description": "Specialist courses where instruction is generally on a one-to-one basis. Graded P or F.",
+    "previousCodes": "CIVL610A",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1080",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-01-02",
+            "toDate": "2026-01-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "CIVL",
     "number": "6050N",
     "code": "CIVL6050N",
     "name": "Civil Engineering Seminar I",
@@ -2494,14 +2533,14 @@
         "number": "1056",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 07-Jan-2026",
         "quota": 40,
-        "enroll": 36,
+        "enroll": 35,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "IS",
             "quota": 40,
-            "enroll": 36
+            "enroll": 35
           }
         ],
         "schedule": [
