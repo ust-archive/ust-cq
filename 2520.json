@@ -3089,14 +3089,14 @@
         "number": "1043",
         "remarks": "> For PT-MBA Year 1 students only\n> Add/Drop Deadline : 05-Jan-2026",
         "quota": 69,
-        "enroll": 68,
+        "enroll": 66,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MBA",
             "quota": 69,
-            "enroll": 68
+            "enroll": 66
           }
         ],
         "schedule": [
@@ -3211,6 +3211,45 @@
             ],
             "fromTime": "14:00",
             "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "OCES",
+    "number": "4910A",
+    "code": "OCES4910A",
+    "name": "Independent Study",
+    "description": "Independent studies or projects under the directed guidance of a faculty member. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. Students may repeat the course up to two times if different topics are taken. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1087",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-01-02",
+            "toDate": "2026-01-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
