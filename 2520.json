@@ -582,7 +582,7 @@
         "number": "1030",
         "remarks": "> Add/Drop Deadline: 08-Jan-2026",
         "quota": 50,
-        "enroll": 41,
+        "enroll": 40,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -712,6 +712,84 @@
               "CHOW, Yu Hang",
               "HAGHIGHI, Arman",
               "LEUNG, Wai Ting"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-01-02",
+            "toDate": "2026-01-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "COMP",
+    "number": "4971K",
+    "code": "COMP4971K",
+    "name": "Independent Work",
+    "description": "Independent studies or projects under the directed guidance of a faculty member on a computer science topic. A written report, presentation, and/or an examination are required. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. May be repeated for credits.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1089",
+        "remarks": "> Add/Drop Deadline: 08-Jan-2026",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CHEN, Hao"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-01-02",
+            "toDate": "2026-01-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "COMP",
+    "number": "4971T",
+    "code": "COMP4971T",
+    "name": "Independent Work",
+    "description": "Independent studies or projects under the directed guidance of a faculty member on a computer science topic. A written report, presentation, and/or an examination are required. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. May be repeated for credits.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 4,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1088",
+        "remarks": "> Add/Drop Deadline: 08-Jan-2026",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "SONG, Yangqiu"
             ],
             "venue": "TBA",
             "fromDate": "2026-01-02",
@@ -2390,14 +2468,14 @@
         "number": "1015",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> Add/Drop Deadline : 05-Jan-2026",
         "quota": 60,
-        "enroll": 14,
+        "enroll": 15,
         "waitlist": 18,
         "consent": false,
         "reservedQuota": [
           {
             "name": "OM",
             "quota": 60,
-            "enroll": 14
+            "enroll": 15
           }
         ],
         "schedule": [
