@@ -338,7 +338,7 @@
         "number": "1020",
         "remarks": "> Add/Drop Deadline: 08-Jan-2026",
         "quota": 40,
-        "enroll": 30,
+        "enroll": 31,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -542,7 +542,7 @@
         "number": "1029",
         "remarks": "> Add/Drop Deadline: 08-Jan-2026",
         "quota": 50,
-        "enroll": 50,
+        "enroll": 49,
         "waitlist": 4,
         "consent": false,
         "reservedQuota": [],
@@ -2239,7 +2239,7 @@
         "remarks": "> Add/Drop Deadline : 08-Jan-2026",
         "quota": 80,
         "enroll": 79,
-        "waitlist": 82,
+        "waitlist": 81,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -2549,13 +2549,7 @@
         "enroll": 15,
         "waitlist": 18,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "OM",
-            "quota": 60,
-            "enroll": 15
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
