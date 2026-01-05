@@ -502,7 +502,7 @@
         "remarks": "> The class is delivered in a self-paced online mode\n> Add/Drop Deadline: 08-Jan-2026",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 13,
+        "waitlist": 11,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -543,7 +543,7 @@
         "remarks": "> Add/Drop Deadline: 08-Jan-2026",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 7,
+        "waitlist": 6,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -1017,7 +1017,7 @@
         "number": "1036",
         "remarks": "> For MSc(ECON) students only\n> Add/Drop Deadline : 06-Jan-2026",
         "quota": 100,
-        "enroll": 82,
+        "enroll": 81,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1089,7 +1089,7 @@
         "remarks": "> For MSc(ECON) students only\n> Add/Drop Deadline : 07-Jan-2026",
         "quota": 80,
         "enroll": 80,
-        "waitlist": 3,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -2156,7 +2156,7 @@
         "remarks": "> Add/Drop Deadline : 06-Jan-2026",
         "quota": 80,
         "enroll": 80,
-        "waitlist": 51,
+        "waitlist": 48,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -2334,7 +2334,7 @@
         "remarks": "> Add/Drop Deadline : 05-Jan-2026",
         "quota": 195,
         "enroll": 195,
-        "waitlist": 47,
+        "waitlist": 45,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -2417,7 +2417,7 @@
         "remarks": "> Add/Drop Deadline : 06-Jan-2026",
         "quota": 100,
         "enroll": 100,
-        "waitlist": 120,
+        "waitlist": 119,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -2593,7 +2593,7 @@
         "remarks": "> For MSc(ISM) students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 05-Jan-2026",
         "quota": 48,
         "enroll": 48,
-        "waitlist": 3,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [
           {
@@ -4106,6 +4106,45 @@
             "venue": "TBA",
             "fromDate": "2026-01-02",
             "toDate": "2026-01-25",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "SHSS",
+    "number": "1020A",
+    "code": "SHSS1020A",
+    "name": "Humanities and Social Science Internship",
+    "description": "This course aims to provide students with internship educational opportunities locally and globally. Under the guidance of the course coordinator, students will undertake training and supervised internships with our potential collaborators (including government departments, NGOs, museums, media and press, cultural industries, social enterprises, social service organizations, business firms, and public corporations). Course assessment will be based on students' written reports and supervisors' evaluation. Cantonese may be used in off-campus trainings and internships, in some situations. May be repeated for credits. For students of GCS and QSA program only. Instructor's approval is required for enrolling in the course. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1093",
+        "remarks": " ",
+        "quota": 8,
+        "enroll": 8,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "WONG, James K."
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-01-02",
+            "toDate": "2026-01-29",
             "weekdays": [],
             "fromTime": null,
             "toTime": null
