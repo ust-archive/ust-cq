@@ -384,7 +384,7 @@
         "number": "1020",
         "remarks": "> Add/Drop Deadline: 08-Jan-2026",
         "quota": 40,
-        "enroll": 31,
+        "enroll": 32,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -2282,6 +2282,45 @@
   },
   {
     "career": "UGRD",
+    "subject": "ISDN",
+    "number": "4900B",
+    "code": "ISDN4900B",
+    "name": "Independent Study",
+    "description": "Independent studies or projects under the directed guidance of a faculty member on an integrative systems and design topic. A written report, presentation, and/or an examination are required. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. May be repeated for credits. May be graded PP.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1098",
+        "remarks": "> Add/Drop Deadline: 08-Jan-2026",
+        "quota": 3,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "SCHARFF, Rob"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-01-02",
+            "toDate": "2026-01-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
     "subject": "ISOM",
     "number": "1090",
     "code": "ISOM1090",
@@ -2319,7 +2358,7 @@
         "remarks": "> Add/Drop Deadline : 06-Jan-2026",
         "quota": 80,
         "enroll": 80,
-        "waitlist": 27,
+        "waitlist": 26,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
