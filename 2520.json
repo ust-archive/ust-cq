@@ -172,7 +172,7 @@
         "remarks": "> Instructor : MATTHEWS, Justin; GUINBERT, Matthew\n> Class held in room 6580 on 23-Jan-2026\n> Add/Drop Deadline : 07-Jan-2026\n> Extended Drop Deadline : 12-Jan-2026",
         "quota": 46,
         "enroll": 46,
-        "waitlist": 17,
+        "waitlist": 14,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -282,14 +282,14 @@
         "number": "1052",
         "remarks": "> Add/Drop Deadline : 06-Jan-2026\n> Extended Drop Deadline : 12-Jan-2026",
         "quota": 50,
-        "enroll": 50,
-        "waitlist": 8,
+        "enroll": 49,
+        "waitlist": 7,
         "consent": false,
         "reservedQuota": [
           {
             "name": "AMCC",
             "quota": 8,
-            "enroll": 8
+            "enroll": 7
           }
         ],
         "schedule": [
@@ -422,8 +422,8 @@
         "section": "R1",
         "number": "1080",
         "remarks": " ",
-        "quota": 1,
-        "enroll": 1,
+        "quota": 2,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -547,8 +547,8 @@
         "number": "1025",
         "remarks": "> The class is delivered in a self-paced online mode\n> Add/Drop Deadline: 08-Jan-2026",
         "quota": 50,
-        "enroll": 49,
-        "waitlist": 7,
+        "enroll": 50,
+        "waitlist": 6,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -773,6 +773,45 @@
   {
     "career": "UGRD",
     "subject": "COMP",
+    "number": "4971A",
+    "code": "COMP4971A",
+    "name": "Independent Work",
+    "description": "Independent studies or projects under the directed guidance of a faculty member on a computer science topic. A written report, presentation, and/or an examination are required. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. May be repeated for credits.",
+    "previousCodes": "COMP390A",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1097",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-01-02",
+            "toDate": "2026-01-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "COMP",
     "number": "4971K",
     "code": "COMP4971K",
     "name": "Independent Work",
@@ -943,7 +982,7 @@
       {
         "section": "R1",
         "number": "1095",
-        "remarks": "> Add/Drop Deadline: 10-Jan-2026\n> Extended Drop Deadline: 17-Jan-2011",
+        "remarks": "> Add/Drop Deadline: 10-Jan-2026",
         "quota": 1,
         "enroll": 0,
         "waitlist": 0,
@@ -1102,7 +1141,7 @@
         "number": "1036",
         "remarks": "> For MSc(ECON) students only\n> Add/Drop Deadline : 06-Jan-2026",
         "quota": 100,
-        "enroll": 78,
+        "enroll": 77,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1173,8 +1212,8 @@
         "number": "1037",
         "remarks": "> For MSc(ECON) students only\n> Add/Drop Deadline : 07-Jan-2026",
         "quota": 80,
-        "enroll": 80,
-        "waitlist": 2,
+        "enroll": 79,
+        "waitlist": 1,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -1409,8 +1448,8 @@
         "section": "R1",
         "number": "1075",
         "remarks": " ",
-        "quota": 2,
-        "enroll": 2,
+        "quota": 3,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2279,8 +2318,8 @@
         "number": "1010",
         "remarks": "> Add/Drop Deadline : 06-Jan-2026",
         "quota": 80,
-        "enroll": 79,
-        "waitlist": 33,
+        "enroll": 80,
+        "waitlist": 30,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -2363,7 +2402,7 @@
         "remarks": "> Add/Drop Deadline : 08-Jan-2026",
         "quota": 80,
         "enroll": 80,
-        "waitlist": 61,
+        "waitlist": 59,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -2541,7 +2580,7 @@
         "remarks": "> Add/Drop Deadline : 06-Jan-2026",
         "quota": 100,
         "enroll": 100,
-        "waitlist": 78,
+        "waitlist": 76,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -2599,7 +2638,7 @@
         "number": "1013",
         "remarks": "> Add/Drop Deadline : 07-Jan-2026",
         "quota": 60,
-        "enroll": 25,
+        "enroll": 24,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2904,7 +2943,7 @@
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 07-Jan-2026",
         "quota": 60,
         "enroll": 60,
-        "waitlist": 4,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [
           {
@@ -3328,6 +3367,45 @@
           {
             "instructors": [
               "FUNG, Jimmy Chi Hung"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-01-02",
+            "toDate": "2026-01-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "MECH",
+    "number": "6950C",
+    "code": "MECH6950C",
+    "name": "Independent Studies",
+    "description": "An independent research project carried out under the supervision of a faculty member. (Only one independent studies course may be used to satisfy the course requirements for any postgraduate program in the Department of Mechanical Engineering.)",
+    "previousCodes": "MECH695C",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1096",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
             ],
             "venue": "TBA",
             "fromDate": "2026-01-02",
