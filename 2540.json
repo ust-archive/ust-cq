@@ -2542,6 +2542,74 @@
   {
     "career": "UGRD",
     "subject": "ENTR",
+    "number": "1001",
+    "code": "ENTR1001",
+    "name": "Entrepreneurship 1001: Designing Your Future",
+    "description": "This course introduces a variety of key entrepreneurship competence including skills, knowledge, and mindsets. Through working on student-centric and team-based projects, students will learn through the practice of entrepreneurship. In addition to experiential learning, students will also participate in in-depth conversations with entrepreneurs from all walks of life. Students will have opportunities to gain authentic entrepreneurial experiences and embark on their own entrepreneurial journey. This course does not require students to have previous entrepreneurial experience or any form of business training. Students from all majors and backgrounds are welcome!",
+    "previousCodes": "CORE1001",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [
+      {
+        "attribute": "4Y",
+        "value": "14",
+        "attributeDescription": "Students admitted before 2022",
+        "valueDescription": "Common Core (S&T) for 36-credit program"
+      },
+      {
+        "attribute": "CC22",
+        "value": "27",
+        "attributeDescription": "Students admitted in 2022-2024",
+        "valueDescription": "Common Core (T) for 30-credit prog in 22-24"
+      },
+      {
+        "attribute": "CC25",
+        "value": "40",
+        "attributeDescription": "Students admitted from 2025",
+        "valueDescription": "Common Core (T) for 30-credit prog fr 25"
+      },
+      {
+        "attribute": "DELI",
+        "value": "EXP",
+        "attributeDescription": "Mode of Delivery",
+        "valueDescription": "[EXP] Experiential learning"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1166",
+        "remarks": "> The class is delivered in a experiential learning mode\n> Add/Drop Deadline : 16-Jul-2026",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TSUI, Chi Ying"
+            ],
+            "venue": "Rm 2463, Lift 25-26 (42)",
+            "fromDate": "2026-07-13",
+            "toDate": "2026-08-07",
+            "weekdays": [
+              1,
+              3,
+              5
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENTR",
     "number": "3360",
     "code": "ENTR3360",
     "name": "From Product Innovations to Successful Technology Startups",
