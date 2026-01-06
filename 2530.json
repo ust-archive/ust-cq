@@ -14567,7 +14567,7 @@
         "number": "2193",
         "remarks": " ",
         "quota": 156,
-        "enroll": 66,
+        "enroll": 65,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -50854,60 +50854,6 @@
             ],
             "fromTime": "15:00",
             "toTime": "17:50"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "RPG",
-    "subject": "HUMA",
-    "number": "5343",
-    "code": "HUMA5343",
-    "name": "Interactions of the Living and Dead in Chinese Literature",
-    "description": "This course introduces a basic aspect of the multifaceted history of Chinese culture and civilization by focusing on the cultural practice of taking care of the dead in premodern Chinese literature. We will observe how the interaction between the living and the dead had been depicted in oracle bone inscriptions (Shang), writings on ritual (Zhou), protective talismans (Han), roaming immortals literature (Tang and Song), Yuan plays, and late imperial ghost stories. In so doing, we will realize that the boundaries between the living and the dead was apparently perceived to be quite porous and open in pre-modern China. In other words, the dead apparently played as much of a role in society and everyday life as living family members, friends, and government officials, as may still be experienced in parts of mainland China, Taiwan, and the Chinese diaspora.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 3,
-    "attributes": [
-      {
-        "attribute": "READ",
-        "value": "C",
-        "attributeDescription": "Reading Material",
-        "valueDescription": "[C] Require Chinese reading"
-      }
-    ],
-    "classes": [
-      {
-        "section": "T1",
-        "number": "1333",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [
-          {
-            "name": "HUMA",
-            "quota": 20,
-            "enroll": 0
-          }
-        ],
-        "schedule": [
-          {
-            "instructors": [
-              "ZUERN, Tobias Benedikt"
-            ],
-            "venue": "Rm 5566, Lift 27-28 (24)",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              4
-            ],
-            "fromTime": "09:00",
-            "toTime": "11:50"
           }
         ]
       }

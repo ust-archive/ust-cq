@@ -384,7 +384,7 @@
         "number": "1020",
         "remarks": "> Add/Drop Deadline: 08-Jan-2026",
         "quota": 40,
-        "enroll": 32,
+        "enroll": 34,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -788,15 +788,57 @@
         "section": "R1",
         "number": "1097",
         "remarks": " ",
-        "quota": 1,
-        "enroll": 1,
+        "quota": 2,
+        "enroll": 2,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "FUNG, Yi R. (May)",
+              "GUO, Song",
+              "TSOI, Yau Chat",
+              "ZHANG, Charles Chuan"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-01-02",
+            "toDate": "2026-01-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "COMP",
+    "number": "4971B",
+    "code": "COMP4971B",
+    "name": "Independent Work",
+    "description": "Independent studies or projects under the directed guidance of a faculty member on a computer science topic. A written report, presentation, and/or an examination are required. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. May be repeated for credits.",
+    "previousCodes": "COMP390B",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1099",
+        "remarks": "> Add/Drop Deadline: 10-Jan-2026",
+        "quota": 2,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TSOI, Yau Chat"
             ],
             "venue": "TBA",
             "fromDate": "2026-01-02",
@@ -836,6 +878,45 @@
           {
             "instructors": [
               "CHEN, Hao"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-01-02",
+            "toDate": "2026-01-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "COMP",
+    "number": "4971L",
+    "code": "COMP4971L",
+    "name": "Independent Work",
+    "description": "Independent studies or projects under the directed guidance of a faculty member on a computer science topic. A written report, presentation, and/or an examination are required. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. May be repeated for credits.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 4,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1100",
+        "remarks": "> Add/Drop Deadline: 10-Jan-2026",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TSOI, Yau Chat"
             ],
             "venue": "TBA",
             "fromDate": "2026-01-02",
@@ -1212,7 +1293,7 @@
         "number": "1037",
         "remarks": "> For MSc(ECON) students only\n> Add/Drop Deadline : 07-Jan-2026",
         "quota": 80,
-        "enroll": 79,
+        "enroll": 80,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -2619,7 +2700,7 @@
         "remarks": "> Add/Drop Deadline : 06-Jan-2026",
         "quota": 100,
         "enroll": 100,
-        "waitlist": 68,
+        "waitlist": 67,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
