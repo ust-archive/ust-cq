@@ -17399,7 +17399,7 @@
         "number": "2313",
         "remarks": " ",
         "quota": 800,
-        "enroll": 794,
+        "enroll": 795,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -36204,6 +36204,47 @@
             ],
             "fromTime": "15:00",
             "toTime": "17:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENTR",
+    "number": "4000G",
+    "code": "ENTR4000G",
+    "name": "Inventions to Impact: Venture Creation Lab",
+    "description": "This course guides students through the journey of transforming inventive ideas into commercially viable ventures, from initial concept to market entry. The course covers identifying product market fit, defining target markets, analyzing competition, estimating market size, and designing customer acquisition and sales channel strategies. Students work with real inventions and technology concepts sourced from faculty research, public research outputs, open innovation challenges, and student initiated ideas, learning to interpret invention disclosures, patent research, and proof of concept prototypes to uncover commercial applications. Through project based teamwork, they develop commercialization roadmaps and venture concepts, building higher order strategic thinking skills and interdisciplinary collaboration to bring inventions to market creating impact. Instructor consent is required.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4409",
+        "remarks": " ",
+        "quota": 40,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CHUN, Daniel"
+            ],
+            "venue": "Rm 2504, Lift 25-26 (84)",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "09:00",
+            "toTime": "11:50"
           }
         ]
       }
@@ -78998,7 +79039,7 @@
         "number": "1505",
         "remarks": " ",
         "quota": 190,
-        "enroll": 164,
+        "enroll": 163,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
