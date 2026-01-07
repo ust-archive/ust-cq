@@ -172,7 +172,7 @@
         "remarks": "> Instructor : MATTHEWS, Justin; GUINBERT, Matthew\n> Class held in room 6580 on 23-Jan-2026\n> Add/Drop Deadline : 07-Jan-2026\n> Extended Drop Deadline : 12-Jan-2026",
         "quota": 46,
         "enroll": 46,
-        "waitlist": 7,
+        "waitlist": 8,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -320,6 +320,45 @@
             ],
             "fromTime": "13:00",
             "toTime": "15:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "CENG",
+    "number": "6900C",
+    "code": "CENG6900C",
+    "name": "Independent Study",
+    "description": "Selected topics in chemical engineering studied under the supervision of a faculty member. Graded P or F.",
+    "previousCodes": "CENG690C",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "CENG 6800",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1101",
+        "remarks": " ",
+        "quota": 5,
+        "enroll": 5,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-01-02",
+            "toDate": "2026-01-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -554,7 +593,7 @@
         "remarks": "> The class is delivered in a self-paced online mode\n> Add/Drop Deadline: 08-Jan-2026",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 4,
+        "waitlist": 5,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -3206,14 +3245,14 @@
         "number": "1056",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 07-Jan-2026",
         "quota": 40,
-        "enroll": 29,
+        "enroll": 28,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "IS",
             "quota": 40,
-            "enroll": 29
+            "enroll": 28
           }
         ],
         "schedule": [
