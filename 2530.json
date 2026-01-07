@@ -23435,14 +23435,14 @@
             "instructors": [
               "MENG, Xiaoxuan"
             ],
-            "venue": "Rm 1007, LSK Bldg (80)",
+            "venue": "Rm 1009, LSK Bldg (80)",
             "fromDate": "2026-02-02",
             "toDate": "2026-05-09",
             "weekdays": [
               5
             ],
-            "fromTime": "16:30",
-            "toTime": "17:20"
+            "fromTime": "18:00",
+            "toTime": "18:50"
           }
         ]
       }
@@ -93490,6 +93490,12 @@
         "value": "BLD",
         "attributeDescription": "Mode of Delivery",
         "valueDescription": "[BLD] Blended learning"
+      },
+      {
+        "attribute": "DELI",
+        "value": "RTO",
+        "attributeDescription": "Mode of Delivery",
+        "valueDescription": "[RTO] Real-time online delivery"
       }
     ],
     "classes": [
@@ -93521,7 +93527,7 @@
       {
         "section": "L2",
         "number": "1835",
-        "remarks": "> For MSc(GCS) students only\n> The class is delivered in a blended learning mode",
+        "remarks": "> For MSc(GCS) students only\n> The class is delivered in a blended learning and real-time online mode",
         "quota": 40,
         "enroll": 0,
         "waitlist": 0,
@@ -93532,7 +93538,7 @@
             "instructors": [
               "ZWEIG, David Stephen"
             ],
-            "venue": "Rm 3401, Lift 17-18",
+            "venue": "TBA",
             "fromDate": "2026-02-02",
             "toDate": "2026-05-09",
             "weekdays": [
@@ -108108,7 +108114,7 @@
         "number": "4119",
         "remarks": " ",
         "quota": 8,
-        "enroll": 0,
+        "enroll": 8,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -108130,8 +108136,8 @@
         "section": "LA2",
         "number": "4121",
         "remarks": " ",
-        "quota": 8,
-        "enroll": 0,
+        "quota": 11,
+        "enroll": 11,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -108154,7 +108160,7 @@
         "number": "4123",
         "remarks": " ",
         "quota": 8,
-        "enroll": 0,
+        "enroll": 5,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -108177,7 +108183,7 @@
         "number": "4125",
         "remarks": " ",
         "quota": 8,
-        "enroll": 0,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -108200,7 +108206,7 @@
         "number": "4127",
         "remarks": " ",
         "quota": 8,
-        "enroll": 0,
+        "enroll": 7,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -108223,7 +108229,7 @@
         "number": "4129",
         "remarks": " ",
         "quota": 8,
-        "enroll": 0,
+        "enroll": 5,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -108246,7 +108252,7 @@
         "number": "4131",
         "remarks": " ",
         "quota": 8,
-        "enroll": 0,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -108269,7 +108275,7 @@
         "number": "4133",
         "remarks": " ",
         "quota": 18,
-        "enroll": 0,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -108292,7 +108298,7 @@
         "number": "4135",
         "remarks": " ",
         "quota": 18,
-        "enroll": 0,
+        "enroll": 15,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -108317,7 +108323,7 @@
         "number": "4137",
         "remarks": " ",
         "quota": 18,
-        "enroll": 0,
+        "enroll": 15,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -108342,7 +108348,7 @@
         "number": "4138",
         "remarks": " ",
         "quota": 18,
-        "enroll": 0,
+        "enroll": 14,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
