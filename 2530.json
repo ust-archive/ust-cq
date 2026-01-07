@@ -2560,7 +2560,7 @@
         "number": "1016",
         "remarks": "> For PhD(ACCT) students only",
         "quota": 15,
-        "enroll": 0,
+        "enroll": 6,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -14567,7 +14567,7 @@
         "number": "2193",
         "remarks": " ",
         "quota": 156,
-        "enroll": 65,
+        "enroll": 60,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -41922,66 +41922,6 @@
   {
     "career": "TPG",
     "subject": "FINA",
-    "number": "5680",
-    "code": "FINA5680",
-    "name": "Asia's Stock Markets",
-    "description": "This course is highly relevant to students interested to become macro-traders, portfolio managers, buy/sell-side analysts or work at a hedge fund, with a particular focus on Asia. The course will teach students the characteristics of the larger, liquid stock markets across Asia, from China and Hong Kong to Korea, Taiwan, India and ASEAN markets. Students will learn what drives these markets, what they have in common and how they behave.",
-    "previousCodes": "",
-    "prerequisites": "FINA 5210",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 2,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "L1",
-        "number": "1296",
-        "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 06-Apr-2026",
-        "quota": 65,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [
-          {
-            "name": "FINA",
-            "quota": 65,
-            "enroll": 0
-          }
-        ],
-        "schedule": [
-          {
-            "instructors": [
-              "VAN DER LINDE, Herald"
-            ],
-            "venue": "G003, LSK Bldg (75)",
-            "fromDate": "2026-03-30",
-            "toDate": "2026-03-30",
-            "weekdays": [
-              1
-            ],
-            "fromTime": "19:00",
-            "toTime": "22:20"
-          },
-          {
-            "instructors": [
-              "VAN DER LINDE, Herald"
-            ],
-            "venue": "G003, LSK Bldg (75)",
-            "fromDate": "2026-04-13",
-            "toDate": "2026-05-25",
-            "weekdays": [
-              1
-            ],
-            "fromTime": "19:00",
-            "toTime": "22:20"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "TPG",
-    "subject": "FINA",
     "number": "5690",
     "code": "FINA5690",
     "name": "Family Office",
@@ -66118,15 +66058,15 @@
             "instructors": [
               "TBA"
             ],
-            "venue": "Rm 2127A, Lift 19 (28)",
-            "fromDate": "2026-03-16",
-            "toDate": "2026-04-20",
+            "venue": "Rm 2132B, Lift 19 (28)",
+            "fromDate": "2026-03-17",
+            "toDate": "2026-04-21",
             "weekdays": [
-              1,
-              3
+              2,
+              4
             ],
-            "fromTime": "09:00",
-            "toTime": "10:20"
+            "fromTime": "10:30",
+            "toTime": "11:50"
           }
         ]
       }
@@ -81383,7 +81323,7 @@
             "instructors": [
               "RAITT, Gene"
             ],
-            "venue": "TBA",
+            "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-04-13",
             "toDate": "2026-04-13",
             "weekdays": [
@@ -81608,12 +81548,25 @@
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-02-23",
-            "toDate": "2026-03-23",
+            "toDate": "2026-03-16",
             "weekdays": [
               1
             ],
             "fromTime": "09:30",
             "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "HELSEN, Kristiaan"
+            ],
+            "venue": "G003, LSK Bldg (75)",
+            "fromDate": "2026-03-24",
+            "toDate": "2026-03-24",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "18:00",
+            "toTime": "21:20"
           }
         ]
       },
@@ -81652,12 +81605,25 @@
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-02-24",
-            "toDate": "2026-03-24",
+            "toDate": "2026-03-17",
             "weekdays": [
               2
             ],
             "fromTime": "09:30",
             "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "HELSEN, Kristiaan"
+            ],
+            "venue": "Rm 1001, LSK Bldg (75)",
+            "fromDate": "2026-03-24",
+            "toDate": "2026-03-24",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "18:00",
+            "toTime": "21:20"
           }
         ]
       },
@@ -81696,12 +81662,25 @@
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-02-27",
-            "toDate": "2026-03-27",
+            "toDate": "2026-03-20",
             "weekdays": [
               5
             ],
             "fromTime": "09:30",
             "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "HELSEN, Kristiaan"
+            ],
+            "venue": "Rm 1003, LSK Bldg (75)",
+            "fromDate": "2026-03-24",
+            "toDate": "2026-03-24",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "18:00",
+            "toTime": "21:20"
           }
         ]
       }
@@ -82680,7 +82659,7 @@
               "PEREIRA, Kevin",
               "POON, Emily"
             ],
-            "venue": "Rm 1001, LSK Bldg (75)",
+            "venue": "Rm 2003, LSK Bldg",
             "fromDate": "2026-04-09",
             "toDate": "2026-04-09",
             "weekdays": [
@@ -97302,10 +97281,10 @@
             "fromDate": "2026-02-02",
             "toDate": "2026-05-09",
             "weekdays": [
-              4
+              2
             ],
-            "fromTime": "12:00",
-            "toTime": "14:50"
+            "fromTime": "16:30",
+            "toTime": "19:20"
           }
         ]
       }
@@ -107350,6 +107329,45 @@
             ],
             "fromTime": "10:30",
             "toTime": "11:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "PPOL",
+    "number": "6000A",
+    "code": "PPOL6000A",
+    "name": "Independent Study",
+    "description": "Independent study in a designated subject under direct guidance of a faculty member to provide students the advanced knowledge and research skill sets on a public policy topic. Required readings, tutorial discussions, and submission of report(s) will be used for assessment. The course may be repeated for credit if different topics are studied. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4408",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "DE TROULLIOUD DE LANVERSIN, Julien"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
