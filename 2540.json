@@ -3119,6 +3119,83 @@
   {
     "career": "UGRD",
     "subject": "HUMA",
+    "number": "1675",
+    "code": "HUMA1675",
+    "name": "Global History of Explorations",
+    "description": "This course explores the history of global discoveries and explorations from ancient times to the present day. Students will examine the motivations, methods, and consequences of exploration, including the impact on cultures, economies, and environments. The course will cover major events and figures, including the Age of Exploration, the Silk Road, and the voyages of Zheng He and Christopher Columbus. Students will also analyze the effects of colonialism and imperialism on indigenous populations and the global distribution of power. Through readings, discussions, and research projects, students will develop critical thinking skills and gain a deeper understanding of the interconnectedness of world history. This course is designed for students seeking a broad understanding of global history and its impact on contemporary issues.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [
+      {
+        "attribute": "4Y",
+        "value": "12",
+        "attributeDescription": "Students admitted before 2022",
+        "valueDescription": "Common Core (H) for 36-credit program"
+      },
+      {
+        "attribute": "CC22",
+        "value": "25",
+        "attributeDescription": "Students admitted in 2022-2024",
+        "valueDescription": "Common Core (H) for 30-credit prog in 22-24"
+      },
+      {
+        "attribute": "CC25",
+        "value": "38",
+        "attributeDescription": "Students admitted from 2025",
+        "valueDescription": "Common Core (H) for 30-credit prog fr 25"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1167",
+        "remarks": "> Add/Drop Deadline : 20-Jun-2026",
+        "quota": 100,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CABOARA, Marco"
+            ],
+            "venue": "Rm 2464, Lift 25-26 (122)",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-07-03",
+            "weekdays": [
+              1,
+              3,
+              5
+            ],
+            "fromTime": "14:30",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "CABOARA, Marco"
+            ],
+            "venue": "Rm 2464, Lift 25-26 (122)",
+            "fromDate": "2026-07-06",
+            "toDate": "2026-07-10",
+            "weekdays": [
+              1,
+              3,
+              5
+            ],
+            "fromTime": "14:30",
+            "toTime": "18:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "HUMA",
     "number": "2107",
     "code": "HUMA2107",
     "name": "Introduction to Electronic Music Composition",
