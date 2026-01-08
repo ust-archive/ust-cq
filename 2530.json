@@ -62167,7 +62167,7 @@
         "section": "L1",
         "number": "1433",
         "remarks": "> Instructor : Dr JIA, Justin\n> For MSc(BA) students only\n> Add/Drop Deadline : 13-Apr-2026",
-        "quota": 63,
+        "quota": 65,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -62189,6 +62189,11 @@
           },
           {
             "name": "MIMT",
+            "quota": 2,
+            "enroll": 0
+          },
+          {
+            "name": "TLE",
             "quota": 2,
             "enroll": 0
           }
@@ -63994,7 +63999,7 @@
         "section": "L1",
         "number": "1389",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 02-Feb-2026",
-        "quota": 51,
+        "quota": 53,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -64011,7 +64016,7 @@
           },
           {
             "name": "FOFB",
-            "quota": 1,
+            "quota": 3,
             "enroll": 0
           }
         ],
@@ -66695,7 +66700,7 @@
             "instructors": [
               "TBA"
             ],
-            "venue": "Rm 2126B, Lift 19 (28)",
+            "venue": "Rm 3316, Lift 17-18",
             "fromDate": "2026-02-02",
             "toDate": "2026-05-09",
             "weekdays": [
@@ -66721,7 +66726,7 @@
             "instructors": [
               "TBA"
             ],
-            "venue": "Rm 2126B, Lift 19 (28)",
+            "venue": "Rm 3316, Lift 17-18",
             "fromDate": "2026-02-02",
             "toDate": "2026-05-09",
             "weekdays": [
@@ -66747,7 +66752,7 @@
             "instructors": [
               "TBA"
             ],
-            "venue": "Rm 2126A, Lift 19 (28)",
+            "venue": "Rm 3316, Lift 17-18",
             "fromDate": "2026-02-02",
             "toDate": "2026-05-09",
             "weekdays": [
@@ -81721,25 +81726,12 @@
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-02-23",
-            "toDate": "2026-03-16",
+            "toDate": "2026-03-23",
             "weekdays": [
               1
             ],
             "fromTime": "09:30",
             "toTime": "12:50"
-          },
-          {
-            "instructors": [
-              "HELSEN, Kristiaan"
-            ],
-            "venue": "G003, LSK Bldg (75)",
-            "fromDate": "2026-03-24",
-            "toDate": "2026-03-24",
-            "weekdays": [
-              2
-            ],
-            "fromTime": "18:00",
-            "toTime": "21:20"
           }
         ]
       },
@@ -81778,25 +81770,12 @@
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-02-24",
-            "toDate": "2026-03-17",
+            "toDate": "2026-03-24",
             "weekdays": [
               2
             ],
             "fromTime": "09:30",
             "toTime": "12:50"
-          },
-          {
-            "instructors": [
-              "HELSEN, Kristiaan"
-            ],
-            "venue": "Rm 1001, LSK Bldg (75)",
-            "fromDate": "2026-03-24",
-            "toDate": "2026-03-24",
-            "weekdays": [
-              2
-            ],
-            "fromTime": "18:00",
-            "toTime": "21:20"
           }
         ]
       },
@@ -81835,25 +81814,12 @@
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-02-27",
-            "toDate": "2026-03-20",
+            "toDate": "2026-03-27",
             "weekdays": [
               5
             ],
             "fromTime": "09:30",
             "toTime": "12:50"
-          },
-          {
-            "instructors": [
-              "HELSEN, Kristiaan"
-            ],
-            "venue": "Rm 1003, LSK Bldg (75)",
-            "fromDate": "2026-03-24",
-            "toDate": "2026-03-24",
-            "weekdays": [
-              2
-            ],
-            "fromTime": "18:00",
-            "toTime": "21:20"
           }
         ]
       }
