@@ -14521,7 +14521,7 @@
         "number": "2191",
         "remarks": " ",
         "quota": 216,
-        "enroll": 1,
+        "enroll": 2,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -14544,7 +14544,7 @@
         "number": "2192",
         "remarks": " ",
         "quota": 191,
-        "enroll": 85,
+        "enroll": 89,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -27045,7 +27045,7 @@
     "name": "Advanced Quality Technology and Industrial Analytics",
     "description": "This course is designed for multi-disciplinary students to learn and apply advanced quality technology and industrial analytics techniques for problem-solving and process improvement in various industries. The course will emphasize the Define, Measure, Analyze, Improve, and Control (DMAIC) methodology, along with other AI and data-driven techniques. Students will gain hands-on experience through case studies, in-class exercises, and a term project.",
     "previousCodes": "",
-    "prerequisites": "",
+    "prerequisites": "Basic knowledge of statistics, data analysis, and engineering principles. The contents will mainly follow the ASQ Six Sigma Black Belt Body of Knowledge and will skip the Six Sigma Green Belt material covered in EEMT 5220. No prior coding experience required; using LLMs for coding assistance in class is encouraged.",
     "corequisites": "",
     "exclusions": "",
     "credits": 3,
@@ -66105,6 +66105,79 @@
   {
     "career": "TPG",
     "subject": "JEVE",
+    "number": "6000I",
+    "code": "JEVE6000I",
+    "name": "Advanced Air and Noise Pollution Control for Environmental Professionals",
+    "description": "The course provides an overview of the fundamental technical knowledge of air and noise pollution, including its sources and impacts, air and noise pollution modelling, air and noise pollution management strategies, statutory requirements, air and noise pollution control technology and mitigation measures, and air and noise pollution measurements and monitoring.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4425",
+        "remarks": "> Instructor: LEE, CK; CHEUNG, Vincent",
+        "quota": 80,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "EVEM",
+            "quota": 80,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 1, 30/F, Tower 1,Millennity",
+            "fromDate": "2026-02-04",
+            "toDate": "2026-03-25",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "19:00",
+            "toTime": "21:50"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 1, 30/F, Tower 1,Millennity",
+            "fromDate": "2026-04-15",
+            "toDate": "2026-05-06",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "19:00",
+            "toTime": "21:50"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 1, 30/F, Tower 1,Millennity",
+            "fromDate": "2026-04-18",
+            "toDate": "2026-04-25",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "JEVE",
     "number": "6980B",
     "code": "JEVE6980B",
     "name": "Independent Project",
@@ -80245,6 +80318,53 @@
             ],
             "fromTime": "11:00",
             "toTime": "12:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MAIE",
+    "number": "6000B",
+    "code": "MAIE6000B",
+    "name": "Generative AI in Finance",
+    "description": "This course will introduce the concept of Generative AI beyond the ideas of deep learning. It will demonstrate how financial services institutions are able to harness the capabilities on Large Language Models and related technologies for their operations. Application scenarios cover for example the generation of Text and Code, the creation of staff augmentation tools and customer facing chatbots. We will examine the need of guardrails for Generative AI, the ethical considerations required as well as the contemporary regulatory context in HK, Asia and globally. A qualified outlook into the future of the technology and its impact will conclude the course. Upon successful completion of the course, students will have a theoretical foundation and an applicable working knowledge of Generative AI in today’s financial institutions.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4426",
+        "remarks": "> Instructor: RAHMEL, Juergen",
+        "quota": 75,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "MAIE",
+            "quota": 75,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 2, 30/F, Tower 1,Millennity",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "19:00",
+            "toTime": "21:50"
           }
         ]
       }
