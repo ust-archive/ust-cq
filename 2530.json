@@ -17424,7 +17424,7 @@
         "number": "2314",
         "remarks": " ",
         "quota": 100,
-        "enroll": 96,
+        "enroll": 95,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -37880,6 +37880,84 @@
               3
             ],
             "fromTime": "15:00",
+            "toTime": "17:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "ENVR",
+    "number": "6010P",
+    "code": "ENVR6010P",
+    "name": "Postgraduate Seminar",
+    "description": "Advanced seminar series presented by postgraduate students, faculty and guest speakers on selected topics in atmospheric environmental science or environmental science, policy and management. This course is offered once a year. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "4429",
+        "remarks": "> For MPhil/PhD (AES/ESPM) students only",
+        "quota": 45,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "ENVR",
+            "quota": 45,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "CHEN, Fei"
+            ],
+            "venue": "Rm 4504, Lift 25-26 (54)",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "16:00",
+            "toTime": "17:50"
+          }
+        ]
+      },
+      {
+        "section": "T2",
+        "number": "4430",
+        "remarks": "> For MPhil/PhD (AES/ESPM) students only",
+        "quota": 45,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "ENVR",
+            "quota": 45,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "YING, Qi"
+            ],
+            "venue": "Rm 1033, LSK Bldg (51)",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "16:00",
             "toTime": "17:50"
           }
         ]
