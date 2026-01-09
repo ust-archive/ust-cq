@@ -5506,7 +5506,7 @@
         "number": "1475",
         "remarks": " ",
         "quota": 73,
-        "enroll": 62,
+        "enroll": 69,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5672,7 +5672,7 @@
         "number": "1479",
         "remarks": " ",
         "quota": 73,
-        "enroll": 62,
+        "enroll": 69,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5712,7 +5712,7 @@
         "number": "1476",
         "remarks": " ",
         "quota": 73,
-        "enroll": 62,
+        "enroll": 69,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5854,7 +5854,7 @@
         "number": "1477",
         "remarks": " ",
         "quota": 73,
-        "enroll": 62,
+        "enroll": 69,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6012,7 +6012,7 @@
         "number": "1480",
         "remarks": " ",
         "quota": 45,
-        "enroll": 40,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6037,7 +6037,7 @@
         "number": "1481",
         "remarks": " ",
         "quota": 45,
-        "enroll": 40,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6078,7 +6078,7 @@
         "number": "1506",
         "remarks": " ",
         "quota": 30,
-        "enroll": 22,
+        "enroll": 26,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6168,7 +6168,7 @@
         "number": "1507",
         "remarks": "> Additional tutorial hours to be arranged by Division",
         "quota": 30,
-        "enroll": 22,
+        "enroll": 26,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -17624,6 +17624,45 @@
   {
     "career": "UGRD",
     "subject": "COMP",
+    "number": "4971A",
+    "code": "COMP4971A",
+    "name": "Independent Work",
+    "description": "Independent studies or projects under the directed guidance of a faculty member on a computer science topic. A written report, presentation, and/or an examination are required. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. May be repeated for credits.",
+    "previousCodes": "COMP390A",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4422",
+        "remarks": " ",
+        "quota": 5,
+        "enroll": 5,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "COMP",
     "number": "4981",
     "code": "COMP4981",
     "name": "Final Year Project",
@@ -27001,6 +27040,53 @@
   {
     "career": "TPG",
     "subject": "EEMT",
+    "number": "6000J",
+    "code": "EEMT6000J",
+    "name": "Advanced Quality Technology and Industrial Analytics",
+    "description": "This course is designed for multi-disciplinary students to learn and apply advanced quality technology and industrial analytics techniques for problem-solving and process improvement in various industries. The course will emphasize the Define, Measure, Analyze, Improve, and Control (DMAIC) methodology, along with other AI and data-driven techniques. Students will gain hands-on experience through case studies, in-class exercises, and a term project.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4424",
+        "remarks": " ",
+        "quota": 50,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "EEM",
+            "quota": 50,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TSUNG, Fugee"
+            ],
+            "venue": "Lecture Theater K (106)",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "19:30",
+            "toTime": "22:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "EEMT",
     "number": "6900",
     "code": "EEMT6900",
     "name": "Independent Study",
@@ -30192,7 +30278,7 @@
         "number": "2425",
         "remarks": "> Classes held in Room 2129B",
         "quota": 6,
-        "enroll": 5,
+        "enroll": 6,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -30267,7 +30353,7 @@
         "number": "2428",
         "remarks": "> Classes held in Room 2126B",
         "quota": 6,
-        "enroll": 5,
+        "enroll": 6,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -30617,7 +30703,7 @@
         "number": "2442",
         "remarks": "> Classes held in Room 2127B",
         "quota": 6,
-        "enroll": 5,
+        "enroll": 6,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -32454,7 +32540,7 @@
         "number": "2525",
         "remarks": "> Classes held in Room 2127A",
         "quota": 6,
-        "enroll": 3,
+        "enroll": 4,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -32679,7 +32765,7 @@
         "number": "2534",
         "remarks": "> Classes held in Room 2128A",
         "quota": 6,
-        "enroll": 3,
+        "enroll": 4,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -36201,6 +36287,47 @@
             "toDate": "2026-05-09",
             "weekdays": [
               5
+            ],
+            "fromTime": "15:00",
+            "toTime": "17:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENTR",
+    "number": "4000F",
+    "code": "ENTR4000F",
+    "name": "Startup Sprint: Mastering the Launch Process",
+    "description": "The course is a dynamic, hands-on course designed for aspiring entrepreneurs and innovators eager to turn ideas into real-world ventures. Students will learn the essentials of launching a startup, from market research and customer discovery to product positioning, pricing, and go-to-market (GTM) planning. The course blends interactive workshops, case studies, and expert insights to help participants develop actionable launch strategies and navigate the complexities of the startup landscape. Working individually or in teams, students will apply proven frameworks to validate their ideas, craft compelling value propositions, and build concise GTM plans. By the end of the course, participants will have the confidence and practical skills needed to drive successful product launches and lay the foundation for sustainable business growth. Whether you have a business idea or simply want to learn how startups succeed, this course is your sprint to startup mastery. Instructor’s approval is required for course enrollment. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4420",
+        "remarks": " ",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TSUI, Chi Ying"
+            ],
+            "venue": "Rm 2126D, Lift 19 (34)",
+            "fromDate": "2026-02-24",
+            "toDate": "2026-03-24",
+            "weekdays": [
+              2
             ],
             "fromTime": "15:00",
             "toTime": "17:50"
@@ -43548,7 +43675,7 @@
       {
         "section": "L1",
         "number": "4187",
-        "remarks": "> Add/Drop Deadline : 15-Feb-2026",
+        "remarks": " ",
         "quota": 60,
         "enroll": 0,
         "waitlist": 0,
@@ -53469,7 +53596,7 @@
         "number": "2902",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 3; Spring: 3",
         "quota": 50,
-        "enroll": 35,
+        "enroll": 46,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -53508,7 +53635,7 @@
         "number": "2903",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 3; Spring: 3",
         "quota": 50,
-        "enroll": 37,
+        "enroll": 42,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -57755,7 +57882,7 @@
       {
         "section": "L1",
         "number": "3150",
-        "remarks": "> Add/Drop Deadline : 04-Apr-2026",
+        "remarks": "> Add/Drop Deadline : 09-Feb-2026",
         "quota": 95,
         "enroll": 0,
         "waitlist": 0,
@@ -57786,7 +57913,7 @@
       {
         "section": "L2",
         "number": "3152",
-        "remarks": "> Add/Drop Deadline : 04-Apr-2026",
+        "remarks": "> Add/Drop Deadline : 09-Feb-2026",
         "quota": 95,
         "enroll": 0,
         "waitlist": 0,
@@ -57817,7 +57944,7 @@
       {
         "section": "L3",
         "number": "3154",
-        "remarks": "> Add/Drop Deadline : 04-Apr-2026",
+        "remarks": "> Add/Drop Deadline : 09-Feb-2026",
         "quota": 95,
         "enroll": 0,
         "waitlist": 0,
@@ -57848,7 +57975,7 @@
       {
         "section": "L4",
         "number": "3156",
-        "remarks": "> Add/Drop Deadline : 04-Apr-2026",
+        "remarks": "> Add/Drop Deadline : 09-Feb-2026",
         "quota": 92,
         "enroll": 0,
         "waitlist": 0,
@@ -57879,7 +58006,7 @@
       {
         "section": "L5",
         "number": "3158",
-        "remarks": "> Add/Drop Deadline : 04-Apr-2026",
+        "remarks": "> Add/Drop Deadline : 09-Feb-2026",
         "quota": 90,
         "enroll": 0,
         "waitlist": 0,
@@ -57910,7 +58037,7 @@
       {
         "section": "L6",
         "number": "3160",
-        "remarks": "> Add/Drop Deadline : 04-Apr-2026",
+        "remarks": "> Add/Drop Deadline : 09-Feb-2026",
         "quota": 90,
         "enroll": 0,
         "waitlist": 0,
@@ -65422,6 +65549,45 @@
             "instructors": [
               "YANG, Xiaodong",
               "ZHENG, Rong"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "ISOM",
+    "number": "6390A",
+    "code": "ISOM6390A",
+    "name": "Independent Study in Information Systems",
+    "description": "Study of selected information and systems management issues under the supervision of a faculty member. This course may be repeated for credit. (Special permission from the Associate Dean is required for MBA students to take this course.)",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4421",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "WANG, Jing"
             ],
             "venue": "TBA",
             "fromDate": "2026-02-02",
@@ -78723,15 +78889,15 @@
         "section": "L1",
         "number": "1496",
         "remarks": "> For MPhil & PhD (LIFS) students only.",
-        "quota": 23,
-        "enroll": 3,
+        "quota": 25,
+        "enroll": 5,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "LIFS",
-            "quota": 23,
-            "enroll": 3
+            "quota": 25,
+            "enroll": 5
           }
         ],
         "schedule": [
@@ -86433,7 +86599,7 @@
       {
         "section": "L1",
         "number": "3714",
-        "remarks": "> Instructor: XU, Luze",
+        "remarks": " ",
         "quota": 80,
         "enroll": 0,
         "waitlist": 0,
@@ -86442,7 +86608,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "XU, Luze"
             ],
             "venue": "G001, CYT Bldg (92)",
             "fromDate": "2026-02-02",
@@ -86455,7 +86621,7 @@
           },
           {
             "instructors": [
-              "TBA"
+              "XU, Luze"
             ],
             "venue": "G001, CYT Bldg (92)",
             "fromDate": "2026-02-02",
@@ -86480,7 +86646,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "XU, Luze"
             ],
             "venue": "Rm 1409, Lift 25-26 (60)",
             "fromDate": "2026-02-02",
@@ -86505,7 +86671,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "XU, Luze"
             ],
             "venue": "Rm 2503, Lift 25-26 (87)",
             "fromDate": "2026-02-02",
@@ -93060,6 +93226,45 @@
   {
     "career": "TPG",
     "subject": "MFIT",
+    "number": "5012",
+    "code": "MFIT5012",
+    "name": "FinTech Enrichment Workshops",
+    "description": "The course aims to broaden MSc(FinTech) students’ horizon and develop students’ essential knowledge and skills related to financial technology through participating in a series of enrichment activities. Different speakers, practitioners, or FinTech professionals may be invited to conduct the workshops or engagement activities. Students are required to attend at least six enrichment activities recognized by the program in order to pass this course. Graded PP, P or F.",
+    "previousCodes": "SBMT6020A",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4423",
+        "remarks": "> For MSc(FinTech) students only",
+        "quota": 150,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MFIT",
     "number": "5013",
     "code": "MFIT5013",
     "name": "Capstone FinTech Cases and Analysis",
@@ -98701,7 +98906,12 @@
           },
           {
             "name": "MIMT",
-            "quota": 26,
+            "quota": 19,
+            "enroll": 0
+          },
+          {
+            "name": "TLE",
+            "quota": 7,
             "enroll": 0
           }
         ],
@@ -106418,7 +106628,7 @@
         "number": "1646",
         "remarks": " ",
         "quota": 120,
-        "enroll": 98,
+        "enroll": 103,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -109696,7 +109906,12 @@
           },
           {
             "name": "MIMT",
-            "quota": 30,
+            "quota": 25,
+            "enroll": 0
+          },
+          {
+            "name": "TLE",
+            "quota": 5,
             "enroll": 0
           }
         ],
