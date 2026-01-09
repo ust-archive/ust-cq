@@ -3675,54 +3675,6 @@
   {
     "career": "RPG",
     "subject": "AMCC",
-    "number": "6100",
-    "code": "AMCC6100",
-    "name": "Professional Practice and Research (Projects)",
-    "description": "This course provides students with professional practice and research opportunities through a (research) project related to arts and machine creativity. The project idea is originated from the students, faculty members, or outside parties.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "AMCC 6110",
-    "credits": 3,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "R1",
-        "number": "1066",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [
-          {
-            "name": "AMCC",
-            "quota": 20,
-            "enroll": 0
-          }
-        ],
-        "schedule": [
-          {
-            "instructors": [
-              "CHENG, Vennes",
-              "CHUN, Daniel",
-              "XUE, Wei",
-              "YANG, Harry"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "RPG",
-    "subject": "AMCC",
     "number": "6110",
     "code": "AMCC6110",
     "name": "Professional Practice and Research (Internships)",
