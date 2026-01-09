@@ -2041,14 +2041,14 @@
         "section": "L1",
         "number": "1020",
         "remarks": "> Instructor : KPMG Speakers\n> For MSc(ACCT) students only\n> Add/Drop Deadline : 06-Apr-2026",
-        "quota": 70,
+        "quota": 74,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
-            "quota": 70,
+            "quota": 74,
             "enroll": 0
           }
         ],
@@ -7622,7 +7622,7 @@
         "number": "1089",
         "remarks": " ",
         "quota": 5,
-        "enroll": 0,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -17399,7 +17399,7 @@
         "number": "2313",
         "remarks": " ",
         "quota": 800,
-        "enroll": 794,
+        "enroll": 793,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -17640,7 +17640,7 @@
         "number": "2319",
         "remarks": "> The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
         "quota": 210,
-        "enroll": 209,
+        "enroll": 208,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -37962,7 +37962,7 @@
         "schedule": [
           {
             "instructors": [
-              "LIU, Hongbin"
+              "TBA"
             ],
             "venue": "Rm 2503, Lift 25-26 (87)",
             "fromDate": "2026-02-02",
@@ -53556,11 +53556,11 @@
             "instructors": [
               "LIU, Qian"
             ],
-            "venue": "Rm 1026, LSK Bldg (28)",
+            "venue": "Rm 2126A, Lift 19 (28)",
             "fromDate": "2026-02-02",
             "toDate": "2026-05-09",
             "weekdays": [
-              5
+              2
             ],
             "fromTime": "15:00",
             "toTime": "17:50"
@@ -100542,7 +100542,8 @@
         "schedule": [
           {
             "instructors": [
-              "LIU, Hongbin"
+              "WANG, Yan",
+              "YUNG, Charmaine"
             ],
             "venue": "Rm 5506, Lift 25-26 (30)",
             "fromDate": "2026-02-02",
@@ -100555,7 +100556,8 @@
           },
           {
             "instructors": [
-              "LIU, Hongbin"
+              "WANG, Yan",
+              "YUNG, Charmaine"
             ],
             "venue": "Rm 5506, Lift 25-26 (30)",
             "fromDate": "2026-02-02",
@@ -100956,47 +100958,6 @@
   {
     "career": "RPG",
     "subject": "OCES",
-    "number": "5100",
-    "code": "OCES5100",
-    "name": "Biological Oceanography",
-    "description": "This is an advanced biological oceanography course aimed at first-year post-graduate students. The objectives of this course are to introduce the field of biological oceanography and explore how interactions between biology, chemistry and physics regulate the structure, function and productivity of marine ecosystems.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 3,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "L1",
-        "number": "1602",
-        "remarks": " ",
-        "quota": 30,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "LIU, Hongbin"
-            ],
-            "venue": "Rm 5506, Lift 25-26 (30)",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              4
-            ],
-            "fromTime": "09:00",
-            "toTime": "11:50"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "RPG",
-    "subject": "OCES",
     "number": "5200",
     "code": "OCES5200",
     "name": "Physical Oceanography",
@@ -101349,8 +101310,8 @@
         "schedule": [
           {
             "instructors": [
-              "LI, Jiying",
-              "LIU, Hongbin"
+              "LAU, Stanley C K",
+              "LI, Jiying"
             ],
             "venue": "G001, CYT Bldg (92)",
             "fromDate": "2026-02-02",
@@ -102825,13 +102786,13 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "GONDA, Donn"
             ],
             "venue": "Rm 6558, Lift 29-30 (90)",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
+            "fromDate": "2026-03-02",
+            "toDate": "2026-05-04",
             "weekdays": [
-              2
+              1
             ],
             "fromTime": "10:00",
             "toTime": "11:50"
@@ -102850,13 +102811,13 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "SO, Ka Yan"
             ],
             "venue": "Rm 6558, Lift 29-30 (90)",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
+            "fromDate": "2026-03-02",
+            "toDate": "2026-05-04",
             "weekdays": [
-              2
+              1
             ],
             "fromTime": "14:30",
             "toTime": "16:20"
@@ -102875,38 +102836,13 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "SO, Ka Yan"
             ],
             "venue": "Rm 6558, Lift 29-30 (90)",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
+            "fromDate": "2026-03-03",
+            "toDate": "2026-05-05",
             "weekdays": [
-              3
-            ],
-            "fromTime": "14:30",
-            "toTime": "16:20"
-          }
-        ]
-      },
-      {
-        "section": "T04",
-        "number": "1095",
-        "remarks": " ",
-        "quota": 90,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 6558, Lift 29-30 (90)",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              4
+              2
             ],
             "fromTime": "14:30",
             "toTime": "16:20"
@@ -104418,7 +104354,7 @@
             "instructors": [
               "TBA"
             ],
-            "venue": "Rm 1032, LSK Bldg (45)",
+            "venue": "Rm 2406, Lift 17-18 (76)",
             "fromDate": "2026-02-02",
             "toDate": "2026-05-09",
             "weekdays": [
