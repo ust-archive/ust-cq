@@ -1031,8 +1031,8 @@
         "section": "R1",
         "number": "1079",
         "remarks": " ",
-        "quota": 1,
-        "enroll": 1,
+        "quota": 2,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -4458,14 +4458,14 @@
         "number": "1049",
         "remarks": "> For FT-MBA students only\n> Add/Drop Deadline : 25-Jan-2026",
         "quota": 20,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
           {
             "name": "MBA",
             "quota": 20,
-            "enroll": 0
+            "enroll": 1
           }
         ],
         "schedule": [
