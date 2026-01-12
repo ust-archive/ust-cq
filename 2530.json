@@ -6274,7 +6274,7 @@
         "number": "1482",
         "remarks": " ",
         "quota": 25,
-        "enroll": 0,
+        "enroll": 4,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6297,7 +6297,7 @@
         "number": "1483",
         "remarks": " ",
         "quota": 25,
-        "enroll": 0,
+        "enroll": 4,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6336,7 +6336,7 @@
         "number": "1484",
         "remarks": " ",
         "quota": 25,
-        "enroll": 0,
+        "enroll": 8,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6359,7 +6359,7 @@
         "number": "1485",
         "remarks": " ",
         "quota": 25,
-        "enroll": 0,
+        "enroll": 8,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6398,7 +6398,7 @@
         "number": "1486",
         "remarks": " ",
         "quota": 25,
-        "enroll": 0,
+        "enroll": 13,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6421,7 +6421,7 @@
         "number": "1487",
         "remarks": " ",
         "quota": 25,
-        "enroll": 0,
+        "enroll": 13,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -14544,7 +14544,7 @@
         "number": "2192",
         "remarks": " ",
         "quota": 191,
-        "enroll": 94,
+        "enroll": 104,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -33428,7 +33428,7 @@
         "number": "2558",
         "remarks": "> The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
         "quota": 179,
-        "enroll": 150,
+        "enroll": 153,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -38167,7 +38167,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "DANG, Shangyu"
             ],
             "venue": "Rm 2503, Lift 25-26 (87)",
             "fromDate": "2026-02-02",
@@ -42190,7 +42190,7 @@
         "reservedQuota": [
           {
             "name": "FINA",
-            "quota": 58,
+            "quota": 57,
             "enroll": 0
           },
           {
@@ -42205,7 +42205,7 @@
           },
           {
             "name": "MIMT",
-            "quota": 3,
+            "quota": 4,
             "enroll": 0
           }
         ],
@@ -42837,7 +42837,7 @@
         "number": "1297",
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 65,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -42849,7 +42849,7 @@
           {
             "name": "FOFB",
             "quota": 1,
-            "enroll": 0
+            "enroll": 1
           }
         ],
         "schedule": [
@@ -43024,6 +43024,53 @@
             ],
             "fromTime": "12:00",
             "toTime": "14:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "FINA",
+    "number": "7900P",
+    "code": "FINA7900P",
+    "name": "Environmental Economics and Green Finance",
+    "description": "This course is structured from the perspectives of major players in the economy. It begins with major facts and issues in the environment. It is then followed by subjects faced by social planners (optimal growth with environmental constraints), regulators (carbon pricing), financial institutions (exit versus engagement), industrial companies (transitional risk and green innovations), individual investors (optimal portfolios with green preferences), and their interactions in financial markets. The course ends with several special topics which stride on several above-mentioned subjects. This course does not accommodate auditing. All participants should register for the course.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4431",
+        "remarks": "> For PhD students in SBM only",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "FINA",
+            "quota": 20,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "ZHANG, Chu"
+            ],
+            "venue": "Rm 5047, LSK Bldg",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "14:00",
+            "toTime": "16:50"
           }
         ]
       }
@@ -43215,14 +43262,14 @@
         "number": "1283",
         "remarks": "> For MSc(FOFB) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 40,
-        "enroll": 0,
+        "enroll": 31,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FOFB",
             "quota": 40,
-            "enroll": 0
+            "enroll": 31
           }
         ],
         "schedule": [
@@ -44166,7 +44213,7 @@
         "number": "4281",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 35,
-        "enroll": 23,
+        "enroll": 24,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -44991,7 +45038,7 @@
         "number": "4314",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 35,
-        "enroll": 14,
+        "enroll": 13,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -45197,7 +45244,7 @@
         "number": "4145",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 50,
-        "enroll": 0,
+        "enroll": 44,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -45223,7 +45270,7 @@
         "number": "4146",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 50,
-        "enroll": 0,
+        "enroll": 43,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -45249,7 +45296,7 @@
         "number": "4147",
         "remarks": "> Instructor : KAN, Marcus\n> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 70,
-        "enroll": 0,
+        "enroll": 48,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -45274,7 +45321,7 @@
         "number": "4148",
         "remarks": "> Instructor : KAN, Marcus\n> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 50,
-        "enroll": 0,
+        "enroll": 42,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -45299,7 +45346,7 @@
         "number": "4149",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 50,
-        "enroll": 0,
+        "enroll": 27,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -45324,7 +45371,7 @@
         "number": "4150",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 50,
-        "enroll": 0,
+        "enroll": 27,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -45349,7 +45396,7 @@
         "number": "4151",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 50,
-        "enroll": 0,
+        "enroll": 32,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -45374,7 +45421,7 @@
         "number": "4152",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 50,
-        "enroll": 0,
+        "enroll": 35,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -45397,7 +45444,7 @@
         "number": "4153",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 50,
-        "enroll": 0,
+        "enroll": 19,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -45422,7 +45469,7 @@
         "number": "4154",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 50,
-        "enroll": 0,
+        "enroll": 20,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -45447,7 +45494,7 @@
         "number": "4155",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 30,
-        "enroll": 0,
+        "enroll": 27,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -45473,7 +45520,7 @@
         "number": "4156",
         "remarks": "> Instructor : TO, Christine\n> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 50,
-        "enroll": 0,
+        "enroll": 27,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -45498,7 +45545,7 @@
         "number": "4157",
         "remarks": "> Instructor : TO, Christine\n> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 50,
-        "enroll": 0,
+        "enroll": 28,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -45523,7 +45570,7 @@
         "number": "4158",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 50,
-        "enroll": 0,
+        "enroll": 42,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -45548,7 +45595,7 @@
         "number": "4159",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 40,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -45573,7 +45620,7 @@
         "number": "4160",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 50,
-        "enroll": 0,
+        "enroll": 30,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -53761,14 +53808,14 @@
             "instructors": [
               "LIU, Qian"
             ],
-            "venue": "Rm 2126A, Lift 19 (28)",
+            "venue": "Rm 5562, Lift 27-28 (30)",
             "fromDate": "2026-02-02",
             "toDate": "2026-05-09",
             "weekdays": [
               2
             ],
-            "fromTime": "15:00",
-            "toTime": "17:50"
+            "fromTime": "09:00",
+            "toTime": "11:50"
           }
         ]
       }
@@ -62875,8 +62922,13 @@
         "consent": false,
         "reservedQuota": [
           {
+            "name": "BA",
+            "quota": 1,
+            "enroll": 0
+          },
+          {
             "name": "GO",
-            "quota": 55,
+            "quota": 54,
             "enroll": 0
           },
           {
@@ -63254,14 +63306,14 @@
         "number": "1394",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FOFB",
             "quota": 5,
-            "enroll": 0
+            "enroll": 2
           },
           {
             "name": "ISM",
@@ -63973,7 +64025,7 @@
         "number": "1434",
         "remarks": "> For MSc(ISM) students only\n> Will have normal class on 1-May-2026\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -63985,7 +64037,7 @@
           {
             "name": "FOFB",
             "quota": 1,
-            "enroll": 0
+            "enroll": 1
           },
           {
             "name": "ISM",
@@ -64205,7 +64257,7 @@
         "number": "1389",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 53,
-        "enroll": 0,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -64222,7 +64274,7 @@
           {
             "name": "FOFB",
             "quota": 3,
-            "enroll": 0
+            "enroll": 2
           }
         ],
         "schedule": [
@@ -65354,7 +65406,7 @@
         "number": "1440",
         "remarks": "> Instructor : ZHANG, Dennis\n> For MSc(ISM) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -65371,7 +65423,7 @@
           {
             "name": "FOFB",
             "quota": 3,
-            "enroll": 0
+            "enroll": 3
           },
           {
             "name": "ISM",
@@ -65421,7 +65473,7 @@
         "number": "1386",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 50,
-        "enroll": 0,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -65433,7 +65485,7 @@
           {
             "name": "FOFB",
             "quota": 3,
-            "enroll": 0
+            "enroll": 3
           },
           {
             "name": "ISM",
@@ -82788,7 +82840,7 @@
         "number": "1518",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 65,
-        "enroll": 0,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -82800,7 +82852,7 @@
           {
             "name": "FOFB",
             "quota": 2,
-            "enroll": 0
+            "enroll": 2
           },
           {
             "name": "ISM",
@@ -82889,14 +82941,14 @@
         "number": "1530",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 65,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FOFB",
             "quota": 2,
-            "enroll": 0
+            "enroll": 1
           },
           {
             "name": "MARK",
@@ -93741,7 +93793,7 @@
             "fromDate": "2026-02-02",
             "toDate": "2026-05-09",
             "weekdays": [
-              1
+              5
             ],
             "fromTime": "19:00",
             "toTime": "21:50"
@@ -93962,7 +94014,7 @@
             "fromDate": "2026-02-02",
             "toDate": "2026-05-09",
             "weekdays": [
-              5
+              1
             ],
             "fromTime": "18:30",
             "toTime": "21:20"
@@ -98578,7 +98630,7 @@
         "number": "1689",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 50,
-        "enroll": 0,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -98590,7 +98642,7 @@
           {
             "name": "FOFB",
             "quota": 2,
-            "enroll": 0
+            "enroll": 2
           },
           {
             "name": "MIMT",
@@ -98616,7 +98668,7 @@
             "instructors": [
               "SULLIVAN, Bilian NI"
             ],
-            "venue": "Rm 3001, LSK Bldg",
+            "venue": "G003, LSK Bldg (75)",
             "fromDate": "2026-02-12",
             "toDate": "2026-02-12",
             "weekdays": [
@@ -98874,7 +98926,7 @@
             "instructors": [
               "JAISINGH, Jeevan"
             ],
-            "venue": "TBA",
+            "venue": "G003, LSK Bldg (75)",
             "fromDate": "2026-03-12",
             "toDate": "2026-03-12",
             "weekdays": [

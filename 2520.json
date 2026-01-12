@@ -282,7 +282,7 @@
         "number": "1052",
         "remarks": "> Add/Drop Deadline : 06-Jan-2026\n> Extended Drop Deadline : 12-Jan-2026",
         "quota": 50,
-        "enroll": 42,
+        "enroll": 43,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -3215,7 +3215,7 @@
         "number": "1041",
         "remarks": "> Add/Drop Deadline : 10-Jan-2026\n> Additional lecture hours to be arranged by Department",
         "quota": 42,
-        "enroll": 20,
+        "enroll": 19,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
@@ -3237,7 +3237,7 @@
           {
             "name": "FOFB",
             "quota": 5,
-            "enroll": 1
+            "enroll": 0
           },
           {
             "name": "ISM",
@@ -4521,6 +4521,45 @@
             "venue": "TBA",
             "fromDate": "2026-01-02",
             "toDate": "2026-01-25",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "SCIE",
+    "number": "1010B",
+    "code": "SCIE1010B",
+    "name": "Enrichment Project",
+    "description": "For Science students only.  This course aims to provide complementary educational experience to students outside normal academic curriculum through engagements in internship or outside-classroom project activities related to his/her own discipline.  Students enrolled would work under the supervision of a faculty member and are required to submit a report by the end of the semester, in addition to other criteria set by his/her supervisor.  Course coordinator's approval is required for taking the course.  1 credit is normally assigned for 40 hours of work. Graded P or F. Maybe graded PP.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1103",
+        "remarks": " ",
+        "quota": 10,
+        "enroll": 10,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAM, Ka Sin Cindy"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-01-02",
+            "toDate": "2026-01-29",
             "weekdays": [],
             "fromTime": null,
             "toTime": null
