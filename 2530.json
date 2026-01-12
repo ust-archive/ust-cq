@@ -14567,7 +14567,7 @@
         "number": "2193",
         "remarks": " ",
         "quota": 156,
-        "enroll": 71,
+        "enroll": 70,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -63439,12 +63439,12 @@
         "reservedQuota": [
           {
             "name": "ICSM",
-            "quota": 3,
+            "quota": 4,
             "enroll": 0
           },
           {
             "name": "ISM",
-            "quota": 57,
+            "quota": 56,
             "enroll": 0
           }
         ],
@@ -63900,8 +63900,13 @@
         "consent": false,
         "reservedQuota": [
           {
+            "name": "ICSM",
+            "quota": 22,
+            "enroll": 0
+          },
+          {
             "name": "ISM",
-            "quota": 65,
+            "quota": 43,
             "enroll": 0
           }
         ],
@@ -63957,8 +63962,13 @@
         "consent": false,
         "reservedQuota": [
           {
+            "name": "ICSM",
+            "quota": 4,
+            "enroll": 0
+          },
+          {
             "name": "ISM",
-            "quota": 65,
+            "quota": 61,
             "enroll": 0
           }
         ],
