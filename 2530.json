@@ -434,14 +434,14 @@
         "number": "1043",
         "remarks": " ",
         "quota": 80,
-        "enroll": 1,
+        "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 80,
-            "enroll": 1
+            "enroll": 0
           }
         ],
         "schedule": [
@@ -546,14 +546,14 @@
         "number": "1046",
         "remarks": " ",
         "quota": 80,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 80,
-            "enroll": 0
+            "enroll": 1
           }
         ],
         "schedule": [
@@ -35578,7 +35578,7 @@
         "number": "4192",
         "remarks": " ",
         "quota": 900,
-        "enroll": 7,
+        "enroll": 12,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -45140,7 +45140,7 @@
         "number": "4205",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 600,
-        "enroll": 0,
+        "enroll": 7,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
