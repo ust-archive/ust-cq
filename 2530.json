@@ -5389,7 +5389,7 @@
         "number": "1077",
         "remarks": " ",
         "quota": 30,
-        "enroll": 0,
+        "enroll": 17,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -7661,7 +7661,7 @@
         "number": "1090",
         "remarks": " ",
         "quota": 40,
-        "enroll": 0,
+        "enroll": 16,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -13370,7 +13370,7 @@
         "number": "1129",
         "remarks": " ",
         "quota": 80,
-        "enroll": 0,
+        "enroll": 31,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -18493,7 +18493,7 @@
         "number": "1153",
         "remarks": " ",
         "quota": 100,
-        "enroll": 0,
+        "enroll": 29,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -34538,14 +34538,14 @@
         "number": "1208",
         "remarks": " ",
         "quota": 50,
-        "enroll": 0,
+        "enroll": 7,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECE",
             "quota": 50,
-            "enroll": 0
+            "enroll": 7
           }
         ],
         "schedule": [
@@ -38574,7 +38574,7 @@
         "number": "1132",
         "remarks": " ",
         "quota": 30,
-        "enroll": 0,
+        "enroll": 6,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -40532,14 +40532,14 @@
         "number": "1277",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(GO) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 60,
-        "enroll": 48,
+        "enroll": 46,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 60,
-            "enroll": 48
+            "enroll": 46
           }
         ],
         "schedule": [
@@ -40589,14 +40589,14 @@
         "number": "1278",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(GO) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 47,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 60,
-            "enroll": 0
+            "enroll": 47
           }
         ],
         "schedule": [
@@ -40646,14 +40646,14 @@
         "number": "1280",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(GO) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 46,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 60,
-            "enroll": 0
+            "enroll": 46
           }
         ],
         "schedule": [
@@ -41515,7 +41515,7 @@
         "number": "1284",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 70,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -41527,7 +41527,7 @@
           {
             "name": "ECON",
             "quota": 1,
-            "enroll": 0
+            "enroll": 1
           },
           {
             "name": "MIMT",
@@ -54089,7 +54089,7 @@
         "number": "1350",
         "remarks": " ",
         "quota": 10,
-        "enroll": 0,
+        "enroll": 7,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -80042,6 +80042,47 @@
   {
     "career": "TPG",
     "subject": "MAFS",
+    "number": "5140",
+    "code": "MAFS5140",
+    "name": "Statistical Methods in Quantitative Finance",
+    "description": "This course provides an introduction to statistical models used in financial data analysis. Students learn about various basic and advanced regression models, and techniques of data analysis. These statistical methods are applied in quantitative finance, including portfolio theory, asset pricing models and risk management.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4436",
+        "remarks": "> For MSc(MAFM) students only.",
+        "quota": 130,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CHEN, Kani"
+            ],
+            "venue": "Lecture Theater E (143)",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "19:30",
+            "toTime": "22:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MAFS",
     "number": "5210",
     "code": "MAFS5210",
     "name": "Mathematical Models of Investment",
@@ -80239,6 +80280,84 @@
             ],
             "fromTime": "14:00",
             "toTime": "16:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MAFS",
+    "number": "6000",
+    "code": "MAFS6000",
+    "name": "Capstone Project in Financial Mathematics",
+    "description": "In this course, financial firms will be invited to offer projects covering a broad range of essential topics for the training of professionals in quantitative finance. The capstone projects involve a combination of quantitative skills (e.g., mathematical models, statistical analysis, machine learning techniques, etc.) and emerging technologies adopted in the field of financial mathematics. Students will be working in a group of 2 to 4 to complete a project. The normal duration of a project is one regular term.",
+    "previousCodes": "MAFS6010Q",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4434",
+        "remarks": "> Students should seek the instructor's approval to take this course.",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CHEN, Kani"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MAFS",
+    "number": "6100V",
+    "code": "MAFS6100V",
+    "name": "Independent Project",
+    "description": "Completion of an independent project under the supervisor of a faculty in financial mathematics or statistics. Scope may include (i) identifying a non-reference problem and proposing the methods of solution, (ii) acquiring a specific research skill.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4435",
+        "remarks": "> Students should seek the instructor's approval to take this course.",
+        "quota": 10,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CHOU, Hongsong"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -82258,14 +82377,14 @@
         "number": "1508",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(GO) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 48,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 60,
-            "enroll": 0
+            "enroll": 48
           }
         ],
         "schedule": [
@@ -82302,14 +82421,14 @@
         "number": "1510",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(GO) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 47,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 60,
-            "enroll": 0
+            "enroll": 47
           }
         ],
         "schedule": [
@@ -82346,14 +82465,14 @@
         "number": "1517",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(GO) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 47,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 60,
-            "enroll": 0
+            "enroll": 47
           }
         ],
         "schedule": [
@@ -93000,7 +93119,7 @@
         "number": "1570",
         "remarks": " ",
         "quota": 40,
-        "enroll": 0,
+        "enroll": 19,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -99235,7 +99354,7 @@
         "number": "1716",
         "remarks": "> The class is delivered in a real-time online mode\n> For SBM TPG students only",
         "quota": 47,
-        "enroll": 16,
+        "enroll": 21,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -99262,7 +99381,7 @@
           {
             "name": "GO",
             "quota": 5,
-            "enroll": 0
+            "enroll": 5
           },
           {
             "name": "MARK",
@@ -99798,6 +99917,53 @@
             ],
             "fromTime": "19:30",
             "toTime": "22:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MSBD",
+    "number": "5021",
+    "code": "MSBD5021",
+    "name": "Reinforcement Learning with Financial Applications",
+    "description": "With the application of artificial intelligence (AI) growing rapidly in finance industries and related sectors, this course introduces the use of reinforcement learning techniques in financial applications. Topics include finite action space and finite state space problem, classical RL algorithms, Q learning, policy gradient methods, and deep Q learning.",
+    "previousCodes": "MSBD6000M",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "MAFS 5370",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4437",
+        "remarks": "> Venue: LTF",
+        "quota": 15,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "BDT",
+            "quota": 15,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "WONG, Chak Kei Jack"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "14:00",
+            "toTime": "16:50"
           }
         ]
       }
