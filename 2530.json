@@ -3548,18 +3548,12 @@
       {
         "section": "L1",
         "number": "4362",
-        "remarks": " ",
+        "remarks": "> For AMC students only",
         "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "AMCC",
-            "quota": 40,
-            "enroll": 0
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -41196,7 +41190,7 @@
         "number": "1305",
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 62,
-        "enroll": 3,
+        "enroll": 6,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -41213,7 +41207,7 @@
           {
             "name": "TLE",
             "quota": 5,
-            "enroll": 0
+            "enroll": 3
           }
         ],
         "schedule": [
@@ -42013,7 +42007,7 @@
         "number": "1289",
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 65,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -42030,7 +42024,7 @@
           {
             "name": "TLE",
             "quota": 2,
-            "enroll": 0
+            "enroll": 1
           }
         ],
         "schedule": [
@@ -62202,7 +62196,7 @@
         "number": "1436",
         "remarks": "> For MSc(ICSM) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 34,
-        "enroll": 25,
+        "enroll": 26,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -62224,7 +62218,7 @@
           {
             "name": "TLE",
             "quota": 5,
-            "enroll": 0
+            "enroll": 1
           }
         ],
         "schedule": [
@@ -62503,7 +62497,7 @@
         "number": "1433",
         "remarks": "> Instructor : Dr JIA, Justin\n> For MSc(BA) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 65,
-        "enroll": 2,
+        "enroll": 4,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -62530,7 +62524,7 @@
           {
             "name": "TLE",
             "quota": 2,
-            "enroll": 0
+            "enroll": 2
           }
         ],
         "schedule": [
@@ -63000,7 +62994,7 @@
         "number": "1402",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 5,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -63017,7 +63011,7 @@
           {
             "name": "TLE",
             "quota": 5,
-            "enroll": 0
+            "enroll": 5
           }
         ],
         "schedule": [
@@ -64118,7 +64112,7 @@
         "number": "1434",
         "remarks": "> For MSc(ISM) students only\n> Will have normal class on 1-May-2026\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 4,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -64145,7 +64139,7 @@
           {
             "name": "TLE",
             "quota": 6,
-            "enroll": 0
+            "enroll": 4
           }
         ],
         "schedule": [
@@ -65437,7 +65431,7 @@
         "number": "1439",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 50,
-        "enroll": 0,
+        "enroll": 6,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -65453,13 +65447,13 @@
           },
           {
             "name": "ISM",
-            "quota": 42,
+            "quota": 41,
             "enroll": 0
           },
           {
             "name": "TLE",
-            "quota": 5,
-            "enroll": 0
+            "quota": 6,
+            "enroll": 6
           }
         ],
         "schedule": [
@@ -65641,7 +65635,7 @@
         "number": "1432",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 50,
-        "enroll": 3,
+        "enroll": 9,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -65668,7 +65662,7 @@
           {
             "name": "TLE",
             "quota": 6,
-            "enroll": 0
+            "enroll": 6
           }
         ],
         "schedule": [
@@ -65708,7 +65702,7 @@
         "number": "1422",
         "remarks": "> For SBM TPG students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 60,
-        "enroll": 10,
+        "enroll": 14,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
@@ -65755,7 +65749,7 @@
           {
             "name": "TLE",
             "quota": 5,
-            "enroll": 0
+            "enroll": 4
           }
         ],
         "schedule": [
@@ -83471,7 +83465,7 @@
         "number": "1525",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 65,
-        "enroll": 3,
+        "enroll": 7,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -83487,13 +83481,13 @@
           },
           {
             "name": "MARK",
-            "quota": 58,
+            "quota": 56,
             "enroll": 0
           },
           {
             "name": "TLE",
-            "quota": 2,
-            "enroll": 0
+            "quota": 4,
+            "enroll": 4
           }
         ],
         "schedule": [
@@ -99463,7 +99457,7 @@
         "number": "1712",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 40,
-        "enroll": 5,
+        "enroll": 12,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -99495,7 +99489,7 @@
           {
             "name": "TLE",
             "quota": 7,
-            "enroll": 0
+            "enroll": 7
           }
         ],
         "schedule": [
@@ -99685,14 +99679,14 @@
         "number": "1799",
         "remarks": "> MSBD 5002 is not co-listing with CSIT 5210 in Spring 2025-26",
         "quota": 100,
-        "enroll": 0,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BDT",
             "quota": 100,
-            "enroll": 0
+            "enroll": 58
           }
         ],
         "schedule": [
@@ -99732,14 +99726,14 @@
         "number": "1800",
         "remarks": " ",
         "quota": 100,
-        "enroll": 0,
+        "enroll": 59,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BDT",
             "quota": 100,
-            "enroll": 0
+            "enroll": 59
           }
         ],
         "schedule": [
@@ -110511,7 +110505,7 @@
         "number": "1677",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 40,
-        "enroll": 4,
+        "enroll": 5,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -110543,7 +110537,7 @@
           {
             "name": "TLE",
             "quota": 5,
-            "enroll": 0
+            "enroll": 1
           }
         ],
         "schedule": [
