@@ -60786,12 +60786,12 @@
         "reservedQuota": [
           {
             "name": "OM",
-            "quota": 30,
+            "quota": 15,
             "enroll": 0
           },
           {
             "name": "RMBI",
-            "quota": 30,
+            "quota": 45,
             "enroll": 0
           }
         ],
@@ -65893,14 +65893,14 @@
         "number": "1412",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 09-Feb-2026",
         "quota": 60,
-        "enroll": 17,
+        "enroll": 19,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 60,
-            "enroll": 17
+            "enroll": 19
           }
         ],
         "schedule": [
