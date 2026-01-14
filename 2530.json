@@ -8910,7 +8910,7 @@
         "section": "LA1",
         "number": "1983",
         "remarks": " ",
-        "quota": 37,
+        "quota": 38,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -17438,7 +17438,7 @@
         "number": "2313",
         "remarks": " ",
         "quota": 793,
-        "enroll": 791,
+        "enroll": 790,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -27932,7 +27932,7 @@
         "quota": 37,
         "enroll": 37,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [
           {
             "name": "EESM",
@@ -27964,7 +27964,7 @@
         "quota": 35,
         "enroll": 35,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [
           {
             "name": "EESM",
@@ -34575,14 +34575,14 @@
         "number": "1208",
         "remarks": " ",
         "quota": 50,
-        "enroll": 8,
+        "enroll": 9,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECE",
             "quota": 50,
-            "enroll": 8
+            "enroll": 9
           }
         ],
         "schedule": [
@@ -35591,7 +35591,7 @@
         "section": "T1",
         "number": "4191",
         "remarks": " ",
-        "quota": 900,
+        "quota": 919,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -40656,7 +40656,7 @@
             ],
             "venue": "Rm 2, 31/F, Tower 1,Millennity",
             "fromDate": "2026-02-25",
-            "toDate": "2026-03-25",
+            "toDate": "2026-03-18",
             "weekdays": [
               3
             ],
@@ -46187,7 +46187,7 @@
         "section": "T02",
         "number": "2915",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 32,
+        "quota": 33,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -65227,7 +65227,7 @@
             "instructors": [
               "MUTTO, Frederick"
             ],
-            "venue": "Rm 2001, LSK Bldg",
+            "venue": "Rm 2, 31/F, Tower 1,Millennity",
             "fromDate": "2026-04-01",
             "toDate": "2026-04-01",
             "weekdays": [
@@ -65240,7 +65240,7 @@
             "instructors": [
               "MUTTO, Frederick"
             ],
-            "venue": "Rm 2001, LSK Bldg",
+            "venue": "Rm 2, 31/F, Tower 1,Millennity",
             "fromDate": "2026-04-15",
             "toDate": "2026-05-27",
             "weekdays": [
@@ -65331,15 +65331,15 @@
         "section": "L1",
         "number": "1410",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 09-May-2026",
-        "quota": 60,
-        "enroll": 0,
+        "quota": 142,
+        "enroll": 142,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
-            "quota": 60,
-            "enroll": 0
+            "quota": 142,
+            "enroll": 142
           }
         ],
         "schedule": [
@@ -83487,12 +83487,12 @@
           },
           {
             "name": "MARK",
-            "quota": 56,
+            "quota": 54,
             "enroll": 0
           },
           {
             "name": "TLE",
-            "quota": 4,
+            "quota": 6,
             "enroll": 4
           }
         ],
@@ -99196,12 +99196,12 @@
           },
           {
             "name": "MARK",
-            "quota": 5,
+            "quota": 7,
             "enroll": 0
           },
           {
             "name": "MIMT",
-            "quota": 34,
+            "quota": 32,
             "enroll": 0
           }
         ],
