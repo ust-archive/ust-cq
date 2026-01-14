@@ -56081,7 +56081,13 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "TLE",
+            "quota": 5,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -56188,7 +56194,13 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "TLE",
+            "quota": 5,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -56270,7 +56282,13 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "TLE",
+            "quota": 5,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -56311,7 +56329,13 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "TLE",
+            "quota": 5,
+            "enroll": 0
+          }
+        ],
         "schedule": [
           {
             "instructors": [
