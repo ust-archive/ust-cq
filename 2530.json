@@ -25946,7 +25946,7 @@
               "ZHU, Tao"
             ],
             "venue": "Rm 1010, LSK Bldg (80)",
-            "fromDate": "2026-04-06",
+            "fromDate": "2026-04-08",
             "toDate": "2026-05-11",
             "weekdays": [
               1,
@@ -32228,6 +32228,85 @@
             ],
             "fromTime": "09:30",
             "toTime": "10:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ELEC",
+    "number": "3610",
+    "code": "ELEC3610",
+    "name": "Quantum Mechanics for Electronic Engineers",
+    "description": "This introductory course in quantum mechanics is designed for electronic engineering students, with emphasis on applications in semiconductor device physics and quantum information processing using electrons and photons. It covers foundational topics such as waves and quantum mechanics, quantum states, operators, measurement, electron spin, angular momentum and rotation, time-evolution and the Schrödinger equation, position and momentum, wave mechanics, quantum confinement and tunneling, the harmonic oscillator, quantum information processing and computation. Delivered through lectures and tutorials, the course prepares students for advanced electives in microelectronics and optoelectronics. Students will conduct an independent study project on quantum mechanical technologies.",
+    "previousCodes": "ELEC4010P",
+    "prerequisites": "ELEC 2600 AND [(MATH 2111 AND MATH 2351) OR MATH 2350] AND (PHYS 1114 OR PHYS 1314)",
+    "corequisites": "",
+    "exclusions": "PHYS 3036, PHYS 3037",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4440",
+        "remarks": " ",
+        "quota": 25,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "POON, Andrew Wing On"
+            ],
+            "venue": "Rm 5560, Lift 27-28 (30)",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "16:30",
+            "toTime": "17:50"
+          },
+          {
+            "instructors": [
+              "POON, Andrew Wing On"
+            ],
+            "venue": "Rm 5560, Lift 27-28 (30)",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "12:00",
+            "toTime": "13:20"
+          }
+        ]
+      },
+      {
+        "section": "T1",
+        "number": "4441",
+        "remarks": " ",
+        "quota": 25,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "POON, Andrew Wing On"
+            ],
+            "venue": "Rm 2132B, Lift 19 (28)",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "11:00",
+            "toTime": "11:50"
           }
         ]
       }
@@ -50974,6 +51053,54 @@
   {
     "career": "UGRD",
     "subject": "HUMA",
+    "number": "4351",
+    "code": "HUMA4351",
+    "name": "Critical Film and Media Theory",
+    "description": "This course will revolve around discussions of contemporary media theories, ranging from foundational texts on apparatus theory to more recent approaches to newer forms of digital media. Beginning with approaches to early cinema as a point of departure, the course will examine a range of questions revolving around debates around technology and history, gender and affect, national and oppositional cinema, and animation and new media.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4439",
+        "remarks": " ",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "SHSS",
+            "quota": 5,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "POSADAS, Baryon Tensor"
+            ],
+            "venue": "LG3009, Lift 10-12 (88)",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [
+              1,
+              3
+            ],
+            "fromTime": "12:00",
+            "toTime": "13:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "HUMA",
     "number": "4530",
     "code": "HUMA4530",
     "name": "History and the Future",
@@ -51328,7 +51455,7 @@
             "instructors": [
               "POSADAS, Baryon Tensor"
             ],
-            "venue": "LG3009, Lift 10-12 (88)",
+            "venue": "TBA",
             "fromDate": "2026-02-02",
             "toDate": "2026-05-09",
             "weekdays": [
@@ -56224,7 +56351,7 @@
         "quota": 30,
         "enroll": 0,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -84174,7 +84301,7 @@
         "section": "L1",
         "number": "1871",
         "remarks": "> For MA(SOSC) students only",
-        "quota": 43,
+        "quota": 41,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -104094,7 +104221,7 @@
         "section": "L1",
         "number": "3990",
         "remarks": " ",
-        "quota": 100,
+        "quota": 110,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -104120,7 +104247,7 @@
         "section": "L2",
         "number": "3992",
         "remarks": " ",
-        "quota": 100,
+        "quota": 110,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -104146,7 +104273,7 @@
         "section": "T1",
         "number": "3994",
         "remarks": " ",
-        "quota": 40,
+        "quota": 55,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -104172,7 +104299,7 @@
         "section": "T2",
         "number": "3996",
         "remarks": " ",
-        "quota": 40,
+        "quota": 55,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -104198,7 +104325,7 @@
         "section": "T3",
         "number": "3997",
         "remarks": " ",
-        "quota": 40,
+        "quota": 55,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -104224,7 +104351,7 @@
         "section": "T4",
         "number": "3998",
         "remarks": " ",
-        "quota": 40,
+        "quota": 55,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -104243,32 +104370,6 @@
             ],
             "fromTime": "16:30",
             "toTime": "17:20"
-          }
-        ]
-      },
-      {
-        "section": "T5",
-        "number": "3999",
-        "remarks": " ",
-        "quota": 40,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "NG, Yee Fai",
-              "WANG, Jue"
-            ],
-            "venue": "Rm 4582, Lift 27-28 (66)",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              4
-            ],
-            "fromTime": "18:00",
-            "toTime": "18:50"
           }
         ]
       }
@@ -113144,12 +113245,19 @@
     "corequisites": "",
     "exclusions": "",
     "credits": 3,
-    "attributes": [],
+    "attributes": [
+      {
+        "attribute": "DELI",
+        "value": "BLD",
+        "attributeDescription": "Mode of Delivery",
+        "valueDescription": "[BLD] Blended learning"
+      }
+    ],
     "classes": [
       {
         "section": "L1",
         "number": "4240",
-        "remarks": " ",
+        "remarks": "> The class is delivered in a blended learning mode",
         "quota": 40,
         "enroll": 0,
         "waitlist": 0,
@@ -113180,7 +113288,7 @@
       {
         "section": "L2",
         "number": "4241",
-        "remarks": " ",
+        "remarks": "> The class is delivered in a blended learning mode",
         "quota": 40,
         "enroll": 0,
         "waitlist": 0,
