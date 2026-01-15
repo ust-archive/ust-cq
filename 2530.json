@@ -34023,6 +34023,53 @@
   {
     "career": "RPG",
     "subject": "ELEC",
+    "number": "5150",
+    "code": "ELEC5150",
+    "name": "21st Century Solid-State Devices: From Principles to Applications",
+    "description": "This course provides a comprehensive survey of solid-state devices developed after 2000. Topics include advanced thin-film device physics, next-generation transistors, perovskite and organic photovoltaics (including tandem configurations), memristors, in-memory computing, and sensors/organic electrochemical transistors. The course places a strong emphasis on quantitative electrical characterizations and luminescent measurement techniques, model-based reasoning, reliability and variability assessments, and device-system co-design, particularly for applications in displays, imaging, and energy.",
+    "previousCodes": "ELEC6910Z",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4452",
+        "remarks": " ",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "ECE",
+            "quota": 20,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "LIN, Yen Hung"
+            ],
+            "venue": "Rm 1026, LSK Bldg (28)",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "13:30",
+            "toTime": "16:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "ELEC",
     "number": "5160",
     "code": "ELEC5160",
     "name": "Digital VLSI System Design and Design Automation",
@@ -34251,6 +34298,53 @@
             ],
             "fromTime": "10:30",
             "toTime": "13:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "ELEC",
+    "number": "5550",
+    "code": "ELEC5550",
+    "name": "Electronic Design Automation for VLSI Design",
+    "description": "The course introduces Electronic Design Automation (EDA) techniques for VLSI digital IC design. The modern RTL to GDS-II design flow and related tools will be explained in detail. Classical automated algorithms adopted in logic synthesis, floorplanning, placement, clock tree synthesis (CTS), routing, etc. will be covered. Simulation and optimization techniques of key IC design objectives, including recent research on AI-assisted EDA, will be presented.",
+    "previousCodes": "ELEC6910D",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4453",
+        "remarks": " ",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "ECE",
+            "quota": 30,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "XIE, Zhiyao"
+            ],
+            "venue": "Rm 5506, Lift 25-26 (30)",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "18:00",
+            "toTime": "20:50"
           }
         ]
       }
@@ -62894,14 +62988,14 @@
         "number": "1433",
         "remarks": "> Instructor : Dr JIA, Justin\n> For MSc(BA) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 66,
-        "enroll": 60,
+        "enroll": 61,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 56,
-            "enroll": 55
+            "enroll": 56
           },
           {
             "name": "FINA",
@@ -63663,14 +63757,14 @@
         "number": "1419",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 67,
-        "enroll": 66,
+        "enroll": 67,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 67,
-            "enroll": 66
+            "enroll": 67
           }
         ],
         "schedule": [
@@ -63842,14 +63936,14 @@
         "number": "1403",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 52,
-        "enroll": 42,
+        "enroll": 44,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 42,
-            "enroll": 40
+            "enroll": 42
           },
           {
             "name": "FINA",
@@ -64741,14 +64835,14 @@
         "number": "1389",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 53,
-        "enroll": 43,
+        "enroll": 44,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 45,
-            "enroll": 39
+            "enroll": 40
           },
           {
             "name": "FINA",
@@ -64811,14 +64905,14 @@
         "number": "4451",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 5,
-        "enroll": 0,
+        "enroll": 5,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 5,
-            "enroll": 0
+            "enroll": 5
           }
         ],
         "schedule": [
@@ -64972,15 +65066,15 @@
         "section": "T1",
         "number": "4450",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 06-Apr-2026",
-        "quota": 143,
-        "enroll": 0,
+        "quota": 132,
+        "enroll": 132,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
-            "quota": 143,
-            "enroll": 0
+            "quota": 132,
+            "enroll": 132
           }
         ],
         "schedule": [
@@ -65238,14 +65332,14 @@
         "number": "1390",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 62,
-        "enroll": 61,
+        "enroll": 62,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 62,
-            "enroll": 61
+            "enroll": 62
           }
         ],
         "schedule": [
