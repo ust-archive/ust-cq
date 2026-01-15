@@ -3928,6 +3928,122 @@
     ]
   },
   {
+    "career": "TPG",
+    "subject": "ISOM",
+    "number": "5460",
+    "code": "ISOM5460",
+    "name": "Project Management",
+    "description": "This course covers the essential project management skills to ensure successful implementation of high-technology projects.  Topics include investment decisions, resource planning, budgeting, scheduling, outsourcing, and risk assessment and control, as major components of the PMBOK (Project Management Body of Knowledge).",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "ISOM 5770, MIMT 5350",
+    "credits": 2,
+    "attributes": [
+      {
+        "attribute": "DELI",
+        "value": "BLD",
+        "attributeDescription": "Mode of Delivery",
+        "valueDescription": "[BLD] Blended learning"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1176",
+        "remarks": "> The class is delivered in a blended learning mode\n> For FT-MBA; PT-MBA; MBA Bi-Weekly and DI-MBA students only\n> Add/Drop Deadline : 06-Jul-2026",
+        "quota": 60,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "Digital MBA",
+            "quota": 25,
+            "enroll": 0
+          },
+          {
+            "name": "MBA",
+            "quota": 30,
+            "enroll": 0
+          },
+          {
+            "name": "MBA Bi-weekly",
+            "quota": 5,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "JAISINGH, Jeevan"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-07-03",
+            "toDate": "2026-07-03",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "JAISINGH, Jeevan"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-07-07",
+            "toDate": "2026-07-28",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "JAISINGH, Jeevan"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-07-19",
+            "toDate": "2026-07-19",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "JAISINGH, Jeevan"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-07-24",
+            "toDate": "2026-07-24",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "JAISINGH, Jeevan"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-08-04",
+            "toDate": "2026-08-04",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "UGRD",
     "subject": "LANG",
     "number": "1130",

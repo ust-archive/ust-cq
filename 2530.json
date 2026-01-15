@@ -14459,7 +14459,7 @@
     "subject": "COMP",
     "number": "1945",
     "code": "COMP1945",
-    "name": "Artificial Intelligence for Everyone",
+    "name": "Artificial Intelligence for Everyone: From Data to Applications",
     "description": "Dive into the fascinating world of artificial intelligence (AI) with this engaging course designed for non-programmers. You will explore the history and fundamental concepts of AI while discovering its diverse applications in fields like computer vision, natural language processing, deep learning and robotics. Learn how to identify AI problems, develop solutions, and understand the ethical implications surrounding AI technologies. Through case studies, hands-on projects, and insights from industry experts, you will gain practical knowledge and critical thinking skills. By the end of the course, you will be equipped to analyze AI's impact on society and present your own innovative AI project.",
     "previousCodes": "",
     "prerequisites": "",
@@ -15191,7 +15191,7 @@
     "subject": "COMP",
     "number": "2211",
     "code": "COMP2211",
-    "name": "Exploring Artificial Intelligence",
+    "name": "Introduction to Artificial Intelligence",
     "description": "This course provides a gentle introduction to artificial intelligence (AI), and emphasizes hands-on practical experiences with Python and AI software tools to explore AI applications. Interesting applications that have been covered in previous class offerings include, but are not limited to, medical diagnosis, predictions of customer behaviour and user attitudes, character recognition, spam mail detection, text and image classifications and recognitions, sentiment analysis, and retinal vessel segmentation. The course also explores recent advances and discusses the history and ethics of AI. Only for students in their first and second year of study or those with approval from instructor by applying requisite waiver.",
     "previousCodes": "",
     "prerequisites": "(COMP 1021 AND COMP 1028) OR COMP 1023",
@@ -15246,7 +15246,7 @@
             "instructors": [
               "TSOI, Yau Chat"
             ],
-            "venue": "G009A, CYT Bldg (80)",
+            "venue": "Lecture Theater F (133)",
             "fromDate": "2026-02-02",
             "toDate": "2026-05-09",
             "weekdays": [
@@ -15259,7 +15259,7 @@
             "instructors": [
               "TSOI, Yau Chat"
             ],
-            "venue": "G009A, CYT Bldg (80)",
+            "venue": "Lecture Theater F (133)",
             "fromDate": "2026-02-02",
             "toDate": "2026-05-09",
             "weekdays": [
@@ -15284,7 +15284,7 @@
             "instructors": [
               "XIAO, Huiru"
             ],
-            "venue": "Rm 2504, Lift 25-26 (84)",
+            "venue": "Lecture Theater F (133)",
             "fromDate": "2026-02-02",
             "toDate": "2026-05-09",
             "weekdays": [
@@ -15311,14 +15311,14 @@
               "TSOI, Yau Chat",
               "XIAO, Huiru"
             ],
-            "venue": "G009A, CYT Bldg (80)",
+            "venue": "Lecture Theater E (143)",
             "fromDate": "2026-02-02",
             "toDate": "2026-05-09",
             "weekdays": [
               2
             ],
-            "fromTime": "12:00",
-            "toTime": "13:50"
+            "fromTime": "11:30",
+            "toTime": "13:20"
           }
         ]
       },
@@ -15337,11 +15337,11 @@
               "TSOI, Yau Chat",
               "XIAO, Huiru"
             ],
-            "venue": "G009A, CYT Bldg (80)",
+            "venue": "Rm 4619, Lift 31-32 (126)",
             "fromDate": "2026-02-02",
             "toDate": "2026-05-09",
             "weekdays": [
-              2
+              4
             ],
             "fromTime": "09:00",
             "toTime": "10:50"
@@ -15363,14 +15363,14 @@
               "TSOI, Yau Chat",
               "XIAO, Huiru"
             ],
-            "venue": "Rm 6555, Lift 29-30 (88)",
+            "venue": "Rm 4619, Lift 31-32 (126)",
             "fromDate": "2026-02-02",
             "toDate": "2026-05-09",
             "weekdays": [
-              2
+              1
             ],
-            "fromTime": "14:30",
-            "toTime": "16:20"
+            "fromTime": "15:00",
+            "toTime": "16:50"
           }
         ]
       }
@@ -15790,7 +15790,7 @@
     "subject": "COMP",
     "number": "3211",
     "code": "COMP3211",
-    "name": "Fundamentals of Artificial Intelligence",
+    "name": "Learning, Reasoning, and Decision Making in AI",
     "description": "This course provides a comprehensive coverage of the reasoning and decision-making aspects of artificial intelligence (AI). It covers fundamental concepts and techniques of AI, such as search, constraint satisfaction, game theory, game tree search, Markov decision processes, reinforcement learning, multi-agent systems, logic reasoning, and probabilistic reasoning.",
     "previousCodes": "",
     "prerequisites": "(COMP 2012 OR COMP 2012H) AND COMP 2211",
@@ -16343,8 +16343,8 @@
     "name": "Machine Learning",
     "description": "This course provides a comprehensive coverage of the machine learning field. It introduces the foundations of machine learning, such as optimization, regularization, and generalization. It covers several traditional machine learning algorithms and various types of neural networks, such as feedforward, convolutional, recurrent, and transformer models, as well as their applications to computer vision, natural language processing, and generative modelling. The course also includes selected advanced topics.",
     "previousCodes": "",
-    "prerequisites": "ELEC 2600 OR IEDA 2520 OR IEDA 2540 OR MATH 2411 OR MATH 2421 OR MATH 2431",
-    "corequisites": "COMP 3211",
+    "prerequisites": "COMP 2211 AND (ELEC 2600 OR IEDA 2520 OR IEDA 2540 OR MATH 2411 OR MATH 2421 OR MATH 2431)",
+    "corequisites": "",
     "exclusions": "COMP 5212",
     "credits": 3,
     "attributes": [],
@@ -36201,8 +36201,8 @@
         "section": "T1",
         "number": "1766",
         "remarks": " ",
-        "quota": 1000,
-        "enroll": 0,
+        "quota": 1005,
+        "enroll": 1005,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -41136,7 +41136,7 @@
         "number": "1281",
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 65,
-        "enroll": 5,
+        "enroll": 8,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -41163,7 +41163,7 @@
           {
             "name": "MIMT",
             "quota": 3,
-            "enroll": 0
+            "enroll": 3
           },
           {
             "name": "TLE",
@@ -42287,7 +42287,7 @@
         "number": "1301",
         "remarks": "> For MSc(FINA); MSc(FA); MSc(IM); FT-MBA and MBA Exchange students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 64,
-        "enroll": 1,
+        "enroll": 5,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -42309,7 +42309,7 @@
           {
             "name": "MIMT",
             "quota": 4,
-            "enroll": 0
+            "enroll": 4
           }
         ],
         "schedule": [
@@ -42784,7 +42784,7 @@
         "number": "1306",
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 65,
-        "enroll": 0,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -42796,7 +42796,7 @@
           {
             "name": "MIMT",
             "quota": 5,
-            "enroll": 0
+            "enroll": 2
           }
         ],
         "schedule": [
@@ -43425,7 +43425,7 @@
         "number": "1588",
         "remarks": "> For MSc(FOFB) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 40,
-        "enroll": 0,
+        "enroll": 5,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -43437,7 +43437,7 @@
           {
             "name": "MIMT",
             "quota": 5,
-            "enroll": 0
+            "enroll": 5
           }
         ],
         "schedule": [
@@ -62636,7 +62636,7 @@
         "number": "1433",
         "remarks": "> Instructor : Dr JIA, Justin\n> For MSc(BA) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 65,
-        "enroll": 4,
+        "enroll": 5,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -62658,7 +62658,7 @@
           {
             "name": "MIMT",
             "quota": 2,
-            "enroll": 0
+            "enroll": 1
           },
           {
             "name": "TLE",
@@ -64251,7 +64251,7 @@
         "number": "1434",
         "remarks": "> For MSc(ISM) students only\n> Will have normal class on 1-May-2026\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 60,
-        "enroll": 5,
+        "enroll": 8,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -64273,7 +64273,7 @@
           {
             "name": "MIMT",
             "quota": 3,
-            "enroll": 0
+            "enroll": 3
           },
           {
             "name": "TLE",
@@ -65632,7 +65632,7 @@
         "number": "1440",
         "remarks": "> Instructor : ZHANG, Dennis\n> For MSc(ISM) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 60,
-        "enroll": 7,
+        "enroll": 10,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -65659,7 +65659,7 @@
           {
             "name": "MIMT",
             "quota": 3,
-            "enroll": 0
+            "enroll": 3
           }
         ],
         "schedule": [
@@ -65699,7 +65699,7 @@
         "number": "1386",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 50,
-        "enroll": 8,
+        "enroll": 13,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -65721,7 +65721,7 @@
           {
             "name": "MIMT",
             "quota": 5,
-            "enroll": 0
+            "enroll": 5
           }
         ],
         "schedule": [
@@ -65774,7 +65774,7 @@
         "number": "1432",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 50,
-        "enroll": 12,
+        "enroll": 14,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -65796,7 +65796,7 @@
           {
             "name": "MIMT",
             "quota": 3,
-            "enroll": 0
+            "enroll": 2
           },
           {
             "name": "TLE",
@@ -65841,7 +65841,7 @@
         "number": "1422",
         "remarks": "> For SBM TPG students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 60,
-        "enroll": 22,
+        "enroll": 27,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
@@ -65883,7 +65883,7 @@
           {
             "name": "MIMT",
             "quota": 5,
-            "enroll": 0
+            "enroll": 5
           },
           {
             "name": "TLE",
@@ -79822,7 +79822,7 @@
         "number": "1504",
         "remarks": " ",
         "quota": 80,
-        "enroll": 67,
+        "enroll": 66,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -83778,7 +83778,7 @@
         "number": "1523",
         "remarks": "> Instructor : Mr LIN, Eric\n> For MSc(MARK) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 65,
-        "enroll": 0,
+        "enroll": 5,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -83790,7 +83790,7 @@
           {
             "name": "MIMT",
             "quota": 8,
-            "enroll": 0
+            "enroll": 5
           }
         ],
         "schedule": [
@@ -97229,7 +97229,7 @@
         "number": "1591",
         "remarks": "> For MSc(FOFB) students only\n> Venue : United Conference Centre, 10/F, United Centre, 95 Queensway, Admiralty, Hong Kong\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 40,
-        "enroll": 5,
+        "enroll": 8,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -97251,7 +97251,7 @@
           {
             "name": "MIMT",
             "quota": 3,
-            "enroll": 0
+            "enroll": 3
           }
         ],
         "schedule": [
@@ -98982,7 +98982,7 @@
         "number": "1711",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 40,
-        "enroll": 0,
+        "enroll": 26,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -98994,7 +98994,7 @@
           {
             "name": "MIMT",
             "quota": 39,
-            "enroll": 0
+            "enroll": 26
           }
         ],
         "schedule": [
@@ -99060,7 +99060,7 @@
         "number": "1689",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 50,
-        "enroll": 4,
+        "enroll": 42,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -99077,7 +99077,7 @@
           {
             "name": "MIMT",
             "quota": 45,
-            "enroll": 0
+            "enroll": 38
           }
         ],
         "schedule": [
@@ -99156,7 +99156,7 @@
         "number": "1718",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 20-Apr-2026",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 55,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -99209,8 +99209,8 @@
         "section": "L1",
         "number": "1686",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 02-Feb-2026",
-        "quota": 50,
-        "enroll": 0,
+        "quota": 56,
+        "enroll": 56,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -99264,7 +99264,7 @@
         "number": "1713",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 40,
-        "enroll": 0,
+        "enroll": 38,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -99318,7 +99318,7 @@
         "number": "1690",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 40,
-        "enroll": 7,
+        "enroll": 17,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -99335,7 +99335,7 @@
           {
             "name": "MIMT",
             "quota": 32,
-            "enroll": 0
+            "enroll": 10
           }
         ],
         "schedule": [
@@ -99421,7 +99421,7 @@
         "number": "1695",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 40,
-        "enroll": 2,
+        "enroll": 28,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -99433,7 +99433,7 @@
           {
             "name": "MIMT",
             "quota": 38,
-            "enroll": 0
+            "enroll": 26
           }
         ],
         "schedule": [
@@ -99596,7 +99596,7 @@
         "number": "1712",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 40,
-        "enroll": 14,
+        "enroll": 20,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -99623,7 +99623,7 @@
           {
             "name": "MIMT",
             "quota": 19,
-            "enroll": 0
+            "enroll": 6
           },
           {
             "name": "TLE",
@@ -99694,7 +99694,7 @@
         "number": "1719",
         "remarks": "> Instructor : Dr WONG, Gilbert\n> For MSc(IMT) students only\n> Add/Drop Deadline : 11-May-2026",
         "quota": 40,
-        "enroll": 5,
+        "enroll": 28,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -99711,7 +99711,7 @@
           {
             "name": "MIMT",
             "quota": 34,
-            "enroll": 0
+            "enroll": 23
           }
         ],
         "schedule": [
@@ -99748,6 +99748,45 @@
   {
     "career": "TPG",
     "subject": "MIMT",
+    "number": "6120",
+    "code": "MIMT6120",
+    "name": "Skill Seminar II",
+    "description": "This skill seminar will be offered to develop the students' essential business and communication skills necessary to work in a global business environment such as communication, teamwork, negotiation and presentation skills. Some possible skill seminars include topics on time management, inter-cultural skills, group work abilities, international negotiation techniques, presentation skills, to name a few. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4442",
+        "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 30-Apr-2026",
+        "quota": 20,
+        "enroll": 20,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-01-26",
+            "toDate": "2026-05-30",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MIMT",
     "number": "6200",
     "code": "MIMT6200",
     "name": "Business Project",
@@ -99764,7 +99803,7 @@
         "number": "1687",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 09-Feb-2026",
         "quota": 35,
-        "enroll": 0,
+        "enroll": 31,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -102479,7 +102518,7 @@
         "number": "1895",
         "remarks": " ",
         "quota": 500,
-        "enroll": 396,
+        "enroll": 395,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -103214,7 +103253,7 @@
         "number": "1900",
         "remarks": " ",
         "quota": 100,
-        "enroll": 87,
+        "enroll": 86,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -110618,8 +110657,8 @@
         "section": "L1",
         "number": "1677",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 02-Feb-2026",
-        "quota": 40,
-        "enroll": 7,
+        "quota": 46,
+        "enroll": 38,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -110645,8 +110684,8 @@
           },
           {
             "name": "MIMT",
-            "quota": 25,
-            "enroll": 0
+            "quota": 31,
+            "enroll": 31
           },
           {
             "name": "TLE",
@@ -110749,7 +110788,7 @@
         "number": "1706",
         "remarks": "> For MSc(MARK) and MSc(IMT) students only\n> Add/Drop Deadline : 31-Mar-2026",
         "quota": 18,
-        "enroll": 12,
+        "enroll": 13,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
