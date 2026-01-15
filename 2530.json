@@ -3147,9 +3147,9 @@
         "number": "1729",
         "remarks": " ",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 45,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -4519,9 +4519,48 @@
         "number": "1737",
         "remarks": " ",
         "quota": 50,
-        "enroll": 0,
+        "enroll": 24,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "BEHI",
+    "number": "6102B",
+    "code": "BEHI6102B",
+    "name": "Integrated Design Project",
+    "description": "A design project on a topic in the realm of biomolecular engineering and/or health informatics carried out as a team effort under the supervision of a faculty member. It focuses on design thinking and getting hands-on experience with the engineering design process in a broad sense, and aims to accommodate students with more industry-oriented interests. May be graded PP.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4448",
+        "remarks": " ",
+        "quota": 2,
+        "enroll": 2,
+        "waitlist": 0,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -10583,9 +10622,9 @@
         "number": "1747",
         "remarks": " ",
         "quota": 190,
-        "enroll": 0,
+        "enroll": 110,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -17437,8 +17476,8 @@
         "section": "T1",
         "number": "2313",
         "remarks": " ",
-        "quota": 793,
-        "enroll": 790,
+        "quota": 788,
+        "enroll": 788,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -17462,7 +17501,7 @@
         "section": "T2",
         "number": "2314",
         "remarks": " ",
-        "quota": 95,
+        "quota": 94,
         "enroll": 92,
         "waitlist": 0,
         "consent": false,
@@ -17471,6 +17510,29 @@
           {
             "instructors": [
               "PAPADOPOULOS, Dimitris"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "T3",
+        "number": "4449",
+        "remarks": " ",
+        "quota": 2,
+        "enroll": 2,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LEUNG, Wai Ting"
             ],
             "venue": "TBA",
             "fromDate": "2026-02-02",
@@ -52413,9 +52475,9 @@
         "number": "1773",
         "remarks": " ",
         "quota": 90,
-        "enroll": 0,
+        "enroll": 46,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -66047,9 +66109,9 @@
         "number": "1422",
         "remarks": "> For SBM TPG students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 60,
-        "enroll": 27,
+        "enroll": 36,
         "waitlist": 0,
-        "consent": true,
+        "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
@@ -66059,7 +66121,7 @@
           {
             "name": "BA",
             "quota": 10,
-            "enroll": 0
+            "enroll": 9
           },
           {
             "name": "FINA",
@@ -66807,9 +66869,9 @@
         "number": "1781",
         "remarks": " ",
         "quota": 80,
-        "enroll": 0,
+        "enroll": 32,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -90910,9 +90972,9 @@
         "number": "1790",
         "remarks": " ",
         "quota": 90,
-        "enroll": 0,
+        "enroll": 43,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -93968,9 +94030,9 @@
         "number": "1798",
         "remarks": " ",
         "quota": 90,
-        "enroll": 0,
+        "enroll": 62,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -98077,7 +98139,7 @@
         "quota": 25,
         "enroll": 25,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [
           {
             "name": "BA",
@@ -98121,7 +98183,7 @@
         "quota": 25,
         "enroll": 21,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [
           {
             "name": "BA",
@@ -98181,7 +98243,7 @@
         "quota": 25,
         "enroll": 25,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [
           {
             "name": "BA",
@@ -98212,7 +98274,7 @@
         "quota": 25,
         "enroll": 21,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [
           {
             "name": "BA",
@@ -100546,9 +100608,9 @@
         "number": "1807",
         "remarks": " ",
         "quota": 50,
-        "enroll": 0,
+        "enroll": 5,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
