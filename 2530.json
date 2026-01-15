@@ -14683,14 +14683,14 @@
         "section": "L1",
         "number": "2194",
         "remarks": " ",
-        "quota": 190,
+        "quota": 180,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "CSE",
-            "quota": 190,
+            "quota": 180,
             "enroll": 0
           }
         ],
@@ -64795,6 +64795,51 @@
   {
     "career": "TPG",
     "subject": "ISOM",
+    "number": "5600",
+    "code": "ISOM5600",
+    "name": "Business Practice for Business Analytics",
+    "description": "The course consists of twofold: 1) Refreshment of basic accounting and finance, statistics, and programming skills for students to apply to the MSc in Business Analytics program; and 2) Develop and broaden students' creative mindset, business sense, and communication through training in data management, design thinking, and business communication. In-class exercises and assignments may be required depending on individual workshop design. An exemption for partial workshop training may be granted if students fulfill the exemption requirement. Graded PP, P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "4451",
+        "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 06-Apr-2026",
+        "quota": 5,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "BA",
+            "quota": 5,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "ISOM",
     "number": "5640",
     "code": "ISOM5640",
     "name": "Social Media and Network Analysis",
@@ -64904,6 +64949,51 @@
             ],
             "fromTime": "19:00",
             "toTime": "22:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "ISOM",
+    "number": "5690",
+    "code": "ISOM5690",
+    "name": "BA Enrichment Workshops",
+    "description": "The BA enrichment workshops aim to develop students’ business mindset and understand the landscape of analytics works across different industries. Students are expected to attend the workshops regularly in accordance with the course requirements. No assignment or exam will be required. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "4450",
+        "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 06-Apr-2026",
+        "quota": 143,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "BA",
+            "quota": 143,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -70012,7 +70102,7 @@
         "section": "T01",
         "number": "3266",
         "remarks": " ",
-        "quota": 21,
+        "quota": 20,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -70038,7 +70128,7 @@
         "section": "T02",
         "number": "3267",
         "remarks": " ",
-        "quota": 21,
+        "quota": 20,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -115341,7 +115431,7 @@
         "number": "1881",
         "remarks": " ",
         "quota": 20,
-        "enroll": 7,
+        "enroll": 8,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
