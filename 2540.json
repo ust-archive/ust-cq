@@ -5229,6 +5229,151 @@
     ]
   },
   {
+    "career": "TPG",
+    "subject": "MARK",
+    "number": "5120",
+    "code": "MARK5120",
+    "name": "Marketing Strategy",
+    "description": "Strategic marketing objectives and implementation of strategies through pricing, distribution channels, promotion and new-product decisions.  This is a core course for MBA.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "IMBA 5050",
+    "credits": 2,
+    "attributes": [
+      {
+        "attribute": "DELI",
+        "value": "BLD",
+        "attributeDescription": "Mode of Delivery",
+        "valueDescription": "[BLD] Blended learning"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1181",
+        "remarks": "> The class is delivered in a conventional face-to-face mode\n> For Part-time MBA (Bi-weekly) Year 1 students only\n> Add/Drop Deadline : 15-Jun-2026",
+        "quota": 60,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "MBA Bi-weekly",
+            "quota": 60,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "RAITT, Gene"
+            ],
+            "venue": "Rm 2003, LSK Bldg",
+            "fromDate": "2026-06-14",
+            "toDate": "2026-06-14",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "RAITT, Gene"
+            ],
+            "venue": "Rm 2003, LSK Bldg",
+            "fromDate": "2026-06-14",
+            "toDate": "2026-06-14",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "RAITT, Gene"
+            ],
+            "venue": "Rm 2003, LSK Bldg",
+            "fromDate": "2026-06-28",
+            "toDate": "2026-06-28",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "RAITT, Gene"
+            ],
+            "venue": "Rm 2003, LSK Bldg",
+            "fromDate": "2026-06-28",
+            "toDate": "2026-06-28",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "RAITT, Gene"
+            ],
+            "venue": "Rm 2003, LSK Bldg",
+            "fromDate": "2026-07-12",
+            "toDate": "2026-07-12",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "RAITT, Gene"
+            ],
+            "venue": "Rm 2003, LSK Bldg",
+            "fromDate": "2026-07-26",
+            "toDate": "2026-07-26",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "RAITT, Gene"
+            ],
+            "venue": "Rm 2003, LSK Bldg",
+            "fromDate": "2026-07-26",
+            "toDate": "2026-07-26",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "RAITT, Gene"
+            ],
+            "venue": "Rm 2003, LSK Bldg",
+            "fromDate": "2026-07-12",
+            "toDate": "2026-07-12",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "UGRD",
     "subject": "MATH",
     "number": "1014",
@@ -5630,6 +5775,53 @@
             ],
             "fromTime": "14:00",
             "toTime": "16:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MGMT",
+    "number": "5210",
+    "code": "MGMT5210",
+    "name": "Preparing to Lead",
+    "description": "The practical study of managerial work. Examines communication skills and offers the opportunity for assessment and feedback. Organizational contexts, team building and case work. This is a required immersion program for MBA programs. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "IMBA 5010 (Prior to 2019-20)",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1182",
+        "remarks": "> For Part-time MBA (Bi-weekly) Year 1 students only\n> Add/Drop Deadline : 13-Aug-2025",
+        "quota": 50,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "MBA Bi-weekly",
+            "quota": 50,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "HUANG, Allen",
+              "NASON, Stephen William",
+              "SHIH, Stephen"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-08-13",
+            "toDate": "2026-08-16",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }

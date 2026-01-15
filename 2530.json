@@ -65066,15 +65066,15 @@
         "section": "T1",
         "number": "4450",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 06-Apr-2026",
-        "quota": 132,
-        "enroll": 132,
+        "quota": 133,
+        "enroll": 133,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
-            "quota": 132,
-            "enroll": 132
+            "quota": 133,
+            "enroll": 133
           }
         ],
         "schedule": [
@@ -71963,32 +71963,6 @@
     ],
     "classes": [
       {
-        "section": "T01",
-        "number": "3322",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2131A, Lift 19 (28)",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              3,
-              5
-            ],
-            "fromTime": "16:30",
-            "toTime": "17:50"
-          }
-        ]
-      },
-      {
         "section": "T02",
         "number": "3323",
         "remarks": " ",
@@ -72945,6 +72919,32 @@
             "toTime": "10:20"
           }
         ]
+      },
+      {
+        "section": "T17",
+        "number": "4454",
+        "remarks": " ",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 2131A, Lift 19 (28)",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [
+              3,
+              5
+            ],
+            "fromTime": "16:30",
+            "toTime": "17:50"
+          }
+        ]
       }
     ]
   },
@@ -73360,6 +73360,44 @@
             "toTime": "13:20"
           }
         ]
+      },
+      {
+        "section": "T14",
+        "number": "4455",
+        "remarks": " ",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 2129A, Lift 19 (28)",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "15:00",
+            "toTime": "16:20"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 2129A, Lift 19 (28)",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "10:30",
+            "toTime": "11:50"
+          }
+        ]
       }
     ]
   },
@@ -73463,44 +73501,6 @@
             ],
             "fromTime": "12:00",
             "toTime": "13:20"
-          }
-        ]
-      },
-      {
-        "section": "T03",
-        "number": "3368",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2129A, Lift 19 (28)",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              1
-            ],
-            "fromTime": "15:00",
-            "toTime": "16:20"
-          },
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2129A, Lift 19 (28)",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "10:30",
-            "toTime": "11:50"
           }
         ]
       },
@@ -100087,7 +100087,7 @@
         "number": "1712",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 40,
-        "enroll": 25,
+        "enroll": 30,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -100098,8 +100098,8 @@
           },
           {
             "name": "BA",
-            "quota": 5,
-            "enroll": 5
+            "quota": 10,
+            "enroll": 10
           },
           {
             "name": "GO",
@@ -100113,7 +100113,7 @@
           },
           {
             "name": "MIMT",
-            "quota": 19,
+            "quota": 14,
             "enroll": 6
           },
           {
