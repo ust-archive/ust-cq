@@ -15236,7 +15236,7 @@
         "section": "L2",
         "number": "2228",
         "remarks": " ",
-        "quota": 60,
+        "quota": 120,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -15274,7 +15274,7 @@
         "section": "L3",
         "number": "2230",
         "remarks": " ",
-        "quota": 60,
+        "quota": 120,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -15300,7 +15300,7 @@
         "section": "LA1",
         "number": "2232",
         "remarks": " ",
-        "quota": 70,
+        "quota": 110,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -15326,7 +15326,7 @@
         "section": "LA2",
         "number": "2234",
         "remarks": " ",
-        "quota": 70,
+        "quota": 110,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -15352,7 +15352,7 @@
         "section": "LA3",
         "number": "2235",
         "remarks": " ",
-        "quota": 70,
+        "quota": 110,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -17463,7 +17463,7 @@
         "number": "2314",
         "remarks": " ",
         "quota": 95,
-        "enroll": 94,
+        "enroll": 92,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -19364,7 +19364,7 @@
         "section": "T06",
         "number": "2102",
         "remarks": "> Classes held in Room 2130C",
-        "quota": 10,
+        "quota": 11,
         "enroll": 10,
         "waitlist": 0,
         "consent": false,
@@ -19489,7 +19489,7 @@
         "section": "T11",
         "number": "2107",
         "remarks": "> Classes held in Room 2131C",
-        "quota": 3,
+        "quota": 4,
         "enroll": 3,
         "waitlist": 0,
         "consent": false,
@@ -21627,6 +21627,202 @@
             "toTime": "11:50"
           }
         ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "DBAB",
+    "number": "5130",
+    "code": "DBAB5130",
+    "name": "Frontiers in Finance Research",
+    "description": "This course delves into the cutting-edge research and theories shaping the fields of asset pricing and corporate finance. It is designed to equip students with a deep understanding of the latest developments, methodologies, and empirical findings in financial research. The course aims to prepare students for a career in academia, financial research, or high-level decision-making roles in the corporate world.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [
+      {
+        "attribute": "MEDI",
+        "value": "PU",
+        "attributeDescription": "Medium of Instruction",
+        "valueDescription": "[PU] Putonghua"
+      },
+      {
+        "attribute": "READ",
+        "value": "C",
+        "attributeDescription": "Reading Material",
+        "valueDescription": "[C] Require Chinese reading"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4443",
+        "remarks": "> Class Duration/Dates : 19-Mar-2026 to 20-Mar-2026 and 14-May-2026 to 15-May-2026",
+        "quota": 42,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-03-19",
+            "toDate": "2026-03-20",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "DBAB",
+    "number": "5207",
+    "code": "DBAB5207",
+    "name": "Artificial Intelligence and Data Science",
+    "description": "This course provides a comprehensive introduction to Artificial Intelligence (AI) and Data Science, covering key concepts such as machine learning, data mining, and big data analytics. Students will explore the use of AI techniques in data-driven decision-making and predictive modeling. The course emphasizes practical applications in various domains, including business, healthcare, and technology.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [
+      {
+        "attribute": "MEDI",
+        "value": "PU",
+        "attributeDescription": "Medium of Instruction",
+        "valueDescription": "[PU] Putonghua"
+      },
+      {
+        "attribute": "READ",
+        "value": "C",
+        "attributeDescription": "Reading Material",
+        "valueDescription": "[C] Require Chinese reading"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4445",
+        "remarks": "> Class Duration/Dates : 16-May-2026",
+        "quota": 42,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "DBAB",
+    "number": "5208",
+    "code": "DBAB5208",
+    "name": "Brain-Computer Interface and Neuromorphic Intelligence",
+    "description": "This course explores the cutting-edge fields of Brain-Computer Interfaces (BCI) and Neuromorphic Intelligence. Students will delve into the technologies that enable direct communication between the brain and external devices, as well as the design and implementation of neuromorphic systems that mimic neural processes. The course covers topics such as neural signal processing, cognitive computing, and the integration of BCI with AI systems.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [
+      {
+        "attribute": "MEDI",
+        "value": "PU",
+        "attributeDescription": "Medium of Instruction",
+        "valueDescription": "[PU] Putonghua"
+      },
+      {
+        "attribute": "READ",
+        "value": "C",
+        "attributeDescription": "Reading Material",
+        "valueDescription": "[C] Require Chinese reading"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4444",
+        "remarks": "> Class Duration/Dates : 21-Mar-2026 to 21-Mar-2026",
+        "quota": 42,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-03-21",
+            "toDate": "2026-03-22",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "DBAB",
+    "number": "5209",
+    "code": "DBAB5209",
+    "name": "Chip Technology",
+    "description": "This course offers an in-depth exploration of semiconductor chip technology, covering the design, fabrication, and testing of integrated circuits (ICs). Students will learn about the underlying principles of semiconductor physics, microfabrication techniques, and the latest advancements in chip architecture. The course also examines the challenges in scaling, power consumption, and the integration of novel materials in chip design.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [
+      {
+        "attribute": "MEDI",
+        "value": "PU",
+        "attributeDescription": "Medium of Instruction",
+        "valueDescription": "[PU] Putonghua"
+      },
+      {
+        "attribute": "READ",
+        "value": "C",
+        "attributeDescription": "Reading Material",
+        "valueDescription": "[C] Require Chinese reading"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4446",
+        "remarks": "> Class Duration/Dates : 17-May-2026",
+        "quota": 42,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": []
       }
     ]
   },
@@ -40635,14 +40831,14 @@
         "number": "1277",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(GO) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 60,
-        "enroll": 46,
+        "enroll": 47,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 60,
-            "enroll": 46
+            "enroll": 47
           }
         ],
         "schedule": [
@@ -65020,14 +65216,24 @@
         "number": "1427",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
-            "name": "GO",
-            "quota": 60,
+            "name": "FOFB",
+            "quota": 2,
             "enroll": 0
+          },
+          {
+            "name": "GO",
+            "quota": 55,
+            "enroll": 0
+          },
+          {
+            "name": "MARK",
+            "quota": 3,
+            "enroll": 1
           }
         ],
         "schedule": [
@@ -65464,15 +65670,15 @@
         "section": "L1",
         "number": "1410",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 09-May-2026",
-        "quota": 142,
-        "enroll": 142,
+        "quota": 143,
+        "enroll": 143,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
-            "quota": 142,
-            "enroll": 142
+            "quota": 143,
+            "enroll": 143
           }
         ],
         "schedule": [
@@ -82591,14 +82797,14 @@
         "number": "1510",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(GO) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 60,
-        "enroll": 47,
+        "enroll": 48,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 60,
-            "enroll": 47
+            "enroll": 48
           }
         ],
         "schedule": [
