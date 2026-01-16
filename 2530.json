@@ -42997,8 +42997,23 @@
         "consent": false,
         "reservedQuota": [
           {
+            "name": "ACCT",
+            "quota": 2,
+            "enroll": 0
+          },
+          {
+            "name": "ECON",
+            "quota": 2,
+            "enroll": 0
+          },
+          {
             "name": "FINA",
-            "quota": 65,
+            "quota": 60,
+            "enroll": 0
+          },
+          {
+            "name": "FOFB",
+            "quota": 1,
             "enroll": 0
           }
         ],
@@ -89620,21 +89635,6 @@
   {
     "career": "UGRD",
     "subject": "MATH",
-    "number": "4343",
-    "code": "MATH4343",
-    "name": "Introduction to Graph Theory",
-    "description": "This course is to equip students with basic knowledge of graph theory that will be needed in mathematics, computer science, and engineering (in particular network analysis). Topics include but not restricted to: Euler tours and Chinese postman problem, Hamilton cycles and traveling salesman problem; minimum spanning trees and searching algorithms; block decomposition, ear decomposition, connectivity and edge connectivity; network flows, Ford‐Fulkerson (Max‐Flow Min‐Cut) theorem, augmenting‐path algorithm; planar graphs, Euler formula, duality, classification of Platonic solids, Kuratowski (planarity) theorem; maximum matchings and perfect matchings, matchings in bipartite graphs, matchings in general graphs, Tutte‐Berge theorem, Petersen theorem; probabilistic method, page rank problem, random walks; cycle spaces and bond spaces, graph Laplace operator, matrix‐tree theorem; Four‐Color problem, colorings and flows, chromatic number and flow number, chromatic polynomials, flow polynomials, Tutte polynomials; matroids.",
-    "previousCodes": "MATH4821B",
-    "prerequisites": "MATH 2343",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 4,
-    "attributes": [],
-    "classes": []
-  },
-  {
-    "career": "UGRD",
-    "subject": "MATH",
     "number": "4351",
     "code": "MATH4351",
     "name": "Numerical Solutions of Partial Differential Equations",
@@ -90352,6 +90352,47 @@
             "toDate": "2026-05-09",
             "weekdays": [
               2
+            ],
+            "fromTime": "18:30",
+            "toTime": "21:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "MATH",
+    "number": "5380",
+    "code": "MATH5380",
+    "name": "Combinatorics",
+    "description": "Enumerative Combinatorics: bijective counting, permutation statistics, generating functions, partially ordered sets, Mobius inversions, Polya theory.  Graph Theory: cycle space, bond space, spanning-tree formulas, matching theory, chromatic polynomials, network flows.  Matroid Theory: matroid axioms, representations, duality, lattice of flats, transversals.",
+    "previousCodes": "",
+    "prerequisites": "MATH 2343 or MATH 3343",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4460",
+        "remarks": " ",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CHEN, Beifang"
+            ],
+            "venue": "Rm 5560, Lift 27-28 (30)",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [
+              3
             ],
             "fromTime": "18:30",
             "toTime": "21:20"
