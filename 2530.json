@@ -43059,8 +43059,28 @@
         "consent": false,
         "reservedQuota": [
           {
+            "name": "ACCT",
+            "quota": 1,
+            "enroll": 0
+          },
+          {
+            "name": "BA",
+            "quota": 5,
+            "enroll": 0
+          },
+          {
+            "name": "ECON",
+            "quota": 1,
+            "enroll": 0
+          },
+          {
             "name": "FINA",
-            "quota": 65,
+            "quota": 52,
+            "enroll": 0
+          },
+          {
+            "name": "MIMT",
+            "quota": 5,
             "enroll": 0
           }
         ],
