@@ -3679,40 +3679,7 @@
     "exclusions": "AMCC 6100",
     "credits": 3,
     "attributes": [],
-    "classes": [
-      {
-        "section": "R1",
-        "number": "4428",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [
-          {
-            "name": "AMCC",
-            "quota": 20,
-            "enroll": 0
-          }
-        ],
-        "schedule": [
-          {
-            "instructors": [
-              "CHENG, Vennes",
-              "CHUN, Daniel",
-              "XUE, Wei",
-              "YANG, Harry"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
+    "classes": []
   },
   {
     "career": "TPG",
@@ -103167,7 +103134,7 @@
         "number": "1358",
         "remarks": " ",
         "quota": 300,
-        "enroll": 231,
+        "enroll": 230,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
