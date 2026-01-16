@@ -9706,7 +9706,7 @@
         "number": "1102",
         "remarks": " ",
         "quota": 150,
-        "enroll": 142,
+        "enroll": 140,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -23834,7 +23834,7 @@
         "section": "T1",
         "number": "2616",
         "remarks": " ",
-        "quota": 80,
+        "quota": 51,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -40283,7 +40283,7 @@
     "name": "Bloomberg Market Concepts Certification",
     "description": "The course aims to provide students with knowledge of financial markets and Bloomberg functionality. The course consists of four modules: economic indicators, currencies, fixed income and equities. Students will need to complete all four modules to receive the Bloomberg Market Concepts certification. Graded P or F. For students with major in FINA, QFIN and SGFN only.",
     "previousCodes": "",
-    "prerequisites": "",
+    "prerequisites": "FINA 2203 OR FINA 2303",
     "corequisites": "",
     "exclusions": "",
     "credits": 0,
@@ -63936,14 +63936,14 @@
         "number": "1403",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 52,
-        "enroll": 44,
+        "enroll": 45,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 42,
-            "enroll": 42
+            "enroll": 43
           },
           {
             "name": "FINA",
@@ -66293,7 +66293,7 @@
         "number": "1422",
         "remarks": "> For SBM TPG students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 60,
-        "enroll": 36,
+        "enroll": 37,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -66304,8 +66304,8 @@
           },
           {
             "name": "BA",
-            "quota": 10,
-            "enroll": 9
+            "quota": 13,
+            "enroll": 10
           },
           {
             "name": "FINA",
@@ -66329,7 +66329,7 @@
           },
           {
             "name": "MARK",
-            "quota": 10,
+            "quota": 7,
             "enroll": 4
           },
           {
@@ -83574,14 +83574,14 @@
         "number": "1531",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 62,
-        "enroll": 44,
+        "enroll": 45,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 62,
-            "enroll": 44
+            "enroll": 45
           }
         ],
         "schedule": [
@@ -100348,14 +100348,14 @@
         "number": "1799",
         "remarks": "> MSBD 5002 is not co-listing with CSIT 5210 in Spring 2025-26",
         "quota": 100,
-        "enroll": 58,
+        "enroll": 57,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BDT",
             "quota": 100,
-            "enroll": 58
+            "enroll": 57
           }
         ],
         "schedule": [
@@ -100395,14 +100395,14 @@
         "number": "1800",
         "remarks": " ",
         "quota": 100,
-        "enroll": 59,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BDT",
             "quota": 100,
-            "enroll": 59
+            "enroll": 58
           }
         ],
         "schedule": [
@@ -102931,7 +102931,7 @@
         "number": "1614",
         "remarks": " ",
         "quota": 30,
-        "enroll": 25,
+        "enroll": 24,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -102970,7 +102970,7 @@
         "number": "1615",
         "remarks": " ",
         "quota": 80,
-        "enroll": 74,
+        "enroll": 71,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -107938,7 +107938,7 @@
         "number": "1647",
         "remarks": " ",
         "quota": 30,
-        "enroll": 2,
+        "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -107977,7 +107977,7 @@
         "number": "1648",
         "remarks": " ",
         "quota": 100,
-        "enroll": 66,
+        "enroll": 57,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -111277,7 +111277,7 @@
       {
         "section": "R1",
         "number": "1706",
-        "remarks": "> For MSc(MARK) and MSc(IMT) students only\n> Add/Drop Deadline : 31-Mar-2026",
+        "remarks": "> For MSc(MARK) and MSc(IMT) students only\n> Add/Drop Deadline : 26-Jan-2026",
         "quota": 18,
         "enroll": 13,
         "waitlist": 0,
