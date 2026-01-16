@@ -20343,7 +20343,7 @@
         "number": "2138",
         "remarks": "> Classes held in Room 2132B",
         "quota": 12,
-        "enroll": 12,
+        "enroll": 11,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -41147,14 +41147,14 @@
         "number": "1307",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For PT-MBA Year 1 students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 75,
-        "enroll": 0,
+        "enroll": 73,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MBA",
             "quota": 75,
-            "enroll": 0
+            "enroll": 73
           }
         ],
         "schedule": [
@@ -41335,7 +41335,12 @@
         "reservedQuota": [
           {
             "name": "FINA",
-            "quota": 65,
+            "quota": 64,
+            "enroll": 0
+          },
+          {
+            "name": "FOFB",
+            "quota": 1,
             "enroll": 0
           }
         ],
@@ -62727,14 +62732,14 @@
         "number": "1428",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For FT-MBA Year 1 students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 65,
-        "enroll": 0,
+        "enroll": 57,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MBA",
             "quota": 65,
-            "enroll": 0
+            "enroll": 57
           }
         ],
         "schedule": [
@@ -65297,14 +65302,14 @@
         "number": "1405",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For PT-MBA Year 1 students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 75,
-        "enroll": 0,
+        "enroll": 73,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MBA",
             "quota": 75,
-            "enroll": 0
+            "enroll": 73
           }
         ],
         "schedule": [
@@ -97299,14 +97304,19 @@
         "number": "1574",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For FT-MBA Year 1 students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 65,
-        "enroll": 0,
+        "enroll": 59,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MBA",
-            "quota": 65,
-            "enroll": 0
+            "quota": 64,
+            "enroll": 58
+          },
+          {
+            "name": "MBA Bi-weekly",
+            "quota": 1,
+            "enroll": 1
           }
         ],
         "schedule": [
@@ -97343,14 +97353,14 @@
         "number": "1577",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For PT-MBA Year 1 students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 75,
-        "enroll": 0,
+        "enroll": 70,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MBA",
             "quota": 75,
-            "enroll": 0
+            "enroll": 70
           }
         ],
         "schedule": [
@@ -98046,14 +98056,14 @@
         "number": "1600",
         "remarks": "> For FT-MBA Year 1 students only\n> Add/Drop Deadline : 01-Jun-2026",
         "quota": 65,
-        "enroll": 0,
+        "enroll": 57,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MBA",
             "quota": 65,
-            "enroll": 0
+            "enroll": 57
           }
         ],
         "schedule": [
@@ -111386,14 +111396,14 @@
         "number": "1678",
         "remarks": "> Instructor : WONG, Dan\n> For FT-MBA students only\n> Add/Drop Deadline : 26-Jan-2026",
         "quota": 50,
-        "enroll": 0,
+        "enroll": 18,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
           {
             "name": "MBA",
             "quota": 50,
-            "enroll": 0
+            "enroll": 18
           }
         ],
         "schedule": [
@@ -112003,20 +112013,20 @@
         "section": "L1",
         "number": "1710",
         "remarks": "> For PT-MBA Year 2 or above and MBA (Bi-weekly) Year 2 or above students only\n> Add/Drop Deadline : 8-Mar-2026",
-        "quota": 30,
-        "enroll": 0,
+        "quota": 35,
+        "enroll": 34,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
           {
             "name": "MBA",
-            "quota": 18,
-            "enroll": 0
+            "quota": 23,
+            "enroll": 23
           },
           {
             "name": "MBA Bi-weekly",
             "quota": 12,
-            "enroll": 0
+            "enroll": 11
           }
         ],
         "schedule": [
@@ -112060,25 +112070,25 @@
         "section": "L1",
         "number": "1685",
         "remarks": "> The class is delivered in a blended learning mode\n> For FT-MBA; PT-MBA; MBA (Bi-weekly) and Digital MBA Year 2 or above students only\n> Add/Drop Deadline : 7-Apr-2026",
-        "quota": 30,
-        "enroll": 0,
+        "quota": 39,
+        "enroll": 33,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
           {
             "name": "Digital MBA",
-            "quota": 5,
-            "enroll": 0
+            "quota": 14,
+            "enroll": 14
           },
           {
             "name": "MBA",
             "quota": 15,
-            "enroll": 0
+            "enroll": 9
           },
           {
             "name": "MBA Bi-weekly",
             "quota": 10,
-            "enroll": 0
+            "enroll": 10
           }
         ],
         "schedule": [
@@ -115404,7 +115414,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "YU, Ang"
             ],
             "venue": "Rm 5566, Lift 27-28 (24)",
             "fromDate": "2026-02-02",
