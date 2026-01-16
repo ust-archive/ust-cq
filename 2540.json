@@ -436,7 +436,7 @@
     "number": "6110",
     "code": "AMCC6110",
     "name": "Professional Practice and Research (Internships)",
-    "description": "This course provides students with professional practice and research opportunities through an internship related to arts and machine creativity at a research institution, a company, a public agency, or other organizations.",
+    "description": "This course provides students with professional practice and research opportunities through an internship related to arts and machine creativity at a research institution, a company, a public agency, or other organizations. Graded P or F.",
     "previousCodes": "",
     "prerequisites": "",
     "corequisites": "",
@@ -2270,6 +2270,47 @@
             ],
             "fromTime": "14:00",
             "toTime": "17:20"
+          }
+        ]
+      },
+      {
+        "section": "L2",
+        "number": "1186",
+        "remarks": "> For FT-MBA; PT-MBA; MBA Bi-Weekly and DI-MBA students only\n> Venue : United Conference Centre, 10/F, United Centre, 95 Queensway, Admiralty, Hong Kong \n> Add/Drop Deadline : 22-Jun-2026",
+        "quota": 65,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "Digital MBA",
+            "quota": 5,
+            "enroll": 0
+          },
+          {
+            "name": "MBA",
+            "quota": 55,
+            "enroll": 0
+          },
+          {
+            "name": "MBA Bi-weekly",
+            "quota": 5,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "HE, Dean"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-08-03",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
           }
         ]
       }
@@ -5964,6 +6005,68 @@
             "toTime": null
           }
         ]
+      },
+      {
+        "section": "L2",
+        "number": "1188",
+        "remarks": "> For FT-MBA Year 1 students only\n> Add/Drop Deadline : 04-Aug-2026",
+        "quota": 60,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "MBA",
+            "quota": 60,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "HUANG, Allen",
+              "NASON, Stephen William",
+              "SHIH, Stephen"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-08-04",
+            "toDate": "2026-08-23",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "L3",
+        "number": "1189",
+        "remarks": "> For PT-MBA Year 1 students only\n> Add/Drop Deadline : 8-Aug-2026",
+        "quota": 60,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "MBA",
+            "quota": 60,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "HUANG, Allen",
+              "NASON, Stephen William",
+              "SHIH, Stephen"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-08-08",
+            "toDate": "2026-08-11",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
       }
     ]
   },
@@ -7150,6 +7253,107 @@
   {
     "career": "TPG",
     "subject": "SBMT",
+    "number": "5300",
+    "code": "SBMT5300",
+    "name": "Enhancing Professional Skills",
+    "description": "It aims at helping MBA students work intensively on developing or improving some key presentation skills which will be useful to them throughout their business careers. Simply put, the essence of Enhancing Professional Skills as “Making a Logical, Effective and Persuasive Business Presentation\". Graded P or F.",
+    "previousCodes": "SBMT6010B",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1187",
+        "remarks": "> Instructor : YIU, Kenny\n> For PT-MBA and Bi-weekly MBA students only\n> Add/Drop Deadline : 01-Jun-2026",
+        "quota": 60,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "MBA",
+            "quota": 30,
+            "enroll": 0
+          },
+          {
+            "name": "MBA Bi-weekly",
+            "quota": 30,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "DORAN, Christopher",
+              "NASON, Stephen William",
+              "SALVACRUZ, Joseph"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-01",
+            "toDate": "2026-06-02",
+            "weekdays": [
+              1,
+              2
+            ],
+            "fromTime": "09:00",
+            "toTime": "21:50"
+          },
+          {
+            "instructors": [
+              "DORAN, Christopher",
+              "NASON, Stephen William",
+              "SALVACRUZ, Joseph"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-03",
+            "toDate": "2026-06-05",
+            "weekdays": [
+              3,
+              5
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "DORAN, Christopher",
+              "NASON, Stephen William",
+              "SALVACRUZ, Joseph"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-06",
+            "toDate": "2026-06-06",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "09:00",
+            "toTime": "18:50"
+          },
+          {
+            "instructors": [
+              "DORAN, Christopher",
+              "NASON, Stephen William",
+              "SALVACRUZ, Joseph"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-07",
+            "toDate": "2026-06-07",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "14:00",
+            "toTime": "18:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "SBMT",
     "number": "6012I",
     "code": "SBMT6012I",
     "name": "Current Issues in Economic Development in East Asia",
@@ -7280,6 +7484,51 @@
             "venue": "TBA",
             "fromDate": "2026-06-08",
             "toDate": "2026-06-11",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "SBMT",
+    "number": "6320C",
+    "code": "SBMT6320C",
+    "name": "DBi Study Tour - Germany",
+    "description": "This course is hosted by partner schools in different countries. The tour gives an overview of doing business, including an introduction to the economy, history, culture and legal framework of the visiting country. Typically, it will include lectures on-campus and off-campus, corporate visits and meeting with local business leaders upon a range of industry sectors which will offer students a unique synthesis between state of the art academic studies and practical, hands-on experience. It is suitable for those who are specifically interested in doing business in the visiting place in future or in international business and enhancing their international experience. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1190",
+        "remarks": "> For PT-MBA Year 2 or above and MBA (Bi-weekly) Year 2 or above students only\n> Add/Drop Deadline: 14-Jun-2026",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [
+          {
+            "name": "MBA",
+            "quota": 1,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-06-26",
             "weekdays": [],
             "fromTime": null,
             "toTime": null
@@ -7505,6 +7754,186 @@
             "venue": "TBA",
             "fromDate": "2026-06-22",
             "toDate": "2026-07-10",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "SBMT",
+    "number": "6350A",
+    "code": "SBMT6350A",
+    "name": "MBA Practical Internship Experience",
+    "description": "This course is to provide students with practical work experience. Internships provide entry-level, career-related experience, and workplace competencies that employers value when hiring new employees. It is also an opportunity to explore career fields. Students can gain a clearer sense of what they still need to learn and to build professional networks. The experience will enhance students’ knowledge and likelihood of success in post-MBA job search. Course duration and credits depend on the cumulative working hours. Students are allowed to repeat this course for credits if they have more than one internship. Consent of instructor is required. Graded PP, P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1191",
+        "remarks": "> For FT-MBA students only\n> Add/Drop Deadline: 02-Aug-2026",
+        "quota": 50,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [
+          {
+            "name": "MBA",
+            "quota": 50,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-08",
+            "toDate": "2026-08-02",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "SBMT",
+    "number": "6350B",
+    "code": "SBMT6350B",
+    "name": "MBA Practical Internship Experience",
+    "description": "This course is to provide students with practical work experience. Internships provide entry-level, career-related experience, and workplace competencies that employers value when hiring new employees. It is also an opportunity to explore career fields. Students can gain a clearer sense of what they still need to learn and to build professional networks. The experience will enhance students’ knowledge and likelihood of success in post-MBA job search. Course duration and credits depend on the cumulative working hours. Students are allowed to repeat this course for credits if they have more than one internship. Consent of instructor is required. Graded PP, P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1192",
+        "remarks": "> For FT-MBA students only\n> Add/Drop Deadline: 02-Aug-2026",
+        "quota": 50,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [
+          {
+            "name": "MBA",
+            "quota": 50,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-08",
+            "toDate": "2026-08-02",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "SBMT",
+    "number": "6350C",
+    "code": "SBMT6350C",
+    "name": "MBA Practical Internship Experience",
+    "description": "This course is to provide students with practical work experience. Internships provide entry-level, career-related experience, and workplace competencies that employers value when hiring new employees. It is also an opportunity to explore career fields. Students can gain a clearer sense of what they still need to learn and to build professional networks. The experience will enhance students’ knowledge and likelihood of success in post-MBA job search. Course duration and credits depend on the cumulative working hours. Students are allowed to repeat this course for credits if they have more than one internship. Consent of instructor is required. Graded PP, P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1193",
+        "remarks": "> For FT-MBA students only\n> Add/Drop Deadline: 02-Aug-2026",
+        "quota": 50,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [
+          {
+            "name": "MBA",
+            "quota": 50,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-08",
+            "toDate": "2026-08-02",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "SBMT",
+    "number": "6350D",
+    "code": "SBMT6350D",
+    "name": "MBA Practical Internship Experience",
+    "description": "This course is to provide students with practical work experience. Internships provide entry-level, career-related experience, and workplace competencies that employers value when hiring new employees. It is also an opportunity to explore career fields. Students can gain a clearer sense of what they still need to learn and to build professional networks. The experience will enhance students’ knowledge and likelihood of success in post-MBA job search. Course duration and credits depend on the cumulative working hours. Students are allowed to repeat this course for credits if they have more than one internship. Consent of instructor is required. Graded PP, P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 4,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1194",
+        "remarks": "> For FT-MBA students only\n> Add/Drop Deadline: 02-Aug-2026",
+        "quota": 50,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [
+          {
+            "name": "MBA",
+            "quota": 50,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-08",
+            "toDate": "2026-08-02",
             "weekdays": [],
             "fromTime": null,
             "toTime": null
