@@ -3679,7 +3679,40 @@
     "exclusions": "AMCC 6100",
     "credits": 3,
     "attributes": [],
-    "classes": []
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4456",
+        "remarks": " ",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "AMCC",
+            "quota": 20,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "CHENG, Vennes",
+              "CHUN, Daniel",
+              "XUE, Wei",
+              "YANG, Harry"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
   },
   {
     "career": "TPG",
@@ -41280,6 +41313,53 @@
   {
     "career": "TPG",
     "subject": "FINA",
+    "number": "5130",
+    "code": "FINA5130",
+    "name": "Corporate Governance for Value Creation",
+    "description": "Corporate governance (CG) is about shaping incentives. CG examines how corporations induce their managers to maximize shareholder value through incentives and oversight systems (monitoring). This course examines how good corporate governance can mitigate incentive and information problems, nurture great leaders, and foster great companies. Through numerous cases and examples, we also show how bad governance can worsen these problems, lead managers to cheat, and cause companies to fall.",
+    "previousCodes": "",
+    "prerequisites": "FINA 5120",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4459",
+        "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 02-Feb-2026",
+        "quota": 65,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "FINA",
+            "quota": 65,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "MACKAY, Peter"
+            ],
+            "venue": "Rm 2001, LSK Bldg",
+            "fromDate": "2026-01-28",
+            "toDate": "2026-03-25",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "FINA",
     "number": "5150",
     "code": "FINA5150",
     "name": "Corporate Risk Management",
@@ -42888,6 +42968,100 @@
             ],
             "fromTime": "19:00",
             "toTime": "22:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "FINA",
+    "number": "5750",
+    "code": "FINA5750",
+    "name": "Structured Product",
+    "description": "Structured products are one of the major products manufactured and distributed by investment banks given the increasing demand from institutional and individual investors. This course covers basic concepts of structured products, introduces popular products in the market (e.g., principal protected notes and equity-linked notes), and discusses the landscape of product manufacturing and distribution process. It focuses on applications rather than theory by illustrating real-world examples as well as their practical implementations in the industry.",
+    "previousCodes": "FINA6910M",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4457",
+        "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 02-Feb-2026",
+        "quota": 65,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "FINA",
+            "quota": 65,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "WANG, Leping"
+            ],
+            "venue": "Rm 1003, LSK Bldg (75)",
+            "fromDate": "2026-01-25",
+            "toDate": "2026-03-22",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "FINA",
+    "number": "5760",
+    "code": "FINA5760",
+    "name": "Navigating Capital Markets: A Practitioner’s Guide to Capital Flows",
+    "description": "This course offers an in-depth exploration into the realm of global capital markets in practice. We will delve into the inner workings of financial markets, including primary and secondary markets, trading floors and market dynamics. Students will apply analytical skills to learn to identify opportunities across capital markets including synthesizing information, identifying capital uses and interpreting market sentiment and behavior. This course is designed to bridge the gap between academic knowledge and practical application. The focus is on equipping students with the insights needed to excel in the complex world of capital markets, providing a foundation for exploring more advanced subjects.",
+    "previousCodes": "FINA6910N",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4458",
+        "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 13-Apr-2026",
+        "quota": 65,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "FINA",
+            "quota": 65,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TANG, Alfred Koon Him"
+            ],
+            "venue": "Rm 3, 31/F, Tower 1,Millennity",
+            "fromDate": "2026-04-11",
+            "toDate": "2026-05-30",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
           }
         ]
       }
@@ -89456,59 +89630,7 @@
     "exclusions": "",
     "credits": 4,
     "attributes": [],
-    "classes": [
-      {
-        "section": "L1",
-        "number": "3797",
-        "remarks": " ",
-        "quota": 40,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "CHEN, Beifang"
-            ],
-            "venue": "Rm 1032, LSK Bldg (45)",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              3,
-              5
-            ],
-            "fromTime": "13:30",
-            "toTime": "14:50"
-          }
-        ]
-      },
-      {
-        "section": "T1A",
-        "number": "3798",
-        "remarks": " ",
-        "quota": 40,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "CHEN, Beifang"
-            ],
-            "venue": "Rm 1032, LSK Bldg (45)",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              4
-            ],
-            "fromTime": "09:30",
-            "toTime": "10:20"
-          }
-        ]
-      }
-    ]
+    "classes": []
   },
   {
     "career": "UGRD",
