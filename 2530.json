@@ -36554,7 +36554,7 @@
         "number": "1766",
         "remarks": " ",
         "quota": 1005,
-        "enroll": 1003,
+        "enroll": 1002,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -38416,6 +38416,53 @@
             ],
             "fromTime": "16:00",
             "toTime": "17:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "ENVR",
+    "number": "6090L",
+    "code": "ENVR6090L",
+    "name": "Sustainable Carbon Management: Strategies for Climate Action",
+    "description": "This course addresses carbon management as a critical tool for climate change mitigation across multiple scales at national, corporate, organizational, and individual levels. It covers GHG accounting, carbon management frameworks, strategic decarbonization pathways, net-zero planning, and market-based mechanisms including carbon trading and offsetting.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4464",
+        "remarks": "> For MPhil/PhD (ESPM) students only",
+        "quota": 60,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "ENVR",
+            "quota": 60,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "CHEN, Shi"
+            ],
+            "venue": "Rm 1410, Lift 25-26 (60)",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "14:00",
+            "toTime": "16:50"
           }
         ]
       }
@@ -54780,7 +54827,7 @@
         "number": "1350",
         "remarks": " ",
         "quota": 10,
-        "enroll": 7,
+        "enroll": 6,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -57628,7 +57675,7 @@
         "section": "LA01",
         "number": "3020",
         "remarks": " ",
-        "quota": 50,
+        "quota": 45,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -57653,7 +57700,7 @@
         "section": "LA02",
         "number": "3022",
         "remarks": " ",
-        "quota": 50,
+        "quota": 45,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -57678,7 +57725,7 @@
         "section": "LA03",
         "number": "3023",
         "remarks": " ",
-        "quota": 50,
+        "quota": 45,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -57703,7 +57750,7 @@
         "section": "LA04",
         "number": "3024",
         "remarks": " ",
-        "quota": 50,
+        "quota": 45,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -57728,7 +57775,7 @@
         "section": "LA05",
         "number": "3025",
         "remarks": " ",
-        "quota": 50,
+        "quota": 45,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -57753,7 +57800,7 @@
         "section": "LA06",
         "number": "3026",
         "remarks": " ",
-        "quota": 50,
+        "quota": 45,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -57778,7 +57825,7 @@
         "section": "LA07",
         "number": "3027",
         "remarks": " ",
-        "quota": 50,
+        "quota": 45,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -57803,7 +57850,7 @@
         "section": "LA08",
         "number": "3028",
         "remarks": " ",
-        "quota": 50,
+        "quota": 45,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -57828,7 +57875,7 @@
         "section": "LA09",
         "number": "3029",
         "remarks": " ",
-        "quota": 50,
+        "quota": 45,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -57853,7 +57900,7 @@
         "section": "LA10",
         "number": "3030",
         "remarks": " ",
-        "quota": 50,
+        "quota": 45,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -57878,7 +57925,7 @@
         "section": "LA11",
         "number": "3031",
         "remarks": " ",
-        "quota": 50,
+        "quota": 45,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -57903,7 +57950,7 @@
         "section": "LA12",
         "number": "3032",
         "remarks": " ",
-        "quota": 50,
+        "quota": 45,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -59652,14 +59699,14 @@
         "section": "L1",
         "number": "3048",
         "remarks": " ",
-        "quota": 70,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "IS",
-            "quota": 70,
+            "quota": 60,
             "enroll": 0
           }
         ],
@@ -59684,7 +59731,7 @@
         "section": "LA1",
         "number": "3050",
         "remarks": " ",
-        "quota": 25,
+        "quota": 20,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -59709,7 +59756,7 @@
         "section": "LA2",
         "number": "3052",
         "remarks": " ",
-        "quota": 25,
+        "quota": 20,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -59734,7 +59781,7 @@
         "section": "LA3",
         "number": "3053",
         "remarks": " ",
-        "quota": 25,
+        "quota": 20,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -59782,14 +59829,14 @@
         "section": "L1",
         "number": "3054",
         "remarks": "> The class is delivered in a blended learning mode",
-        "quota": 55,
+        "quota": 50,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "IS",
-            "quota": 55,
+            "quota": 50,
             "enroll": 0
           }
         ],
@@ -59814,7 +59861,7 @@
         "section": "LA1",
         "number": "3056",
         "remarks": " ",
-        "quota": 30,
+        "quota": 25,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -59839,7 +59886,7 @@
         "section": "LA2",
         "number": "3058",
         "remarks": " ",
-        "quota": 30,
+        "quota": 25,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -59880,14 +59927,14 @@
         "section": "L1",
         "number": "3059",
         "remarks": "> The class is delivered in a conventional face-to-face mode",
-        "quota": 50,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "IS",
-            "quota": 50,
+            "quota": 60,
             "enroll": 0
           }
         ],
@@ -59924,7 +59971,7 @@
         "section": "LA1",
         "number": "3061",
         "remarks": " ",
-        "quota": 35,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -59949,7 +59996,7 @@
         "section": "LA2",
         "number": "3063",
         "remarks": " ",
-        "quota": 35,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -59997,14 +60044,14 @@
         "section": "L1",
         "number": "3064",
         "remarks": "> The class is delivered in a blended learning mode",
-        "quota": 60,
+        "quota": 50,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "IS",
-            "quota": 55,
+            "quota": 45,
             "enroll": 0
           },
           {
@@ -60033,14 +60080,14 @@
         "section": "L2",
         "number": "3066",
         "remarks": "> The class is delivered in a blended learning mode",
-        "quota": 60,
+        "quota": 50,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "IS",
-            "quota": 55,
+            "quota": 45,
             "enroll": 0
           },
           {
@@ -60069,14 +60116,14 @@
         "section": "L3",
         "number": "3068",
         "remarks": "> The class is delivered in a blended learning mode",
-        "quota": 60,
+        "quota": 50,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "IS",
-            "quota": 55,
+            "quota": 45,
             "enroll": 0
           },
           {
@@ -60105,7 +60152,7 @@
         "section": "LA1",
         "number": "3070",
         "remarks": " ",
-        "quota": 45,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -60130,7 +60177,7 @@
         "section": "LA2",
         "number": "3072",
         "remarks": " ",
-        "quota": 45,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -60155,7 +60202,7 @@
         "section": "LA3",
         "number": "3073",
         "remarks": " ",
-        "quota": 45,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -60180,7 +60227,7 @@
         "section": "LA4",
         "number": "3074",
         "remarks": " ",
-        "quota": 45,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -60205,7 +60252,7 @@
         "section": "T1",
         "number": "3075",
         "remarks": " ",
-        "quota": 45,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -60228,7 +60275,7 @@
         "section": "T2",
         "number": "3077",
         "remarks": " ",
-        "quota": 45,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -60251,7 +60298,7 @@
         "section": "T3",
         "number": "3078",
         "remarks": " ",
-        "quota": 45,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -60274,7 +60321,7 @@
         "section": "T4",
         "number": "3079",
         "remarks": " ",
-        "quota": 45,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -60417,7 +60464,7 @@
         "section": "LA1",
         "number": "3083",
         "remarks": " ",
-        "quota": 50,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -60760,7 +60807,7 @@
         "section": "LA1",
         "number": "3092",
         "remarks": " ",
-        "quota": 55,
+        "quota": 45,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -60785,7 +60832,7 @@
         "section": "LA2",
         "number": "3094",
         "remarks": " ",
-        "quota": 55,
+        "quota": 45,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -60810,7 +60857,7 @@
         "section": "LA3",
         "number": "3095",
         "remarks": " ",
-        "quota": 55,
+        "quota": 45,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -60835,7 +60882,7 @@
         "section": "LA4",
         "number": "3096",
         "remarks": " ",
-        "quota": 55,
+        "quota": 45,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -61096,7 +61143,7 @@
         "section": "L1",
         "number": "3107",
         "remarks": "> Matching between L1 and LA1 is required",
-        "quota": 50,
+        "quota": 55,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -61145,7 +61192,7 @@
         "section": "L2",
         "number": "3109",
         "remarks": " ",
-        "quota": 50,
+        "quota": 55,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -61182,7 +61229,7 @@
         "section": "L3",
         "number": "3111",
         "remarks": " ",
-        "quota": 50,
+        "quota": 55,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -61244,7 +61291,7 @@
         "section": "LA2",
         "number": "3115",
         "remarks": " ",
-        "quota": 55,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -61269,7 +61316,7 @@
         "section": "LA3",
         "number": "3116",
         "remarks": " ",
-        "quota": 55,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -61294,7 +61341,7 @@
         "section": "LA4",
         "number": "3117",
         "remarks": " ",
-        "quota": 55,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -61867,7 +61914,7 @@
         "section": "L1",
         "number": "3134",
         "remarks": " ",
-        "quota": 35,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -61915,7 +61962,7 @@
         "section": "L1",
         "number": "3135",
         "remarks": " ",
-        "quota": 40,
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -66580,21 +66627,49 @@
         "section": "R1",
         "number": "1411",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 14-Feb-2026",
-        "quota": 29,
-        "enroll": 29,
+        "quota": 26,
+        "enroll": 26,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ISM",
-            "quota": 29,
-            "enroll": 29
+            "quota": 26,
+            "enroll": 26
           }
         ],
         "schedule": [
           {
             "instructors": [
-              "YANG, Xiaodong",
+              "YANG, Xiaodong"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "R2",
+        "number": "4465",
+        "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 14-Feb-2026",
+        "quota": 3,
+        "enroll": 3,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "ISM",
+            "quota": 3,
+            "enroll": 3
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
               "ZHENG, Rong"
             ],
             "venue": "TBA",
@@ -99981,7 +100056,7 @@
         "number": "1690",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 40,
-        "enroll": 17,
+        "enroll": 16,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -99993,7 +100068,7 @@
           {
             "name": "MARK",
             "quota": 7,
-            "enroll": 7
+            "enroll": 6
           },
           {
             "name": "MIMT",
@@ -103220,7 +103295,7 @@
         "number": "1809",
         "remarks": " ",
         "quota": 1000,
-        "enroll": 934,
+        "enroll": 933,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -104024,7 +104099,7 @@
         "number": "1814",
         "remarks": " ",
         "quota": 500,
-        "enroll": 135,
+        "enroll": 134,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
