@@ -43157,7 +43157,7 @@
         "number": "4458",
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 65,
-        "enroll": 10,
+        "enroll": 9,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -43184,7 +43184,7 @@
           {
             "name": "MIMT",
             "quota": 3,
-            "enroll": 3
+            "enroll": 2
           }
         ],
         "schedule": [
@@ -66507,7 +66507,7 @@
         "number": "1432",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 50,
-        "enroll": 14,
+        "enroll": 15,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -66529,7 +66529,7 @@
           {
             "name": "MIMT",
             "quota": 3,
-            "enroll": 2
+            "enroll": 3
           },
           {
             "name": "TLE",
@@ -90660,6 +90660,47 @@
   {
     "career": "RPG",
     "subject": "MATH",
+    "number": "5460",
+    "code": "MATH5460",
+    "name": "Time Series Analysis",
+    "description": "Basic idea of time series analysis in both the time and frequency domains. Topics include: autocorrelation, partial ACF, Box and Jerkins ARIMA modeling, spectrum and periodogram, order selection, diagnostic and forecasting. Real life examples will be used throughout the course.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4469",
+        "remarks": " ",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LING, Shiqing"
+            ],
+            "venue": "Rm 5562, Lift 27-28 (30)",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "15:00",
+            "toTime": "17:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "MATH",
     "number": "6900A",
     "code": "MATH6900A",
     "name": "Mathematics Seminar",
@@ -100228,7 +100269,7 @@
         "number": "1695",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 40,
-        "enroll": 28,
+        "enroll": 27,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -100240,7 +100281,7 @@
           {
             "name": "MIMT",
             "quota": 38,
-            "enroll": 26
+            "enroll": 25
           }
         ],
         "schedule": [
@@ -100403,7 +100444,7 @@
         "number": "1712",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 40,
-        "enroll": 30,
+        "enroll": 29,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -100430,7 +100471,7 @@
           {
             "name": "MIMT",
             "quota": 9,
-            "enroll": 6
+            "enroll": 5
           },
           {
             "name": "TLE",
@@ -111606,7 +111647,7 @@
         "number": "1677",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 46,
-        "enroll": 38,
+        "enroll": 37,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -111633,7 +111674,7 @@
           {
             "name": "MIMT",
             "quota": 31,
-            "enroll": 31
+            "enroll": 30
           },
           {
             "name": "TLE",
