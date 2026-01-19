@@ -34195,15 +34195,14 @@
             "instructors": [
               "SRIVASTAVA, Abhishek Kumar"
             ],
-            "venue": "Rm 2131B, Lift 19 (28)",
+            "venue": "Rm 5566, Lift 27-28 (24)",
             "fromDate": "2026-02-02",
             "toDate": "2026-05-09",
             "weekdays": [
-              2,
-              4
+              5
             ],
-            "fromTime": "16:30",
-            "toTime": "17:50"
+            "fromTime": "18:00",
+            "toTime": "20:50"
           }
         ]
       }
@@ -38422,7 +38421,54 @@
     ]
   },
   {
-    "career": "TPG",
+    "career": "RPG",
+    "subject": "ENVR",
+    "number": "6040O",
+    "code": "ENVR6040O",
+    "name": "Applied AI for Sustainability Research",
+    "description": "This course provides an introduction of artificial intelligence, and emphasizes on neural networks. The course will cover the AI techniques and tools to apply AI for sustainability research; research applications on AI for climate, AI for energy, and AI for health; and discuss state-of-the-art advances on AI for sustainability.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4468",
+        "remarks": "> For MPhil/PhD (AES/ESPM) students only",
+        "quota": 60,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "ENVR",
+            "quota": 60,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "WANG, Dan"
+            ],
+            "venue": "Rm 4502, Lift 25-26 (60)",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "12:00",
+            "toTime": "14:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
     "subject": "ENVR",
     "number": "6090L",
     "code": "ENVR6090L",
@@ -38437,7 +38483,7 @@
     "classes": [
       {
         "section": "L1",
-        "number": "4464",
+        "number": "4467",
         "remarks": "> For MPhil/PhD (ESPM) students only",
         "quota": 60,
         "enroll": 0,
@@ -61155,7 +61201,7 @@
           },
           {
             "name": "IS",
-            "quota": 34,
+            "quota": 39,
             "enroll": 0
           }
         ],
@@ -61204,7 +61250,7 @@
           },
           {
             "name": "IS",
-            "quota": 33,
+            "quota": 38,
             "enroll": 0
           }
         ],
@@ -61241,7 +61287,7 @@
           },
           {
             "name": "IS",
-            "quota": 33,
+            "quota": 38,
             "enroll": 0
           }
         ],
