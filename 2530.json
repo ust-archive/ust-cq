@@ -5223,7 +5223,7 @@
         "number": "1923",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 3; Spring: 3",
         "quota": 3,
-        "enroll": 3,
+        "enroll": 2,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -13487,7 +13487,7 @@
         "number": "1130",
         "remarks": " ",
         "quota": 200,
-        "enroll": 183,
+        "enroll": 184,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -34993,14 +34993,14 @@
         "number": "1208",
         "remarks": " ",
         "quota": 50,
-        "enroll": 8,
+        "enroll": 9,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECE",
             "quota": 50,
-            "enroll": 8
+            "enroll": 9
           }
         ],
         "schedule": [
@@ -36554,7 +36554,7 @@
         "number": "1766",
         "remarks": " ",
         "quota": 1005,
-        "enroll": 1004,
+        "enroll": 1003,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -41103,14 +41103,19 @@
         "number": "1280",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(GO) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 60,
-        "enroll": 46,
+        "enroll": 47,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
-            "quota": 60,
+            "quota": 59,
             "enroll": 46
+          },
+          {
+            "name": "OM",
+            "quota": 1,
+            "enroll": 1
           }
         ],
         "schedule": [
@@ -42995,7 +43000,7 @@
       {
         "section": "L1",
         "number": "4457",
-        "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 02-Feb-2026",
+        "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 26-Jan-2026",
         "quota": 65,
         "enroll": 5,
         "waitlist": 0,
@@ -44896,8 +44901,8 @@
         "section": "T01",
         "number": "4281",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 24,
-        "enroll": 24,
+        "quota": 25,
+        "enroll": 25,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -45496,8 +45501,8 @@
         "section": "T25",
         "number": "4305",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 14,
-        "enroll": 14,
+        "quota": 12,
+        "enroll": 12,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -45721,8 +45726,8 @@
         "section": "T34",
         "number": "4314",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 13,
-        "enroll": 13,
+        "quota": 14,
+        "enroll": 14,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -63621,14 +63626,14 @@
         "number": "1425",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 67,
-        "enroll": 66,
+        "enroll": 65,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 67,
-            "enroll": 66
+            "enroll": 65
           }
         ],
         "schedule": [
@@ -63940,14 +63945,14 @@
         "number": "1419",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 67,
-        "enroll": 67,
+        "enroll": 66,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 67,
-            "enroll": 67
+            "enroll": 66
           }
         ],
         "schedule": [
@@ -66476,7 +66481,7 @@
         "number": "1422",
         "remarks": "> For SBM TPG students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 60,
-        "enroll": 37,
+        "enroll": 38,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -66488,7 +66493,7 @@
           {
             "name": "BA",
             "quota": 13,
-            "enroll": 10
+            "enroll": 11
           },
           {
             "name": "FINA",
@@ -99635,10 +99640,15 @@
         "number": "1711",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 40,
-        "enroll": 26,
+        "enroll": 27,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
+          {
+            "name": "BA",
+            "quota": 1,
+            "enroll": 1
+          },
           {
             "name": "FOFB",
             "quota": 1,
@@ -99646,7 +99656,7 @@
           },
           {
             "name": "MIMT",
-            "quota": 39,
+            "quota": 38,
             "enroll": 26
           }
         ],
@@ -103210,7 +103220,7 @@
         "number": "1809",
         "remarks": " ",
         "quota": 1000,
-        "enroll": 935,
+        "enroll": 934,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -104496,7 +104506,7 @@
         "number": "1094",
         "remarks": " ",
         "quota": 90,
-        "enroll": 77,
+        "enroll": 76,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -109225,6 +109235,147 @@
             ],
             "fromTime": "09:30",
             "toTime": "12:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "PPOL",
+    "number": "6101A",
+    "code": "PPOL6101A",
+    "name": "Food Security and Agricultural Development",
+    "description": "This course examines the multifaceted challenge of food security and agricultural development through an integrated policy lens. Food security - defined as the state in which all people, at all times, have physical, social, and economic access to sufficient, safe, and nutritious food - remains one of the most pressing global challenges of our era, demanding sophisticated analysis and coordinated policy responses.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4461",
+        "remarks": " ",
+        "quota": 45,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "PPOL",
+            "quota": 40,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "LUDOVICE, Nicolo"
+            ],
+            "venue": "Rm 2, 30/F, Tower 1,Millennity",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "12:30",
+            "toTime": "15:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "PPOL",
+    "number": "6101B",
+    "code": "PPOL6101B",
+    "name": "Population Policy",
+    "description": "Demographic change is a crucial policy issue for all countries, from those facing rapid population growth to those grappling with stagnation, ageing, and decline. This course provides a comprehensive exploration of population policy, tracing its historical roots from a 20th-century model focused on controlling individual behaviour for macroeconomic goals to the paradigm shift embodied by the 1994 International Conference on Population and Development (ICPD). The course critically examines the contemporary paradigm, grounded in the Sustainable Development Goals (SDGs), which emphasizes human rights, reproductive autonomy, and gender equality. Students will analyze key thematic areas including migration, health, family and fertility, ageing, and youth policy, culminating in strategies for managing contemporary demographic challenges.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4462",
+        "remarks": " ",
+        "quota": 45,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "PPOL",
+            "quota": 40,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "GIETEL-BASTEN, Stuart Arthur"
+            ],
+            "venue": "Rm 2, 30/F, Tower 1,Millennity",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "PPOL",
+    "number": "6101C",
+    "code": "PPOL6101C",
+    "name": "Driving Green Transition: Technology, Policy & Corporate Strategy",
+    "description": "This course examines the intersection of public policy, business strategy, and sustainability in the context of the global climate crisis. Students will explore how governments shape corporate behavior through regulation, incentives, and frameworks, and how businesses integrate sustainability into strategy, operations, and innovation. The course covers green technology, macro-sustainability frameworks, multi-stakeholder governance, and the private sector's role in driving systemic change. Through case studies, policy analysis, and strategic simulations, students will learn to design and evaluate sustainability-oriented policies and business strategies.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4463",
+        "remarks": " ",
+        "quota": 50,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "PPOL",
+            "quota": 45,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "MUTTO, Frederick"
+            ],
+            "venue": "Rm 2, 30/F, Tower 1,Millennity",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "15:30",
+            "toTime": "18:20"
           }
         ]
       }
