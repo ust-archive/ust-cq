@@ -87602,7 +87602,7 @@
         "section": "T1A",
         "number": "3693",
         "remarks": " ",
-        "quota": 40,
+        "quota": 80,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -87612,39 +87612,14 @@
             "instructors": [
               "YAN, Min"
             ],
-            "venue": "Rm 1410, Lift 25-26 (60)",
+            "venue": "Rm 2404, Lift 17-18 (81)",
             "fromDate": "2026-02-02",
             "toDate": "2026-05-09",
             "weekdays": [
               5
             ],
-            "fromTime": "11:30",
-            "toTime": "12:20"
-          }
-        ]
-      },
-      {
-        "section": "T1B",
-        "number": "3695",
-        "remarks": " ",
-        "quota": 40,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "YAN, Min"
-            ],
-            "venue": "Rm 2304, Lift 17-18 (76)",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              4
-            ],
-            "fromTime": "18:00",
-            "toTime": "18:50"
+            "fromTime": "12:00",
+            "toTime": "12:50"
           }
         ]
       }
