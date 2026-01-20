@@ -40148,8 +40148,13 @@
         "consent": false,
         "reservedQuota": [
           {
+            "name": "ECON",
+            "quota": 32,
+            "enroll": 0
+          },
+          {
             "name": "FINA",
-            "quota": 70,
+            "quota": 38,
             "enroll": 0
           }
         ],
@@ -54462,7 +54467,7 @@
         "reservedQuota": [
           {
             "name": "IEDA",
-            "quota": 30,
+            "quota": 20,
             "enroll": 0
           }
         ],
@@ -57504,18 +57509,8 @@
         "consent": false,
         "reservedQuota": [
           {
-            "name": "BIBU",
-            "quota": 7,
-            "enroll": 0
-          },
-          {
-            "name": "RMBI",
-            "quota": 4,
-            "enroll": 0
-          },
-          {
             "name": "SBM",
-            "quota": 64,
+            "quota": 75,
             "enroll": 0
           }
         ],
@@ -57547,17 +57542,17 @@
         "reservedQuota": [
           {
             "name": "BIBU",
-            "quota": 7,
+            "quota": 10,
             "enroll": 0
           },
           {
             "name": "RMBI",
-            "quota": 4,
+            "quota": 5,
             "enroll": 0
           },
           {
             "name": "SBM",
-            "quota": 64,
+            "quota": 60,
             "enroll": 0
           }
         ],
@@ -57588,18 +57583,8 @@
         "consent": false,
         "reservedQuota": [
           {
-            "name": "BIBU",
-            "quota": 7,
-            "enroll": 0
-          },
-          {
-            "name": "RMBI",
-            "quota": 4,
-            "enroll": 0
-          },
-          {
             "name": "SBM",
-            "quota": 64,
+            "quota": 75,
             "enroll": 0
           }
         ],
@@ -57631,17 +57616,17 @@
         "reservedQuota": [
           {
             "name": "BIBU",
-            "quota": 7,
+            "quota": 33,
             "enroll": 0
           },
           {
             "name": "RMBI",
-            "quota": 4,
+            "quota": 2,
             "enroll": 0
           },
           {
             "name": "SBM",
-            "quota": 64,
+            "quota": 40,
             "enroll": 0
           }
         ],
@@ -57672,18 +57657,8 @@
         "consent": false,
         "reservedQuota": [
           {
-            "name": "BIBU",
-            "quota": 6,
-            "enroll": 0
-          },
-          {
-            "name": "RMBI",
-            "quota": 4,
-            "enroll": 0
-          },
-          {
             "name": "SBM",
-            "quota": 65,
+            "quota": 75,
             "enroll": 0
           }
         ],
@@ -57714,18 +57689,8 @@
         "consent": false,
         "reservedQuota": [
           {
-            "name": "BIBU",
-            "quota": 6,
-            "enroll": 0
-          },
-          {
-            "name": "RMBI",
-            "quota": 4,
-            "enroll": 0
-          },
-          {
             "name": "SBM",
-            "quota": 65,
+            "quota": 75,
             "enroll": 0
           }
         ],
@@ -57756,18 +57721,13 @@
         "consent": false,
         "reservedQuota": [
           {
-            "name": "BIBU",
-            "quota": 7,
-            "enroll": 0
-          },
-          {
             "name": "RMBI",
-            "quota": 4,
+            "quota": 20,
             "enroll": 0
           },
           {
             "name": "SBM",
-            "quota": 64,
+            "quota": 55,
             "enroll": 0
           }
         ],
@@ -59106,13 +59066,8 @@
         "consent": false,
         "reservedQuota": [
           {
-            "name": "DD",
-            "quota": 17,
-            "enroll": 0
-          },
-          {
             "name": "SBM",
-            "quota": 73,
+            "quota": 90,
             "enroll": 0
           }
         ],
@@ -59592,13 +59547,8 @@
             "enroll": 0
           },
           {
-            "name": "DD",
-            "quota": 4,
-            "enroll": 0
-          },
-          {
             "name": "SBM",
-            "quota": 30,
+            "quota": 34,
             "enroll": 0
           }
         ],
@@ -60807,7 +60757,7 @@
           },
           {
             "name": "IS",
-            "quota": 47,
+            "quota": 46,
             "enroll": 0
           },
           {
@@ -60822,7 +60772,7 @@
           },
           {
             "name": "RMBI",
-            "quota": 3,
+            "quota": 4,
             "enroll": 0
           }
         ],
@@ -61635,12 +61585,12 @@
         "reservedQuota": [
           {
             "name": "OM",
-            "quota": 15,
+            "quota": 25,
             "enroll": 0
           },
           {
             "name": "RMBI",
-            "quota": 45,
+            "quota": 35,
             "enroll": 0
           }
         ],
@@ -63860,7 +63810,12 @@
           },
           {
             "name": "GO",
-            "quota": 54,
+            "quota": 52,
+            "enroll": 0
+          },
+          {
+            "name": "ISOM",
+            "quota": 2,
             "enroll": 0
           },
           {
@@ -83420,8 +83375,13 @@
         "reservedQuota": [
           {
             "name": "GO",
-            "quota": 60,
+            "quota": 59,
             "enroll": 48
+          },
+          {
+            "name": "ISOM",
+            "quota": 1,
+            "enroll": 0
           }
         ],
         "schedule": [
@@ -84645,7 +84605,7 @@
         "number": "1523",
         "remarks": "> Instructor : Mr LIN, Eric\n> For MSc(MARK) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 65,
-        "enroll": 5,
+        "enroll": 6,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -84657,7 +84617,7 @@
           {
             "name": "MIMT",
             "quota": 8,
-            "enroll": 5
+            "enroll": 6
           }
         ],
         "schedule": [
