@@ -373,7 +373,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "CHING, Vincent"
             ],
             "venue": "Rm 4580, Lift 27-28 (83)",
             "fromDate": "2026-02-02",
@@ -399,7 +399,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "CHING, Vincent"
             ],
             "venue": "Rm 1014, LSK Bldg (80)",
             "fromDate": "2026-02-02",
@@ -13689,7 +13689,7 @@
         "number": "2152",
         "remarks": " ",
         "quota": 70,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -13741,7 +13741,7 @@
         "number": "2156",
         "remarks": "> The class is delivered in a real-time online mode",
         "quota": 150,
-        "enroll": 1,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -15244,13 +15244,13 @@
         "number": "2226",
         "remarks": " ",
         "quota": 86,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "CSE",
-            "quota": 86,
+            "quota": 85,
             "enroll": 0
           }
         ],
@@ -15340,7 +15340,7 @@
         "number": "2232",
         "remarks": " ",
         "quota": 110,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -40079,8 +40079,13 @@
         "consent": false,
         "reservedQuota": [
           {
+            "name": "ECON",
+            "quota": 1,
+            "enroll": 0
+          },
+          {
             "name": "FINA",
-            "quota": 70,
+            "quota": 69,
             "enroll": 0
           }
         ],
@@ -41049,7 +41054,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "FOK, Jessie Agnes Chung Sze"
             ],
             "venue": "LG5202, Lift 10-12 (104)",
             "fromDate": "2026-02-02",
@@ -63347,7 +63352,7 @@
         "number": "1433",
         "remarks": "> Instructor : Dr JIA, Justin\n> For MSc(BA) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 66,
-        "enroll": 61,
+        "enroll": 62,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -63369,7 +63374,7 @@
           {
             "name": "MIMT",
             "quota": 2,
-            "enroll": 1
+            "enroll": 2
           },
           {
             "name": "TLE",
@@ -81025,7 +81030,7 @@
         "section": "L1",
         "number": "1539",
         "remarks": "> For MSc(MAFM) students only.\n> MAFS 5130 is not co-listing with MSBD 5006 in Spring 2025-26",
-        "quota": 130,
+        "quota": 85,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -81035,7 +81040,7 @@
             "instructors": [
               "LING, Shiqing"
             ],
-            "venue": "Lecture Theater F (133)",
+            "venue": "Rm 6555, Lift 29-30 (88)",
             "fromDate": "2026-02-02",
             "toDate": "2026-05-09",
             "weekdays": [
@@ -85277,7 +85282,7 @@
         "number": "3575",
         "remarks": " ",
         "quota": 111,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -85302,7 +85307,7 @@
         "section": "L2",
         "number": "3577",
         "remarks": " ",
-        "quota": 111,
+        "quota": 112,
         "enroll": 2,
         "waitlist": 0,
         "consent": false,
@@ -85329,7 +85334,7 @@
         "number": "3579",
         "remarks": " ",
         "quota": 37,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -85403,7 +85408,7 @@
         "section": "T2A",
         "number": "3583",
         "remarks": " ",
-        "quota": 37,
+        "quota": 38,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -111700,7 +111705,7 @@
         "number": "1677",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 46,
-        "enroll": 37,
+        "enroll": 38,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -111712,7 +111717,7 @@
           {
             "name": "GO",
             "quota": 5,
-            "enroll": 3
+            "enroll": 4
           },
           {
             "name": "ICSM",
