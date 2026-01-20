@@ -13448,7 +13448,7 @@
         "number": "1129",
         "remarks": " ",
         "quota": 80,
-        "enroll": 31,
+        "enroll": 30,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -13487,7 +13487,7 @@
         "number": "1130",
         "remarks": " ",
         "quota": 200,
-        "enroll": 184,
+        "enroll": 183,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -22630,7 +22630,7 @@
         "number": "3573",
         "remarks": " ",
         "quota": 120,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -26996,7 +26996,85 @@
         "number": "1232",
         "remarks": "> For MSc(ECON) students only\n> Add/Drop Deadline : 14-Feb-2026",
         "quota": 30,
-        "enroll": 0,
+        "enroll": 6,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "ECON",
+    "number": "6970G",
+    "code": "ECON6970G",
+    "name": "Independent Study",
+    "description": "Study of selected economic issues under the supervision of a faculty member in the Department. (Special permission from the Associate Dean is required for MBA students to take this course.)",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4470",
+        "remarks": "> For MSc(ECON) students only\n> Add/Drop Deadline : 14-Feb-2026",
+        "quota": 2,
+        "enroll": 2,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "ECON",
+    "number": "6980",
+    "code": "ECON6980",
+    "name": "Independent Project",
+    "description": "For MSc(ECON) students opting for the Research Preparation concentration only. This course aims to acquire students with research skills through producing a term paper under the supervision of a faculty member in the Department.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 6,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4471",
+        "remarks": "> For MSc(ECON) students only\n> Add/Drop Deadline : 14-Feb-2026",
+        "quota": 1,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -36552,8 +36630,8 @@
         "section": "T1",
         "number": "1766",
         "remarks": " ",
-        "quota": 1005,
-        "enroll": 1002,
+        "quota": 1012,
+        "enroll": 1012,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -64217,14 +64295,14 @@
         "number": "1403",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 52,
-        "enroll": 42,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 42,
-            "enroll": 40
+            "enroll": 39
           },
           {
             "name": "FINA",
@@ -103380,7 +103458,7 @@
         "number": "1809",
         "remarks": " ",
         "quota": 1000,
-        "enroll": 938,
+        "enroll": 937,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -104184,7 +104262,7 @@
         "number": "1814",
         "remarks": " ",
         "quota": 500,
-        "enroll": 134,
+        "enroll": 133,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
