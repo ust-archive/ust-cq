@@ -1065,14 +1065,14 @@
         "number": "1023",
         "remarks": "> The class is delivered in a blended learning mode\n> For Digital MBA Year 1 students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 30,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "Digital MBA",
             "quota": 30,
-            "enroll": 0
+            "enroll": 1
           }
         ],
         "schedule": [
@@ -6090,7 +6090,7 @@
         "number": "1480",
         "remarks": " ",
         "quota": 45,
-        "enroll": 44,
+        "enroll": 45,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6115,7 +6115,7 @@
         "number": "1481",
         "remarks": " ",
         "quota": 45,
-        "enroll": 44,
+        "enroll": 45,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6476,7 +6476,7 @@
         "number": "1486",
         "remarks": " ",
         "quota": 25,
-        "enroll": 13,
+        "enroll": 16,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6499,7 +6499,7 @@
         "number": "1487",
         "remarks": " ",
         "quota": 25,
-        "enroll": 13,
+        "enroll": 16,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -58858,13 +58858,8 @@
             "enroll": 0
           },
           {
-            "name": "DD",
-            "quota": 3,
-            "enroll": 0
-          },
-          {
             "name": "SBM",
-            "quota": 65,
+            "quota": 68,
             "enroll": 0
           }
         ],
@@ -98204,7 +98199,7 @@
         "number": "1587",
         "remarks": "> For Digital MBA Year 1 students only\n> Add/Drop Deadline : 09-Mar-2026",
         "quota": 30,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -98329,14 +98324,14 @@
         "section": "L1",
         "number": "1596",
         "remarks": "> For FT-MBA; PT-MBA and MBA Bi-Weekly students only\n> Add/Drop Deadline : 06-Apr-2026",
-        "quota": 48,
+        "quota": 50,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MBA",
-            "quota": 3,
+            "quota": 5,
             "enroll": 0
           },
           {
