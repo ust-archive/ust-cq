@@ -22262,8 +22262,8 @@
         "section": "L1",
         "number": "4378",
         "remarks": "> Class Duration/Dates : 26-Feb-2026 to 01-Mar-2026\n> Add/Drop Deadline : 26-Feb-2026",
-        "quota": 7,
-        "enroll": 7,
+        "quota": 8,
+        "enroll": 8,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -45958,7 +45958,7 @@
         "number": "4316",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 20,
-        "enroll": 20,
+        "enroll": 19,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -64983,14 +64983,14 @@
         "section": "L1",
         "number": "1381",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 02-Feb-2026",
-        "quota": 60,
+        "quota": 63,
         "enroll": 60,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
-            "quota": 60,
+            "quota": 63,
             "enroll": 60
           }
         ],
@@ -65263,14 +65263,14 @@
         "section": "L1",
         "number": "1396",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 02-Feb-2026",
-        "quota": 65,
+        "quota": 68,
         "enroll": 65,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
-            "quota": 65,
+            "quota": 68,
             "enroll": 65
           }
         ],
@@ -65320,14 +65320,14 @@
         "section": "L2",
         "number": "1397",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 02-Feb-2026",
-        "quota": 63,
+        "quota": 66,
         "enroll": 63,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
-            "quota": 63,
+            "quota": 66,
             "enroll": 63
           }
         ],
@@ -65645,14 +65645,14 @@
         "section": "L2",
         "number": "1390",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 02-Feb-2026",
-        "quota": 62,
+        "quota": 66,
         "enroll": 62,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
-            "quota": 62,
+            "quota": 66,
             "enroll": 62
           }
         ],
@@ -65702,14 +65702,14 @@
         "section": "L3",
         "number": "1384",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 02-Feb-2026",
-        "quota": 63,
+        "quota": 65,
         "enroll": 63,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
-            "quota": 63,
+            "quota": 65,
             "enroll": 63
           }
         ],
@@ -85263,7 +85263,7 @@
         "number": "3577",
         "remarks": " ",
         "quota": 112,
-        "enroll": 2,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -85389,7 +85389,7 @@
         "number": "3584",
         "remarks": " ",
         "quota": 37,
-        "enroll": 2,
+        "enroll": 1,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -85481,7 +85481,7 @@
         "number": "3588",
         "remarks": " ",
         "quota": 114,
-        "enroll": 114,
+        "enroll": 113,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -85954,7 +85954,7 @@
         "number": "3618",
         "remarks": " ",
         "quota": 38,
-        "enroll": 38,
+        "enroll": 37,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -111660,7 +111660,7 @@
         "number": "1677",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 46,
-        "enroll": 38,
+        "enroll": 37,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -111682,7 +111682,7 @@
           {
             "name": "ISM",
             "quota": 2,
-            "enroll": 2
+            "enroll": 1
           },
           {
             "name": "MIMT",
@@ -113465,19 +113465,7 @@
             "fromDate": "2026-02-02",
             "toDate": "2026-05-09",
             "weekdays": [
-              2
-            ],
-            "fromTime": "16:30",
-            "toTime": "17:50"
-          },
-          {
-            "instructors": [
-              "SHI, Jiaxin"
-            ],
-            "venue": "Rm 4402, Lift 17-18",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
+              2,
               4
             ],
             "fromTime": "16:30",
