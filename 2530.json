@@ -5222,7 +5222,7 @@
         "section": "T1",
         "number": "1923",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 3; Spring: 3",
-        "quota": 3,
+        "quota": 2,
         "enroll": 2,
         "waitlist": 0,
         "consent": true,
@@ -9667,7 +9667,7 @@
         "number": "1101",
         "remarks": " ",
         "quota": 40,
-        "enroll": 18,
+        "enroll": 17,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -9706,7 +9706,7 @@
         "number": "1102",
         "remarks": " ",
         "quota": 150,
-        "enroll": 140,
+        "enroll": 138,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -14621,7 +14621,7 @@
         "section": "R2",
         "number": "2192",
         "remarks": " ",
-        "quota": 127,
+        "quota": 126,
         "enroll": 126,
         "waitlist": 0,
         "consent": true,
@@ -14644,7 +14644,7 @@
         "section": "R3",
         "number": "2193",
         "remarks": " ",
-        "quota": 70,
+        "quota": 69,
         "enroll": 69,
         "waitlist": 0,
         "consent": true,
@@ -17501,7 +17501,7 @@
         "section": "T2",
         "number": "2314",
         "remarks": " ",
-        "quota": 94,
+        "quota": 92,
         "enroll": 92,
         "waitlist": 0,
         "consent": false,
@@ -20342,7 +20342,7 @@
         "section": "T19",
         "number": "2138",
         "remarks": "> Classes held in Room 2132B",
-        "quota": 12,
+        "quota": 11,
         "enroll": 11,
         "waitlist": 0,
         "consent": false,
@@ -47249,6 +47249,52 @@
     ]
   },
   {
+    "career": "TPG",
+    "subject": "HMMA",
+    "number": "6200A",
+    "code": "HMMA6200A",
+    "name": "Independent Study",
+    "description": "For MA(CC) students only. Students are required to conduct an independent study in a designated subject under the supervision of a faculty member. It may require readings, tutorial discussions, and submission of research paper(s). It may be repeated for credit if different topics are studied.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "HUMA 6100",
+    "credits": 3,
+    "attributes": [
+      {
+        "attribute": "READ",
+        "value": "C",
+        "attributeDescription": "Reading Material",
+        "valueDescription": "[C] Require Chinese reading"
+      }
+    ],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4472",
+        "remarks": "> For MA(CC) students only",
+        "quota": 2,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "UGRD",
     "subject": "HUMA",
     "number": "1010",
@@ -65189,7 +65235,7 @@
         "number": "1389",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 53,
-        "enroll": 48,
+        "enroll": 47,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -65206,7 +65252,7 @@
           {
             "name": "FOFB",
             "quota": 3,
-            "enroll": 1
+            "enroll": 0
           }
         ],
         "schedule": [
@@ -65421,14 +65467,14 @@
         "number": "4450",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 133,
-        "enroll": 133,
+        "enroll": 132,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 133,
-            "enroll": 133
+            "enroll": 132
           }
         ],
         "schedule": [
@@ -68265,7 +68311,7 @@
         "number": "3172",
         "remarks": "> Add/Drop Deadline : 09-Feb-2026",
         "quota": 20,
-        "enroll": 0,
+        "enroll": 5,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -74226,7 +74272,7 @@
         "number": "3376",
         "remarks": " ",
         "quota": 20,
-        "enroll": 0,
+        "enroll": 5,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -77631,7 +77677,7 @@
         "number": "1474",
         "remarks": "> Add/Drop Deadline : 06-Apr-2026",
         "quota": 20,
-        "enroll": 0,
+        "enroll": 5,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -109342,6 +109388,29 @@
             "toTime": null
           }
         ]
+      },
+      {
+        "section": "R2",
+        "number": "4473",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "SHARIF, Naubahar"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
       }
     ]
   },
@@ -111700,14 +111769,14 @@
         "number": "1677",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 46,
-        "enroll": 38,
+        "enroll": 39,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FOFB",
             "quota": 1,
-            "enroll": 0
+            "enroll": 1
           },
           {
             "name": "GO",
