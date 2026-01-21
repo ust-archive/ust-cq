@@ -57632,13 +57632,8 @@
             "enroll": 0
           },
           {
-            "name": "RMBI",
-            "quota": 5,
-            "enroll": 0
-          },
-          {
             "name": "SBM",
-            "quota": 60,
+            "quota": 65,
             "enroll": 0
           }
         ],
@@ -57706,13 +57701,8 @@
             "enroll": 0
           },
           {
-            "name": "RMBI",
-            "quota": 2,
-            "enroll": 0
-          },
-          {
             "name": "SBM",
-            "quota": 40,
+            "quota": 42,
             "enroll": 0
           }
         ],
@@ -57807,13 +57797,8 @@
         "consent": false,
         "reservedQuota": [
           {
-            "name": "RMBI",
-            "quota": 20,
-            "enroll": 0
-          },
-          {
             "name": "SBM",
-            "quota": 55,
+            "quota": 75,
             "enroll": 0
           }
         ],
@@ -59624,12 +59609,12 @@
         "reservedQuota": [
           {
             "name": "BIBU",
-            "quota": 32,
+            "quota": 17,
             "enroll": 0
           },
           {
             "name": "SBM",
-            "quota": 34,
+            "quota": 49,
             "enroll": 0
           }
         ],
@@ -61927,14 +61912,14 @@
         "section": "L1",
         "number": "3131",
         "remarks": "> The class is delivered in a blended learning mode",
-        "quota": 27,
+        "quota": 21,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
-            "name": "SBM",
-            "quota": 27,
+            "name": "ENVR",
+            "quota": 21,
             "enroll": 0
           }
         ],
@@ -100350,14 +100335,14 @@
         "number": "1690",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 40,
-        "enroll": 16,
+        "enroll": 17,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FOFB",
             "quota": 1,
-            "enroll": 0
+            "enroll": 1
           },
           {
             "name": "MARK",
