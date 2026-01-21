@@ -3292,6 +3292,52 @@
     ]
   },
   {
+    "career": "TPG",
+    "subject": "HMMA",
+    "number": "6300",
+    "code": "HMMA6300",
+    "name": "Building a Future Career in Chinese Cultural Studies",
+    "description": "In this self-guided, portfolio-based course, students will reflect on their career goals in connection with their program's content. They will create a portfolio that incorporates insights from courses, seminars, and other relevant events attended during their studies. The course culminates in a written reflection. This course is exclusively designed for MA(CC) students, enriching their understanding of potential career paths in the field of Chinese culture. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [
+      {
+        "attribute": "READ",
+        "value": "C",
+        "attributeDescription": "Reading Material",
+        "valueDescription": "[C] Require Chinese reading"
+      }
+    ],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1196",
+        "remarks": "> For MA(CC) students only\n> Add/Drop Deadline : 20-Jun-2026\n> Extended Drop Deadline : 27-Jun-2026",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "NAM, Sai Lok"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-08-08",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "UGRD",
     "subject": "HUMA",
     "number": "1154",
@@ -5697,6 +5743,52 @@
             ],
             "fromTime": "14:00",
             "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MASS",
+    "number": "6000",
+    "code": "MASS6000",
+    "name": "Developing a Career in Social Science",
+    "description": "This is a portfolio-based course. Upon completion of this course, students are required to submit a written reflection about their own career plans, in relation to the content of the PGD/MA(SOSC) program. The reflection is carried out by means of collating a portfolio and will include specific reference to the content of seminars and events that have taken place during their program. For PGD/MA(SOSC) students only. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [
+      {
+        "attribute": "READ",
+        "value": "C",
+        "attributeDescription": "Reading Material",
+        "valueDescription": "[C] Require Chinese reading"
+      }
+    ],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1197",
+        "remarks": "> For PGD/MA(SOSC) students only\n> Add/Drop Deadline : 20-Jun-2026\n> Extended Drop Deadline : 27-Jun-2026",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "MA, John Zhongdong"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-08-08",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }

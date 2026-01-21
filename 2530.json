@@ -13487,7 +13487,7 @@
         "number": "1130",
         "remarks": " ",
         "quota": 200,
-        "enroll": 183,
+        "enroll": 182,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -14857,7 +14857,7 @@
         "section": "LA1",
         "number": "2206",
         "remarks": " ",
-        "quota": 190,
+        "quota": 180,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -36631,7 +36631,7 @@
         "number": "1766",
         "remarks": " ",
         "quota": 1012,
-        "enroll": 1012,
+        "enroll": 1011,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -45247,7 +45247,7 @@
         "section": "T06",
         "number": "4286",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 29,
+        "quota": 28,
         "enroll": 28,
         "waitlist": 0,
         "consent": false,
@@ -45997,7 +45997,7 @@
         "section": "T36",
         "number": "4316",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 20,
+        "quota": 19,
         "enroll": 19,
         "waitlist": 0,
         "consent": false,
@@ -81009,6 +81009,91 @@
   },
   {
     "career": "TPG",
+    "subject": "MAED",
+    "number": "6980",
+    "code": "MAED6980",
+    "name": "MSc Project",
+    "description": "In this course, the student will do a project in an area of mathematics or mathematics education under the guidance of a faculty member. The project either surveys a topic, develops teaching plans and materials, or describes an investigation completed by the student.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4474",
+        "remarks": "> Students should seek the instructor's approval to take this course.",
+        "quota": 5,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "FUNG, Jimmy Chi Hung"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "R2",
+        "number": "4475",
+        "remarks": "> Students should seek the instructor's approval to take this course.",
+        "quota": 5,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "MAK, Hugo Wai Leung"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "R3",
+        "number": "4476",
+        "remarks": "> Students should seek the instructor's approval to take this course.",
+        "quota": 3,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "XU, Xiaoyu"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
     "subject": "MAFS",
     "number": "5040",
     "code": "MAFS5040",
@@ -94864,7 +94949,7 @@
         "number": "4423",
         "remarks": "> For MSc(FinTech) students only",
         "quota": 150,
-        "enroll": 102,
+        "enroll": 101,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -103504,7 +103589,7 @@
         "number": "1809",
         "remarks": " ",
         "quota": 1000,
-        "enroll": 938,
+        "enroll": 936,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -104740,7 +104825,7 @@
         "number": "1092",
         "remarks": " ",
         "quota": 90,
-        "enroll": 80,
+        "enroll": 79,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -115180,14 +115265,14 @@
         "section": "L1",
         "number": "4254",
         "remarks": " ",
-        "quota": 30,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SHSS",
-            "quota": 24,
+            "quota": 34,
             "enroll": 0
           }
         ],
@@ -115211,7 +115296,7 @@
         "section": "T1",
         "number": "4255",
         "remarks": " ",
-        "quota": 30,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -115680,14 +115765,14 @@
         "section": "L1",
         "number": "4265",
         "remarks": " ",
-        "quota": 30,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SHSS",
-            "quota": 30,
+            "quota": 40,
             "enroll": 0
           }
         ],
@@ -115711,7 +115796,7 @@
         "section": "T1",
         "number": "4266",
         "remarks": " ",
-        "quota": 30,
+        "quota": 40,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
