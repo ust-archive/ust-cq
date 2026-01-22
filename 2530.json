@@ -23207,7 +23207,7 @@
         "number": "2585",
         "remarks": " ",
         "quota": 60,
-        "enroll": 46,
+        "enroll": 45,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -23477,7 +23477,7 @@
         "number": "2603",
         "remarks": " ",
         "quota": 60,
-        "enroll": 46,
+        "enroll": 45,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -24164,14 +24164,19 @@
         "number": "2628",
         "remarks": " ",
         "quota": 60,
-        "enroll": 0,
-        "waitlist": 37,
+        "enroll": 37,
+        "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECON",
-            "quota": 60,
-            "enroll": 0
+            "quota": 28,
+            "enroll": 5
+          },
+          {
+            "name": "FINA",
+            "quota": 32,
+            "enroll": 32
           }
         ],
         "schedule": [
@@ -24196,14 +24201,19 @@
         "number": "2630",
         "remarks": " ",
         "quota": 60,
-        "enroll": 20,
-        "waitlist": 14,
+        "enroll": 34,
+        "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECON",
-            "quota": 60,
+            "quota": 46,
             "enroll": 20
+          },
+          {
+            "name": "FINA",
+            "quota": 14,
+            "enroll": 14
           }
         ],
         "schedule": [
@@ -24228,8 +24238,8 @@
         "number": "2632",
         "remarks": " ",
         "quota": 60,
-        "enroll": 0,
-        "waitlist": 37,
+        "enroll": 37,
+        "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -24253,8 +24263,8 @@
         "number": "2634",
         "remarks": " ",
         "quota": 60,
-        "enroll": 20,
-        "waitlist": 14,
+        "enroll": 34,
+        "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -27311,8 +27321,8 @@
             "weekdays": [
               2
             ],
-            "fromTime": "19:30",
-            "toTime": "22:20"
+            "fromTime": "19:00",
+            "toTime": "21:50"
           }
         ]
       }
@@ -78483,7 +78493,7 @@
         "number": "3470",
         "remarks": " ",
         "quota": 85,
-        "enroll": 18,
+        "enroll": 17,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -84598,12 +84608,12 @@
           },
           {
             "name": "MARK",
-            "quota": 54,
+            "quota": 56,
             "enroll": 0
           },
           {
             "name": "TLE",
-            "quota": 6,
+            "quota": 4,
             "enroll": 4
           }
         ],
