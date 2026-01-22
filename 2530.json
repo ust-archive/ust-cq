@@ -29910,7 +29910,7 @@
         "number": "2383",
         "remarks": " ",
         "quota": 200,
-        "enroll": 180,
+        "enroll": 178,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -29936,7 +29936,7 @@
         "number": "2385",
         "remarks": " ",
         "quota": 50,
-        "enroll": 41,
+        "enroll": 39,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -30036,7 +30036,7 @@
         "number": "2390",
         "remarks": " ",
         "quota": 70,
-        "enroll": 59,
+        "enroll": 57,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -44191,14 +44191,14 @@
         "number": "1283",
         "remarks": "> For MSc(FOFB) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 40,
-        "enroll": 33,
+        "enroll": 32,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FOFB",
             "quota": 40,
-            "enroll": 33
+            "enroll": 32
           }
         ],
         "schedule": [
@@ -45030,6 +45030,84 @@
             ],
             "fromTime": "18:00",
             "toTime": "19:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "GFIN",
+    "number": "5600",
+    "code": "GFIN5600",
+    "name": "Artificial Intelligence in Finance",
+    "description": "This course delves into the applications of artificial intelligence in finance, covering key areas like machine learning, natural language processing, and generative models, with a focus on investment strategies, financial management, and business analytics. Through mini-cases drawn from current events, industry insights, academic research, and real-world practice, students will explore where these AI tools succeed and fall short. Implementation projects, supported by coding assistance via ChatGPT, allow hands-on learning of concepts that, while centered on finance, also apply to other data-intensive fields.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4478",
+        "remarks": "> For MSc(GFIN) students only\n> Class Duration/Dates : 15-Mar-2026 to 17-Mar-2026\n> Add/Drop Deadline : 15-Mar-2026",
+        "quota": 25,
+        "enroll": 25,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-03-15",
+            "toDate": "2026-03-17",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "GFIN",
+    "number": "5700",
+    "code": "GFIN5700",
+    "name": "Climate Finance",
+    "description": "Climate change presents a central challenge of our generation, impacting financial markets and the broader economy while also playing a crucial role in financing the transition to a net-zero economy. In this class, we explore the interaction between climate change and firms, financial markets, energy markets, regulators, and policymakers. Given that climate change and sustainability issues affect nearly every aspect of the corporate, regulatory, and non-profit sectors, this class will be valuable for students with diverse backgrounds and career goals, whether they are directly interested in climate and sustainability or seeking to understand how these issues influence traditional roles in the corporate and financial sectors.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4479",
+        "remarks": "> For MSc(GFIN) students only\n> Class Duration/Dates : 18-Mar-2026 to 20-Mar-2026\n> Add/Drop Deadline : 18-Mar-2026",
+        "quota": 25,
+        "enroll": 25,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-03-18",
+            "toDate": "2026-03-20",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -103639,7 +103717,7 @@
         "number": "1809",
         "remarks": " ",
         "quota": 1000,
-        "enroll": 938,
+        "enroll": 937,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
