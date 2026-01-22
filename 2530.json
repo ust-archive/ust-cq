@@ -13863,7 +13863,7 @@
         "number": "2163",
         "remarks": " ",
         "quota": 125,
-        "enroll": 88,
+        "enroll": 87,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -14021,7 +14021,7 @@
         "number": "2174",
         "remarks": " ",
         "quota": 125,
-        "enroll": 88,
+        "enroll": 87,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -14644,8 +14644,8 @@
         "section": "R3",
         "number": "2193",
         "remarks": " ",
-        "quota": 69,
-        "enroll": 69,
+        "quota": 70,
+        "enroll": 70,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -17501,8 +17501,8 @@
         "section": "T2",
         "number": "2314",
         "remarks": " ",
-        "quota": 92,
-        "enroll": 92,
+        "quota": 93,
+        "enroll": 93,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -23413,7 +23413,7 @@
         "number": "2599",
         "remarks": " ",
         "quota": 60,
-        "enroll": 41,
+        "enroll": 42,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -23652,7 +23652,7 @@
         "number": "2611",
         "remarks": " ",
         "quota": 60,
-        "enroll": 41,
+        "enroll": 42,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -43878,13 +43878,7 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "FINA",
-            "quota": 10,
-            "enroll": 0
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -43920,18 +43914,12 @@
       {
         "section": "L1",
         "number": "4431",
-        "remarks": " ",
+        "remarks": "> For PhD students in SBM only",
         "quota": 20,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "FINA",
-            "quota": 20,
-            "enroll": 0
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -43942,6 +43930,73 @@
             "toDate": "2026-05-09",
             "weekdays": [
               2
+            ],
+            "fromTime": "14:00",
+            "toTime": "16:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "FINA",
+    "number": "7900Q",
+    "code": "FINA7900Q",
+    "name": "Doctoral Seminar: Banking and Financial Intermediation",
+    "description": "A PhD-level course on banking and financial intermediation. Topics include financial contracting, lending competition, credit risk, and recent research developments.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4477",
+        "remarks": "> For PhD students in SBM only\n> Add/Drop Deadline : 05-Feb-2026",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "HU, Yunzhi"
+            ],
+            "venue": "Rm 5047, LSK Bldg",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-02-09",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "14:00",
+            "toTime": "16:50"
+          },
+          {
+            "instructors": [
+              "HU, Yunzhi"
+            ],
+            "venue": "Rm 6045, LSK Bldg",
+            "fromDate": "2026-03-02",
+            "toDate": "2026-03-02",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "14:00",
+            "toTime": "16:50"
+          },
+          {
+            "instructors": [
+              "HU, Yunzhi"
+            ],
+            "venue": "Rm 5047, LSK Bldg",
+            "fromDate": "2026-03-09",
+            "toDate": "2026-03-16",
+            "weekdays": [
+              1
             ],
             "fromTime": "14:00",
             "toTime": "16:50"
@@ -46085,7 +46140,7 @@
         "number": "4206",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 600,
-        "enroll": 417,
+        "enroll": 416,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -46215,8 +46270,8 @@
         "section": "T03",
         "number": "4147",
         "remarks": "> Instructor : KAN, Marcus\n> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 48,
-        "enroll": 48,
+        "quota": 47,
+        "enroll": 47,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -46562,7 +46617,7 @@
         "section": "T17",
         "number": "4161",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 50,
+        "quota": 40,
         "enroll": 40,
         "waitlist": 0,
         "consent": false,
@@ -46587,7 +46642,7 @@
         "section": "T18",
         "number": "4162",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 50,
+        "quota": 40,
         "enroll": 40,
         "waitlist": 0,
         "consent": false,
@@ -46612,7 +46667,7 @@
         "section": "T19",
         "number": "4163",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 50,
+        "quota": 40,
         "enroll": 40,
         "waitlist": 0,
         "consent": false,
@@ -46637,7 +46692,7 @@
         "section": "T20",
         "number": "4164",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 50,
+        "quota": 40,
         "enroll": 40,
         "waitlist": 0,
         "consent": false,
@@ -46662,7 +46717,7 @@
         "section": "T21",
         "number": "4165",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 50,
+        "quota": 40,
         "enroll": 40,
         "waitlist": 0,
         "consent": false,
@@ -46687,7 +46742,7 @@
         "section": "T22",
         "number": "4166",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 50,
+        "quota": 40,
         "enroll": 40,
         "waitlist": 0,
         "consent": false,
@@ -46712,7 +46767,7 @@
         "section": "T23",
         "number": "4167",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 50,
+        "quota": 40,
         "enroll": 40,
         "waitlist": 0,
         "consent": false,
@@ -46737,7 +46792,7 @@
         "section": "T24",
         "number": "4168",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 50,
+        "quota": 39,
         "enroll": 39,
         "waitlist": 0,
         "consent": false,
@@ -46762,7 +46817,7 @@
         "section": "T25",
         "number": "4169",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 50,
+        "quota": 40,
         "enroll": 40,
         "waitlist": 0,
         "consent": false,
@@ -46787,7 +46842,7 @@
         "section": "T26",
         "number": "4170",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 50,
+        "quota": 40,
         "enroll": 40,
         "waitlist": 0,
         "consent": false,
@@ -46812,7 +46867,7 @@
         "section": "T27",
         "number": "4171",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 50,
+        "quota": 40,
         "enroll": 40,
         "waitlist": 0,
         "consent": false,
@@ -46837,7 +46892,7 @@
         "section": "T28",
         "number": "4172",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 50,
+        "quota": 40,
         "enroll": 40,
         "waitlist": 0,
         "consent": false,
@@ -46862,8 +46917,8 @@
         "section": "T29",
         "number": "4173",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 50,
-        "enroll": 40,
+        "quota": 40,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -46887,7 +46942,7 @@
         "section": "T30",
         "number": "4174",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
-        "quota": 50,
+        "quota": 40,
         "enroll": 40,
         "waitlist": 0,
         "consent": false,
@@ -58801,14 +58856,14 @@
         "number": "3034",
         "remarks": " ",
         "quota": 106,
-        "enroll": 97,
+        "enroll": 98,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
             "quota": 106,
-            "enroll": 97
+            "enroll": 98
           }
         ],
         "schedule": [
@@ -59044,14 +59099,14 @@
         "number": "3154",
         "remarks": "> Add/Drop Deadline : 09-Feb-2026",
         "quota": 95,
-        "enroll": 86,
+        "enroll": 87,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
             "quota": 95,
-            "enroll": 86
+            "enroll": 87
           }
         ],
         "schedule": [
@@ -59268,7 +59323,7 @@
         "number": "3167",
         "remarks": " ",
         "quota": 60,
-        "enroll": 57,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -59613,7 +59668,7 @@
         "number": "3045",
         "remarks": "> The class is delivered in a conventional face-to-face mode",
         "quota": 66,
-        "enroll": 62,
+        "enroll": 63,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -59625,7 +59680,7 @@
           {
             "name": "SBM",
             "quota": 49,
-            "enroll": 45
+            "enroll": 46
           }
         ],
         "schedule": [
@@ -65711,14 +65766,14 @@
             "instructors": [
               "YU, Man"
             ],
-            "venue": "G010, LSK Bldg",
+            "venue": "G021, LSK Bldg",
             "fromDate": "2026-03-26",
             "toDate": "2026-03-26",
             "weekdays": [
               4
             ],
-            "fromTime": "09:30",
-            "toTime": "12:50"
+            "fromTime": "19:00",
+            "toTime": "22:20"
           }
         ]
       },
@@ -69036,7 +69091,7 @@
         "number": "3211",
         "remarks": " ",
         "quota": 20,
-        "enroll": 20,
+        "enroll": 19,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -69166,7 +69221,7 @@
         "number": "3216",
         "remarks": " ",
         "quota": 20,
-        "enroll": 19,
+        "enroll": 20,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -82196,14 +82251,14 @@
         "number": "3518",
         "remarks": " ",
         "quota": 50,
-        "enroll": 46,
+        "enroll": 47,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
             "quota": 50,
-            "enroll": 46
+            "enroll": 47
           }
         ],
         "schedule": [
@@ -87167,7 +87222,7 @@
         "number": "3662",
         "remarks": " ",
         "quota": 120,
-        "enroll": 71,
+        "enroll": 72,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -87368,7 +87423,7 @@
         "number": "3672",
         "remarks": " ",
         "quota": 40,
-        "enroll": 23,
+        "enroll": 24,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -88944,14 +88999,14 @@
             "instructors": [
               "NITZSCHNER, Maximilian Alexander"
             ],
-            "venue": "Rm 5508, Lift 25-26 (30)",
+            "venue": "Rm 5510, Lift 25-26 (30)",
             "fromDate": "2026-02-02",
             "toDate": "2026-05-09",
             "weekdays": [
-              3
+              4
             ],
-            "fromTime": "16:30",
-            "toTime": "17:20"
+            "fromTime": "18:00",
+            "toTime": "18:50"
           }
         ]
       },
@@ -91721,7 +91776,7 @@
         "number": "3814",
         "remarks": " ",
         "quota": 184,
-        "enroll": 184,
+        "enroll": 183,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -96119,7 +96174,7 @@
         "number": "3906",
         "remarks": " ",
         "quota": 65,
-        "enroll": 62,
+        "enroll": 63,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -105574,7 +105629,7 @@
         "number": "4006",
         "remarks": " ",
         "quota": 100,
-        "enroll": 68,
+        "enroll": 67,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -105700,7 +105755,7 @@
         "number": "4013",
         "remarks": " ",
         "quota": 45,
-        "enroll": 23,
+        "enroll": 22,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -107068,7 +107123,7 @@
         "number": "4064",
         "remarks": " ",
         "quota": 60,
-        "enroll": 42,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -107094,7 +107149,7 @@
         "number": "4066",
         "remarks": " ",
         "quota": 30,
-        "enroll": 21,
+        "enroll": 20,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
