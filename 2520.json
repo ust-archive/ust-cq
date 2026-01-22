@@ -1094,6 +1094,45 @@
   {
     "career": "RPG",
     "subject": "COMP",
+    "number": "6922D",
+    "code": "COMP6922D",
+    "name": "Research Project",
+    "description": "An independent research project carried out under the supervision of a faculty member. This course is only available for exchange, visiting and visiting internship students.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1111",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "ZHOU, Xiaofang"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-01-02",
+            "toDate": "2026-01-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "COMP",
     "number": "6922Q",
     "code": "COMP6922Q",
     "name": "Research Project",
