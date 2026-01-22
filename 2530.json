@@ -20600,8 +20600,8 @@
         "section": "R1",
         "number": "2146",
         "remarks": "> The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
-        "quota": 49,
-        "enroll": 49,
+        "quota": 50,
+        "enroll": 50,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -24018,14 +24018,14 @@
         "number": "2624",
         "remarks": " ",
         "quota": 80,
-        "enroll": 66,
+        "enroll": 67,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECON",
             "quota": 80,
-            "enroll": 66
+            "enroll": 67
           }
         ],
         "schedule": [
@@ -24050,7 +24050,7 @@
         "number": "2625",
         "remarks": " ",
         "quota": 80,
-        "enroll": 66,
+        "enroll": 67,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -33876,8 +33876,8 @@
         "section": "R1",
         "number": "2558",
         "remarks": "> The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
-        "quota": 153,
-        "enroll": 153,
+        "quota": 152,
+        "enroll": 152,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -110966,6 +110966,52 @@
         "number": "4177",
         "remarks": " ",
         "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "KOH, Tat Koon"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "SBMT",
+    "number": "2800",
+    "code": "SBMT2800",
+    "name": "SBM Cooperative Education Program",
+    "description": "This course is intended to enhance SBM students’ career readiness by combining classroom-based education with practical work experience. By taking any two standalone career development programs, students are required to apply the skills and knowledge learnt in a full-time coop work experience for a single employer for at least 4 months. Approval from the course coordinator is required for enrollment in the course. For SBM Year 2 students or above only. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [
+      {
+        "attribute": "DELI",
+        "value": "EXP",
+        "attributeDescription": "Mode of Delivery",
+        "valueDescription": "[EXP] Experiential learning"
+      }
+    ],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "4481",
+        "remarks": "> The class is delivered in a experiential learning mode",
+        "quota": 60,
         "enroll": 0,
         "waitlist": 0,
         "consent": true,
