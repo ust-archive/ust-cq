@@ -1720,14 +1720,14 @@
         "number": "1005",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 65,
-        "enroll": 62,
+        "enroll": 63,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 62
+            "enroll": 63
           }
         ],
         "schedule": [
@@ -1821,14 +1821,14 @@
         "number": "1017",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 65,
-        "enroll": 56,
+        "enroll": 55,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 65,
-            "enroll": 56
+            "enroll": 55
           }
         ],
         "schedule": [
@@ -2174,14 +2174,14 @@
         "number": "1018",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 70,
-        "enroll": 47,
+        "enroll": 48,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 70,
-            "enroll": 47
+            "enroll": 48
           }
         ],
         "schedule": [
@@ -6156,7 +6156,7 @@
         "number": "1506",
         "remarks": " ",
         "quota": 30,
-        "enroll": 26,
+        "enroll": 27,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6246,7 +6246,7 @@
         "number": "1507",
         "remarks": "> Additional tutorial hours to be arranged by Division",
         "quota": 30,
-        "enroll": 26,
+        "enroll": 27,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6414,7 +6414,7 @@
         "number": "1484",
         "remarks": " ",
         "quota": 25,
-        "enroll": 9,
+        "enroll": 10,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6437,7 +6437,7 @@
         "number": "1485",
         "remarks": " ",
         "quota": 25,
-        "enroll": 9,
+        "enroll": 10,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6476,7 +6476,7 @@
         "number": "1486",
         "remarks": " ",
         "quota": 25,
-        "enroll": 16,
+        "enroll": 15,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6499,7 +6499,7 @@
         "number": "1487",
         "remarks": " ",
         "quota": 25,
-        "enroll": 16,
+        "enroll": 15,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6538,7 +6538,7 @@
         "number": "1924",
         "remarks": " ",
         "quota": 90,
-        "enroll": 44,
+        "enroll": 43,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6564,7 +6564,7 @@
         "number": "1925",
         "remarks": " ",
         "quota": 90,
-        "enroll": 44,
+        "enroll": 43,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -8387,7 +8387,7 @@
         "number": "1968",
         "remarks": " ",
         "quota": 50,
-        "enroll": 49,
+        "enroll": 48,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -9041,7 +9041,7 @@
         "number": "1986",
         "remarks": " ",
         "quota": 35,
-        "enroll": 35,
+        "enroll": 34,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -9426,7 +9426,7 @@
         "number": "1995",
         "remarks": " ",
         "quota": 10,
-        "enroll": 10,
+        "enroll": 9,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -9604,6 +9604,47 @@
             "weekdays": [],
             "fromTime": null,
             "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "CHEM",
+    "number": "6030D",
+    "code": "CHEM6030D",
+    "name": "Electrochemistry and Electrochemical Engineering",
+    "description": "Fundamental principles of electrochemistry such as Nernst and Bulter-Volmer equations and their applications in energy devices, materials fabrications, and analytical methods.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4482",
+        "remarks": "> Venue: Room 4502\n> Co-list with MECH 6910V",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CHEN, Qing"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "18:30",
+            "toTime": "21:20"
           }
         ]
       }
@@ -13487,7 +13528,7 @@
         "number": "1130",
         "remarks": " ",
         "quota": 200,
-        "enroll": 182,
+        "enroll": 183,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -13837,7 +13878,7 @@
         "number": "2161",
         "remarks": " ",
         "quota": 125,
-        "enroll": 88,
+        "enroll": 87,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -13915,7 +13956,7 @@
         "number": "2167",
         "remarks": " ",
         "quota": 125,
-        "enroll": 88,
+        "enroll": 87,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -13967,7 +14008,7 @@
         "number": "2171",
         "remarks": " ",
         "quota": 125,
-        "enroll": 88,
+        "enroll": 87,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -14102,7 +14143,7 @@
         "number": "2177",
         "remarks": " ",
         "quota": 125,
-        "enroll": 88,
+        "enroll": 87,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -17501,8 +17542,8 @@
         "section": "T2",
         "number": "2314",
         "remarks": " ",
-        "quota": 97,
-        "enroll": 97,
+        "quota": 98,
+        "enroll": 98,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -17685,7 +17726,7 @@
       {
         "section": "L1",
         "number": "2318",
-        "remarks": " ",
+        "remarks": "> Co-list with COMP 5911",
         "quota": 25,
         "enroll": 0,
         "waitlist": 0,
@@ -17749,6 +17790,45 @@
           {
             "instructors": [
               "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "COMP",
+    "number": "4971D",
+    "code": "COMP4971D",
+    "name": "Independent Work",
+    "description": "Independent studies or projects under the directed guidance of a faculty member on a computer science topic. A written report, presentation, and/or an examination are required. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. May be repeated for credits.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 4,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4484",
+        "remarks": " ",
+        "quota": 2,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "ZHANG, Nevin Lianwen"
             ],
             "venue": "TBA",
             "fromDate": "2026-02-02",
@@ -18240,7 +18320,7 @@
       {
         "section": "L1",
         "number": "1148",
-        "remarks": " ",
+        "remarks": "> Classes held in Room 6602\n> Co-list with COMP 4911",
         "quota": 25,
         "enroll": 0,
         "waitlist": 0,
@@ -28935,7 +29015,7 @@
         "number": "2343",
         "remarks": " ",
         "quota": 100,
-        "enroll": 84,
+        "enroll": 83,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -28973,7 +29053,7 @@
         "number": "2345",
         "remarks": " ",
         "quota": 70,
-        "enroll": 54,
+        "enroll": 53,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -29077,7 +29157,7 @@
         "number": "2351",
         "remarks": " ",
         "quota": 100,
-        "enroll": 83,
+        "enroll": 82,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -29244,7 +29324,7 @@
         "number": "2357",
         "remarks": "> Classes held in Room 2126B",
         "quota": 6,
-        "enroll": 6,
+        "enroll": 5,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -35080,14 +35160,14 @@
         "number": "1208",
         "remarks": " ",
         "quota": 50,
-        "enroll": 8,
+        "enroll": 9,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECE",
             "quota": 50,
-            "enroll": 8
+            "enroll": 9
           }
         ],
         "schedule": [
@@ -35125,14 +35205,14 @@
         "number": "1209",
         "remarks": " ",
         "quota": 200,
-        "enroll": 172,
+        "enroll": 174,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECE",
             "quota": 200,
-            "enroll": 172
+            "enroll": 174
           }
         ],
         "schedule": [
@@ -37917,7 +37997,7 @@
       {
         "section": "L1",
         "number": "4369",
-        "remarks": " ",
+        "remarks": "> Co-list with ENVR 5330",
         "quota": 25,
         "enroll": 0,
         "waitlist": 0,
@@ -38242,7 +38322,7 @@
     "number": "5330",
     "code": "ENVR5330",
     "name": "Environmental Geographical Information System",
-    "description": "This course will cover a broad spectrum of concepts and practices in Geographical Information System (GIS). It starts with the fundamental concepts and elements in geographic science and technology. Spatial data modeling and integration methods will then be discussed followed by various geospatial analysis approaches for both vector and raster data. Cartographic principles, spatial relationships, projection and coordinate systems will be discussed in-depth. During the course, students will be introduced to contemporary GIS software and apply GIS technology support local and regional environmental planning and management.",
+    "description": "This course will cover a broad spectrum of concepts and practices in Geographical Information System (GIS). It starts with the fundamental concepts and elements in geographic science and technology. Spatial data modeling and integration methods will then be discussed followed by various geospatial analysis approaches for both vector and raster data. Cartographic principles, spatial relationships, projection and coordinate systems will be discussed in-depth. During the course, students will be introduced to contemporary GIS software and apply GIS technology to support local and regional environmental planning and management.",
     "previousCodes": "",
     "prerequisites": "",
     "corequisites": "",
@@ -38253,7 +38333,7 @@
       {
         "section": "L1",
         "number": "4368",
-        "remarks": "> For MPhil/PhD (AES/ESPM) students only",
+        "remarks": "> For MPhil/PhD (AES/ESPM) students only\n> Co-list with ENVR 4330\n> Venue : Room 4402",
         "quota": 10,
         "enroll": 0,
         "waitlist": 0,
@@ -38779,7 +38859,7 @@
         "number": "1260",
         "remarks": "> For PhD (AES/ESPM) students only",
         "quota": 80,
-        "enroll": 64,
+        "enroll": 67,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -41658,14 +41738,14 @@
         "number": "1273",
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 65,
-        "enroll": 24,
+        "enroll": 25,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 65,
-            "enroll": 24
+            "enroll": 25
           }
         ],
         "schedule": [
@@ -41749,7 +41829,7 @@
         "number": "1287",
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 58,
-        "enroll": 4,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -41761,7 +41841,7 @@
           {
             "name": "MBA",
             "quota": 50,
-            "enroll": 4
+            "enroll": 3
           },
           {
             "name": "MBA Bi-weekly",
@@ -41819,7 +41899,7 @@
         "number": "1281",
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 65,
-        "enroll": 38,
+        "enroll": 39,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -41836,7 +41916,7 @@
           {
             "name": "FINA",
             "quota": 56,
-            "enroll": 30
+            "enroll": 31
           },
           {
             "name": "GO",
@@ -42076,7 +42156,7 @@
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 60,
         "enroll": 26,
-        "waitlist": 0,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [
           {
@@ -42193,7 +42273,7 @@
         "remarks": "> Instructor : YOO, Paul\n> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 30-Mar-2026",
         "quota": 65,
         "enroll": 65,
-        "waitlist": 43,
+        "waitlist": 44,
         "consent": false,
         "reservedQuota": [
           {
@@ -42690,7 +42770,7 @@
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 65,
         "enroll": 65,
-        "waitlist": 8,
+        "waitlist": 10,
         "consent": false,
         "reservedQuota": [
           {
@@ -42971,7 +43051,7 @@
         "remarks": "> For MSc(FINA); MSc(FA); MSc(IM); FT-MBA and MBA Exchange students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 64,
         "enroll": 56,
-        "waitlist": 6,
+        "waitlist": 7,
         "consent": false,
         "reservedQuota": [
           {
@@ -43093,7 +43173,7 @@
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 65,
         "enroll": 65,
-        "waitlist": 12,
+        "waitlist": 13,
         "consent": false,
         "reservedQuota": [
           {
@@ -43275,7 +43355,7 @@
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 26-Jan-2026",
         "quota": 65,
         "enroll": 65,
-        "waitlist": 0,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [
           {
@@ -43537,7 +43617,7 @@
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 26-Jan-2026",
         "quota": 65,
         "enroll": 65,
-        "waitlist": 8,
+        "waitlist": 9,
         "consent": false,
         "reservedQuota": [
           {
@@ -43705,14 +43785,14 @@
         "number": "1314",
         "remarks": "> Instructor : AU, Paul\n> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 65,
-        "enroll": 33,
+        "enroll": 34,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 65,
-            "enroll": 33
+            "enroll": 34
           }
         ],
         "schedule": [
@@ -44523,7 +44603,7 @@
         "number": "1593",
         "remarks": ">  Instructor : WOO, Patricia\n> For MSc(FOFB) students only\n> Venue : United Conference Centre, 10/F, United Centre, 95 Queensway, Admiralty, Hong Kong\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 40,
-        "enroll": 25,
+        "enroll": 24,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -44535,7 +44615,7 @@
           {
             "name": "FINA",
             "quota": 3,
-            "enroll": 1
+            "enroll": 0
           },
           {
             "name": "FOFB",
@@ -44692,14 +44772,14 @@
         "number": "4432",
         "remarks": "> For MSc(FOFB) students only\n> Add/Drop Deadline : 14-Feb-2026",
         "quota": 26,
-        "enroll": 25,
-        "waitlist": 1,
+        "enroll": 26,
+        "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FOFB",
             "quota": 26,
-            "enroll": 25
+            "enroll": 26
           }
         ],
         "schedule": [
@@ -45063,14 +45143,12 @@
             "instructors": [
               "DORAN, Christopher"
             ],
-            "venue": "Rm 1003, LSK Bldg (75)",
+            "venue": "TBA",
             "fromDate": "2026-02-02",
             "toDate": "2026-05-09",
-            "weekdays": [
-              4
-            ],
-            "fromTime": "18:00",
-            "toTime": "19:20"
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -46234,7 +46312,7 @@
         "number": "4205",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 600,
-        "enroll": 416,
+        "enroll": 415,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -46284,7 +46362,7 @@
         "number": "4207",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 600,
-        "enroll": 413,
+        "enroll": 412,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -52058,7 +52136,7 @@
       {
         "section": "L1",
         "number": "4439",
-        "remarks": " ",
+        "remarks": "> Co-list with HUMA 5351",
         "quota": 20,
         "enroll": 0,
         "waitlist": 0,
@@ -52429,7 +52507,7 @@
       {
         "section": "L1",
         "number": "1334",
-        "remarks": " ",
+        "remarks": "> Co-list with HUMA 4351\n> Venue : Room LG3009",
         "quota": 20,
         "enroll": 6,
         "waitlist": 0,
@@ -53824,7 +53902,7 @@
         "number": "2867",
         "remarks": " ",
         "quota": 97,
-        "enroll": 96,
+        "enroll": 95,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -54948,7 +55026,7 @@
         "number": "2903",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 3; Spring: 3",
         "quota": 42,
-        "enroll": 42,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -58930,14 +59008,14 @@
         "section": "L1",
         "number": "3033",
         "remarks": " ",
-        "quota": 106,
+        "quota": 100,
         "enroll": 97,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
-            "quota": 106,
+            "quota": 100,
             "enroll": 97
           }
         ],
@@ -58974,14 +59052,14 @@
         "section": "L2",
         "number": "3034",
         "remarks": " ",
-        "quota": 106,
+        "quota": 100,
         "enroll": 98,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
-            "quota": 106,
+            "quota": 100,
             "enroll": 98
           }
         ],
@@ -59155,14 +59233,14 @@
         "section": "L1",
         "number": "3150",
         "remarks": "> Add/Drop Deadline : 09-Feb-2026",
-        "quota": 95,
+        "quota": 90,
         "enroll": 85,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
-            "quota": 95,
+            "quota": 90,
             "enroll": 85
           }
         ],
@@ -59186,14 +59264,14 @@
         "section": "L2",
         "number": "3152",
         "remarks": "> Add/Drop Deadline : 09-Feb-2026",
-        "quota": 95,
+        "quota": 90,
         "enroll": 85,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
-            "quota": 95,
+            "quota": 90,
             "enroll": 85
           }
         ],
@@ -59217,14 +59295,14 @@
         "section": "L3",
         "number": "3154",
         "remarks": "> Add/Drop Deadline : 09-Feb-2026",
-        "quota": 95,
+        "quota": 90,
         "enroll": 87,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
-            "quota": 95,
+            "quota": 90,
             "enroll": 87
           }
         ],
@@ -59248,14 +59326,14 @@
         "section": "L4",
         "number": "3156",
         "remarks": "> Add/Drop Deadline : 09-Feb-2026",
-        "quota": 92,
+        "quota": 90,
         "enroll": 86,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
-            "quota": 92,
+            "quota": 90,
             "enroll": 86
           }
         ],
@@ -59341,7 +59419,7 @@
         "section": "LA1",
         "number": "3162",
         "remarks": " ",
-        "quota": 65,
+        "quota": 60,
         "enroll": 57,
         "waitlist": 0,
         "consent": false,
@@ -59366,7 +59444,7 @@
         "section": "LA2",
         "number": "3164",
         "remarks": " ",
-        "quota": 65,
+        "quota": 60,
         "enroll": 56,
         "waitlist": 0,
         "consent": false,
@@ -59391,7 +59469,7 @@
         "section": "LA3",
         "number": "3165",
         "remarks": " ",
-        "quota": 65,
+        "quota": 60,
         "enroll": 57,
         "waitlist": 0,
         "consent": false,
@@ -59416,7 +59494,7 @@
         "section": "LA4",
         "number": "3166",
         "remarks": " ",
-        "quota": 62,
+        "quota": 60,
         "enroll": 58,
         "waitlist": 0,
         "consent": false,
@@ -62491,12 +62569,12 @@
         "reservedQuota": [
           {
             "name": "OM",
-            "quota": 10,
+            "quota": 13,
             "enroll": 0
           },
           {
             "name": "RMBI",
-            "quota": 50,
+            "quota": 47,
             "enroll": 47
           }
         ],
@@ -62912,12 +62990,12 @@
         "reservedQuota": [
           {
             "name": "OM",
-            "quota": 30,
+            "quota": 35,
             "enroll": 0
           },
           {
             "name": "RMBI",
-            "quota": 25,
+            "quota": 20,
             "enroll": 0
           }
         ],
@@ -63862,14 +63940,14 @@
         "number": "1401",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 60,
-        "enroll": 60,
+        "enroll": 59,
         "waitlist": 1,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ISM",
             "quota": 60,
-            "enroll": 60
+            "enroll": 59
           }
         ],
         "schedule": [
@@ -63906,7 +63984,7 @@
         "number": "1438",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 67,
-        "enroll": 67,
+        "enroll": 66,
         "waitlist": 1,
         "consent": false,
         "reservedQuota": [
@@ -63918,7 +63996,7 @@
           {
             "name": "FINA",
             "quota": 4,
-            "enroll": 4
+            "enroll": 3
           }
         ],
         "schedule": [
@@ -64939,14 +65017,14 @@
         "number": "1388",
         "remarks": "> For MSc(ISM) students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 48,
-        "enroll": 43,
+        "enroll": 44,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ISM",
             "quota": 48,
-            "enroll": 43
+            "enroll": 44
           }
         ],
         "schedule": [
@@ -66882,18 +66960,13 @@
             "enroll": 5
           },
           {
-            "name": "GO",
-            "quota": 5,
-            "enroll": 0
-          },
-          {
             "name": "ICSM",
             "quota": 5,
             "enroll": 5
           },
           {
             "name": "ISM",
-            "quota": 10,
+            "quota": 15,
             "enroll": 10
           },
           {
@@ -70419,7 +70492,7 @@
         "number": "3255",
         "remarks": " ",
         "quota": 20,
-        "enroll": 20,
+        "enroll": 19,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -82177,14 +82250,14 @@
         "section": "L1",
         "number": "3512",
         "remarks": " ",
-        "quota": 50,
+        "quota": 47,
         "enroll": 47,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
-            "quota": 50,
+            "quota": 47,
             "enroll": 47
           }
         ],
@@ -82209,14 +82282,14 @@
         "section": "L2",
         "number": "3513",
         "remarks": " ",
-        "quota": 50,
+        "quota": 47,
         "enroll": 45,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
-            "quota": 50,
+            "quota": 47,
             "enroll": 45
           }
         ],
@@ -82241,14 +82314,14 @@
         "section": "L3",
         "number": "3514",
         "remarks": " ",
-        "quota": 50,
+        "quota": 47,
         "enroll": 47,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
-            "quota": 50,
+            "quota": 47,
             "enroll": 47
           }
         ],
@@ -82273,14 +82346,14 @@
         "section": "L4",
         "number": "3515",
         "remarks": " ",
-        "quota": 50,
+        "quota": 47,
         "enroll": 46,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
-            "quota": 50,
+            "quota": 47,
             "enroll": 46
           }
         ],
@@ -82305,14 +82378,14 @@
         "section": "L5",
         "number": "3516",
         "remarks": " ",
-        "quota": 50,
+        "quota": 47,
         "enroll": 46,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
-            "quota": 50,
+            "quota": 47,
             "enroll": 46
           }
         ],
@@ -82337,14 +82410,14 @@
         "section": "L6",
         "number": "3517",
         "remarks": " ",
-        "quota": 50,
+        "quota": 47,
         "enroll": 46,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
-            "quota": 50,
+            "quota": 47,
             "enroll": 46
           }
         ],
@@ -82369,14 +82442,14 @@
         "section": "L7",
         "number": "3518",
         "remarks": " ",
-        "quota": 50,
+        "quota": 47,
         "enroll": 47,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
-            "quota": 50,
+            "quota": 47,
             "enroll": 47
           }
         ],
@@ -82401,14 +82474,14 @@
         "section": "L8",
         "number": "3519",
         "remarks": " ",
-        "quota": 50,
+        "quota": 47,
         "enroll": 46,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
-            "quota": 50,
+            "quota": 47,
             "enroll": 46
           }
         ],
@@ -82449,14 +82522,14 @@
         "section": "L1",
         "number": "3520",
         "remarks": " ",
-        "quota": 50,
+        "quota": 40,
         "enroll": 39,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
-            "quota": 50,
+            "quota": 40,
             "enroll": 39
           }
         ],
@@ -82481,14 +82554,14 @@
         "section": "L2",
         "number": "3522",
         "remarks": " ",
-        "quota": 50,
+        "quota": 40,
         "enroll": 39,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
-            "quota": 50,
+            "quota": 40,
             "enroll": 39
           }
         ],
@@ -82513,7 +82586,7 @@
         "section": "T1",
         "number": "3524",
         "remarks": " ",
-        "quota": 50,
+        "quota": 40,
         "enroll": 39,
         "waitlist": 0,
         "consent": false,
@@ -82538,7 +82611,7 @@
         "section": "T2",
         "number": "3526",
         "remarks": " ",
-        "quota": 50,
+        "quota": 40,
         "enroll": 39,
         "waitlist": 0,
         "consent": false,
@@ -82579,14 +82652,14 @@
         "section": "L1",
         "number": "3527",
         "remarks": " ",
-        "quota": 50,
+        "quota": 30,
         "enroll": 28,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
-            "quota": 50,
+            "quota": 30,
             "enroll": 28
           }
         ],
@@ -82611,14 +82684,14 @@
         "section": "L2",
         "number": "3529",
         "remarks": " ",
-        "quota": 50,
+        "quota": 30,
         "enroll": 29,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
-            "quota": 50,
+            "quota": 30,
             "enroll": 29
           }
         ],
@@ -82643,14 +82716,14 @@
         "section": "L3",
         "number": "3531",
         "remarks": " ",
-        "quota": 50,
+        "quota": 30,
         "enroll": 28,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
-            "quota": 50,
+            "quota": 30,
             "enroll": 28
           }
         ],
@@ -82675,7 +82748,7 @@
         "section": "T1",
         "number": "3533",
         "remarks": " ",
-        "quota": 50,
+        "quota": 30,
         "enroll": 28,
         "waitlist": 0,
         "consent": false,
@@ -82700,7 +82773,7 @@
         "section": "T2",
         "number": "3535",
         "remarks": " ",
-        "quota": 50,
+        "quota": 30,
         "enroll": 29,
         "waitlist": 0,
         "consent": false,
@@ -82725,7 +82798,7 @@
         "section": "T3",
         "number": "3536",
         "remarks": " ",
-        "quota": 50,
+        "quota": 30,
         "enroll": 28,
         "waitlist": 0,
         "consent": false,
@@ -83555,7 +83628,7 @@
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 31-Jan-2026",
         "quota": 65,
         "enroll": 65,
-        "waitlist": 3,
+        "waitlist": 4,
         "consent": false,
         "reservedQuota": [
           {
@@ -83991,7 +84064,7 @@
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 65,
         "enroll": 65,
-        "waitlist": 0,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [
           {
@@ -84050,14 +84123,14 @@
         "number": "1514",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 65,
-        "enroll": 60,
+        "enroll": 61,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
             "quota": 65,
-            "enroll": 60
+            "enroll": 61
           }
         ],
         "schedule": [
@@ -84094,14 +84167,14 @@
         "number": "1515",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 65,
-        "enroll": 60,
+        "enroll": 59,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
             "quota": 65,
-            "enroll": 60
+            "enroll": 59
           }
         ],
         "schedule": [
@@ -84432,14 +84505,14 @@
         "number": "1518",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 65,
-        "enroll": 58,
+        "enroll": 59,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 3,
-            "enroll": 3
+            "enroll": 1
           },
           {
             "name": "FOFB",
@@ -84454,7 +84527,7 @@
           {
             "name": "MARK",
             "quota": 55,
-            "enroll": 50
+            "enroll": 53
           }
         ],
         "schedule": [
@@ -84533,7 +84606,7 @@
         "number": "1530",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 65,
-        "enroll": 38,
+        "enroll": 40,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -84545,7 +84618,7 @@
           {
             "name": "MARK",
             "quota": 63,
-            "enroll": 36
+            "enroll": 38
           }
         ],
         "schedule": [
@@ -84625,7 +84698,7 @@
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 65,
         "enroll": 63,
-        "waitlist": 26,
+        "waitlist": 27,
         "consent": false,
         "reservedQuota": [
           {
@@ -84766,7 +84839,7 @@
         "number": "1525",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 65,
-        "enroll": 48,
+        "enroll": 50,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -84783,7 +84856,7 @@
           {
             "name": "MARK",
             "quota": 56,
-            "enroll": 39
+            "enroll": 41
           },
           {
             "name": "TLE",
@@ -84940,14 +85013,14 @@
         "number": "1523",
         "remarks": "> Instructor : Mr LIN, Eric\n> For MSc(MARK) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 65,
-        "enroll": 50,
+        "enroll": 53,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
             "quota": 57,
-            "enroll": 44
+            "enroll": 47
           },
           {
             "name": "MIMT",
@@ -86001,7 +86074,7 @@
         "number": "3600",
         "remarks": " ",
         "quota": 120,
-        "enroll": 96,
+        "enroll": 95,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -86719,7 +86792,7 @@
         "number": "3635",
         "remarks": " ",
         "quota": 40,
-        "enroll": 32,
+        "enroll": 31,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -87737,7 +87810,7 @@
         "number": "3680",
         "remarks": " ",
         "quota": 120,
-        "enroll": 95,
+        "enroll": 94,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -87763,7 +87836,7 @@
         "number": "3682",
         "remarks": " ",
         "quota": 120,
-        "enroll": 95,
+        "enroll": 94,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -87814,7 +87887,7 @@
         "number": "3686",
         "remarks": " ",
         "quota": 40,
-        "enroll": 32,
+        "enroll": 31,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -87914,7 +87987,7 @@
         "number": "3690",
         "remarks": " ",
         "quota": 40,
-        "enroll": 31,
+        "enroll": 30,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -88631,7 +88704,7 @@
         "number": "3724",
         "remarks": " ",
         "quota": 80,
-        "enroll": 25,
+        "enroll": 30,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -88669,7 +88742,7 @@
         "number": "3726",
         "remarks": " ",
         "quota": 40,
-        "enroll": 13,
+        "enroll": 16,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -88694,7 +88767,7 @@
         "number": "3728",
         "remarks": " ",
         "quota": 40,
-        "enroll": 12,
+        "enroll": 14,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -88761,7 +88834,7 @@
         "number": "3731",
         "remarks": " ",
         "quota": 80,
-        "enroll": 35,
+        "enroll": 37,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -88849,7 +88922,7 @@
         "number": "3736",
         "remarks": " ",
         "quota": 40,
-        "enroll": 16,
+        "enroll": 18,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -88915,7 +88988,7 @@
         "number": "3738",
         "remarks": " ",
         "quota": 90,
-        "enroll": 45,
+        "enroll": 44,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -88992,7 +89065,7 @@
         "number": "3744",
         "remarks": " ",
         "quota": 45,
-        "enroll": 23,
+        "enroll": 22,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -89346,7 +89419,7 @@
         "number": "3759",
         "remarks": " ",
         "quota": 40,
-        "enroll": 9,
+        "enroll": 10,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -89372,7 +89445,7 @@
         "number": "3760",
         "remarks": " ",
         "quota": 40,
-        "enroll": 9,
+        "enroll": 10,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -89505,7 +89578,7 @@
         "number": "3766",
         "remarks": " ",
         "quota": 90,
-        "enroll": 58,
+        "enroll": 59,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -89531,7 +89604,7 @@
         "number": "3768",
         "remarks": " ",
         "quota": 45,
-        "enroll": 29,
+        "enroll": 30,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -89689,7 +89762,7 @@
         "number": "3776",
         "remarks": " ",
         "quota": 80,
-        "enroll": 30,
+        "enroll": 32,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -89715,7 +89788,7 @@
         "number": "3778",
         "remarks": " ",
         "quota": 40,
-        "enroll": 14,
+        "enroll": 16,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -90525,7 +90598,7 @@
         "number": "3809",
         "remarks": " ",
         "quota": 40,
-        "enroll": 22,
+        "enroll": 21,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -90551,7 +90624,7 @@
         "number": "3810",
         "remarks": " ",
         "quota": 40,
-        "enroll": 22,
+        "enroll": 21,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -94268,7 +94341,7 @@
     "number": "6910V",
     "code": "MECH6910V",
     "name": "Electrochemistry and Electrochemical Engineering",
-    "description": "Electrochemical processes are essential for energy devices like batteries and fuel cells, and play a key role in chemical analysis and materials fabrication. Unlike conventional chemical reactions, electrochemical reactions occur separately but are linked by charge and mass transfer. Specialized knowledge is needed to leverage these processes effectively. This course covers both fundamental concepts and practical approaches to various research challenges. College-level chemistry and engineering background are required.",
+    "description": "Fundamental principles of electrochemistry such as Nernst and Bulter-Volmer equations and their applications in energy devices, materials fabrications, and analytical methods.",
     "previousCodes": "",
     "prerequisites": "",
     "corequisites": "",
@@ -94279,7 +94352,7 @@
       {
         "section": "L1",
         "number": "4370",
-        "remarks": " ",
+        "remarks": "> Co-list with CHEM 6030D",
         "quota": 30,
         "enroll": 0,
         "waitlist": 0,
@@ -98282,7 +98355,7 @@
         "remarks": "> For PT-MBA; Digital MBA; MBA (Bi-weekly) and MBA Exchange-in students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 48,
         "enroll": 47,
-        "waitlist": 10,
+        "waitlist": 11,
         "consent": false,
         "reservedQuota": [
           {
@@ -98496,7 +98569,7 @@
         "number": "1590",
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Venue from 30-Mar-2026 to 13-Apr-2026 and 27-Apr-2026 : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Venue from 4-May-2026 to 25-May-2026 : United Conference Centre, 10/F, United Centre, 95 Queensway, Admiralty, Hong Kong\n> Add/Drop Deadline : 31-Mar-2026",
         "quota": 38,
-        "enroll": 17,
+        "enroll": 18,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -98508,7 +98581,7 @@
           {
             "name": "MBA",
             "quota": 30,
-            "enroll": 15
+            "enroll": 16
           },
           {
             "name": "MBA Bi-weekly",
@@ -98790,8 +98863,8 @@
         "number": "1596",
         "remarks": "> For FT-MBA; PT-MBA and MBA Bi-Weekly students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 50,
-        "enroll": 38,
-        "waitlist": 25,
+        "enroll": 39,
+        "waitlist": 23,
         "consent": false,
         "reservedQuota": [
           {
@@ -98802,7 +98875,7 @@
           {
             "name": "MBA Bi-weekly",
             "quota": 45,
-            "enroll": 33
+            "enroll": 34
           }
         ],
         "schedule": [
@@ -99082,7 +99155,7 @@
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 48,
         "enroll": 46,
-        "waitlist": 5,
+        "waitlist": 8,
         "consent": false,
         "reservedQuota": [
           {
@@ -99380,8 +99453,8 @@
         "number": "1720",
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 16-May-2026\n> Extended Drop Deadline : 18-May-2026",
         "quota": 45,
-        "enroll": 19,
-        "waitlist": 32,
+        "enroll": 22,
+        "waitlist": 30,
         "consent": false,
         "reservedQuota": [
           {
@@ -99392,12 +99465,12 @@
           {
             "name": "MBA",
             "quota": 12,
-            "enroll": 10
+            "enroll": 12
           },
           {
             "name": "MBA Bi-weekly",
             "quota": 30,
-            "enroll": 7
+            "enroll": 8
           }
         ],
         "schedule": [
@@ -99488,12 +99561,12 @@
           {
             "name": "MBA",
             "quota": 42,
-            "enroll": 42
+            "enroll": 41
           },
           {
             "name": "MBA Bi-weekly",
             "quota": 5,
-            "enroll": 1
+            "enroll": 2
           }
         ],
         "schedule": [
@@ -100849,8 +100922,8 @@
         "section": "L2",
         "number": "1716",
         "remarks": "> The class is delivered in a real-time online mode\n> For SBM TPG students only",
-        "quota": 47,
-        "enroll": 46,
+        "quota": 48,
+        "enroll": 47,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -100861,8 +100934,8 @@
           },
           {
             "name": "BA",
-            "quota": 10,
-            "enroll": 10
+            "quota": 11,
+            "enroll": 11
           },
           {
             "name": "ECON",
@@ -100922,7 +100995,7 @@
         "number": "1712",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 40,
-        "enroll": 30,
+        "enroll": 31,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -100934,7 +101007,7 @@
           {
             "name": "BA",
             "quota": 15,
-            "enroll": 10
+            "enroll": 11
           },
           {
             "name": "GO",
@@ -106431,7 +106504,7 @@
         "number": "4030",
         "remarks": " ",
         "quota": 150,
-        "enroll": 149,
+        "enroll": 148,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -106559,7 +106632,7 @@
         "number": "4039",
         "remarks": " ",
         "quota": 50,
-        "enroll": 50,
+        "enroll": 49,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -108812,7 +108885,7 @@
         "number": "1648",
         "remarks": " ",
         "quota": 100,
-        "enroll": 57,
+        "enroll": 56,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -109781,6 +109854,29 @@
           {
             "instructors": [
               "SHARIF, Naubahar"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "R3",
+        "number": "4483",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "YARIME, Masaru"
             ],
             "venue": "TBA",
             "fromDate": "2026-02-02",
@@ -111371,7 +111467,7 @@
         "number": "1717",
         "remarks": "> Instructor : WONG, Dan\n> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 04-Apr-2026\n> Extended Drop Deadline : 06-Apr-2026",
         "quota": 60,
-        "enroll": 33,
+        "enroll": 34,
         "waitlist": 14,
         "consent": false,
         "reservedQuota": [
@@ -111388,7 +111484,7 @@
           {
             "name": "MBA Bi-weekly",
             "quota": 30,
-            "enroll": 4
+            "enroll": 5
           }
         ],
         "schedule": [
@@ -111704,7 +111800,7 @@
         "remarks": "> Instructor : KEILHACKER, Kurt\n> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Venue on 3-Mar-2026 to 10-Mar-2026 : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 09-Mar-2026",
         "quota": 50,
         "enroll": 35,
-        "waitlist": 8,
+        "waitlist": 10,
         "consent": false,
         "reservedQuota": [
           {
@@ -111831,7 +111927,7 @@
         "remarks": "> Instructor : KEILHACKER, Kurt\n> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 45,
         "enroll": 42,
-        "waitlist": 4,
+        "waitlist": 6,
         "consent": false,
         "reservedQuota": [
           {
@@ -111900,7 +111996,7 @@
         "number": "1694",
         "remarks": "> Instructor : WONG, Dan\n> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 55,
-        "enroll": 36,
+        "enroll": 37,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -111912,7 +112008,7 @@
           {
             "name": "MBA",
             "quota": 30,
-            "enroll": 21
+            "enroll": 22
           },
           {
             "name": "MBA Bi-weekly",
@@ -115604,7 +115700,7 @@
       {
         "section": "L1",
         "number": "4254",
-        "remarks": " ",
+        "remarks": "> Co-list with SOSC 5810",
         "quota": 40,
         "enroll": 6,
         "waitlist": 0,
@@ -116104,7 +116200,7 @@
       {
         "section": "L1",
         "number": "4265",
-        "remarks": " ",
+        "remarks": "> Co-list with SOSC 5500",
         "quota": 40,
         "enroll": 0,
         "waitlist": 0,
@@ -116364,7 +116460,7 @@
       {
         "section": "L1",
         "number": "1876",
-        "remarks": " ",
+        "remarks": "> Co-list with SOSC 4300\n> Venue : Room LG3008",
         "quota": 20,
         "enroll": 1,
         "waitlist": 0,
@@ -116395,7 +116491,7 @@
       {
         "section": "T1",
         "number": "1877",
-        "remarks": " ",
+        "remarks": "> Venue : Room 6602",
         "quota": 20,
         "enroll": 1,
         "waitlist": 0,
@@ -116484,7 +116580,7 @@
       {
         "section": "L1",
         "number": "1879",
-        "remarks": " ",
+        "remarks": "> Co-list with SOSC 3720\n> Venue : Room LTK",
         "quota": 20,
         "enroll": 4,
         "waitlist": 0,
@@ -116515,7 +116611,7 @@
       {
         "section": "T1",
         "number": "1880",
-        "remarks": " ",
+        "remarks": "> Venue : Room LTK",
         "quota": 20,
         "enroll": 4,
         "waitlist": 0,
