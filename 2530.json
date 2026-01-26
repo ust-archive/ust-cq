@@ -314,7 +314,7 @@
         "number": "1039",
         "remarks": " ",
         "quota": 68,
-        "enroll": 60,
+        "enroll": 59,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1661,7 +1661,7 @@
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 70,
         "enroll": 70,
-        "waitlist": 23,
+        "waitlist": 24,
         "consent": false,
         "reservedQuota": [
           {
@@ -2174,14 +2174,14 @@
         "number": "1018",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 70,
-        "enroll": 60,
+        "enroll": 61,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 70,
-            "enroll": 60
+            "enroll": 61
           }
         ],
         "schedule": [
@@ -5037,9 +5037,9 @@
     "number": "4000D",
     "code": "BIEN4000D",
     "name": "Introduction to Omics Technologies",
-    "description": "This is an introduction to the now-prevalent technologies for high-throughput bioanalytical methods, commonly known as “omics” technologies – genomics, transcriptomics, proteomics and metabolomics. Fundamental knowledge about the classes of biomolecules and the molecular basis of biological information will be reviewed. The working principles of nucleic acid sequencing platforms and biological mass spectrometry, and the computational workflows for the omics data analysis will be introduced. The applications of these technologies in life science research and clinical practice will be discussed.",
+    "description": "This course is an introduction to the now-prevalent technologies for high-throughput bioanalytical methods, commonly known as “omics” technologies – genomics, transcriptomics, proteomics, and metabolomics. Fundamental knowledge about the different types of biomolecules and their significance in biology will be reviewed. The working principles of nucleic acid sequencing platforms and biological mass spectrometry. Computational workflows for the analysis of omics data will be introduced. The applications of these technologies in life science research and clinical settings will be discussed.",
     "previousCodes": "",
-    "prerequisites": "",
+    "prerequisites": "BIEN 2610 OR LIFS 2210",
     "corequisites": "",
     "exclusions": "",
     "credits": 3,
@@ -13876,7 +13876,7 @@
         "number": "2161",
         "remarks": " ",
         "quota": 125,
-        "enroll": 86,
+        "enroll": 85,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -13928,7 +13928,7 @@
         "number": "2165",
         "remarks": " ",
         "quota": 125,
-        "enroll": 87,
+        "enroll": 88,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -15315,7 +15315,7 @@
         "number": "2228",
         "remarks": " ",
         "quota": 120,
-        "enroll": 60,
+        "enroll": 59,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -15379,7 +15379,7 @@
         "number": "2232",
         "remarks": " ",
         "quota": 110,
-        "enroll": 67,
+        "enroll": 66,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -17791,7 +17791,45 @@
               "HE, Junxian",
               "LI, Mo",
               "MA, Xiaojuan",
-              "WANG, Wei",
+              "WANG, Wei"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "COMP",
+    "number": "4971C",
+    "code": "COMP4971C",
+    "name": "Independent Work",
+    "description": "Independent studies or projects under the directed guidance of a faculty member on a computer science topic. A written report, presentation, and/or an examination are required. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. May be repeated for credits.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4494",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
               "YUAN, Binhang"
             ],
             "venue": "TBA",
@@ -23561,7 +23599,7 @@
         "number": "2601",
         "remarks": " ",
         "quota": 60,
-        "enroll": 46,
+        "enroll": 45,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -23799,7 +23837,7 @@
         "number": "2612",
         "remarks": " ",
         "quota": 60,
-        "enroll": 46,
+        "enroll": 45,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -41377,14 +41415,14 @@
         "number": "1277",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(GO) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 60,
-        "enroll": 34,
+        "enroll": 33,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 60,
-            "enroll": 34
+            "enroll": 33
           }
         ],
         "schedule": [
@@ -41434,14 +41472,14 @@
         "number": "1278",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(GO) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 60,
-        "enroll": 47,
+        "enroll": 48,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 60,
-            "enroll": 47
+            "enroll": 48
           }
         ],
         "schedule": [
@@ -43086,8 +43124,8 @@
         "number": "1301",
         "remarks": "> For MSc(FINA); MSc(FA); MSc(IM); FT-MBA and MBA Exchange students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 64,
-        "enroll": 59,
-        "waitlist": 10,
+        "enroll": 60,
+        "waitlist": 9,
         "consent": false,
         "reservedQuota": [
           {
@@ -43098,7 +43136,7 @@
           {
             "name": "MARK",
             "quota": 2,
-            "enroll": 1
+            "enroll": 2
           },
           {
             "name": "MBA",
@@ -53579,7 +53617,7 @@
         "number": "2853",
         "remarks": "> Classes held in LTB",
         "quota": 21,
-        "enroll": 17,
+        "enroll": 14,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -61675,7 +61713,7 @@
         "number": "3111",
         "remarks": " ",
         "quota": 55,
-        "enroll": 36,
+        "enroll": 35,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -61687,7 +61725,7 @@
           {
             "name": "IS",
             "quota": 38,
-            "enroll": 36
+            "enroll": 35
           }
         ],
         "schedule": [
@@ -61787,7 +61825,7 @@
         "number": "3117",
         "remarks": " ",
         "quota": 40,
-        "enroll": 24,
+        "enroll": 23,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -63927,7 +63965,7 @@
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 03-Apr-2026",
         "quota": 60,
         "enroll": 60,
-        "waitlist": 2,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [
           {
@@ -64079,14 +64117,14 @@
         "number": "1379",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 60,
-        "enroll": 11,
+        "enroll": 10,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ISM",
             "quota": 60,
-            "enroll": 11
+            "enroll": 10
           }
         ],
         "schedule": [
@@ -64362,7 +64400,7 @@
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 73,
         "enroll": 73,
-        "waitlist": 20,
+        "waitlist": 21,
         "consent": false,
         "reservedQuota": [
           {
@@ -66779,7 +66817,7 @@
         "number": "1440",
         "remarks": "> Instructor : ZHANG, Dennis\n> For MSc(ISM) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 60,
-        "enroll": 33,
+        "enroll": 34,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -66806,7 +66844,7 @@
           {
             "name": "ISM",
             "quota": 45,
-            "enroll": 23
+            "enroll": 24
           },
           {
             "name": "MIMT",
@@ -82304,14 +82342,14 @@
         "number": "3512",
         "remarks": " ",
         "quota": 47,
-        "enroll": 47,
+        "enroll": 46,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "SBM",
             "quota": 47,
-            "enroll": 47
+            "enroll": 46
           }
         ],
         "schedule": [
@@ -83924,7 +83962,7 @@
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(GO) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 60,
         "enroll": 60,
-        "waitlist": 13,
+        "waitlist": 12,
         "consent": false,
         "reservedQuota": [
           {
@@ -85729,7 +85767,7 @@
         "number": "3577",
         "remarks": " ",
         "quota": 111,
-        "enroll": 111,
+        "enroll": 110,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -85855,7 +85893,7 @@
         "number": "3584",
         "remarks": " ",
         "quota": 37,
-        "enroll": 38,
+        "enroll": 37,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -86127,7 +86165,7 @@
         "number": "3600",
         "remarks": " ",
         "quota": 120,
-        "enroll": 96,
+        "enroll": 95,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -86845,7 +86883,7 @@
         "number": "3635",
         "remarks": " ",
         "quota": 40,
-        "enroll": 32,
+        "enroll": 31,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -87286,7 +87324,7 @@
         "number": "3652",
         "remarks": " ",
         "quota": 120,
-        "enroll": 80,
+        "enroll": 81,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -87312,7 +87350,7 @@
         "number": "3654",
         "remarks": " ",
         "quota": 40,
-        "enroll": 26,
+        "enroll": 27,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -94378,7 +94416,7 @@
         "number": "3886",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 3; Spring: 3",
         "quota": 72,
-        "enroll": 71,
+        "enroll": 70,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -98845,14 +98883,14 @@
         "number": "1578",
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 48,
-        "enroll": 42,
+        "enroll": 43,
         "waitlist": 6,
         "consent": false,
         "reservedQuota": [
           {
             "name": "Digital MBA",
             "quota": 1,
-            "enroll": 0
+            "enroll": 1
           },
           {
             "name": "MBA",
@@ -99927,7 +99965,7 @@
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 16-May-2026\n> Extended Drop Deadline : 18-May-2026",
         "quota": 57,
         "enroll": 50,
-        "waitlist": 24,
+        "waitlist": 23,
         "consent": false,
         "reservedQuota": [
           {
@@ -107371,7 +107409,7 @@
         "number": "4049",
         "remarks": " ",
         "quota": 22,
-        "enroll": 17,
+        "enroll": 16,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -107396,7 +107434,7 @@
         "number": "4051",
         "remarks": " ",
         "quota": 88,
-        "enroll": 72,
+        "enroll": 71,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -108353,7 +108391,7 @@
         "number": "4079",
         "remarks": " ",
         "quota": 50,
-        "enroll": 28,
+        "enroll": 27,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -108416,7 +108454,7 @@
         "number": "4083",
         "remarks": " ",
         "quota": 10,
-        "enroll": 8,
+        "enroll": 7,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -112400,7 +112438,7 @@
         "remarks": "> Instructor : KEILHACKER, Kurt\n> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 46,
         "enroll": 46,
-        "waitlist": 22,
+        "waitlist": 21,
         "consent": false,
         "reservedQuota": [
           {
@@ -112468,19 +112506,19 @@
         "section": "L1",
         "number": "1694",
         "remarks": "> Instructor : WONG, Dan\n> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 02-Feb-2026",
-        "quota": 55,
+        "quota": 61,
         "enroll": 55,
         "waitlist": 16,
         "consent": false,
         "reservedQuota": [
           {
             "name": "Digital MBA",
-            "quota": 21,
+            "quota": 22,
             "enroll": 21
           },
           {
             "name": "MBA",
-            "quota": 30,
+            "quota": 35,
             "enroll": 30
           },
           {
@@ -112539,8 +112577,8 @@
         "number": "1696",
         "remarks": "> Instructor : DAFFNER, Martin\n> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 43,
-        "enroll": 26,
-        "waitlist": 2,
+        "enroll": 27,
+        "waitlist": 1,
         "consent": false,
         "reservedQuota": [
           {
@@ -112556,7 +112594,7 @@
           {
             "name": "MBA Bi-weekly",
             "quota": 15,
-            "enroll": 6
+            "enroll": 7
           }
         ],
         "schedule": [
