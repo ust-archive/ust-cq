@@ -2345,6 +2345,136 @@
     ]
   },
   {
+    "career": "EXEC",
+    "subject": "IMBA",
+    "number": "5640",
+    "code": "IMBA5640",
+    "name": "Strategy and Organization",
+    "description": "This course uses economic analysis to examine competitive strategy and the design of organizations. The first half of the course focuses on market competition and strategies, while the second half considers the relationships within the firm as well as the boundaries of the firm.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [
+      {
+        "attribute": "MEDI",
+        "value": "PU",
+        "attributeDescription": "Medium of Instruction",
+        "valueDescription": "[PU] Putonghua"
+      },
+      {
+        "attribute": "READ",
+        "value": "C",
+        "attributeDescription": "Reading Material",
+        "valueDescription": "[C] Require Chinese reading"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1112",
+        "remarks": "> Add/Drop Deadline : 8-Nov-2025",
+        "quota": 51,
+        "enroll": 51,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "HUA, Xinyu"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-01-08",
+            "toDate": "2026-01-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "IMBA",
+    "number": "6901D",
+    "code": "IMBA6901D",
+    "name": "Geopolitical Competition and Investment Opportunities",
+    "description": "An executive framework for analyzing how geopolitical competition reshapes the global financial order and investment opportunities—linking developments such as the USD system, sanctions, de-dollarization, and digital currencies/CBDCs to asset prices and market shifts, with a focus on implications for China and Hong Kong.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0.5,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1113",
+        "remarks": "> Add/Drop Deadline : 10-Jan-2026\n> Class Duration/Dates : 10-Jan-2026",
+        "quota": 65,
+        "enroll": 65,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LOU, Dong"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-01-02",
+            "toDate": "2026-01-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "IMBA",
+    "number": "6901E",
+    "code": "IMBA6901E",
+    "name": "Robotics and Embodied AI",
+    "description": "The purpose of this one-day course is to give the EMBA students an overview of the recent trend and progress\nin robotics and embodied AI. The course will first review the fundamental concepts in perception, planning,\nand action in robotics and the hardware and software systems. Then, recent trend on humanoid robots will\nbe emphasized and discussed in the context of generative AI and data-driven perception and planning. The\ncourse will demonstrate key component technologies such as robot hand, robot head, and learning from\ndemonstrations. Based on the knowledge and discussions, students will be asked to design a business plan for\nhumanoid robot applications.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0.5,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1114",
+        "remarks": "> Instructor : ZHANG, Fumin\n> Add/Drop Deadline : 1-Jan-2026\n> Class Duration/Dates : 11-Jan-2026",
+        "quota": 61,
+        "enroll": 61,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-01-02",
+            "toDate": "2026-01-29",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "UGRD",
     "subject": "ISDN",
     "number": "1011",
