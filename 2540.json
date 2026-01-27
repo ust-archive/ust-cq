@@ -775,6 +775,91 @@
   },
   {
     "career": "UGRD",
+    "subject": "CENG",
+    "number": "4950",
+    "code": "CENG4950",
+    "name": "Chem-E-Car",
+    "description": "This course is a platform for entry-level engineer students to participate in Chem-E-car competition, i.e. to design and construct a car powered by a chemical or biochemical energy source that will safely carry a specified load over a given distance and stop. The objective of this course is to develop the ability to control an electrochemical reaction, and to obtain hands-on experience on a practical engineering project, especially in chemical engineering field. Students will be given the opportunity to interact with each other, to integrate the learning experience to design and build a device, and chances to prepare for starting their future career in engineering. It is a student-led project, designed to motivate students for engineers. Graded DI/PA/F. Enrollment in the project course require instructor's approval.",
+    "previousCodes": "CENG4000I",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1200",
+        "remarks": "> Add/Drop Deadline: 20-Jun-2026",
+        "quota": 15,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LUO, Tom Zhengtang"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-08-08",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "LA1",
+        "number": "1202",
+        "remarks": " ",
+        "quota": 15,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LUO, Tom Zhengtang"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-08-08",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "T1",
+        "number": "1201",
+        "remarks": " ",
+        "quota": 15,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LUO, Tom Zhengtang"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-08-08",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
     "subject": "CHEM",
     "number": "1002",
     "code": "CHEM1002",
@@ -5730,6 +5815,66 @@
             "toDate": "2026-07-26",
             "weekdays": [
               7
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MARK",
+    "number": "6901M",
+    "code": "MARK6901M",
+    "name": "Consumer Recruitment & Loyalty Strategy",
+    "description": "This elective explores how brands attract, convert, and retain consumers in a competitive, data-rich environment. It prepares students for roles in brand management, CRM, and digital marketing by blending analytics, insights, and brand strategy. Drawing on real-world experience from Estée Lauder, Kantar, and Nielsen, students will learn how to balance short-term recruitment with long-term loyalty to build sustainable brand growth.\n\nThe course focuses on the full consumer lifecycle—from acquisition to loyalty—and provides students with the real-world tools to build sustainable brand growth, leveraging frameworks used by leading consumer brands.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1199",
+        "remarks": "> Instructor : PABARU, Umang \n> For MSc(MARK) students only\n> Add/Drop Deadline : 16-Jun-2026",
+        "quota": 65,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "MARK",
+            "quota": 65,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 1, 31/F, Tower 1,Millennity",
+            "fromDate": "2026-06-16",
+            "toDate": "2026-07-07",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 1, 31/F, Tower 1,Millennity",
+            "fromDate": "2026-06-16",
+            "toDate": "2026-07-07",
+            "weekdays": [
+              2
             ],
             "fromTime": "14:00",
             "toTime": "17:20"
