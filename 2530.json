@@ -437,13 +437,7 @@
         "enroll": 47,
         "waitlist": 15,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ACCT",
-            "quota": 65,
-            "enroll": 47
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -469,13 +463,7 @@
         "enroll": 68,
         "waitlist": 29,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ACCT",
-            "quota": 65,
-            "enroll": 64
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -501,13 +489,7 @@
         "enroll": 65,
         "waitlist": 11,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ACCT",
-            "quota": 65,
-            "enroll": 65
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -549,13 +531,7 @@
         "enroll": 66,
         "waitlist": 26,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ACCT",
-            "quota": 65,
-            "enroll": 65
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -581,13 +557,7 @@
         "enroll": 65,
         "waitlist": 11,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ACCT",
-            "quota": 65,
-            "enroll": 65
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -613,13 +583,7 @@
         "enroll": 51,
         "waitlist": 12,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ACCT",
-            "quota": 65,
-            "enroll": 51
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -661,13 +625,7 @@
         "enroll": 42,
         "waitlist": 28,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ACCT",
-            "quota": 59,
-            "enroll": 36
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -705,13 +663,7 @@
         "enroll": 66,
         "waitlist": 43,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ACCT",
-            "quota": 65,
-            "enroll": 65
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -753,13 +705,7 @@
         "enroll": 73,
         "waitlist": 11,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ACCT",
-            "quota": 73,
-            "enroll": 73
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -797,13 +743,7 @@
         "enroll": 68,
         "waitlist": 18,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ACCT",
-            "quota": 68,
-            "enroll": 68
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -841,13 +781,7 @@
         "enroll": 68,
         "waitlist": 15,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ACCT",
-            "quota": 68,
-            "enroll": 68
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -901,13 +835,7 @@
         "enroll": 49,
         "waitlist": 8,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ACCT",
-            "quota": 65,
-            "enroll": 49
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -933,13 +861,7 @@
         "enroll": 65,
         "waitlist": 23,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ACCT",
-            "quota": 65,
-            "enroll": 65
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -965,13 +887,7 @@
         "enroll": 66,
         "waitlist": 8,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ACCT",
-            "quota": 65,
-            "enroll": 65
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -1013,13 +929,7 @@
         "enroll": 11,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ACCT",
-            "quota": 65,
-            "enroll": 7
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -3335,7 +3245,7 @@
         "remarks": " ",
         "quota": 40,
         "enroll": 40,
-        "waitlist": 51,
+        "waitlist": 52,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -4194,7 +4104,7 @@
         "remarks": " ",
         "quota": 60,
         "enroll": 45,
-        "waitlist": 4,
+        "waitlist": 5,
         "consent": false,
         "reservedQuota": [
           {
@@ -4240,14 +4150,14 @@
         "number": "1731",
         "remarks": " ",
         "quota": 60,
-        "enroll": 37,
+        "enroll": 38,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BEHI",
             "quota": 60,
-            "enroll": 37
+            "enroll": 38
           }
         ],
         "schedule": [
@@ -4288,7 +4198,7 @@
         "remarks": " ",
         "quota": 60,
         "enroll": 45,
-        "waitlist": 3,
+        "waitlist": 4,
         "consent": false,
         "reservedQuota": [
           {
@@ -4334,14 +4244,14 @@
         "number": "1733",
         "remarks": " ",
         "quota": 65,
-        "enroll": 35,
+        "enroll": 36,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BEHI",
             "quota": 60,
-            "enroll": 31
+            "enroll": 32
           },
           {
             "name": "MCEE",
@@ -4433,14 +4343,14 @@
         "number": "1735",
         "remarks": " ",
         "quota": 65,
-        "enroll": 30,
+        "enroll": 31,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BEHI",
             "quota": 60,
-            "enroll": 27
+            "enroll": 28
           },
           {
             "name": "MCEE",
@@ -8558,7 +8468,7 @@
         "remarks": " ",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 6,
+        "waitlist": 7,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -10887,13 +10797,7 @@
         "enroll": 123,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "CIVL",
-            "quota": 130,
-            "enroll": 123
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -10934,13 +10838,7 @@
         "enroll": 149,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "CIVL",
-            "quota": 170,
-            "enroll": 149
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -11064,7 +10962,7 @@
         "number": "2000",
         "remarks": " ",
         "quota": 150,
-        "enroll": 69,
+        "enroll": 70,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -11199,13 +11097,7 @@
         "enroll": 12,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "CIVL",
-            "quota": 15,
-            "enroll": 12
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -11246,13 +11138,7 @@
         "enroll": 163,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "CIVL",
-            "quota": 180,
-            "enroll": 163
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -11293,13 +11179,7 @@
         "enroll": 87,
         "waitlist": 0,
         "consent": true,
-        "reservedQuota": [
-          {
-            "name": "CIVL",
-            "quota": 90,
-            "enroll": 87
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -11326,13 +11206,7 @@
         "enroll": 74,
         "waitlist": 0,
         "consent": true,
-        "reservedQuota": [
-          {
-            "name": "CIVL",
-            "quota": 90,
-            "enroll": 74
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -11375,13 +11249,7 @@
         "enroll": 33,
         "waitlist": 3,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "CIVL",
-            "quota": 28,
-            "enroll": 28
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -11448,13 +11316,7 @@
         "enroll": 138,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "CIVL",
-            "quota": 180,
-            "enroll": 138
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -11546,13 +11408,7 @@
         "enroll": 161,
         "waitlist": 2,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "CIVL",
-            "quota": 176,
-            "enroll": 154
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -11577,7 +11433,7 @@
         "remarks": " ",
         "quota": 90,
         "enroll": 90,
-        "waitlist": 2,
+        "waitlist": 1,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -11603,7 +11459,7 @@
         "remarks": " ",
         "quota": 90,
         "enroll": 71,
-        "waitlist": 0,
+        "waitlist": 1,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -11647,13 +11503,7 @@
         "enroll": 173,
         "waitlist": 2,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "CIVL",
-            "quota": 176,
-            "enroll": 169
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -11745,13 +11595,7 @@
         "enroll": 145,
         "waitlist": 5,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "CIVL",
-            "quota": 180,
-            "enroll": 138
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -11918,13 +11762,7 @@
         "enroll": 176,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "CIVL",
-            "quota": 180,
-            "enroll": 176
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -11965,13 +11803,7 @@
         "enroll": 159,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "CIVL",
-            "quota": 157,
-            "enroll": 154
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -12063,13 +11895,7 @@
         "enroll": 166,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "CIVL",
-            "quota": 178,
-            "enroll": 164
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -12236,13 +12062,7 @@
         "enroll": 24,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "CIVL",
-            "quota": 30,
-            "enroll": 23
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -12334,13 +12154,7 @@
         "enroll": 160,
         "waitlist": 5,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "CIVL",
-            "quota": 158,
-            "enroll": 155
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -12432,13 +12246,7 @@
         "enroll": 165,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "CIVL",
-            "quota": 178,
-            "enroll": 162
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -12787,18 +12595,7 @@
         "enroll": 47,
         "waitlist": 13,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "CENG",
-            "quota": 15,
-            "enroll": 6
-          },
-          {
-            "name": "CIVL",
-            "quota": 48,
-            "enroll": 39
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -12922,13 +12719,7 @@
         "enroll": 175,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "CIVL",
-            "quota": 170,
-            "enroll": 170
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -12969,13 +12760,7 @@
         "enroll": 2,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "CIVL",
-            "quota": 2,
-            "enroll": 2
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -13462,7 +13247,7 @@
         "number": "1124",
         "remarks": " ",
         "quota": 160,
-        "enroll": 116,
+        "enroll": 115,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -14753,7 +14538,7 @@
         "remarks": " ",
         "quota": 120,
         "enroll": 120,
-        "waitlist": 13,
+        "waitlist": 15,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -14908,13 +14693,7 @@
         "enroll": 175,
         "waitlist": 19,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "CSE",
-            "quota": 180,
-            "enroll": 170
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -15468,13 +15247,7 @@
         "enroll": 86,
         "waitlist": 88,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "CSE",
-            "quota": 85,
-            "enroll": 83
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -17209,13 +16982,7 @@
         "enroll": 63,
         "waitlist": 72,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "CSE",
-            "quota": 55,
-            "enroll": 55
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -24104,13 +23871,7 @@
         "enroll": 85,
         "waitlist": 27,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ECON",
-            "quota": 83,
-            "enroll": 83
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -24189,13 +23950,7 @@
         "enroll": 75,
         "waitlist": 9,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ECON",
-            "quota": 72,
-            "enroll": 72
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -24262,13 +24017,7 @@
         "enroll": 52,
         "waitlist": 2,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ECON",
-            "quota": 52,
-            "enroll": 52
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -24306,13 +24055,7 @@
         "enroll": 50,
         "waitlist": 14,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ECON",
-            "quota": 50,
-            "enroll": 50
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -24404,13 +24147,7 @@
         "enroll": 70,
         "waitlist": 5,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ECON",
-            "quota": 70,
-            "enroll": 70
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -24477,13 +24214,7 @@
         "enroll": 24,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ECON",
-            "quota": 80,
-            "enroll": 23
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -24550,18 +24281,7 @@
         "enroll": 43,
         "waitlist": 28,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ECON",
-            "quota": 13,
-            "enroll": 13
-          },
-          {
-            "name": "FINA",
-            "quota": 32,
-            "enroll": 30
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -24587,18 +24307,7 @@
         "enroll": 41,
         "waitlist": 27,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ECON",
-            "quota": 27,
-            "enroll": 27
-          },
-          {
-            "name": "FINA",
-            "quota": 14,
-            "enroll": 14
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -24690,13 +24399,7 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": true,
-        "reservedQuota": [
-          {
-            "name": "ECON",
-            "quota": 10,
-            "enroll": 0
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -24735,13 +24438,7 @@
         "enroll": 15,
         "waitlist": 12,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ECON",
-            "quota": 50,
-            "enroll": 15
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -24808,13 +24505,7 @@
         "enroll": 50,
         "waitlist": 29,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ECON",
-            "quota": 50,
-            "enroll": 47
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -24881,13 +24572,7 @@
         "enroll": 39,
         "waitlist": 9,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ECON",
-            "quota": 50,
-            "enroll": 39
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -24966,13 +24651,7 @@
         "enroll": 19,
         "waitlist": 13,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ECON",
-            "quota": 50,
-            "enroll": 19
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -25051,13 +24730,7 @@
         "enroll": 31,
         "waitlist": 8,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ECON",
-            "quota": 50,
-            "enroll": 28
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -25124,13 +24797,7 @@
         "enroll": 23,
         "waitlist": 5,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ECON",
-            "quota": 50,
-            "enroll": 23
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -25197,13 +24864,7 @@
         "enroll": 13,
         "waitlist": 8,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ECON",
-            "quota": 50,
-            "enroll": 12
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -25270,13 +24931,7 @@
         "enroll": 42,
         "waitlist": 14,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ECON",
-            "quota": 50,
-            "enroll": 42
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -25343,13 +24998,7 @@
         "enroll": 50,
         "waitlist": 27,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ECON",
-            "quota": 50,
-            "enroll": 49
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -25416,13 +25065,7 @@
         "enroll": 2,
         "waitlist": 6,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ECON",
-            "quota": 50,
-            "enroll": 2
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -25489,13 +25132,7 @@
         "enroll": 20,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ECON",
-            "quota": 30,
-            "enroll": 19
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -25534,13 +25171,7 @@
         "enroll": 3,
         "waitlist": 0,
         "consent": true,
-        "reservedQuota": [
-          {
-            "name": "ECON",
-            "quota": 10,
-            "enroll": 3
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -25579,13 +25210,7 @@
         "enroll": 3,
         "waitlist": 1,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ECON",
-            "quota": 50,
-            "enroll": 3
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -28843,7 +28468,7 @@
         "remarks": " ",
         "quota": 400,
         "enroll": 400,
-        "waitlist": 190,
+        "waitlist": 191,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -28969,7 +28594,7 @@
         "remarks": " ",
         "quota": 87,
         "enroll": 84,
-        "waitlist": 25,
+        "waitlist": 26,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -32170,13 +31795,7 @@
         "enroll": 102,
         "waitlist": 18,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ECE",
-            "quota": 30,
-            "enroll": 15
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -35261,7 +34880,7 @@
         "number": "1204",
         "remarks": " ",
         "quota": 20,
-        "enroll": 6,
+        "enroll": 7,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -37423,15 +37042,9 @@
         "remarks": " ",
         "quota": 120,
         "enroll": 120,
-        "waitlist": 245,
+        "waitlist": 244,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ENVR",
-            "quota": 15,
-            "enroll": 15
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -37502,15 +37115,9 @@
         "remarks": "> The class is delivered in a experiential learning mode",
         "quota": 100,
         "enroll": 100,
-        "waitlist": 83,
+        "waitlist": 82,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ENVR",
-            "quota": 20,
-            "enroll": 20
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -37559,13 +37166,7 @@
         "enroll": 89,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ENVR",
-            "quota": 80,
-            "enroll": 76
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -37715,13 +37316,7 @@
         "enroll": 26,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ENVR",
-            "quota": 25,
-            "enroll": 25
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -37811,13 +37406,7 @@
         "enroll": 31,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ENVR",
-            "quota": 37,
-            "enroll": 28
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -37859,13 +37448,7 @@
         "enroll": 10,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ENVR",
-            "quota": 40,
-            "enroll": 5
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -37907,13 +37490,7 @@
         "enroll": 40,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ENVR",
-            "quota": 50,
-            "enroll": 40
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -37955,13 +37532,7 @@
         "enroll": 60,
         "waitlist": 6,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ENVR",
-            "quota": 54,
-            "enroll": 54
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -38111,13 +37682,7 @@
         "enroll": 39,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ENVR",
-            "quota": 35,
-            "enroll": 33
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -38159,13 +37724,7 @@
         "enroll": 50,
         "waitlist": 19,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ENVR",
-            "quota": 40,
-            "enroll": 40
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -38286,13 +37845,7 @@
         "enroll": 11,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ENVR",
-            "quota": 25,
-            "enroll": 5
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -38333,13 +37886,7 @@
         "enroll": 22,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ENVR",
-            "quota": 40,
-            "enroll": 22
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -40040,7 +39587,7 @@
         "remarks": " ",
         "quota": 100,
         "enroll": 100,
-        "waitlist": 78,
+        "waitlist": 79,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -40084,13 +39631,7 @@
         "enroll": 63,
         "waitlist": 58,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM (minor)",
-            "quota": 25,
-            "enroll": 17
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -40116,13 +39657,7 @@
         "enroll": 54,
         "waitlist": 66,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM (minor)",
-            "quota": 25,
-            "enroll": 7
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -40164,13 +39699,7 @@
         "enroll": 70,
         "waitlist": 20,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 70,
-            "enroll": 70
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -40195,13 +39724,7 @@
         "enroll": 70,
         "waitlist": 61,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 70,
-            "enroll": 70
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -40225,15 +39748,9 @@
         "remarks": " ",
         "quota": 70,
         "enroll": 70,
-        "waitlist": 74,
+        "waitlist": 75,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 70,
-            "enroll": 70
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -40259,13 +39776,7 @@
         "enroll": 70,
         "waitlist": 60,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 70,
-            "enroll": 70
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -40291,13 +39802,7 @@
         "enroll": 61,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 70,
-            "enroll": 61
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -40323,13 +39828,7 @@
         "enroll": 58,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 70,
-            "enroll": 58
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -40367,13 +39866,7 @@
         "enroll": 39,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 70,
-            "enroll": 39
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -40399,13 +39892,7 @@
         "enroll": 59,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 70,
-            "enroll": 59
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -40447,13 +39934,7 @@
         "enroll": 308,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "FINA",
-            "quota": 400,
-            "enroll": 308
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -40492,18 +39973,7 @@
         "enroll": 22,
         "waitlist": 39,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ECON",
-            "quota": 1,
-            "enroll": 5
-          },
-          {
-            "name": "FINA",
-            "quota": 59,
-            "enroll": 17
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -40529,18 +39999,7 @@
         "enroll": 37,
         "waitlist": 37,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ENVR",
-            "quota": 22,
-            "enroll": 20
-          },
-          {
-            "name": "FINA",
-            "quota": 38,
-            "enroll": 15
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -40566,18 +40025,7 @@
         "enroll": 60,
         "waitlist": 64,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ECON",
-            "quota": 32,
-            "enroll": 24
-          },
-          {
-            "name": "FINA",
-            "quota": 28,
-            "enroll": 31
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -40603,13 +40051,7 @@
         "enroll": 33,
         "waitlist": 41,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "FINA",
-            "quota": 60,
-            "enroll": 31
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -40651,13 +40093,7 @@
         "enroll": 78,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "FINA",
-            "quota": 90,
-            "enroll": 78
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -40696,18 +40132,7 @@
         "enroll": 65,
         "waitlist": 69,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ENVR",
-            "quota": 6,
-            "enroll": 5
-          },
-          {
-            "name": "FINA",
-            "quota": 59,
-            "enroll": 60
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -40733,13 +40158,7 @@
         "enroll": 54,
         "waitlist": 34,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "FINA",
-            "quota": 65,
-            "enroll": 54
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -40765,18 +40184,7 @@
         "enroll": 39,
         "waitlist": 33,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ENVR",
-            "quota": 22,
-            "enroll": 22
-          },
-          {
-            "name": "FINA",
-            "quota": 43,
-            "enroll": 16
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -40802,13 +40210,7 @@
         "enroll": 43,
         "waitlist": 39,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "FINA",
-            "quota": 65,
-            "enroll": 41
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -40850,13 +40252,7 @@
         "enroll": 57,
         "waitlist": 51,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "FINA",
-            "quota": 65,
-            "enroll": 57
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -40910,18 +40306,7 @@
         "enroll": 35,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ENVR",
-            "quota": 2,
-            "enroll": 2
-          },
-          {
-            "name": "FINA",
-            "quota": 58,
-            "enroll": 33
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -40946,18 +40331,7 @@
         "enroll": 60,
         "waitlist": 5,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ENVR",
-            "quota": 17,
-            "enroll": 17
-          },
-          {
-            "name": "FINA",
-            "quota": 43,
-            "enroll": 43
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -40982,18 +40356,7 @@
         "enroll": 60,
         "waitlist": 11,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ENVR",
-            "quota": 7,
-            "enroll": 7
-          },
-          {
-            "name": "FINA",
-            "quota": 53,
-            "enroll": 53
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -41034,13 +40397,7 @@
         "enroll": 13,
         "waitlist": 9,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "FINA",
-            "quota": 60,
-            "enroll": 13
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -41080,15 +40437,9 @@
         "remarks": " ",
         "quota": 60,
         "enroll": 30,
-        "waitlist": 8,
+        "waitlist": 9,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "FINA",
-            "quota": 60,
-            "enroll": 30
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -41129,13 +40480,7 @@
         "enroll": 53,
         "waitlist": 15,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "FINA",
-            "quota": 60,
-            "enroll": 53
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -41176,13 +40521,7 @@
         "enroll": 52,
         "waitlist": 27,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "FINA",
-            "quota": 60,
-            "enroll": 52
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -41224,18 +40563,7 @@
         "enroll": 41,
         "waitlist": 3,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ENVR",
-            "quota": 11,
-            "enroll": 11
-          },
-          {
-            "name": "FINA",
-            "quota": 44,
-            "enroll": 22
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -41261,18 +40589,7 @@
         "enroll": 41,
         "waitlist": 6,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ENVR",
-            "quota": 10,
-            "enroll": 10
-          },
-          {
-            "name": "FINA",
-            "quota": 45,
-            "enroll": 26
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -41314,13 +40631,7 @@
         "enroll": 38,
         "waitlist": 7,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "FINA",
-            "quota": 60,
-            "enroll": 38
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -41361,13 +40672,7 @@
         "enroll": 59,
         "waitlist": 31,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "FINA",
-            "quota": 60,
-            "enroll": 58
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -41409,13 +40714,7 @@
         "enroll": 46,
         "waitlist": 22,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "FINA",
-            "quota": 60,
-            "enroll": 46
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -41457,13 +40756,7 @@
         "enroll": 47,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "FINA",
-            "quota": 65,
-            "enroll": 47
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -41504,13 +40797,7 @@
         "enroll": 13,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "FINA",
-            "quota": 60,
-            "enroll": 13
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -49293,7 +48580,7 @@
         "remarks": " ",
         "quota": 100,
         "enroll": 100,
-        "waitlist": 71,
+        "waitlist": 72,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -49357,7 +48644,7 @@
         "remarks": " ",
         "quota": 100,
         "enroll": 100,
-        "waitlist": 71,
+        "waitlist": 72,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -54162,13 +53449,7 @@
         "enroll": 21,
         "waitlist": 4,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "IEDA",
-            "quota": 39,
-            "enroll": 20
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -55030,13 +54311,7 @@
         "enroll": 29,
         "waitlist": 5,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "IEDA",
-            "quota": 20,
-            "enroll": 18
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -55407,7 +54682,7 @@
         "remarks": " ",
         "quota": 20,
         "enroll": 20,
-        "waitlist": 3,
+        "waitlist": 4,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -58071,13 +57346,7 @@
         "enroll": 71,
         "waitlist": 47,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 71,
-            "enroll": 71
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -58103,18 +57372,7 @@
         "enroll": 70,
         "waitlist": 66,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "BIBU",
-            "quota": 10,
-            "enroll": 10
-          },
-          {
-            "name": "SBM",
-            "quota": 60,
-            "enroll": 60
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -58140,13 +57398,7 @@
         "enroll": 70,
         "waitlist": 16,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 70,
-            "enroll": 70
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -58172,18 +57424,7 @@
         "enroll": 69,
         "waitlist": 21,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "BIBU",
-            "quota": 33,
-            "enroll": 31
-          },
-          {
-            "name": "SBM",
-            "quota": 37,
-            "enroll": 38
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -58209,13 +57450,7 @@
         "enroll": 71,
         "waitlist": 34,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 71,
-            "enroll": 71
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -58241,13 +57476,7 @@
         "enroll": 70,
         "waitlist": 40,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 70,
-            "enroll": 70
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -58273,13 +57502,7 @@
         "enroll": 70,
         "waitlist": 16,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 70,
-            "enroll": 70
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -58633,13 +57856,7 @@
         "enroll": 59,
         "waitlist": 32,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 59,
-            "enroll": 59
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -58664,13 +57881,7 @@
         "enroll": 59,
         "waitlist": 21,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 59,
-            "enroll": 58
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -58695,13 +57906,7 @@
         "enroll": 59,
         "waitlist": 12,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 59,
-            "enroll": 59
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -58726,13 +57931,7 @@
         "enroll": 60,
         "waitlist": 27,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 60,
-            "enroll": 60
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -58757,13 +57956,7 @@
         "enroll": 60,
         "waitlist": 8,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 60,
-            "enroll": 60
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -58788,13 +57981,7 @@
         "enroll": 60,
         "waitlist": 16,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 60,
-            "enroll": 60
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -58819,13 +58006,7 @@
         "enroll": 45,
         "waitlist": 23,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 45,
-            "enroll": 45
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -58850,13 +58031,7 @@
         "enroll": 45,
         "waitlist": 17,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 45,
-            "enroll": 45
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -58881,13 +58056,7 @@
         "enroll": 45,
         "waitlist": 10,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 45,
-            "enroll": 45
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -59228,13 +58397,7 @@
         "enroll": 100,
         "waitlist": 5,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 100,
-            "enroll": 100
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -59272,13 +58435,7 @@
         "enroll": 100,
         "waitlist": 39,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 100,
-            "enroll": 100
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -59304,13 +58461,7 @@
         "enroll": 100,
         "waitlist": 92,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 100,
-            "enroll": 99
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -59336,13 +58487,7 @@
         "enroll": 95,
         "waitlist": 24,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 95,
-            "enroll": 95
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -59368,13 +58513,7 @@
         "enroll": 90,
         "waitlist": 14,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 95,
-            "enroll": 89
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -59400,18 +58539,7 @@
         "enroll": 96,
         "waitlist": 7,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "BIBU",
-            "quota": 32,
-            "enroll": 26
-          },
-          {
-            "name": "SBM",
-            "quota": 68,
-            "enroll": 70
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -59453,13 +58581,7 @@
         "enroll": 86,
         "waitlist": 6,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 90,
-            "enroll": 86
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -59484,13 +58606,7 @@
         "enroll": 90,
         "waitlist": 14,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 90,
-            "enroll": 90
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -59515,13 +58631,7 @@
         "enroll": 90,
         "waitlist": 10,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 90,
-            "enroll": 90
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -59546,13 +58656,7 @@
         "enroll": 88,
         "waitlist": 12,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 90,
-            "enroll": 87
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -59577,13 +58681,7 @@
         "enroll": 85,
         "waitlist": 8,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 90,
-            "enroll": 84
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -59608,13 +58706,7 @@
         "enroll": 87,
         "waitlist": 13,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 90,
-            "enroll": 87
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -59880,13 +58972,7 @@
         "enroll": 60,
         "waitlist": 83,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 60,
-            "enroll": 60
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -59912,13 +58998,7 @@
         "enroll": 67,
         "waitlist": 34,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 60,
-            "enroll": 66
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -59944,13 +59024,7 @@
         "enroll": 64,
         "waitlist": 54,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 60,
-            "enroll": 61
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -59976,13 +59050,7 @@
         "enroll": 63,
         "waitlist": 23,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 60,
-            "enroll": 60
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -60008,13 +59076,7 @@
         "enroll": 60,
         "waitlist": 14,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 60,
-            "enroll": 60
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -60052,13 +59114,7 @@
         "enroll": 70,
         "waitlist": 31,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 67,
-            "enroll": 68
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -60084,18 +59140,7 @@
         "enroll": 66,
         "waitlist": 31,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "BIBU",
-            "quota": 17,
-            "enroll": 14
-          },
-          {
-            "name": "SBM",
-            "quota": 49,
-            "enroll": 52
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -60144,13 +59189,7 @@
         "enroll": 40,
         "waitlist": 12,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "IS",
-            "quota": 36,
-            "enroll": 36
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -60227,23 +59266,7 @@
         "enroll": 36,
         "waitlist": 10,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "BIBU",
-            "quota": 1,
-            "enroll": 1
-          },
-          {
-            "name": "IS",
-            "quota": 32,
-            "enroll": 28
-          },
-          {
-            "name": "SBM",
-            "quota": 1,
-            "enroll": 1
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -60336,18 +59359,7 @@
         "enroll": 70,
         "waitlist": 35,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "IS",
-            "quota": 60,
-            "enroll": 60
-          },
-          {
-            "name": "SBM",
-            "quota": 9,
-            "enroll": 9
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -60471,18 +59483,7 @@
         "enroll": 57,
         "waitlist": 42,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "IS",
-            "quota": 50,
-            "enroll": 47
-          },
-          {
-            "name": "SBM",
-            "quota": 10,
-            "enroll": 10
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -60574,23 +59575,7 @@
         "enroll": 58,
         "waitlist": 35,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "FINA",
-            "quota": 25,
-            "enroll": 25
-          },
-          {
-            "name": "IS",
-            "quota": 35,
-            "enroll": 28
-          },
-          {
-            "name": "SBM",
-            "quota": 5,
-            "enroll": 5
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -60701,18 +59686,7 @@
         "enroll": 29,
         "waitlist": 5,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "IS",
-            "quota": 40,
-            "enroll": 19
-          },
-          {
-            "name": "SBM",
-            "quota": 10,
-            "enroll": 10
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -60737,13 +59711,7 @@
         "enroll": 50,
         "waitlist": 28,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "IS",
-            "quota": 50,
-            "enroll": 50
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -60768,18 +59736,7 @@
         "enroll": 50,
         "waitlist": 8,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "IS",
-            "quota": 45,
-            "enroll": 45
-          },
-          {
-            "name": "SBM",
-            "quota": 5,
-            "enroll": 5
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -61012,18 +59969,7 @@
         "enroll": 15,
         "waitlist": 3,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "RMBI",
-            "quota": 5,
-            "enroll": 0
-          },
-          {
-            "name": "SBM",
-            "quota": 40,
-            "enroll": 13
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -61089,18 +60035,7 @@
         "enroll": 9,
         "waitlist": 3,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "IS",
-            "quota": 30,
-            "enroll": 6
-          },
-          {
-            "name": "SBM",
-            "quota": 10,
-            "enroll": 3
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -61167,18 +60102,7 @@
         "enroll": 65,
         "waitlist": 39,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "IS",
-            "quota": 60,
-            "enroll": 60
-          },
-          {
-            "name": "RMBI",
-            "quota": 5,
-            "enroll": 5
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -61204,18 +60128,7 @@
         "enroll": 49,
         "waitlist": 26,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "IS",
-            "quota": 60,
-            "enroll": 47
-          },
-          {
-            "name": "RMBI",
-            "quota": 5,
-            "enroll": 2
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -61280,23 +60193,7 @@
         "enroll": 61,
         "waitlist": 27,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "IS",
-            "quota": 50,
-            "enroll": 47
-          },
-          {
-            "name": "RMBI",
-            "quota": 6,
-            "enroll": 5
-          },
-          {
-            "name": "SBM",
-            "quota": 8,
-            "enroll": 8
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -61338,28 +60235,7 @@
         "enroll": 55,
         "waitlist": 42,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "IS",
-            "quota": 40,
-            "enroll": 36
-          },
-          {
-            "name": "OM",
-            "quota": 6,
-            "enroll": 7
-          },
-          {
-            "name": "QFIN",
-            "quota": 7,
-            "enroll": 5
-          },
-          {
-            "name": "RMBI",
-            "quota": 7,
-            "enroll": 7
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -61385,28 +60261,7 @@
         "enroll": 32,
         "waitlist": 24,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "IS",
-            "quota": 30,
-            "enroll": 8
-          },
-          {
-            "name": "OM",
-            "quota": 10,
-            "enroll": 8
-          },
-          {
-            "name": "QFIN",
-            "quota": 5,
-            "enroll": 5
-          },
-          {
-            "name": "SBM",
-            "quota": 10,
-            "enroll": 6
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -61432,28 +60287,7 @@
         "enroll": 34,
         "waitlist": 25,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "IS",
-            "quota": 32,
-            "enroll": 22
-          },
-          {
-            "name": "OM",
-            "quota": 6,
-            "enroll": 0
-          },
-          {
-            "name": "RMBI",
-            "quota": 10,
-            "enroll": 7
-          },
-          {
-            "name": "SBM",
-            "quota": 10,
-            "enroll": 3
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -61595,28 +60429,7 @@
         "enroll": 55,
         "waitlist": 5,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "IS",
-            "quota": 20,
-            "enroll": 15
-          },
-          {
-            "name": "QFIN",
-            "quota": 13,
-            "enroll": 9
-          },
-          {
-            "name": "RMBI",
-            "quota": 23,
-            "enroll": 22
-          },
-          {
-            "name": "SBM",
-            "quota": 5,
-            "enroll": 5
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -61681,18 +60494,7 @@
         "enroll": 24,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "IS",
-            "quota": 30,
-            "enroll": 19
-          },
-          {
-            "name": "SBM",
-            "quota": 15,
-            "enroll": 3
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -61830,23 +60632,7 @@
         "enroll": 50,
         "waitlist": 21,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ACCT",
-            "quota": 15,
-            "enroll": 14
-          },
-          {
-            "name": "FINA",
-            "quota": 5,
-            "enroll": 5
-          },
-          {
-            "name": "IS",
-            "quota": 40,
-            "enroll": 31
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -61884,23 +60670,7 @@
         "enroll": 59,
         "waitlist": 37,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ACCT",
-            "quota": 9,
-            "enroll": 9
-          },
-          {
-            "name": "IS",
-            "quota": 54,
-            "enroll": 48
-          },
-          {
-            "name": "SBM",
-            "quota": 2,
-            "enroll": 2
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -61926,18 +60696,7 @@
         "enroll": 65,
         "waitlist": 59,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ACCT",
-            "quota": 14,
-            "enroll": 14
-          },
-          {
-            "name": "IS",
-            "quota": 51,
-            "enroll": 51
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -62079,13 +60838,7 @@
         "enroll": 46,
         "waitlist": 15,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "OM",
-            "quota": 44,
-            "enroll": 43
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -62152,13 +60905,7 @@
         "enroll": 46,
         "waitlist": 29,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "OM",
-            "quota": 60,
-            "enroll": 45
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -62196,18 +60943,7 @@
         "enroll": 59,
         "waitlist": 38,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "OM",
-            "quota": 40,
-            "enroll": 40
-          },
-          {
-            "name": "RMBI",
-            "quota": 20,
-            "enroll": 19
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -62299,13 +61035,7 @@
         "enroll": 38,
         "waitlist": 13,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "OM",
-            "quota": 50,
-            "enroll": 38
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -62354,13 +61084,7 @@
         "enroll": 31,
         "waitlist": 7,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "OM",
-            "quota": 36,
-            "enroll": 31
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -62385,13 +61109,7 @@
         "enroll": 23,
         "waitlist": 7,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "OM",
-            "quota": 30,
-            "enroll": 23
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -62464,13 +61182,7 @@
         "enroll": 30,
         "waitlist": 12,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "ENVR",
-            "quota": 34,
-            "enroll": 30
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -62511,23 +61223,7 @@
         "enroll": 60,
         "waitlist": 47,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "IS",
-            "quota": 20,
-            "enroll": 20
-          },
-          {
-            "name": "OM",
-            "quota": 35,
-            "enroll": 35
-          },
-          {
-            "name": "RMBI",
-            "quota": 5,
-            "enroll": 5
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -62553,23 +61249,7 @@
         "enroll": 60,
         "waitlist": 36,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "IS",
-            "quota": 20,
-            "enroll": 20
-          },
-          {
-            "name": "OM",
-            "quota": 35,
-            "enroll": 35
-          },
-          {
-            "name": "RMBI",
-            "quota": 5,
-            "enroll": 5
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -62611,18 +61291,7 @@
         "enroll": 40,
         "waitlist": 8,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "IS",
-            "quota": 31,
-            "enroll": 28
-          },
-          {
-            "name": "SBM",
-            "quota": 11,
-            "enroll": 11
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -62664,18 +61333,7 @@
         "enroll": 48,
         "waitlist": 10,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "IS",
-            "quota": 35,
-            "enroll": 27
-          },
-          {
-            "name": "SBM",
-            "quota": 13,
-            "enroll": 10
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -62717,23 +61375,7 @@
         "enroll": 24,
         "waitlist": 3,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "IS",
-            "quota": 40,
-            "enroll": 12
-          },
-          {
-            "name": "RMBI",
-            "quota": 5,
-            "enroll": 3
-          },
-          {
-            "name": "SBM",
-            "quota": 10,
-            "enroll": 6
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -62774,18 +61416,7 @@
         "enroll": 70,
         "waitlist": 14,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "IS",
-            "quota": 60,
-            "enroll": 59
-          },
-          {
-            "name": "SBM",
-            "quota": 10,
-            "enroll": 10
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -62827,13 +61458,7 @@
         "enroll": 2,
         "waitlist": 0,
         "consent": true,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 15,
-            "enroll": 2
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -62872,18 +61497,7 @@
         "enroll": 54,
         "waitlist": 17,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "OM",
-            "quota": 7,
-            "enroll": 1
-          },
-          {
-            "name": "RMBI",
-            "quota": 47,
-            "enroll": 47
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -62949,23 +61563,7 @@
         "enroll": 23,
         "waitlist": 10,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "OM",
-            "quota": 40,
-            "enroll": 20
-          },
-          {
-            "name": "QFIN",
-            "quota": 5,
-            "enroll": 2
-          },
-          {
-            "name": "RMBI",
-            "quota": 5,
-            "enroll": 1
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -63032,13 +61630,7 @@
         "enroll": 55,
         "waitlist": 22,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "OM",
-            "quota": 53,
-            "enroll": 53
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -63092,13 +61684,7 @@
         "enroll": 25,
         "waitlist": 4,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "OM",
-            "quota": 39,
-            "enroll": 24
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -63140,18 +61726,7 @@
         "enroll": 65,
         "waitlist": 25,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "GBUS",
-            "quota": 15,
-            "enroll": 15
-          },
-          {
-            "name": "OM",
-            "quota": 50,
-            "enroll": 50
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -63193,13 +61768,7 @@
         "enroll": 33,
         "waitlist": 7,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "OM",
-            "quota": 40,
-            "enroll": 33
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -63241,18 +61810,7 @@
         "enroll": 22,
         "waitlist": 4,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "OM",
-            "quota": 40,
-            "enroll": 19
-          },
-          {
-            "name": "RMBI",
-            "quota": 5,
-            "enroll": 3
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -63293,18 +61851,7 @@
         "enroll": 24,
         "waitlist": 11,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "OM",
-            "quota": 35,
-            "enroll": 24
-          },
-          {
-            "name": "RMBI",
-            "quota": 20,
-            "enroll": 0
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -63346,13 +61893,7 @@
         "enroll": 4,
         "waitlist": 0,
         "consent": true,
-        "reservedQuota": [
-          {
-            "name": "OM",
-            "quota": 10,
-            "enroll": 4
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -71083,7 +69624,7 @@
         "number": "3264",
         "remarks": " ",
         "quota": 20,
-        "enroll": 19,
+        "enroll": 20,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -71121,7 +69662,7 @@
         "number": "3265",
         "remarks": " ",
         "quota": 20,
-        "enroll": 14,
+        "enroll": 13,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -82692,13 +81233,7 @@
         "enroll": 47,
         "waitlist": 42,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 47,
-            "enroll": 47
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -82724,13 +81259,7 @@
         "enroll": 47,
         "waitlist": 41,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 47,
-            "enroll": 47
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -82756,13 +81285,7 @@
         "enroll": 47,
         "waitlist": 22,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 47,
-            "enroll": 47
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -82788,13 +81311,7 @@
         "enroll": 47,
         "waitlist": 31,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 47,
-            "enroll": 47
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -82820,13 +81337,7 @@
         "enroll": 47,
         "waitlist": 48,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 47,
-            "enroll": 47
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -82852,13 +81363,7 @@
         "enroll": 47,
         "waitlist": 24,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 47,
-            "enroll": 47
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -82884,13 +81389,7 @@
         "enroll": 47,
         "waitlist": 31,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 47,
-            "enroll": 47
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -82916,13 +81415,7 @@
         "enroll": 47,
         "waitlist": 45,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "SBM",
-            "quota": 47,
-            "enroll": 47
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -82964,13 +81457,7 @@
         "enroll": 48,
         "waitlist": 28,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MARK",
-            "quota": 48,
-            "enroll": 48
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -82996,13 +81483,7 @@
         "enroll": 46,
         "waitlist": 18,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MARK",
-            "quota": 48,
-            "enroll": 46
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -83120,13 +81601,7 @@
         "enroll": 35,
         "waitlist": 16,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MARK",
-            "quota": 35,
-            "enroll": 35
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -83152,13 +81627,7 @@
         "enroll": 35,
         "waitlist": 21,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MARK",
-            "quota": 35,
-            "enroll": 35
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -83282,13 +81751,7 @@
         "enroll": 30,
         "waitlist": 23,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MARK",
-            "quota": 30,
-            "enroll": 30
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -83355,13 +81818,7 @@
         "enroll": 30,
         "waitlist": 11,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MARK",
-            "quota": 30,
-            "enroll": 29
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -83479,13 +81936,7 @@
         "enroll": 30,
         "waitlist": 41,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MARK",
-            "quota": 30,
-            "enroll": 30
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -83511,13 +81962,7 @@
         "enroll": 30,
         "waitlist": 29,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MARK",
-            "quota": 30,
-            "enroll": 30
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -83609,13 +82054,7 @@
         "enroll": 30,
         "waitlist": 23,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MARK",
-            "quota": 30,
-            "enroll": 30
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -83810,13 +82249,7 @@
         "enroll": 45,
         "waitlist": 22,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MARK",
-            "quota": 45,
-            "enroll": 45
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -83842,13 +82275,7 @@
         "enroll": 45,
         "waitlist": 32,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MARK",
-            "quota": 45,
-            "enroll": 45
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -86535,7 +84962,7 @@
         "remarks": " ",
         "quota": 120,
         "enroll": 120,
-        "waitlist": 35,
+        "waitlist": 36,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -87179,7 +85606,7 @@
         "remarks": " ",
         "quota": 40,
         "enroll": 40,
-        "waitlist": 12,
+        "waitlist": 13,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -87904,7 +86331,7 @@
         "remarks": " ",
         "quota": 120,
         "enroll": 114,
-        "waitlist": 15,
+        "waitlist": 16,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -88019,7 +86446,7 @@
         "remarks": " ",
         "quota": 40,
         "enroll": 36,
-        "waitlist": 2,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -88973,13 +87400,7 @@
         "enroll": 28,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MATH",
-            "quota": 30,
-            "enroll": 20
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -89058,13 +87479,7 @@
         "enroll": 66,
         "waitlist": 42,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MATH",
-            "quota": 14,
-            "enroll": 0
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -89168,13 +87583,7 @@
         "enroll": 75,
         "waitlist": 24,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MATH",
-            "quota": 22,
-            "enroll": 17
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -89278,13 +87687,7 @@
         "enroll": 80,
         "waitlist": 22,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MATH",
-            "quota": 40,
-            "enroll": 41
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -89388,13 +87791,7 @@
         "enroll": 76,
         "waitlist": 49,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MATH",
-            "quota": 35,
-            "enroll": 31
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -89420,13 +87817,7 @@
         "enroll": 64,
         "waitlist": 47,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MATH",
-            "quota": 34,
-            "enroll": 18
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -89580,13 +87971,7 @@
         "enroll": 100,
         "waitlist": 39,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MATH",
-            "quota": 37,
-            "enroll": 39
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -89612,13 +87997,7 @@
         "enroll": 88,
         "waitlist": 24,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MATH",
-            "quota": 34,
-            "enroll": 27
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -89760,13 +88139,7 @@
         "enroll": 42,
         "waitlist": 26,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MATH",
-            "quota": 46,
-            "enroll": 28
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -89858,13 +88231,7 @@
         "enroll": 39,
         "waitlist": 20,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MATH",
-            "quota": 31,
-            "enroll": 30
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -89931,13 +88298,7 @@
         "enroll": 62,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MATH",
-            "quota": 54,
-            "enroll": 47
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -90041,13 +88402,7 @@
         "enroll": 38,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MATH",
-            "quota": 24,
-            "enroll": 20
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -90114,13 +88469,7 @@
         "enroll": 53,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MATH",
-            "quota": 32,
-            "enroll": 20
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -90212,13 +88561,7 @@
         "enroll": 90,
         "waitlist": 11,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MATH",
-            "quota": 25,
-            "enroll": 29
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -90310,13 +88653,7 @@
         "enroll": 90,
         "waitlist": 64,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MATH",
-            "quota": 59,
-            "enroll": 59
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -90408,13 +88745,7 @@
         "enroll": 74,
         "waitlist": 10,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MATH",
-            "quota": 38,
-            "enroll": 32
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -90506,13 +88837,7 @@
         "enroll": 89,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MATH",
-            "quota": 14,
-            "enroll": 17
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -90604,13 +88929,7 @@
         "enroll": 30,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MATH",
-            "quota": 30,
-            "enroll": 23
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -90677,13 +88996,7 @@
         "enroll": 40,
         "waitlist": 5,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MATH",
-            "quota": 29,
-            "enroll": 29
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -90762,13 +89075,7 @@
         "enroll": 69,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MATH",
-            "quota": 70,
-            "enroll": 51
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -90860,13 +89167,7 @@
         "enroll": 30,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MATH",
-            "quota": 32,
-            "enroll": 24
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -90933,13 +89234,7 @@
         "enroll": 4,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MATH",
-            "quota": 32,
-            "enroll": 1
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -91018,13 +89313,7 @@
         "enroll": 27,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MATH",
-            "quota": 22,
-            "enroll": 12
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -91091,13 +89380,7 @@
         "enroll": 22,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MATH",
-            "quota": 31,
-            "enroll": 20
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -91164,13 +89447,7 @@
         "enroll": 82,
         "waitlist": 16,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MATH",
-            "quota": 79,
-            "enroll": 51
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -91237,13 +89514,7 @@
         "enroll": 45,
         "waitlist": 3,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MATH",
-            "quota": 23,
-            "enroll": 23
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -91310,13 +89581,7 @@
         "enroll": 42,
         "waitlist": 2,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MATH",
-            "quota": 15,
-            "enroll": 13
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -93683,13 +91948,7 @@
         "enroll": 110,
         "waitlist": 52,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MECH",
-            "quota": 16,
-            "enroll": 28
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -94451,13 +92710,7 @@
         "enroll": 40,
         "waitlist": 5,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MECH",
-            "quota": 3,
-            "enroll": 3
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -94508,13 +92761,7 @@
         "enroll": 34,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MECH",
-            "quota": 5,
-            "enroll": 5
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -97226,7 +95473,7 @@
         "remarks": " ",
         "quota": 60,
         "enroll": 60,
-        "waitlist": 59,
+        "waitlist": 60,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -97494,7 +95741,7 @@
         "remarks": " ",
         "quota": 65,
         "enroll": 65,
-        "waitlist": 21,
+        "waitlist": 20,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -98670,7 +96917,7 @@
         "remarks": " ",
         "quota": 58,
         "enroll": 58,
-        "waitlist": 9,
+        "waitlist": 10,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -98720,7 +96967,7 @@
         "remarks": " ",
         "quota": 58,
         "enroll": 58,
-        "waitlist": 9,
+        "waitlist": 10,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -98784,13 +97031,7 @@
         "enroll": 30,
         "waitlist": 40,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MGMT",
-            "quota": 30,
-            "enroll": 30
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -103555,7 +101796,7 @@
         "number": "1378",
         "remarks": " ",
         "quota": 60,
-        "enroll": 29,
+        "enroll": 30,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -104763,7 +103004,7 @@
         "number": "1611",
         "remarks": " ",
         "quota": 90,
-        "enroll": 58,
+        "enroll": 59,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -106538,7 +104779,7 @@
         "remarks": " ",
         "quota": 130,
         "enroll": 130,
-        "waitlist": 3,
+        "waitlist": 4,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -111598,13 +109839,7 @@
         "enroll": 4,
         "waitlist": 0,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "RMBI",
-            "quota": 15,
-            "enroll": 4
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -114457,28 +112692,7 @@
         "enroll": 14,
         "waitlist": 0,
         "consent": true,
-        "reservedQuota": [
-          {
-            "name": "CHEM",
-            "quota": 6,
-            "enroll": 2
-          },
-          {
-            "name": "MATH",
-            "quota": 6,
-            "enroll": 5
-          },
-          {
-            "name": "OCES",
-            "quota": 6,
-            "enroll": 1
-          },
-          {
-            "name": "PHYS",
-            "quota": 6,
-            "enroll": 2
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
