@@ -4551,6 +4551,128 @@
     ]
   },
   {
+    "career": "TPG",
+    "subject": "ISOM",
+    "number": "6790P",
+    "code": "ISOM6790P",
+    "name": "Blockchain Technology for Business",
+    "description": "This course introduces the core concepts, technical foundations, and business applications of Blockchain Technology. Students examine how blockchain creates value across emerging industries such as FinTech, PropTech, InsurTech, PharmTech, AgriTech, and LogisticsTech. The course covers how cryptocurrencies (e.g., Bitcoin) leverage blockchain protocols to enable decentralized, peer-to-peer (P2P) digital transactions and provides a fundamental understanding of Blockchain mechanics, including smart contracts, consensus, transparency, and immutability. A central focus is placed on smart contracts - their design, prevailing use cases, and technical implementation - and on how they enable automation, trust minimization, and new business and operations models while addressing challenges related to scalability, security, and governance.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1203",
+        "remarks": "> Instructor : SHI, Jim\n> For MSc(GO) students only\n> Add/Drop Deadline : 20-Jul-2026",
+        "quota": 60,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "GO",
+            "quota": 60,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 2001, LSK Bldg",
+            "fromDate": "2026-07-16",
+            "toDate": "2026-07-28",
+            "weekdays": [
+              2,
+              4
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 2001, LSK Bldg",
+            "fromDate": "2026-07-16",
+            "toDate": "2026-07-28",
+            "weekdays": [
+              2,
+              4
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "ISOM",
+    "number": "6790Q",
+    "code": "ISOM6790Q",
+    "name": "Innovations in Financial Services",
+    "description": "This course explores the dynamic landscape of financial services in the modern age, starting with an overview of diverse services and technological advancements. We then delve into broader themes across operational risk management followed by key aspects of AI applications, with a focus on customer service innovations, and then an examination of how blockchain and digital ledger are impacting current financial operations. The course then concludes by introducing quantum computing's potential in financial optimization and balancing innovation with compliance, highlighting fintech's influence on traditional banking.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1204",
+        "remarks": "> Instructor : JOSEPH, Tobin\n> For MSc(GO) students only\n> Add/Drop Deadline : 22-Jun-2026",
+        "quota": 60,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "GO",
+            "quota": 60,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 1003, LSK Bldg (75)",
+            "fromDate": "2026-06-20",
+            "toDate": "2026-07-11",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 1003, LSK Bldg (75)",
+            "fromDate": "2026-06-20",
+            "toDate": "2026-07-11",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "UGRD",
     "subject": "LANG",
     "number": "1130",
