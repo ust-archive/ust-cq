@@ -447,11 +447,11 @@
       {
         "section": "R1",
         "number": "1004",
-        "remarks": "> Add/Drop Deadline : 20-Jun-2026\n> Extended Drop Deadline : 27-Jun-2026",
+        "remarks": "> Enrollment requires approval of the course instructor\n> Add/Drop Deadline : 20-Jun-2026\n> Extended Drop Deadline : 27-Jun-2026",
         "quota": 20,
         "enroll": 0,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [
           {
             "name": "AMCC",
