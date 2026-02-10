@@ -3920,6 +3920,45 @@
   {
     "career": "UGRD",
     "subject": "IEDA",
+    "number": "1901",
+    "code": "IEDA1901",
+    "name": "Industrial Training and Experience",
+    "description": "This course is intended to provide UG students with practical hands-on training in the form of either a full-time internship training or industrial training course in an industrial simulated environment. Students who opt for internship training should complete a full-time internship training for a period of at least 4 weeks in an organization or company recognized by the Department for providing qualified internship training relevant to the industrial engineering and decision analytics. Students must also complete the USTSIEB Safety Training module. For IEDA students in their second year of study or above only. Students should seek approval of the internship coordinator for enrollment in the course. Graded P, PP or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1210",
+        "remarks": "> Add/Drop Deadline: 20-Jun-2026",
+        "quota": 5,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-08-08",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "IEDA",
     "number": "2410",
     "code": "IEDA2410",
     "name": "Introduction to Modern Logistics",
