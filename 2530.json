@@ -32686,7 +32686,7 @@
         "remarks": " ",
         "quota": 80,
         "enroll": 30,
-        "waitlist": -1,
+        "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -38913,14 +38913,14 @@
         "number": "1248",
         "remarks": "> For MPhil/PhD (AES/ESPM) and MSc/PGD (EVSM) students only",
         "quota": 60,
-        "enroll": 28,
+        "enroll": 27,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ENVR",
             "quota": 60,
-            "enroll": 20
+            "enroll": 19
           }
         ],
         "schedule": [
@@ -61659,7 +61659,7 @@
         "remarks": " ",
         "quota": 60,
         "enroll": 60,
-        "waitlist": 3,
+        "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
