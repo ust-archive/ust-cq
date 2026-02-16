@@ -3337,45 +3337,6 @@
     ]
   },
   {
-    "career": "UGRD",
-    "subject": "AMCC",
-    "number": "4900A",
-    "code": "AMCC4900A",
-    "name": "Independent Study in Arts and Machine Creativity",
-    "description": "Independent studies or projects under the directed guidance of a faculty member. Course requirements include readings on the relevant topic and a research or survey project specifically defined for the research topic. Credits assigned depend on the workload and may be repeated if different topics are taken. Enrollment requires approval of the course instructor. Graded P or F.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 1,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "R1",
-        "number": "1906",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
     "career": "TPG",
     "subject": "AMCC",
     "number": "5150",
@@ -8491,31 +8452,6 @@
         ]
       },
       {
-        "section": "LA5",
-        "number": "1962",
-        "remarks": " ",
-        "quota": 15,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "CHEUNG, Man Sing"
-            ],
-            "venue": "Rm 1004, CYT Bldg",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              4
-            ],
-            "fromTime": "10:30",
-            "toTime": "13:20"
-          }
-        ]
-      },
-      {
         "section": "LA6",
         "number": "1963",
         "remarks": " ",
@@ -13194,7 +13130,7 @@
             "instructors": [
               "GHIDAOUI, Mohamed Salah"
             ],
-            "venue": "Rm 5510, Lift 25-26 (30)",
+            "venue": "TBA",
             "fromDate": "2026-02-02",
             "toDate": "2026-05-09",
             "weekdays": [
@@ -18052,7 +17988,6 @@
               "HORNER, Andrew",
               "LI, Xin",
               "OUYANG, Xiaomin",
-              "SANDER, Pedro",
               "SONG, Yangqiu",
               "TSOI, Yau Chat",
               "XIE, Wentao",
@@ -18099,7 +18034,6 @@
               "CHEN, Qifeng",
               "FUNG, Yi R. (May)",
               "LEUNG, Wai Ting",
-              "TANG, Chi Keung",
               "TSOI, Yau Chat",
               "YI, Ke",
               "ZHANG, Nevin Lianwen"
@@ -18660,7 +18594,7 @@
         "number": "1146",
         "remarks": " ",
         "quota": 60,
-        "enroll": 35,
+        "enroll": 34,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -40293,7 +40227,8 @@
         "schedule": [
           {
             "instructors": [
-              "LAFON-VINAIS, Veronique J A"
+              "LAFON-VINAIS, Veronique J A",
+              "LEUNG, Benson"
             ],
             "venue": "Rm 4619, Lift 31-32 (126)",
             "fromDate": "2026-02-02",
@@ -40319,7 +40254,8 @@
         "schedule": [
           {
             "instructors": [
-              "LAFON-VINAIS, Veronique J A"
+              "LAFON-VINAIS, Veronique J A",
+              "LEUNG, Benson"
             ],
             "venue": "Rm 4619, Lift 31-32 (126)",
             "fromDate": "2026-02-02",
@@ -40361,7 +40297,8 @@
         "schedule": [
           {
             "instructors": [
-              "PI, Lynn"
+              "PI, Lynn",
+              "TO, Kwok Wing"
             ],
             "venue": "Rm 1007, LSK Bldg (80)",
             "fromDate": "2026-02-02",
@@ -40387,7 +40324,8 @@
         "schedule": [
           {
             "instructors": [
-              "PI, Lynn"
+              "PI, Lynn",
+              "TO, Kwok Wing"
             ],
             "venue": "Rm 1007, LSK Bldg (80)",
             "fromDate": "2026-02-02",
@@ -40429,7 +40367,8 @@
         "schedule": [
           {
             "instructors": [
-              "MAK, Vincent"
+              "MAK, Vincent",
+              "WANG, Bingyi"
             ],
             "venue": "Rm 2503, Lift 25-26 (87)",
             "fromDate": "2026-02-02",
@@ -40454,7 +40393,8 @@
         "schedule": [
           {
             "instructors": [
-              "BISETTI, Emilio"
+              "BISETTI, Emilio",
+              "CHUNG, Otto"
             ],
             "venue": "Rm 2503, Lift 25-26 (87)",
             "fromDate": "2026-02-02",
@@ -40480,7 +40420,8 @@
         "schedule": [
           {
             "instructors": [
-              "BISETTI, Emilio"
+              "BISETTI, Emilio",
+              "CHUNG, Otto"
             ],
             "venue": "Rm 2503, Lift 25-26 (87)",
             "fromDate": "2026-02-02",
@@ -40506,7 +40447,8 @@
         "schedule": [
           {
             "instructors": [
-              "BISETTI, Emilio"
+              "BISETTI, Emilio",
+              "CHUNG, Otto"
             ],
             "venue": "Rm 2503, Lift 25-26 (87)",
             "fromDate": "2026-02-02",
@@ -40532,7 +40474,8 @@
         "schedule": [
           {
             "instructors": [
-              "MACKAY, Peter"
+              "MACKAY, Peter",
+              "SHENG, Xiaokang"
             ],
             "venue": "G012, LSK Bldg (199)",
             "fromDate": "2026-02-02",
@@ -40558,7 +40501,8 @@
         "schedule": [
           {
             "instructors": [
-              "MACKAY, Peter"
+              "MACKAY, Peter",
+              "XIE, Yu"
             ],
             "venue": "G012, LSK Bldg (199)",
             "fromDate": "2026-02-02",
@@ -40571,7 +40515,8 @@
           },
           {
             "instructors": [
-              "MACKAY, Peter"
+              "MACKAY, Peter",
+              "XIE, Yu"
             ],
             "venue": "G012, LSK Bldg (199)",
             "fromDate": "2026-02-02",
@@ -40596,7 +40541,8 @@
         "schedule": [
           {
             "instructors": [
-              "MACKAY, Peter"
+              "MACKAY, Peter",
+              "SHENG, Xiaokang"
             ],
             "venue": "G012, LSK Bldg (199)",
             "fromDate": "2026-02-02",
@@ -40622,7 +40568,8 @@
         "schedule": [
           {
             "instructors": [
-              "MACKAY, Peter"
+              "MACKAY, Peter",
+              "XIE, Yu"
             ],
             "venue": "G012, LSK Bldg (199)",
             "fromDate": "2026-02-02",
@@ -40664,7 +40611,8 @@
         "schedule": [
           {
             "instructors": [
-              "PI, Lynn"
+              "PI, Lynn",
+              "TO, Kwok Wing"
             ],
             "venue": "TBA",
             "fromDate": "2026-02-02",
@@ -40703,7 +40651,8 @@
         "schedule": [
           {
             "instructors": [
-              "BHATTACHARYA, Utpal"
+              "BHATTACHARYA, Utpal",
+              "XIE, Yu"
             ],
             "venue": "Rm 1009, LSK Bldg (80)",
             "fromDate": "2026-02-02",
@@ -40729,7 +40678,8 @@
         "schedule": [
           {
             "instructors": [
-              "BHATTACHARYA, Utpal"
+              "BHATTACHARYA, Utpal",
+              "XIE, Yu"
             ],
             "venue": "G009B, CYT Bldg (70)",
             "fromDate": "2026-02-02",
@@ -40755,6 +40705,7 @@
         "schedule": [
           {
             "instructors": [
+              "LEUNG, Benson",
               "NOH, Don"
             ],
             "venue": "Rm 1011, LSK Bldg (80)",
@@ -40781,6 +40732,7 @@
         "schedule": [
           {
             "instructors": [
+              "CHAU, Yuet Ning",
               "NOH, Don"
             ],
             "venue": "Rm 2304, Lift 17-18 (76)",
@@ -40823,6 +40775,7 @@
         "schedule": [
           {
             "instructors": [
+              "NG, Wing Lun",
               "SAENYASIRI, Ekkachai"
             ],
             "venue": "TBA",
@@ -40862,6 +40815,7 @@
         "schedule": [
           {
             "instructors": [
+              "CHOI, C.K. Katy",
               "JI, Yan"
             ],
             "venue": "Rm 1034, LSK Bldg (80)",
@@ -40888,6 +40842,7 @@
         "schedule": [
           {
             "instructors": [
+              "CHOI, C.K. Katy",
               "TIAN, Di"
             ],
             "venue": "Rm 2304, Lift 17-18 (76)",
@@ -40914,6 +40869,7 @@
         "schedule": [
           {
             "instructors": [
+              "CHOI, C.K. Katy",
               "TIAN, Di"
             ],
             "venue": "Rm 2304, Lift 17-18 (76)",
@@ -40940,6 +40896,7 @@
         "schedule": [
           {
             "instructors": [
+              "CHOI, C.K. Katy",
               "TIAN, Di"
             ],
             "venue": "Rm 2304, Lift 17-18 (76)",
@@ -40982,6 +40939,7 @@
         "schedule": [
           {
             "instructors": [
+              "LAM, SW",
               "SAENYASIRI, Ekkachai"
             ],
             "venue": "Rm 1005, LSK Bldg (75)",
@@ -40995,6 +40953,7 @@
           },
           {
             "instructors": [
+              "LAM, SW",
               "SAENYASIRI, Ekkachai"
             ],
             "venue": "Rm 1005, LSK Bldg (75)",
@@ -41127,7 +41086,8 @@
         "schedule": [
           {
             "instructors": [
-              "PI, Lynn"
+              "PI, Lynn",
+              "TO, Kwok Wing"
             ],
             "venue": "LG3009, Lift 10-12 (88)",
             "fromDate": "2026-02-02",
@@ -41169,6 +41129,7 @@
         "schedule": [
           {
             "instructors": [
+              "CHOI, C.K. Katy",
               "MAK, Vincent"
             ],
             "venue": "Rm 1014, LSK Bldg (80)",
@@ -41210,7 +41171,8 @@
         "schedule": [
           {
             "instructors": [
-              "LAI, Marvin"
+              "LAI, Marvin",
+              "NG, Wing Lun"
             ],
             "venue": "Lecture Theater H (72)",
             "fromDate": "2026-02-02",
@@ -41251,6 +41213,7 @@
         "schedule": [
           {
             "instructors": [
+              "GENG, Qian",
               "PENG, Qian"
             ],
             "venue": "Rm 1005, LSK Bldg (75)",
@@ -41293,7 +41256,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHANG, Briana"
+              "CHANG, Briana",
+              "YOU, Jing"
             ],
             "venue": "G009B, CYT Bldg (70)",
             "fromDate": "2026-02-02",
@@ -41319,7 +41283,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHANG, Briana"
+              "CHANG, Briana",
+              "CHUNG, Otto"
             ],
             "venue": "Rm 1005, LSK Bldg (75)",
             "fromDate": "2026-02-02",
@@ -41361,7 +41326,8 @@
         "schedule": [
           {
             "instructors": [
-              "LAI, Marvin"
+              "LAI, Marvin",
+              "SUN, Yangfan"
             ],
             "venue": "Rm 1034, LSK Bldg (80)",
             "fromDate": "2026-02-02",
@@ -41402,6 +41368,7 @@
         "schedule": [
           {
             "instructors": [
+              "CHAU, Yuet Ning",
               "NOH, Don"
             ],
             "venue": "Rm 1011, LSK Bldg (80)",
@@ -41444,6 +41411,7 @@
         "schedule": [
           {
             "instructors": [
+              "SINGH, Gurmukh",
               "YEGEN, Eyub"
             ],
             "venue": "Rm 1011, LSK Bldg (80)",
@@ -41486,7 +41454,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHIU, Chun Wah Andrew"
+              "CHIU, Chun Wah Andrew",
+              "LAM, SW"
             ],
             "venue": "Rm 1001, LSK Bldg (75)",
             "fromDate": "2026-02-02",
@@ -41527,7 +41496,8 @@
         "schedule": [
           {
             "instructors": [
-              "FOK, Jessie Agnes Chung Sze"
+              "FOK, Jessie Agnes Chung Sze",
+              "FUNG, Ho Fai"
             ],
             "venue": "LG5202, Lift 10-12 (104)",
             "fromDate": "2026-02-02",
@@ -41584,7 +41554,8 @@
         "schedule": [
           {
             "instructors": [
-              "JIN, Shawn"
+              "JIN, Shawn",
+              "YUAN, Xuzhi"
             ],
             "venue": "Rm 1007, LSK Bldg (80)",
             "fromDate": "2026-01-31",
@@ -41597,7 +41568,8 @@
           },
           {
             "instructors": [
-              "JIN, Shawn"
+              "JIN, Shawn",
+              "YUAN, Xuzhi"
             ],
             "venue": "Rm 1007, LSK Bldg (80)",
             "fromDate": "2026-02-28",
@@ -41651,6 +41623,7 @@
         "schedule": [
           {
             "instructors": [
+              "LAM, SW",
               "SAENYASIRI, Ekkachai"
             ],
             "venue": "Rm 2, 31/F, Tower 1,Millennity",
@@ -41664,6 +41637,7 @@
           },
           {
             "instructors": [
+              "LAM, SW",
               "SAENYASIRI, Ekkachai"
             ],
             "venue": "Rm 2, 31/F, Tower 1,Millennity",
@@ -41677,6 +41651,7 @@
           },
           {
             "instructors": [
+              "LAM, SW",
               "SAENYASIRI, Ekkachai"
             ],
             "venue": "Rm 2, 31/F, Tower 1,Millennity",
@@ -41713,6 +41688,7 @@
         "schedule": [
           {
             "instructors": [
+              "LAM, SW",
               "SAENYASIRI, Ekkachai"
             ],
             "venue": "Rm 2, 31/F, Tower 1,Millennity",
@@ -41726,6 +41702,7 @@
           },
           {
             "instructors": [
+              "LAM, SW",
               "SAENYASIRI, Ekkachai"
             ],
             "venue": "Rm 2, 31/F, Tower 1,Millennity",
@@ -41739,6 +41716,7 @@
           },
           {
             "instructors": [
+              "LAM, SW",
               "SAENYASIRI, Ekkachai"
             ],
             "venue": "Rm 1, 31/F, Tower 1,Millennity",
@@ -41775,7 +41753,8 @@
         "schedule": [
           {
             "instructors": [
-              "LAFON-VINAIS, Veronique J A"
+              "LAFON-VINAIS, Veronique J A",
+              "LEUNG, Benson"
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-01-29",
@@ -41788,7 +41767,8 @@
           },
           {
             "instructors": [
-              "LAFON-VINAIS, Veronique J A"
+              "LAFON-VINAIS, Veronique J A",
+              "LEUNG, Benson"
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-02-26",
@@ -41819,6 +41799,7 @@
         "schedule": [
           {
             "instructors": [
+              "LAM, SW",
               "SAENYASIRI, Ekkachai"
             ],
             "venue": "Rm 2003, LSK Bldg",
@@ -41832,6 +41813,7 @@
           },
           {
             "instructors": [
+              "LAM, SW",
               "SAENYASIRI, Ekkachai"
             ],
             "venue": "Rm 2003, LSK Bldg",
@@ -41863,6 +41845,7 @@
         "schedule": [
           {
             "instructors": [
+              "LAM, SW",
               "SAENYASIRI, Ekkachai"
             ],
             "venue": "Rm 2001, LSK Bldg",
@@ -41876,6 +41859,7 @@
           },
           {
             "instructors": [
+              "LAM, SW",
               "SAENYASIRI, Ekkachai"
             ],
             "venue": "Rm 2001, LSK Bldg",
@@ -41889,6 +41873,7 @@
           },
           {
             "instructors": [
+              "LAM, SW",
               "SAENYASIRI, Ekkachai"
             ],
             "venue": "Rm 2001, LSK Bldg",
@@ -41902,6 +41887,7 @@
           },
           {
             "instructors": [
+              "LAM, SW",
               "SAENYASIRI, Ekkachai"
             ],
             "venue": "Rm 2001, LSK Bldg",
@@ -41915,6 +41901,7 @@
           },
           {
             "instructors": [
+              "LAM, SW",
               "SAENYASIRI, Ekkachai"
             ],
             "venue": "Rm 2001, LSK Bldg",
@@ -41928,6 +41915,7 @@
           },
           {
             "instructors": [
+              "LAM, SW",
               "SAENYASIRI, Ekkachai"
             ],
             "venue": "Rm 2001, LSK Bldg",
@@ -41941,6 +41929,7 @@
           },
           {
             "instructors": [
+              "LAM, SW",
               "SAENYASIRI, Ekkachai"
             ],
             "venue": "Rm 2001, LSK Bldg",
@@ -41954,6 +41943,7 @@
           },
           {
             "instructors": [
+              "LAM, SW",
               "SAENYASIRI, Ekkachai"
             ],
             "venue": "Rm 2001, LSK Bldg",
@@ -42006,7 +41996,8 @@
         "schedule": [
           {
             "instructors": [
-              "MACKAY, Peter"
+              "MACKAY, Peter",
+              "SHENG, Xiaokang"
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-01-28",
@@ -42053,7 +42044,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHANG, Briana"
+              "CHANG, Briana",
+              "CHUNG, Otto"
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-01-26",
@@ -42066,7 +42058,8 @@
           },
           {
             "instructors": [
-              "CHANG, Briana"
+              "CHANG, Briana",
+              "CHUNG, Otto"
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-02-23",
@@ -42097,7 +42090,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHANG, Briana"
+              "CHANG, Briana",
+              "YOU, Jing"
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-03-31",
@@ -42169,7 +42163,8 @@
         "schedule": [
           {
             "instructors": [
-              "TANG, Bo"
+              "TANG, Bo",
+              "WANG, Bingyi"
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-01-29",
@@ -42182,7 +42177,8 @@
           },
           {
             "instructors": [
-              "TANG, Bo"
+              "TANG, Bo",
+              "WANG, Bingyi"
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-02-26",
@@ -42223,7 +42219,8 @@
         "schedule": [
           {
             "instructors": [
-              "HUANG, Seth"
+              "HUANG, Seth",
+              "WEN, Xudong"
             ],
             "venue": "Rm 2, 30/F, Tower 1,Millennity",
             "fromDate": "2026-04-09",
@@ -42280,7 +42277,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHAN, Hilton Kwok Hung"
+              "CHAN, Hilton Kwok Hung",
+              "FUNG, Ho Fai"
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-04-02",
@@ -42327,7 +42325,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "LEUNG, Benson"
             ],
             "venue": "Rm 3, 31/F, Tower 1,Millennity",
             "fromDate": "2026-04-08",
@@ -42340,7 +42338,7 @@
           },
           {
             "instructors": [
-              "TBA"
+              "LEUNG, Benson"
             ],
             "venue": "Rm 3, 31/F, Tower 1,Millennity",
             "fromDate": "2026-04-10",
@@ -42353,7 +42351,7 @@
           },
           {
             "instructors": [
-              "TBA"
+              "LEUNG, Benson"
             ],
             "venue": "Rm 3, 31/F, Tower 1,Millennity",
             "fromDate": "2026-05-08",
@@ -42410,6 +42408,7 @@
         "schedule": [
           {
             "instructors": [
+              "CHOI, C.K. Katy",
               "FRANKLIN, Laurence Craig"
             ],
             "venue": "TBA",
@@ -42423,6 +42422,7 @@
           },
           {
             "instructors": [
+              "CHOI, C.K. Katy",
               "FRANKLIN, Laurence Craig"
             ],
             "venue": "TBA",
@@ -42470,7 +42470,8 @@
         "schedule": [
           {
             "instructors": [
-              "BHATTACHARYA, Utpal"
+              "BHATTACHARYA, Utpal",
+              "XIE, Yu"
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-04-01",
@@ -42517,7 +42518,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "FUNG, Ho Fai"
             ],
             "venue": "Rm 1003, LSK Bldg (75)",
             "fromDate": "2026-03-29",
@@ -42530,7 +42531,7 @@
           },
           {
             "instructors": [
-              "TBA"
+              "FUNG, Ho Fai"
             ],
             "venue": "Rm 1003, LSK Bldg (75)",
             "fromDate": "2026-04-12",
@@ -42582,7 +42583,8 @@
         "schedule": [
           {
             "instructors": [
-              "LHABITANT, Francois-Serge"
+              "LHABITANT, Francois-Serge",
+              "RANA, Gobin"
             ],
             "venue": "Rm 3, 31/F, Tower 1,Millennity",
             "fromDate": "2026-01-26",
@@ -42595,7 +42597,8 @@
           },
           {
             "instructors": [
-              "LHABITANT, Francois-Serge"
+              "LHABITANT, Francois-Serge",
+              "RANA, Gobin"
             ],
             "venue": "Rm 3, 31/F, Tower 1,Millennity",
             "fromDate": "2026-02-23",
@@ -42636,7 +42639,8 @@
         "schedule": [
           {
             "instructors": [
-              "LHABITANT, Francois-Serge"
+              "LHABITANT, Francois-Serge",
+              "RANA, Gobin"
             ],
             "venue": "Rm 2, 31/F, Tower 1,Millennity",
             "fromDate": "2026-01-30",
@@ -42649,7 +42653,8 @@
           },
           {
             "instructors": [
-              "LHABITANT, Francois-Serge"
+              "LHABITANT, Francois-Serge",
+              "RANA, Gobin"
             ],
             "venue": "Rm 2, 31/F, Tower 1,Millennity",
             "fromDate": "2026-02-27",
@@ -42696,7 +42701,8 @@
         "schedule": [
           {
             "instructors": [
-              "LAI, Marvin"
+              "LAI, Marvin",
+              "NG, Wing Lun"
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-01-28",
@@ -42709,7 +42715,8 @@
           },
           {
             "instructors": [
-              "LAI, Marvin"
+              "LAI, Marvin",
+              "NG, Wing Lun"
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-02-25",
@@ -42756,7 +42763,8 @@
         "schedule": [
           {
             "instructors": [
-              "LHABITANT, Francois-Serge"
+              "LHABITANT, Francois-Serge",
+              "RANA, Gobin"
             ],
             "venue": "Rm 3, 31/F, Tower 1,Millennity",
             "fromDate": "2026-01-27",
@@ -42769,7 +42777,8 @@
           },
           {
             "instructors": [
-              "LHABITANT, Francois-Serge"
+              "LHABITANT, Francois-Serge",
+              "RANA, Gobin"
             ],
             "venue": "Rm 3, 31/F, Tower 1,Millennity",
             "fromDate": "2026-02-24",
@@ -42816,7 +42825,8 @@
         "schedule": [
           {
             "instructors": [
-              "LAI, Marvin"
+              "LAI, Marvin",
+              "NG, Wing Lun"
             ],
             "venue": "Rm 1007, LSK Bldg (80)",
             "fromDate": "2026-04-11",
@@ -42829,7 +42839,8 @@
           },
           {
             "instructors": [
-              "LAI, Marvin"
+              "LAI, Marvin",
+              "NG, Wing Lun"
             ],
             "venue": "Rm 1003, LSK Bldg (75)",
             "fromDate": "2026-04-12",
@@ -42842,7 +42853,8 @@
           },
           {
             "instructors": [
-              "LAI, Marvin"
+              "LAI, Marvin",
+              "NG, Wing Lun"
             ],
             "venue": "Rm 1007, LSK Bldg (80)",
             "fromDate": "2026-04-18",
@@ -42855,7 +42867,8 @@
           },
           {
             "instructors": [
-              "LAI, Marvin"
+              "LAI, Marvin",
+              "NG, Wing Lun"
             ],
             "venue": "Rm 1003, LSK Bldg (75)",
             "fromDate": "2026-04-19",
@@ -42868,7 +42881,8 @@
           },
           {
             "instructors": [
-              "LAI, Marvin"
+              "LAI, Marvin",
+              "NG, Wing Lun"
             ],
             "venue": "Rm 1007, LSK Bldg (80)",
             "fromDate": "2026-04-25",
@@ -42881,7 +42895,8 @@
           },
           {
             "instructors": [
-              "LAI, Marvin"
+              "LAI, Marvin",
+              "NG, Wing Lun"
             ],
             "venue": "Rm 1003, LSK Bldg (75)",
             "fromDate": "2026-04-26",
@@ -42894,7 +42909,8 @@
           },
           {
             "instructors": [
-              "LAI, Marvin"
+              "LAI, Marvin",
+              "NG, Wing Lun"
             ],
             "venue": "Rm 1007, LSK Bldg (80)",
             "fromDate": "2026-05-02",
@@ -42907,7 +42923,8 @@
           },
           {
             "instructors": [
-              "LAI, Marvin"
+              "LAI, Marvin",
+              "NG, Wing Lun"
             ],
             "venue": "Rm 1003, LSK Bldg (75)",
             "fromDate": "2026-05-03",
@@ -42954,6 +42971,7 @@
         "schedule": [
           {
             "instructors": [
+              "GENG, Qian",
               "ZHANG, James"
             ],
             "venue": "Rm 1003, LSK Bldg (75)",
@@ -42967,6 +42985,7 @@
           },
           {
             "instructors": [
+              "GENG, Qian",
               "ZHANG, James"
             ],
             "venue": "Rm 1003, LSK Bldg (75)",
@@ -43014,6 +43033,7 @@
         "schedule": [
           {
             "instructors": [
+              "CHAU, Yuet Ning",
               "NG, Wing Chung Vincent"
             ],
             "venue": "Rm 1001, LSK Bldg (75)",
@@ -43027,6 +43047,7 @@
           },
           {
             "instructors": [
+              "CHAU, Yuet Ning",
               "NG, Wing Chung Vincent"
             ],
             "venue": "Rm 2003, LSK Bldg",
@@ -43040,6 +43061,7 @@
           },
           {
             "instructors": [
+              "CHAU, Yuet Ning",
               "NG, Wing Chung Vincent"
             ],
             "venue": "Rm 1001, LSK Bldg (75)",
@@ -43092,6 +43114,7 @@
         "schedule": [
           {
             "instructors": [
+              "LEUNG, Benson",
               "ZHOU, Shelley"
             ],
             "venue": "Rm 1003, LSK Bldg (75)",
@@ -43105,6 +43128,7 @@
           },
           {
             "instructors": [
+              "LEUNG, Benson",
               "ZHOU, Shelley"
             ],
             "venue": "Rm 1003, LSK Bldg (75)",
@@ -43152,6 +43176,7 @@
         "schedule": [
           {
             "instructors": [
+              "FUNG, Ho Fai",
               "HO, Ho Ming Stan"
             ],
             "venue": "Rm 3, 31/F, Tower 1,Millennity",
@@ -43165,6 +43190,7 @@
           },
           {
             "instructors": [
+              "FUNG, Ho Fai",
               "HO, Ho Ming Stan"
             ],
             "venue": "Rm 3, 31/F, Tower 1,Millennity",
@@ -43217,7 +43243,8 @@
         "schedule": [
           {
             "instructors": [
-              "QIAO, Joe (Xi)"
+              "QIAO, Joe (Xi)",
+              "RANA, Gobin"
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-01-29",
@@ -43230,7 +43257,8 @@
           },
           {
             "instructors": [
-              "QIAO, Joe (Xi)"
+              "QIAO, Joe (Xi)",
+              "RANA, Gobin"
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-02-26",
@@ -43243,7 +43271,8 @@
           },
           {
             "instructors": [
-              "QIAO, Joe (Xi)"
+              "QIAO, Joe (Xi)",
+              "RANA, Gobin"
             ],
             "venue": "G001, LSK Bldg (75)",
             "fromDate": "2026-03-26",
@@ -43305,7 +43334,8 @@
         "schedule": [
           {
             "instructors": [
-              "PENG, Qian"
+              "PENG, Qian",
+              "SHENG, Xiaokang"
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-03-31",
@@ -43352,6 +43382,7 @@
         "schedule": [
           {
             "instructors": [
+              "SINGH, Gurmukh",
               "YEGEN, Eyub"
             ],
             "venue": "Rm 2001, LSK Bldg",
@@ -43365,6 +43396,7 @@
           },
           {
             "instructors": [
+              "SINGH, Gurmukh",
               "YEGEN, Eyub"
             ],
             "venue": "Rm 2001, LSK Bldg",
@@ -43412,7 +43444,8 @@
         "schedule": [
           {
             "instructors": [
-              "HO, Ho Ming Stan"
+              "HO, Ho Ming Stan",
+              "RANA, Gobin"
             ],
             "venue": "Rm 3, 31/F, Tower 1,Millennity",
             "fromDate": "2026-04-01",
@@ -43425,7 +43458,8 @@
           },
           {
             "instructors": [
-              "HO, Ho Ming Stan"
+              "HO, Ho Ming Stan",
+              "RANA, Gobin"
             ],
             "venue": "Rm 3, 31/F, Tower 1,Millennity",
             "fromDate": "2026-05-08",
@@ -43438,7 +43472,8 @@
           },
           {
             "instructors": [
-              "HO, Ho Ming Stan"
+              "HO, Ho Ming Stan",
+              "RANA, Gobin"
             ],
             "venue": "Rm 3, 31/F, Tower 1,Millennity",
             "fromDate": "2026-04-10",
@@ -43593,6 +43628,7 @@
         "schedule": [
           {
             "instructors": [
+              "FUNG, Ho Fai",
               "WANG, Leping"
             ],
             "venue": "Rm 1003, LSK Bldg (75)",
@@ -43655,6 +43691,7 @@
         "schedule": [
           {
             "instructors": [
+              "FUNG, Ho Fai",
               "TANG, Alfred Koon Him"
             ],
             "venue": "Rm 3, 31/F, Tower 1,Millennity",
@@ -43702,6 +43739,7 @@
         "schedule": [
           {
             "instructors": [
+              "GENG, Qian",
               "LAW, Keith"
             ],
             "venue": "Rm 3, 31/F, Tower 1,Millennity",
@@ -43749,6 +43787,7 @@
         "schedule": [
           {
             "instructors": [
+              "LAM, SW",
               "PEREIRA, Kevin"
             ],
             "venue": "Rm 2001, LSK Bldg",
@@ -43762,6 +43801,7 @@
           },
           {
             "instructors": [
+              "LAM, SW",
               "PEREIRA, Kevin"
             ],
             "venue": "Rm 2003, LSK Bldg",
@@ -43775,6 +43815,7 @@
           },
           {
             "instructors": [
+              "LAM, SW",
               "PEREIRA, Kevin"
             ],
             "venue": "Rm 2001, LSK Bldg",
@@ -43788,6 +43829,7 @@
           },
           {
             "instructors": [
+              "LAM, SW",
               "PEREIRA, Kevin"
             ],
             "venue": "Rm 2001, LSK Bldg",
@@ -43835,7 +43877,8 @@
         "schedule": [
           {
             "instructors": [
-              "KWOK, Anson"
+              "KWOK, Anson",
+              "RANA, Gobin"
             ],
             "venue": "Rm 1005, LSK Bldg (75)",
             "fromDate": "2026-01-25",
@@ -43848,7 +43891,8 @@
           },
           {
             "instructors": [
-              "KWOK, Anson"
+              "KWOK, Anson",
+              "RANA, Gobin"
             ],
             "venue": "Rm 1005, LSK Bldg (75)",
             "fromDate": "2026-02-22",
@@ -43900,7 +43944,8 @@
         "schedule": [
           {
             "instructors": [
-              "BEDFORD, Charles E."
+              "BEDFORD, Charles E.",
+              "GENG, Qian"
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-04-02",
@@ -43957,6 +44002,7 @@
         "schedule": [
           {
             "instructors": [
+              "FUNG, Ho Fai",
               "VAN DER LINDE, Herald"
             ],
             "venue": "TBA",
@@ -44004,7 +44050,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "RANA, Gobin"
             ],
             "venue": "Rm 1001, LSK Bldg (75)",
             "fromDate": "2026-04-11",
@@ -44056,6 +44102,7 @@
         "schedule": [
           {
             "instructors": [
+              "SINGH, Gurmukh",
               "YEGEN, Eyub"
             ],
             "venue": "G003, LSK Bldg (75)",
@@ -44069,6 +44116,7 @@
           },
           {
             "instructors": [
+              "SINGH, Gurmukh",
               "YEGEN, Eyub"
             ],
             "venue": "G003, LSK Bldg (75)",
@@ -44110,6 +44158,7 @@
         "schedule": [
           {
             "instructors": [
+              "SINGH, Gurmukh",
               "YEGEN, Eyub"
             ],
             "venue": "TBA",
@@ -44123,6 +44172,7 @@
           },
           {
             "instructors": [
+              "SINGH, Gurmukh",
               "YEGEN, Eyub"
             ],
             "venue": "TBA",
@@ -45537,52 +45587,6 @@
             ],
             "fromTime": "16:00",
             "toTime": "17:50"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "UGRD",
-    "subject": "HLTH",
-    "number": "1010",
-    "code": "HLTH1010",
-    "name": "Healthy Lifestyle",
-    "description": "A compulsory, one-year course for all undergraduates to learn how to maintain a well-balanced and healthy lifestyle that will help them to manage their lives, learning, transitions and holistic development. Students will complete at least 45 hours of activities including physical and wellness assessments, sports skill classes, organized sports and fitness events, community service, as well as enrichment topics, for example, mental health, wellness, transitions, student life, and personal growth. Students with special personal reasons may seek exemption from the Director of Student Affairs. Graded P or F.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 0,
-    "attributes": [
-      {
-        "attribute": "4Y",
-        "value": "19",
-        "attributeDescription": "Students admitted before 2022",
-        "valueDescription": "Common Core (HLTH) for 36-credit program"
-      }
-    ],
-    "classes": [
-      {
-        "section": "R1",
-        "number": "4332",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
           }
         ]
       }
@@ -59272,7 +59276,8 @@
         "schedule": [
           {
             "instructors": [
-              "HO, Jason Man Wai"
+              "HO, Jason Man Wai",
+              "LEE, Wai Hong"
             ],
             "venue": "G012, LSK Bldg (199)",
             "fromDate": "2026-02-02",
@@ -59310,7 +59315,8 @@
         "schedule": [
           {
             "instructors": [
-              "SUN, Xinyu"
+              "SUN, Xinyu",
+              "YEUNG, Ngai Sang Kenrick"
             ],
             "venue": "G012, LSK Bldg (199)",
             "fromDate": "2026-02-02",
@@ -59336,6 +59342,7 @@
         "schedule": [
           {
             "instructors": [
+              "LEE, Wai Hong",
               "XIA, Lucy"
             ],
             "venue": "Rm 2306, Lift 17-18 (111)",
@@ -59362,7 +59369,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHONG, Carsten Hao Ye"
+              "CHONG, Carsten Hao Ye",
+              "WEI, Vanessa"
             ],
             "venue": "G012, LSK Bldg (199)",
             "fromDate": "2026-02-02",
@@ -59388,7 +59396,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHONG, Carsten Hao Ye"
+              "CHONG, Carsten Hao Ye",
+              "WEI, Vanessa"
             ],
             "venue": "G012, LSK Bldg (199)",
             "fromDate": "2026-02-02",
@@ -59414,6 +59423,7 @@
         "schedule": [
           {
             "instructors": [
+              "ANZOLA JUERGENSON, Alex",
               "JAMES, Lancelot Fitzgerald"
             ],
             "venue": "Rm 5403, Lift 17-18 (134)",
@@ -59456,6 +59466,7 @@
         "schedule": [
           {
             "instructors": [
+              "LEE, Wai Hong",
               "PAN, Baoqian"
             ],
             "venue": "Rm 2464, Lift 25-26 (122)",
@@ -59481,6 +59492,7 @@
         "schedule": [
           {
             "instructors": [
+              "LEE, Wai Hong",
               "PAN, Baoqian"
             ],
             "venue": "Rm 2465, Lift 25-26 (122)",
@@ -59506,7 +59518,8 @@
         "schedule": [
           {
             "instructors": [
-              "SUN, Xinyu"
+              "SUN, Xinyu",
+              "YEUNG, Ngai Sang Kenrick"
             ],
             "venue": "Rm 2464, Lift 25-26 (122)",
             "fromDate": "2026-03-23",
@@ -59531,7 +59544,8 @@
         "schedule": [
           {
             "instructors": [
-              "SUN, Xinyu"
+              "SUN, Xinyu",
+              "WEI, Vanessa"
             ],
             "venue": "G010, CYT Bldg (140)",
             "fromDate": "2026-03-23",
@@ -59556,6 +59570,7 @@
         "schedule": [
           {
             "instructors": [
+              "ANZOLA JUERGENSON, Alex",
               "SUN, Xinyu"
             ],
             "venue": "Rm 2464, Lift 25-26 (122)",
@@ -59581,6 +59596,7 @@
         "schedule": [
           {
             "instructors": [
+              "ANZOLA JUERGENSON, Alex",
               "WAN, Xuhu"
             ],
             "venue": "Rm 2465, Lift 25-26 (122)",
@@ -59606,7 +59622,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "LEE, Wai Hong"
             ],
             "venue": "G005, LSK Bldg",
             "fromDate": "2026-03-23",
@@ -59631,7 +59647,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "YEUNG, Ngai Sang Kenrick"
             ],
             "venue": "G005, LSK Bldg",
             "fromDate": "2026-03-23",
@@ -59656,7 +59672,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "WEI, Vanessa"
             ],
             "venue": "G005, LSK Bldg",
             "fromDate": "2026-03-23",
@@ -59681,7 +59697,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "ANZOLA JUERGENSON, Alex"
             ],
             "venue": "G005, LSK Bldg",
             "fromDate": "2026-03-23",
@@ -59706,7 +59722,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "WEI, Vanessa"
             ],
             "venue": "G005, LSK Bldg",
             "fromDate": "2026-03-23",
@@ -59731,7 +59747,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "WEI, Vanessa"
             ],
             "venue": "G005, LSK Bldg",
             "fromDate": "2026-03-23",
@@ -59756,7 +59772,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "WEI, Vanessa"
             ],
             "venue": "G005, LSK Bldg",
             "fromDate": "2026-03-23",
@@ -59781,7 +59797,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "ANZOLA JUERGENSON, Alex"
             ],
             "venue": "G005, LSK Bldg",
             "fromDate": "2026-03-23",
@@ -59806,7 +59822,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "ANZOLA JUERGENSON, Alex"
             ],
             "venue": "G005, LSK Bldg",
             "fromDate": "2026-03-23",
@@ -59847,6 +59863,7 @@
         "schedule": [
           {
             "instructors": [
+              "DENG, Stacy",
               "SHIN, Dongwook"
             ],
             "venue": "Rm 1009, LSK Bldg (80)",
@@ -59873,6 +59890,7 @@
         "schedule": [
           {
             "instructors": [
+              "DENG, Stacy",
               "LU, Lijian"
             ],
             "venue": "Rm 2406, Lift 17-18 (76)",
@@ -59899,6 +59917,7 @@
         "schedule": [
           {
             "instructors": [
+              "DENG, Stacy",
               "LU, Lijian"
             ],
             "venue": "Rm 2504, Lift 25-26 (84)",
@@ -59925,6 +59944,7 @@
         "schedule": [
           {
             "instructors": [
+              "YANG, Ran",
               "ZENG, Zheng"
             ],
             "venue": "Rm 6573, Lift 29-30 (88)",
@@ -59951,6 +59971,7 @@
         "schedule": [
           {
             "instructors": [
+              "YANG, Ran",
               "ZENG, Zheng"
             ],
             "venue": "Rm 5404, Lift 17-18 (93)",
@@ -59989,7 +60010,8 @@
         "schedule": [
           {
             "instructors": [
-              "GURUMURTHI, Suri"
+              "GURUMURTHI, Suri",
+              "NAVALGUND, Vaishnavi"
             ],
             "venue": "G009A, CYT Bldg (80)",
             "fromDate": "2026-02-02",
@@ -60015,7 +60037,8 @@
         "schedule": [
           {
             "instructors": [
-              "GURUMURTHI, Suri"
+              "GURUMURTHI, Suri",
+              "NAVALGUND, Vaishnavi"
             ],
             "venue": "Rm 4580, Lift 27-28 (83)",
             "fromDate": "2026-02-02",
@@ -61739,7 +61762,8 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "ANZOLA JUERGENSON, Alex",
+              "WANG, Yizheng"
             ],
             "venue": "G021, LSK Bldg",
             "fromDate": "2026-02-02",
@@ -61780,6 +61804,8 @@
         "schedule": [
           {
             "instructors": [
+              "DU, Yuwen",
+              "WU, Zihao",
               "ZHANG, Hongtao"
             ],
             "venue": "G021, LSK Bldg",
@@ -61818,6 +61844,8 @@
         "schedule": [
           {
             "instructors": [
+              "DU, Yuwen",
+              "WU, Zihao",
               "ZHANG, Hongtao"
             ],
             "venue": "G021, LSK Bldg",
@@ -61844,7 +61872,8 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "DU, Yuwen",
+              "WU, Zihao"
             ],
             "venue": "G021, LSK Bldg",
             "fromDate": "2026-02-02",
@@ -61869,7 +61898,8 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "DU, Yuwen",
+              "WU, Zihao"
             ],
             "venue": "G021, LSK Bldg",
             "fromDate": "2026-02-02",
@@ -61910,6 +61940,7 @@
         "schedule": [
           {
             "instructors": [
+              "GONG, Chenyin",
               "YU, Man"
             ],
             "venue": "Rm 2504, Lift 25-26 (84)",
@@ -61959,7 +61990,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHEUNG, Ki Ling"
+              "CHEUNG, Ki Ling",
+              "WU, Sherry Chen"
             ],
             "venue": "Rm 6580, Lift 27-28 (48)",
             "fromDate": "2026-02-02",
@@ -61984,7 +62016,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHEUNG, Ki Ling"
+              "CHEUNG, Ki Ling",
+              "WU, Sherry Chen"
             ],
             "venue": "Rm 6580, Lift 27-28 (48)",
             "fromDate": "2026-02-02",
@@ -62009,7 +62042,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "WU, Sherry Chen"
             ],
             "venue": "Rm 1009, LSK Bldg (80)",
             "fromDate": "2026-02-02",
@@ -62057,7 +62090,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHEUNG, Ki Ling"
+              "CHEUNG, Ki Ling",
+              "WU, Sherry Chen"
             ],
             "venue": "Rm 6580, Lift 27-28 (48)",
             "fromDate": "2026-02-02",
@@ -62098,6 +62132,7 @@
         "schedule": [
           {
             "instructors": [
+              "YANG, Ran",
               "YU, Man"
             ],
             "venue": "Rm 1011, LSK Bldg (80)",
@@ -62124,6 +62159,7 @@
         "schedule": [
           {
             "instructors": [
+              "YANG, Ran",
               "YU, Man"
             ],
             "venue": "Rm 1011, LSK Bldg (80)",
@@ -62397,7 +62433,8 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "LU, Haoxuan",
+              "ZHOU, Enze"
             ],
             "venue": "G021, LSK Bldg",
             "fromDate": "2026-02-02",
@@ -62464,7 +62501,8 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "GUO, Zhen",
+              "LIU, Lingchong"
             ],
             "venue": "G021, LSK Bldg",
             "fromDate": "2026-02-02",
@@ -62505,6 +62543,7 @@
         "schedule": [
           {
             "instructors": [
+              "HO, Cheuk Fan Edmond",
               "LI, Qing"
             ],
             "venue": "Rm 1001, LSK Bldg (75)",
@@ -62559,7 +62598,8 @@
         "schedule": [
           {
             "instructors": [
-              "GURUMURTHI, Suri"
+              "GURUMURTHI, Suri",
+              "NAVALGUND, Vaishnavi"
             ],
             "venue": "Rm 4579, Lift 27-28 (60)",
             "fromDate": "2026-02-02",
@@ -62601,7 +62641,8 @@
         "schedule": [
           {
             "instructors": [
-              "LAU, Ronald"
+              "LAU, Ronald",
+              "WU, Sherry Chen"
             ],
             "venue": "Rm 1005, LSK Bldg (75)",
             "fromDate": "2026-02-02",
@@ -62643,7 +62684,8 @@
         "schedule": [
           {
             "instructors": [
-              "LAU, Ronald"
+              "LAU, Ronald",
+              "WU, Sherry Chen"
             ],
             "venue": "Rm 5583, Lift 29-30 (80)",
             "fromDate": "2026-02-02",
@@ -62685,6 +62727,7 @@
         "schedule": [
           {
             "instructors": [
+              "HO, Cheuk Fan Edmond",
               "SHIN, Dongwook"
             ],
             "venue": "Rm 1009, LSK Bldg (80)",
@@ -62726,7 +62769,8 @@
         "schedule": [
           {
             "instructors": [
-              "LU, Lijian"
+              "LU, Lijian",
+              "ZHANG, Ce"
             ],
             "venue": "Rm 1010, LSK Bldg (80)",
             "fromDate": "2026-02-02",
@@ -65502,6 +65546,7 @@
         "schedule": [
           {
             "instructors": [
+              "DENG, Stacy",
               "HA, Albert Yiu Cheung"
             ],
             "venue": "Rm 2003, LSK Bldg",
@@ -65546,7 +65591,8 @@
         "schedule": [
           {
             "instructors": [
-              "HA, Albert Yiu Cheung"
+              "HA, Albert Yiu Cheung",
+              "NAVALGUND, Vaishnavi"
             ],
             "venue": "G001, LSK Bldg (75)",
             "fromDate": "2026-02-01",
@@ -65658,6 +65704,7 @@
         "schedule": [
           {
             "instructors": [
+              "YANG, Ran",
               "YU, Man"
             ],
             "venue": "G003, LSK Bldg (75)",
@@ -65715,7 +65762,8 @@
         "schedule": [
           {
             "instructors": [
-              "SHIN, Dongwook"
+              "SHIN, Dongwook",
+              "YANG, Ran"
             ],
             "venue": "G003, LSK Bldg (75)",
             "fromDate": "2026-01-28",
@@ -65772,7 +65820,8 @@
         "schedule": [
           {
             "instructors": [
-              "SHIN, Dongwook"
+              "SHIN, Dongwook",
+              "YANG, Ran"
             ],
             "venue": "G003, LSK Bldg (75)",
             "fromDate": "2026-01-27",
@@ -65855,6 +65904,7 @@
         "schedule": [
           {
             "instructors": [
+              "HO, Cheuk Fan Edmond",
               "SHIN, Dongwook"
             ],
             "venue": "Rm 2001, LSK Bldg",
@@ -65928,6 +65978,7 @@
         "schedule": [
           {
             "instructors": [
+              "DENG, Stacy",
               "LI, Mark"
             ],
             "venue": "Rm 1, 31/F, Tower 1,Millennity",
@@ -65988,6 +66039,7 @@
         "schedule": [
           {
             "instructors": [
+              "HO, Cheuk Fan Edmond",
               "MUTTO, Frederick"
             ],
             "venue": "Rm 2001, LSK Bldg",
@@ -66042,6 +66094,7 @@
         "schedule": [
           {
             "instructors": [
+              "HO, Cheuk Fan Edmond",
               "MUTTO, Frederick"
             ],
             "venue": "G001, LSK Bldg (75)",
@@ -66180,6 +66233,7 @@
         "schedule": [
           {
             "instructors": [
+              "DENG, Stacy",
               "MUTTO, Frederick"
             ],
             "venue": "Rm 2, 31/F, Tower 1,Millennity",
@@ -66240,6 +66294,7 @@
         "schedule": [
           {
             "instructors": [
+              "HO, Cheuk Fan Edmond",
               "LI, Qing"
             ],
             "venue": "G003, LSK Bldg (75)",
@@ -66345,7 +66400,8 @@
         "schedule": [
           {
             "instructors": [
-              "LI, Qing"
+              "LI, Qing",
+              "NAVALGUND, Vaishnavi"
             ],
             "venue": "Rm 2003, LSK Bldg",
             "fromDate": "2026-03-31",
@@ -77071,7 +77127,7 @@
         "number": "1463",
         "remarks": "> Class cancelled",
         "quota": 0,
-        "enroll": 1,
+        "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -96566,7 +96622,8 @@
         "schedule": [
           {
             "instructors": [
-              "KOC, Joseph"
+              "KOC, Joseph",
+              "LAU, KY Kitty"
             ],
             "venue": "Rm 1007, LSK Bldg (80)",
             "fromDate": "2026-02-02",
@@ -96591,6 +96648,7 @@
         "schedule": [
           {
             "instructors": [
+              "CHIA, Jingyin",
               "YOUNG, Mark"
             ],
             "venue": "Rm 6602, Lift 31-32 (60)",
@@ -96616,6 +96674,7 @@
         "schedule": [
           {
             "instructors": [
+              "CHIA, Jingyin",
               "YOUNG, Mark"
             ],
             "venue": "Rm 6602, Lift 31-32 (60)",
@@ -96657,7 +96716,8 @@
         "schedule": [
           {
             "instructors": [
-              "HAGMANN, David"
+              "HAGMANN, David",
+              "TSUI, Hoi Ying"
             ],
             "venue": "Rm 1003, LSK Bldg (75)",
             "fromDate": "2026-02-02",
@@ -96682,7 +96742,8 @@
         "schedule": [
           {
             "instructors": [
-              "HAGMANN, David"
+              "HAGMANN, David",
+              "TSUI, Hoi Ying"
             ],
             "venue": "Rm 5583, Lift 29-30 (80)",
             "fromDate": "2026-02-02",
@@ -96707,6 +96768,7 @@
         "schedule": [
           {
             "instructors": [
+              "CHAN, Lap Cheung",
               "COOMBES, John"
             ],
             "venue": "Rm 6555, Lift 29-30 (88)",
@@ -96732,6 +96794,7 @@
         "schedule": [
           {
             "instructors": [
+              "CHAN, Lap Cheung",
               "COOMBES, John"
             ],
             "venue": "Rm 6555, Lift 29-30 (88)",
@@ -96757,6 +96820,7 @@
         "schedule": [
           {
             "instructors": [
+              "CHIA, Jingyin",
               "YOUNG, Mark"
             ],
             "venue": "Rm 2302, Lift 17-18 (74)",
@@ -96782,6 +96846,7 @@
         "schedule": [
           {
             "instructors": [
+              "CHIA, Jingyin",
               "YOUNG, Mark"
             ],
             "venue": "Rm 2302, Lift 17-18 (74)",
@@ -96807,7 +96872,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHOI, Joon Nak"
+              "CHOI, Joon Nak",
+              "MUKHI, Rahul"
             ],
             "venue": "Rm 1007, LSK Bldg (80)",
             "fromDate": "2026-02-02",
@@ -96832,7 +96898,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHOI, Joon Nak"
+              "CHOI, Joon Nak",
+              "MUKHI, Rahul"
             ],
             "venue": "Rm 1007, LSK Bldg (80)",
             "fromDate": "2026-02-02",
@@ -96873,7 +96940,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHEN, Siyin"
+              "CHEN, Siyin",
+              "LAU, KY Kitty"
             ],
             "venue": "Rm 1527, Lift 22 (74)",
             "fromDate": "2026-02-02",
@@ -96899,7 +96967,8 @@
         "schedule": [
           {
             "instructors": [
-              "LIN, Ying"
+              "LIN, Ying",
+              "RAMALINGAM, Sangeetha"
             ],
             "venue": "Rm 2504, Lift 25-26 (84)",
             "fromDate": "2026-02-02",
@@ -96925,7 +96994,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHEN, Siyin"
+              "CHEN, Siyin",
+              "LAU, KY Kitty"
             ],
             "venue": "Rm 2504, Lift 25-26 (84)",
             "fromDate": "2026-02-02",
@@ -96951,7 +97021,8 @@
         "schedule": [
           {
             "instructors": [
-              "LIN, Ying"
+              "LIN, Ying",
+              "RAMALINGAM, Sangeetha"
             ],
             "venue": "Rm 4580, Lift 27-28 (83)",
             "fromDate": "2026-02-02",
@@ -96977,7 +97048,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHEN, Siyin"
+              "CHEN, Siyin",
+              "LAU, KY Kitty"
             ],
             "venue": "Rm 2504, Lift 25-26 (84)",
             "fromDate": "2026-02-02",
@@ -97003,7 +97075,8 @@
         "schedule": [
           {
             "instructors": [
-              "LIN, Ying"
+              "LIN, Ying",
+              "RAMALINGAM, Sangeetha"
             ],
             "venue": "Rm 4580, Lift 27-28 (83)",
             "fromDate": "2026-02-02",
@@ -97016,7 +97089,8 @@
           },
           {
             "instructors": [
-              "LIN, Ying"
+              "LIN, Ying",
+              "RAMALINGAM, Sangeetha"
             ],
             "venue": "Rm 4580, Lift 27-28 (83)",
             "fromDate": "2026-02-02",
@@ -97041,7 +97115,8 @@
         "schedule": [
           {
             "instructors": [
-              "NG, Ka Man"
+              "NG, Ka Man",
+              "TSUI, Ginnie"
             ],
             "venue": "Rm 1011, LSK Bldg (80)",
             "fromDate": "2026-02-02",
@@ -97125,6 +97200,7 @@
         "schedule": [
           {
             "instructors": [
+              "GU, Jialei",
               "WANG, Danqing"
             ],
             "venue": "Rm 1010, LSK Bldg (80)",
@@ -97150,6 +97226,7 @@
         "schedule": [
           {
             "instructors": [
+              "GU, Jialei",
               "WANG, Danqing"
             ],
             "venue": "Rm 1007, LSK Bldg (80)",
@@ -97175,6 +97252,7 @@
         "schedule": [
           {
             "instructors": [
+              "GU, Jialei",
               "WANG, Danqing"
             ],
             "venue": "Rm 6555, Lift 29-30 (88)",
@@ -97200,7 +97278,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHOI, Tae-Ung"
+              "CHOI, Tae-Ung",
+              "LEE, Siu Keung"
             ],
             "venue": "LG3009, Lift 10-12 (88)",
             "fromDate": "2026-02-02",
@@ -97225,7 +97304,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHOI, Tae-Ung"
+              "CHOI, Tae-Ung",
+              "LEE, Siu Keung"
             ],
             "venue": "LG3009, Lift 10-12 (88)",
             "fromDate": "2026-02-02",
@@ -97250,7 +97330,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHOI, Tae-Ung"
+              "CHOI, Tae-Ung",
+              "LEE, Siu Keung"
             ],
             "venue": "Rm 6573, Lift 29-30 (88)",
             "fromDate": "2026-02-02",
@@ -97275,7 +97356,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHOI, Tae-Ung"
+              "CHOI, Tae-Ung",
+              "LEE, Siu Keung"
             ],
             "venue": "LG5202, Lift 10-12 (104)",
             "fromDate": "2026-02-02",
@@ -97316,7 +97398,8 @@
         "schedule": [
           {
             "instructors": [
-              "GONG, Yaping"
+              "GONG, Yaping",
+              "LAU, KY Kitty"
             ],
             "venue": "Rm 6555, Lift 29-30 (88)",
             "fromDate": "2026-02-02",
@@ -97380,6 +97463,7 @@
         "schedule": [
           {
             "instructors": [
+              "MUKHI, Rahul",
               "ONG, Wei Jee"
             ],
             "venue": "Rm 4579, Lift 27-28 (60)",
@@ -97406,6 +97490,7 @@
         "schedule": [
           {
             "instructors": [
+              "MUKHI, Rahul",
               "ONG, Wei Jee"
             ],
             "venue": "Rm 6602, Lift 31-32 (60)",
@@ -97494,7 +97579,8 @@
         "schedule": [
           {
             "instructors": [
-              "NG, Ka Man"
+              "NG, Ka Man",
+              "TSUI, Ginnie"
             ],
             "venue": "Rm 1011, LSK Bldg (80)",
             "fromDate": "2026-02-02",
@@ -97520,7 +97606,8 @@
         "schedule": [
           {
             "instructors": [
-              "NG, Ka Man"
+              "NG, Ka Man",
+              "TSUI, Ginnie"
             ],
             "venue": "Rm 1011, LSK Bldg (80)",
             "fromDate": "2026-02-02",
@@ -97608,7 +97695,8 @@
         "schedule": [
           {
             "instructors": [
-              "BITTERLY, Thomas Bradford"
+              "BITTERLY, Thomas Bradford",
+              "TSUI, Ginnie"
             ],
             "venue": "Rm 1005, LSK Bldg (75)",
             "fromDate": "2026-02-02",
@@ -97634,7 +97722,8 @@
         "schedule": [
           {
             "instructors": [
-              "BITTERLY, Thomas Bradford"
+              "BITTERLY, Thomas Bradford",
+              "TSUI, Ginnie"
             ],
             "venue": "Rm 1003, LSK Bldg (75)",
             "fromDate": "2026-02-02",
@@ -97647,7 +97736,8 @@
           },
           {
             "instructors": [
-              "BITTERLY, Thomas Bradford"
+              "BITTERLY, Thomas Bradford",
+              "TSUI, Ginnie"
             ],
             "venue": "Rm 1003, LSK Bldg (75)",
             "fromDate": "2026-02-02",
@@ -97734,6 +97824,7 @@
         "schedule": [
           {
             "instructors": [
+              "CHAN, Lap Cheung",
               "COOMBES, John"
             ],
             "venue": "Rm 1009, LSK Bldg (80)",
@@ -97776,6 +97867,7 @@
         "schedule": [
           {
             "instructors": [
+              "CHIA, Jingyin",
               "KWAN, Calvin Lee"
             ],
             "venue": "Rm 1007, LSK Bldg (80)",
@@ -97817,6 +97909,7 @@
         "schedule": [
           {
             "instructors": [
+              "CHIA, Jingyin",
               "CHOI, Jaeho"
             ],
             "venue": "Rm 2504, Lift 25-26 (84)",
@@ -97830,6 +97923,7 @@
           },
           {
             "instructors": [
+              "CHIA, Jingyin",
               "CHOI, Jaeho"
             ],
             "venue": "Rm 2504, Lift 25-26 (84)",
@@ -97871,7 +97965,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHOI, Jaeho"
+              "CHOI, Jaeho",
+              "LEE, Siu Keung"
             ],
             "venue": "Rm 2504, Lift 25-26 (84)",
             "fromDate": "2026-02-02",
@@ -97896,7 +97991,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHOI, Jaeho"
+              "CHOI, Jaeho",
+              "LEE, Siu Keung"
             ],
             "venue": "Rm 4502, Lift 25-26 (60)",
             "fromDate": "2026-02-02",
@@ -97921,7 +98017,8 @@
         "schedule": [
           {
             "instructors": [
-              "PARK, Eunyoung"
+              "PARK, Eunyoung",
+              "RAMALINGAM, Sangeetha"
             ],
             "venue": "LG3009, Lift 10-12 (88)",
             "fromDate": "2026-02-02",
@@ -97946,7 +98043,8 @@
         "schedule": [
           {
             "instructors": [
-              "PARK, Eunyoung"
+              "PARK, Eunyoung",
+              "RAMALINGAM, Sangeetha"
             ],
             "venue": "G009A, CYT Bldg (80)",
             "fromDate": "2026-02-02",
@@ -97987,7 +98085,8 @@
         "schedule": [
           {
             "instructors": [
-              "SHEN, Xirong"
+              "SHEN, Xirong",
+              "TSUI, Hoi Ying"
             ],
             "venue": "Rm 2503, Lift 25-26 (87)",
             "fromDate": "2026-02-02",
@@ -98013,7 +98112,8 @@
         "schedule": [
           {
             "instructors": [
-              "SHEN, Xirong"
+              "SHEN, Xirong",
+              "TSUI, Hoi Ying"
             ],
             "venue": "Rm 1010, LSK Bldg (80)",
             "fromDate": "2026-02-02",
@@ -98101,6 +98201,7 @@
         "schedule": [
           {
             "instructors": [
+              "GU, Jialei",
               "SULLIVAN, Bilian NI"
             ],
             "venue": "Rm 1007, LSK Bldg (80)",
@@ -98126,6 +98227,7 @@
         "schedule": [
           {
             "instructors": [
+              "GU, Jialei",
               "SULLIVAN, Bilian NI"
             ],
             "venue": "Rm 1034, LSK Bldg (80)",
@@ -98214,7 +98316,8 @@
           {
             "instructors": [
               "CHOI, Joon Nak",
-              "KOC, Joseph"
+              "KOC, Joseph",
+              "MUKHI, Rahul"
             ],
             "venue": "Rm 1027, LSK Bldg (40)",
             "fromDate": "2026-02-02",
@@ -98255,6 +98358,7 @@
         "schedule": [
           {
             "instructors": [
+              "LAU, KY Kitty",
               "NG, Ka Man"
             ],
             "venue": "Rm 5583, Lift 29-30 (80)",
@@ -98303,6 +98407,8 @@
         "schedule": [
           {
             "instructors": [
+              "CHAN, Lap Cheung",
+              "LAU, KY Kitty",
               "NASON, Stephen William",
               "SHIH, Stephen",
               "WANG, Caroline"
@@ -98322,6 +98428,8 @@
           },
           {
             "instructors": [
+              "CHAN, Lap Cheung",
+              "LAU, KY Kitty",
               "NASON, Stephen William",
               "SHIH, Stephen",
               "WANG, Caroline"
@@ -98392,7 +98500,8 @@
         "schedule": [
           {
             "instructors": [
-              "NASON, Stephen William"
+              "NASON, Stephen William",
+              "RAMALINGAM, Sangeetha"
             ],
             "venue": "TBA",
             "fromDate": "2026-02-05",
@@ -98405,7 +98514,8 @@
           },
           {
             "instructors": [
-              "NASON, Stephen William"
+              "NASON, Stephen William",
+              "RAMALINGAM, Sangeetha"
             ],
             "venue": "TBA",
             "fromDate": "2026-02-06",
@@ -98418,7 +98528,8 @@
           },
           {
             "instructors": [
-              "NASON, Stephen William"
+              "NASON, Stephen William",
+              "RAMALINGAM, Sangeetha"
             ],
             "venue": "TBA",
             "fromDate": "2026-02-26",
@@ -98431,7 +98542,8 @@
           },
           {
             "instructors": [
-              "NASON, Stephen William"
+              "NASON, Stephen William",
+              "RAMALINGAM, Sangeetha"
             ],
             "venue": "TBA",
             "fromDate": "2026-03-08",
@@ -98490,6 +98602,7 @@
         "schedule": [
           {
             "instructors": [
+              "CHAN, Lap Cheung",
               "DORAN, Christopher"
             ],
             "venue": "Rm 2003, LSK Bldg",
@@ -98503,6 +98616,7 @@
           },
           {
             "instructors": [
+              "CHAN, Lap Cheung",
               "DORAN, Christopher"
             ],
             "venue": "Rm 2003, LSK Bldg",
@@ -98534,6 +98648,7 @@
         "schedule": [
           {
             "instructors": [
+              "CHAN, Lap Cheung",
               "DORAN, Christopher"
             ],
             "venue": "Rm 2003, LSK Bldg",
@@ -98547,6 +98662,7 @@
           },
           {
             "instructors": [
+              "CHAN, Lap Cheung",
               "DORAN, Christopher"
             ],
             "venue": "Rm 2003, LSK Bldg",
@@ -98560,6 +98676,7 @@
           },
           {
             "instructors": [
+              "CHAN, Lap Cheung",
               "DORAN, Christopher"
             ],
             "venue": "Rm 2003, LSK Bldg",
@@ -98612,6 +98729,7 @@
         "schedule": [
           {
             "instructors": [
+              "LAU, KY Kitty",
               "LI, J.T."
             ],
             "venue": "G001, LSK Bldg (75)",
@@ -98625,6 +98743,7 @@
           },
           {
             "instructors": [
+              "LAU, KY Kitty",
               "LI, J.T."
             ],
             "venue": "G001, LSK Bldg (75)",
@@ -98638,6 +98757,7 @@
           },
           {
             "instructors": [
+              "LAU, KY Kitty",
               "LI, J.T."
             ],
             "venue": "G001, LSK Bldg (75)",
@@ -98651,6 +98771,7 @@
           },
           {
             "instructors": [
+              "LAU, KY Kitty",
               "LI, J.T."
             ],
             "venue": "G001, LSK Bldg (75)",
@@ -98664,6 +98785,7 @@
           },
           {
             "instructors": [
+              "LAU, KY Kitty",
               "LI, J.T."
             ],
             "venue": "G001, LSK Bldg (75)",
@@ -98677,6 +98799,7 @@
           },
           {
             "instructors": [
+              "LAU, KY Kitty",
               "LI, J.T."
             ],
             "venue": "G001, LSK Bldg (75)",
@@ -98729,7 +98852,8 @@
         "schedule": [
           {
             "instructors": [
-              "NASON, Stephen William"
+              "NASON, Stephen William",
+              "RAMALINGAM, Sangeetha"
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-03-30",
@@ -98742,7 +98866,8 @@
           },
           {
             "instructors": [
-              "NASON, Stephen William"
+              "NASON, Stephen William",
+              "RAMALINGAM, Sangeetha"
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-04-20",
@@ -98755,7 +98880,8 @@
           },
           {
             "instructors": [
-              "NASON, Stephen William"
+              "NASON, Stephen William",
+              "RAMALINGAM, Sangeetha"
             ],
             "venue": "G003, LSK Bldg (75)",
             "fromDate": "2026-04-24",
@@ -98863,7 +98989,8 @@
         "schedule": [
           {
             "instructors": [
-              "BITTERLY, Thomas Bradford"
+              "BITTERLY, Thomas Bradford",
+              "TSUI, Ginnie"
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-01-31",
@@ -98876,7 +99003,8 @@
           },
           {
             "instructors": [
-              "BITTERLY, Thomas Bradford"
+              "BITTERLY, Thomas Bradford",
+              "TSUI, Ginnie"
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-01-31",
@@ -98889,7 +99017,8 @@
           },
           {
             "instructors": [
-              "BITTERLY, Thomas Bradford"
+              "BITTERLY, Thomas Bradford",
+              "TSUI, Ginnie"
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-02-07",
@@ -98902,7 +99031,8 @@
           },
           {
             "instructors": [
-              "BITTERLY, Thomas Bradford"
+              "BITTERLY, Thomas Bradford",
+              "TSUI, Ginnie"
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-02-07",
@@ -98915,7 +99045,8 @@
           },
           {
             "instructors": [
-              "BITTERLY, Thomas Bradford"
+              "BITTERLY, Thomas Bradford",
+              "TSUI, Ginnie"
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-02-28",
@@ -98928,7 +99059,8 @@
           },
           {
             "instructors": [
-              "BITTERLY, Thomas Bradford"
+              "BITTERLY, Thomas Bradford",
+              "TSUI, Ginnie"
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-02-28",
@@ -98941,7 +99073,8 @@
           },
           {
             "instructors": [
-              "BITTERLY, Thomas Bradford"
+              "BITTERLY, Thomas Bradford",
+              "TSUI, Ginnie"
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-03-21",
@@ -98954,7 +99087,8 @@
           },
           {
             "instructors": [
-              "BITTERLY, Thomas Bradford"
+              "BITTERLY, Thomas Bradford",
+              "TSUI, Ginnie"
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-03-21",
@@ -99070,7 +99204,8 @@
         "schedule": [
           {
             "instructors": [
-              "DORAN, Christopher"
+              "DORAN, Christopher",
+              "HU, Zhixin"
             ],
             "venue": "TBA",
             "fromDate": "2026-03-31",
@@ -99083,7 +99218,8 @@
           },
           {
             "instructors": [
-              "DORAN, Christopher"
+              "DORAN, Christopher",
+              "HU, Zhixin"
             ],
             "venue": "TBA",
             "fromDate": "2026-04-14",
@@ -99096,7 +99232,8 @@
           },
           {
             "instructors": [
-              "DORAN, Christopher"
+              "DORAN, Christopher",
+              "HU, Zhixin"
             ],
             "venue": "TBA",
             "fromDate": "2026-05-05",
@@ -99109,7 +99246,8 @@
           },
           {
             "instructors": [
-              "DORAN, Christopher"
+              "DORAN, Christopher",
+              "HU, Zhixin"
             ],
             "venue": "TBA",
             "fromDate": "2026-05-12",
@@ -99122,7 +99260,8 @@
           },
           {
             "instructors": [
-              "DORAN, Christopher"
+              "DORAN, Christopher",
+              "HU, Zhixin"
             ],
             "venue": "TBA",
             "fromDate": "2026-05-26",
@@ -99169,6 +99308,7 @@
         "schedule": [
           {
             "instructors": [
+              "CHAN, Lap Cheung",
               "NEW, Mitya"
             ],
             "venue": "TBA",
@@ -99182,6 +99322,7 @@
           },
           {
             "instructors": [
+              "CHAN, Lap Cheung",
               "NEW, Mitya"
             ],
             "venue": "TBA",
@@ -99230,6 +99371,7 @@
           {
             "instructors": [
               "HO, Ho Ming Stan",
+              "LEUNG, Sze Nga Jessica",
               "MUTTO, Frederick",
               "NEW, Mitya",
               "SHIH, Stephen"
@@ -99247,6 +99389,7 @@
           {
             "instructors": [
               "HO, Ho Ming Stan",
+              "LEUNG, Sze Nga Jessica",
               "MUTTO, Frederick",
               "NEW, Mitya",
               "SHIH, Stephen"
@@ -100044,7 +100187,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "LEE, Siu Keung"
             ],
             "venue": "TBA",
             "fromDate": "2026-04-01",
@@ -100057,7 +100200,7 @@
           },
           {
             "instructors": [
-              "TBA"
+              "LEE, Siu Keung"
             ],
             "venue": "TBA",
             "fromDate": "2026-04-29",
@@ -100176,6 +100319,7 @@
         "schedule": [
           {
             "instructors": [
+              "TSUI, Ginnie",
               "WONG, Kin Fai Ellick"
             ],
             "venue": "Rm 1026, LSK Bldg (28)",
@@ -101969,14 +102113,14 @@
         "number": "1804",
         "remarks": " ",
         "quota": 85,
-        "enroll": 65,
+        "enroll": 64,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BDT",
             "quota": 84,
-            "enroll": 64
+            "enroll": 63
           },
           {
             "name": "CSIT",
@@ -104643,52 +104787,6 @@
             "toTime": null
           }
         ]
-      },
-      {
-        "section": "T3",
-        "number": "1898",
-        "remarks": " ",
-        "quota": 300,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      },
-      {
-        "section": "T4",
-        "number": "1899",
-        "remarks": " ",
-        "quota": 300,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
       }
     ]
   },
@@ -104735,29 +104833,6 @@
         "remarks": " ",
         "quota": 500,
         "enroll": 47,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      },
-      {
-        "section": "T3",
-        "number": "1812",
-        "remarks": " ",
-        "quota": 500,
-        "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -104859,52 +104934,6 @@
             "toTime": null
           }
         ]
-      },
-      {
-        "section": "T3",
-        "number": "1700",
-        "remarks": " ",
-        "quota": 50,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      },
-      {
-        "section": "T4",
-        "number": "1701",
-        "remarks": " ",
-        "quota": 50,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
       }
     ]
   },
@@ -104951,52 +104980,6 @@
         "remarks": " ",
         "quota": 14,
         "enroll": 5,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      },
-      {
-        "section": "T3",
-        "number": "1855",
-        "remarks": " ",
-        "quota": 14,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      },
-      {
-        "section": "T4",
-        "number": "1856",
-        "remarks": " ",
-        "quota": 14,
-        "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -105077,29 +105060,6 @@
         ]
       },
       {
-        "section": "T3",
-        "number": "1361",
-        "remarks": " ",
-        "quota": 250,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      },
-      {
         "section": "T4",
         "number": "1362",
         "remarks": " ",
@@ -105160,75 +105120,6 @@
             "toTime": null
           }
         ]
-      },
-      {
-        "section": "T2",
-        "number": "1901",
-        "remarks": " ",
-        "quota": 100,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      },
-      {
-        "section": "T3",
-        "number": "1902",
-        "remarks": " ",
-        "quota": 100,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      },
-      {
-        "section": "T4",
-        "number": "1903",
-        "remarks": " ",
-        "quota": 100,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
       }
     ]
   },
@@ -105252,75 +105143,6 @@
         "remarks": " ",
         "quota": 500,
         "enroll": 134,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      },
-      {
-        "section": "T2",
-        "number": "1815",
-        "remarks": " ",
-        "quota": 500,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      },
-      {
-        "section": "T3",
-        "number": "1816",
-        "remarks": " ",
-        "quota": 500,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      },
-      {
-        "section": "T4",
-        "number": "1817",
-        "remarks": " ",
-        "quota": 500,
-        "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -105376,75 +105198,6 @@
             "toTime": null
           }
         ]
-      },
-      {
-        "section": "T2",
-        "number": "1703",
-        "remarks": " ",
-        "quota": 50,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      },
-      {
-        "section": "T3",
-        "number": "1704",
-        "remarks": " ",
-        "quota": 50,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      },
-      {
-        "section": "T4",
-        "number": "1705",
-        "remarks": " ",
-        "quota": 50,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
       }
     ]
   },
@@ -105484,75 +105237,6 @@
             "toTime": null
           }
         ]
-      },
-      {
-        "section": "T2",
-        "number": "1858",
-        "remarks": " ",
-        "quota": 18,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      },
-      {
-        "section": "T3",
-        "number": "1859",
-        "remarks": " ",
-        "quota": 18,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      },
-      {
-        "section": "T4",
-        "number": "1860",
-        "remarks": " ",
-        "quota": 18,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
       }
     ]
   },
@@ -105576,75 +105260,6 @@
         "remarks": " ",
         "quota": 30,
         "enroll": 29,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      },
-      {
-        "section": "T2",
-        "number": "1364",
-        "remarks": " ",
-        "quota": 30,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      },
-      {
-        "section": "T3",
-        "number": "1365",
-        "remarks": " ",
-        "quota": 30,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      },
-      {
-        "section": "T4",
-        "number": "1366",
-        "remarks": " ",
-        "quota": 30,
-        "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -114070,45 +113685,6 @@
           {
             "instructors": [
               "LEUNG, Shing Yu"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "RPG",
-    "subject": "SEEN",
-    "number": "6990",
-    "code": "SEEN6990",
-    "name": "MPhil Thesis Research",
-    "description": "Master's thesis research supervised by co-advisors from different disciplines. A successful defense of the thesis leads to the grade Pass. No course credit is assigned.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 0,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "R1",
-        "number": "1721",
-        "remarks": " ",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
             ],
             "venue": "TBA",
             "fromDate": "2026-02-02",
