@@ -12687,7 +12687,7 @@
         "number": "2065",
         "remarks": " ",
         "quota": 50,
-        "enroll": 36,
+        "enroll": 37,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -12712,7 +12712,7 @@
         "number": "2066",
         "remarks": " ",
         "quota": 50,
-        "enroll": 36,
+        "enroll": 37,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -14237,7 +14237,7 @@
         "number": "2171",
         "remarks": " ",
         "quota": 165,
-        "enroll": 107,
+        "enroll": 108,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -14372,7 +14372,7 @@
         "number": "2177",
         "remarks": " ",
         "quota": 165,
-        "enroll": 105,
+        "enroll": 104,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -17734,7 +17734,7 @@
         "number": "2313",
         "remarks": " ",
         "quota": 788,
-        "enroll": 769,
+        "enroll": 768,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -17797,48 +17797,6 @@
             "weekdays": [],
             "fromTime": null,
             "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "UGRD",
-    "subject": "COMP",
-    "number": "4901C",
-    "code": "COMP4901C",
-    "name": "Empathetic AI",
-    "description": "This course examines leading frontiers of AI and NLP, building from the widely acclaimed new MIT Press book Raising AI. Large language models are impressive but still unable to truly understand and share the feelings and thoughts of the human - which is the very definition of empathy. Most of meaning actually lies in what’s not said: the omitted context. True AI breakthroughs will have to emerge from understanding how context contributes to meaning - beyond the simplistic context windows of LLMs. We will design and prototype new empathetic AI understanding models to recognize and measure these deeper levels of meaning. Major societal applications include misinformation theory, information disorder, algorithmic bias, and mental well-being AI.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 3,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "L1",
-        "number": "2315",
-        "remarks": "> Class cancelled",
-        "quota": 0,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "WU, Dekai"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              3,
-              5
-            ],
-            "fromTime": "13:30",
-            "toTime": "14:50"
           }
         ]
       }
@@ -18510,7 +18468,7 @@
         "number": "1142",
         "remarks": " ",
         "quota": 60,
-        "enroll": 53,
+        "enroll": 52,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -21457,14 +21415,14 @@
         "section": "L1",
         "number": "1751",
         "remarks": " ",
-        "quota": 120,
+        "quota": 122,
         "enroll": 118,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BDT",
-            "quota": 40,
+            "quota": 42,
             "enroll": 39
           },
           {
@@ -35585,14 +35543,14 @@
         "number": "1206",
         "remarks": " ",
         "quota": 51,
-        "enroll": 49,
+        "enroll": 48,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ECE",
             "quota": 51,
-            "enroll": 49
+            "enroll": 48
           }
         ],
         "schedule": [
@@ -35681,7 +35639,7 @@
         "number": "1208",
         "remarks": " ",
         "quota": 50,
-        "enroll": 18,
+        "enroll": 17,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -35720,7 +35678,7 @@
         "number": "1209",
         "remarks": " ",
         "quota": 207,
-        "enroll": 205,
+        "enroll": 204,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -36141,7 +36099,7 @@
         "number": "1243",
         "remarks": " ",
         "quota": 40,
-        "enroll": 23,
+        "enroll": 22,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -37410,7 +37368,7 @@
         "number": "1766",
         "remarks": " ",
         "quota": 1023,
-        "enroll": 1020,
+        "enroll": 1019,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -37484,32 +37442,6 @@
               "HUANG, Erwin"
             ],
             "venue": "Rm 5620, Lift 31-32 (70)",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              3,
-              5
-            ],
-            "fromTime": "13:30",
-            "toTime": "14:50"
-          }
-        ]
-      },
-      {
-        "section": "L2",
-        "number": "2665",
-        "remarks": "> Class cancelled",
-        "quota": 0,
-        "enroll": 2,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "AROKIARAJ, Aloysius Wilfred Raj"
-            ],
-            "venue": "TBA",
             "fromDate": "2026-02-02",
             "toDate": "2026-05-09",
             "weekdays": [
@@ -40725,7 +40657,7 @@
         "number": "2708",
         "remarks": " ",
         "quota": 400,
-        "enroll": 325,
+        "enroll": 324,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -53231,7 +53163,7 @@
         "number": "1769",
         "remarks": " ",
         "quota": 95,
-        "enroll": 31,
+        "enroll": 32,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -53288,7 +53220,7 @@
         "number": "1770",
         "remarks": " ",
         "quota": 90,
-        "enroll": 8,
+        "enroll": 7,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -61774,7 +61706,7 @@
         "number": "3118",
         "remarks": " ",
         "quota": 47,
-        "enroll": 47,
+        "enroll": 46,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -61800,7 +61732,7 @@
         "number": "3119",
         "remarks": " ",
         "quota": 47,
-        "enroll": 47,
+        "enroll": 46,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -61879,7 +61811,7 @@
         "number": "3122",
         "remarks": " ",
         "quota": 60,
-        "enroll": 60,
+        "enroll": 59,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -61905,7 +61837,7 @@
         "number": "3124",
         "remarks": " ",
         "quota": 70,
-        "enroll": 70,
+        "enroll": 69,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -72908,44 +72840,6 @@
             "toTime": "13:20"
           }
         ]
-      },
-      {
-        "section": "T07",
-        "number": "3335",
-        "remarks": "> Class cancelled",
-        "quota": 0,
-        "enroll": 1,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              1
-            ],
-            "fromTime": "13:30",
-            "toTime": "14:50"
-          },
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "09:00",
-            "toTime": "10:20"
-          }
-        ]
       }
     ]
   },
@@ -75044,32 +74938,6 @@
             "toTime": "10:20"
           }
         ]
-      },
-      {
-        "section": "T03",
-        "number": "3392",
-        "remarks": "> Class cancelled",
-        "quota": 0,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              1,
-              3
-            ],
-            "fromTime": "09:00",
-            "toTime": "10:20"
-          }
-        ]
       }
     ]
   },
@@ -75087,32 +74955,6 @@
     "credits": 3,
     "attributes": [],
     "classes": [
-      {
-        "section": "T01",
-        "number": "3393",
-        "remarks": "> Class cancelled",
-        "quota": 0,
-        "enroll": 1,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              1,
-              3
-            ],
-            "fromTime": "09:00",
-            "toTime": "10:20"
-          }
-        ]
-      },
       {
         "section": "T02",
         "number": "3394",
@@ -75734,44 +75576,6 @@
             ],
             "fromTime": "12:00",
             "toTime": "13:20"
-          }
-        ]
-      },
-      {
-        "section": "T11",
-        "number": "3417",
-        "remarks": "> Class cancelled",
-        "quota": 0,
-        "enroll": 1,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              1
-            ],
-            "fromTime": "13:30",
-            "toTime": "14:50"
-          },
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "09:00",
-            "toTime": "10:20"
           }
         ]
       },
@@ -76634,48 +76438,6 @@
     ]
   },
   {
-    "career": "UGRD",
-    "subject": "LANG",
-    "number": "4091",
-    "code": "LANG4091",
-    "name": "Presentation Skills for Final Year Projects",
-    "description": "This 1-credit course equips students with essential skills to deliver professional, engaging, and impactful presentations for their Final Year Project (FYP) or capstone project. Over seven weeks, students will learn to captivate diverse audiences by crafting clear, cohesive narratives, delivering compelling central messages, and using effective storytelling and rhetorical and language strategies. They will build essential skills for adapting presentations to different audiences, managing pacing and smooth transitions, creating impactful visual aids, handling audience questions with confidence, and enhancing delivery through effective use of voice and body language. Through targeted practice and script writing sessions, FYP presentation practices, and personalized consultations, students will actively refine their presentation abilities and receive feedback from GenAI tools, peers, and the instructor. Ultimately, this course provides focused guidance to strengthen students' academic and professional presentation skills, preparing them for success beyond graduation. Graded P or F.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 1,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "T01",
-        "number": "3437",
-        "remarks": "> Class cancelled",
-        "quota": 0,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              2,
-              4
-            ],
-            "fromTime": "12:00",
-            "toTime": "13:20"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "career": "RPG",
     "subject": "LANG",
     "number": "5000",
@@ -76922,7 +76684,7 @@
         "number": "1448",
         "remarks": "> The class is delivered in a blended learning mode\n> For students under AIS research postgraduate programs",
         "quota": 24,
-        "enroll": 24,
+        "enroll": 23,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -80189,7 +79951,7 @@
         "quota": 40,
         "enroll": 40,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -80235,7 +79997,7 @@
         "quota": 40,
         "enroll": 25,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -80280,7 +80042,7 @@
         "quota": 40,
         "enroll": 37,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [],
         "schedule": [
           {
@@ -84150,6 +83912,19 @@
             "weekdays": [
               1
             ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "WANG, Wenbo"
+            ],
+            "venue": "Rm 2001, LSK Bldg",
+            "fromDate": "2026-04-13",
+            "toDate": "2026-05-04",
+            "weekdays": [
+              1
+            ],
             "fromTime": "18:00",
             "toTime": "21:20"
           },
@@ -84158,13 +83933,13 @@
               "WANG, Wenbo"
             ],
             "venue": "Rm 2001, LSK Bldg",
-            "fromDate": "2026-04-13",
-            "toDate": "2026-05-25",
+            "fromDate": "2026-04-20",
+            "toDate": "2026-05-04",
             "weekdays": [
               1
             ],
-            "fromTime": "18:00",
-            "toTime": "21:20"
+            "fromTime": "09:30",
+            "toTime": "12:50"
           }
         ]
       }
@@ -87432,7 +87207,7 @@
         "number": "3674",
         "remarks": " ",
         "quota": 150,
-        "enroll": 150,
+        "enroll": 149,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -87520,7 +87295,7 @@
         "number": "3679",
         "remarks": " ",
         "quota": 50,
-        "enroll": 50,
+        "enroll": 49,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -88584,7 +88359,7 @@
         "number": "3729",
         "remarks": " ",
         "quota": 81,
-        "enroll": 81,
+        "enroll": 80,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -88648,7 +88423,7 @@
         "number": "3733",
         "remarks": " ",
         "quota": 41,
-        "enroll": 41,
+        "enroll": 40,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -92161,7 +91936,7 @@
         "number": "1555",
         "remarks": " ",
         "quota": 20,
-        "enroll": 6,
+        "enroll": 5,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -92200,7 +91975,7 @@
         "number": "1556",
         "remarks": " ",
         "quota": 20,
-        "enroll": 5,
+        "enroll": 4,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -97468,7 +97243,7 @@
         "number": "3917",
         "remarks": " ",
         "quota": 50,
-        "enroll": 50,
+        "enroll": 49,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -99212,7 +98987,7 @@
         "section": "L1",
         "number": "1590",
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Venue from 30-Mar-2026 to 13-Apr-2026 (every Monday) and 27-Apr-2026 (Monday) : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Venue from 4-May-2026 to 25-May-2026 (every Monday) : United Conference Centre, 10/F, United Centre, 95 Queensway, Admiralty, Hong Kong\n> Add/Drop Deadline : 31-Mar-2026",
-        "quota": 48,
+        "quota": 40,
         "enroll": 35,
         "waitlist": 0,
         "consent": false,
@@ -99224,7 +98999,7 @@
           },
           {
             "name": "MBA",
-            "quota": 39,
+            "quota": 31,
             "enroll": 28
           },
           {
@@ -99509,19 +99284,19 @@
         "number": "1596",
         "remarks": "> For FT-MBA; PT-MBA and MBA Bi-Weekly students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 50,
-        "enroll": 49,
-        "waitlist": 8,
+        "enroll": 50,
+        "waitlist": 7,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MBA",
-            "quota": 5,
+            "quota": 4,
             "enroll": 4
           },
           {
             "name": "MBA Bi-weekly",
-            "quota": 45,
-            "enroll": 45
+            "quota": 46,
+            "enroll": 46
           }
         ],
         "schedule": [
@@ -100520,7 +100295,7 @@
         "number": "1839",
         "remarks": "> For MA(ILE) students or students with program director or course instructor's approval only\n> The class is delivered in a pure online mode",
         "quota": 25,
-        "enroll": 25,
+        "enroll": 24,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -104672,7 +104447,7 @@
         "number": "1809",
         "remarks": " ",
         "quota": 1000,
-        "enroll": 945,
+        "enroll": 944,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -104936,7 +104711,7 @@
         "number": "1810",
         "remarks": " ",
         "quota": 800,
-        "enroll": 614,
+        "enroll": 612,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
