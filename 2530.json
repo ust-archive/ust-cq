@@ -14502,7 +14502,7 @@
         "number": "2189",
         "remarks": " ",
         "quota": 120,
-        "enroll": 114,
+        "enroll": 113,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -25647,10 +25647,23 @@
               "KITNEY, Paul"
             ],
             "venue": "TBA",
-            "fromDate": "2026-02-23",
+            "fromDate": "2026-03-02",
             "toDate": "2026-03-23",
             "weekdays": [
               1
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "KITNEY, Paul"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-03-13",
+            "toDate": "2026-03-13",
+            "weekdays": [
+              5
             ],
             "fromTime": "19:00",
             "toTime": "22:20"
