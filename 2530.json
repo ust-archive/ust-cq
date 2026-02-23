@@ -3192,52 +3192,6 @@
     ]
   },
   {
-    "career": "UGRD",
-    "subject": "AISC",
-    "number": "2800",
-    "code": "AISC2800",
-    "name": "AIS Cooperative Education Program",
-    "description": "This course is intended to enhance AIS students’ career readiness by combining classroom-based education with practical work experience. By taking any two standalone career development programs offered by the Career Center or those as recognized by the School, students are required to apply the skills and knowledge learnt in a full-time coop work experience for a single employer for at least 4 months. Approval from the course coordinator is required for enrollment in the course. For AIS Year 2 students or above only. Graded P of F.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 3,
-    "attributes": [
-      {
-        "attribute": "DELI",
-        "value": "EXP",
-        "attributeDescription": "Mode of Delivery",
-        "valueDescription": "[EXP] Experiential learning"
-      }
-    ],
-    "classes": [
-      {
-        "section": "T1",
-        "number": "2904",
-        "remarks": "> The class is delivered in a experiential learning mode",
-        "quota": 50,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "SIU, Wai Sze Grace"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
     "career": "RPG",
     "subject": "AMAT",
     "number": "7990",
@@ -4131,7 +4085,7 @@
       {
         "section": "L1",
         "number": "1139",
-        "remarks": " ",
+        "remarks": "> ARIN 5303 is not co-listing with MAIE 5533 in Spring 2025-26",
         "quota": 70,
         "enroll": 38,
         "waitlist": 0,
@@ -8858,31 +8812,6 @@
             "toTime": "16:20"
           }
         ]
-      },
-      {
-        "section": "LA3",
-        "number": "1976",
-        "remarks": " ",
-        "quota": 24,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TUNG, Joanne Wai Ting"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              2
-            ],
-            "fromTime": "10:30",
-            "toTime": "13:20"
-          }
-        ]
       }
     ]
   },
@@ -10292,74 +10221,6 @@
         "remarks": " ",
         "quota": 70,
         "enroll": 56,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "QIU, Wenting",
-              "TUNG, Joanne Wai Ting"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              6
-            ],
-            "fromTime": "10:00",
-            "toTime": "10:50"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "TPG",
-    "subject": "CHMS",
-    "number": "5202",
-    "code": "CHMS5202",
-    "name": "Analytical Instrumentation Laboratory II",
-    "description": "Students will choose from a further array of experiments, complementary to CHMS 5201, involving analytical techniques that have been introduced in either the core and the elective courses. Students must attend and write up experimental reports for at least eight laboratory sessions to complete the course. Maybe graded PP.",
-    "previousCodes": "",
-    "prerequisites": "CHMS 5201",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 3,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "LA1",
-        "number": "1111",
-        "remarks": "> For MSc(ANCHEM) students only.",
-        "quota": 10,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "QIU, Wenting",
-              "TUNG, Joanne Wai Ting"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              6
-            ],
-            "fromTime": "11:00",
-            "toTime": "16:50"
-          }
-        ]
-      },
-      {
-        "section": "T1",
-        "number": "1112",
-        "remarks": " ",
-        "quota": 10,
-        "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -12924,68 +12785,6 @@
     ]
   },
   {
-    "career": "UGRD",
-    "subject": "CIVL",
-    "number": "4950",
-    "code": "CIVL4950",
-    "name": "Civil Engineering Capstone Design Project",
-    "description": "This course transforms engineering students into student engineers through execution of a full-scale authentic design project, under the direct guidance of a team of professional engineers. The capstone project involves the integration of prior design knowledge, teamwork and communication skills to make competent design decisions in civil engineering workplace. Design topics may include project planning, feasibility studies, environmental impact assessments, site development, foundation design, structural design, transportation engineering, cost estimating, contract document preparation, and construction project management. Students should have successfully completed the third year of undergraduate study.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "LANG 4033",
-    "exclusions": "",
-    "credits": 3,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "L1",
-        "number": "4593",
-        "remarks": " ",
-        "quota": 3,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "CHAN, Yui Bun"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      },
-      {
-        "section": "T1",
-        "number": "4594",
-        "remarks": " ",
-        "quota": 3,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "CHAN, Yui Bun"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
     "career": "RPG",
     "subject": "CIVL",
     "number": "5210",
@@ -13103,47 +12902,6 @@
             ],
             "fromTime": "18:00",
             "toTime": "20:50"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "RPG",
-    "subject": "CIVL",
-    "number": "5530",
-    "code": "CIVL5530",
-    "name": "Turbulence Processes in Hydrosystems",
-    "description": "An introduction to turbulence, including the nature of turbulence, governing equations of turbulent flow, structure of turbulence, turbulence modeling, experimental measurements of turbulence and an introduction to computational fluid dynamics.",
-    "previousCodes": "CIVL6100A",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 3,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "L1",
-        "number": "1117",
-        "remarks": " ",
-        "quota": 30,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "GHIDAOUI, Mohamed Salah"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              3
-            ],
-            "fromTime": "12:00",
-            "toTime": "14:50"
           }
         ]
       }
@@ -17848,34 +17606,7 @@
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "CHAN, Gary Shueng Han"
-            ],
-            "venue": "Rm 6602, Lift 31-32 (60)",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              1
-            ],
-            "fromTime": "13:30",
-            "toTime": "14:50"
-          },
-          {
-            "instructors": [
-              "CHAN, Gary Shueng Han"
-            ],
-            "venue": "Rm 6602, Lift 31-32 (60)",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "09:00",
-            "toTime": "10:20"
-          }
-        ]
+        "schedule": []
       }
     ]
   },
@@ -19883,56 +19614,6 @@
         ]
       },
       {
-        "section": "T04",
-        "number": "2100",
-        "remarks": "> Classes held in Room 2130B",
-        "quota": 0,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              3
-            ],
-            "fromTime": "18:00",
-            "toTime": "18:50"
-          }
-        ]
-      },
-      {
-        "section": "T05",
-        "number": "2101",
-        "remarks": "> Classes held in Room 2130C",
-        "quota": 0,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              3
-            ],
-            "fromTime": "18:00",
-            "toTime": "18:50"
-          }
-        ]
-      },
-      {
         "section": "T06",
         "number": "2102",
         "remarks": "> Classes held in Room 2130C",
@@ -19963,31 +19644,6 @@
         "remarks": "> Classes held in Room 2131A",
         "quota": 6,
         "enroll": 6,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              3
-            ],
-            "fromTime": "18:00",
-            "toTime": "18:50"
-          }
-        ]
-      },
-      {
-        "section": "T08",
-        "number": "2104",
-        "remarks": "> Classes held in Room 2131A",
-        "quota": 0,
-        "enroll": 0,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -33301,31 +32957,6 @@
         ]
       },
       {
-        "section": "T06",
-        "number": "2517",
-        "remarks": "> Classes held in Room 2126B",
-        "quota": 0,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "ZHOU, Yu"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              3
-            ],
-            "fromTime": "18:00",
-            "toTime": "18:50"
-          }
-        ]
-      },
-      {
         "section": "T07",
         "number": "2518",
         "remarks": "> Classes held in Room 2126C",
@@ -35964,7 +35595,7 @@
         "number": "2912",
         "remarks": " ",
         "quota": 250,
-        "enroll": 182,
+        "enroll": 183,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -36342,31 +35973,6 @@
             ],
             "fromTime": "12:30",
             "toTime": "17:20"
-          }
-        ]
-      },
-      {
-        "section": "LA2",
-        "number": "4556",
-        "remarks": " ",
-        "quota": 5,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "LAM, Leung Yuk Frank"
-            ],
-            "venue": "Rm 2007, CYT Bldg",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              6
-            ],
-            "fromTime": "09:00",
-            "toTime": "13:50"
           }
         ]
       },
@@ -36876,31 +36482,7 @@
     "exclusions": "",
     "credits": 1,
     "attributes": [],
-    "classes": [
-      {
-        "section": "R1",
-        "number": "4195",
-        "remarks": " ",
-        "quota": 10,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "LIU, Y.S. Marshal"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
+    "classes": []
   },
   {
     "career": "UGRD",
@@ -36954,31 +36536,7 @@
     "exclusions": "",
     "credits": 3,
     "attributes": [],
-    "classes": [
-      {
-        "section": "R1",
-        "number": "4197",
-        "remarks": " ",
-        "quota": 10,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "LIU, Y.S. Marshal"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
+    "classes": []
   },
   {
     "career": "UGRD",
@@ -37311,7 +36869,7 @@
         "number": "1766",
         "remarks": " ",
         "quota": 1023,
-        "enroll": 1019,
+        "enroll": 1021,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -37596,34 +37154,7 @@
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "CHAN, Gary Shueng Han"
-            ],
-            "venue": "Rm 6602, Lift 31-32 (60)",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              1
-            ],
-            "fromTime": "13:30",
-            "toTime": "14:50"
-          },
-          {
-            "instructors": [
-              "CHAN, Gary Shueng Han"
-            ],
-            "venue": "Rm 6602, Lift 31-32 (60)",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "09:00",
-            "toTime": "10:20"
-          }
-        ]
+        "schedule": []
       }
     ]
   },
@@ -45015,7 +44546,7 @@
       {
         "section": "L1",
         "number": "1580",
-        "remarks": "> Instructor : WONG, Joy\n> For MSc(FOFB) students only\n> Add/Drop Deadline : 02-Feb-2026",
+        "remarks": "> For MSc(FOFB) students only\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 40,
         "enroll": 30,
         "waitlist": 0,
@@ -45030,7 +44561,8 @@
         "schedule": [
           {
             "instructors": [
-              "HU, Zhixin"
+              "HU, Zhixin",
+              "WANG, Yue"
             ],
             "venue": "Rm 1001, LSK Bldg (75)",
             "fromDate": "2026-01-31",
@@ -45043,7 +44575,8 @@
           },
           {
             "instructors": [
-              "HU, Zhixin"
+              "HU, Zhixin",
+              "WANG, Yue"
             ],
             "venue": "Rm 1001, LSK Bldg (75)",
             "fromDate": "2026-03-14",
@@ -45169,7 +44702,8 @@
         "schedule": [
           {
             "instructors": [
-              "KOH, Tat Koon"
+              "KOH, Tat Koon",
+              "NG, Sze Long Sharon"
             ],
             "venue": "TBA",
             "fromDate": "2026-02-02",
@@ -45209,7 +44743,8 @@
           {
             "instructors": [
               "CHEW, Thian",
-              "DORAN, Christopher"
+              "DORAN, Christopher",
+              "LAM, Wing In"
             ],
             "venue": "Rm 1001, LSK Bldg (75)",
             "fromDate": "2026-02-03",
@@ -45264,6 +44799,7 @@
         "schedule": [
           {
             "instructors": [
+              "CHAN, Lap Cheung",
               "DORAN, Christopher"
             ],
             "venue": "Rm 1003, LSK Bldg (75)",
@@ -45306,7 +44842,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHEUNG, Cassian"
+              "CHEUNG, Cassian",
+              "LAM, Wing In"
             ],
             "venue": "Rm 1001, LSK Bldg (75)",
             "fromDate": "2026-02-02",
@@ -45348,7 +44885,8 @@
           {
             "instructors": [
               "DORAN, Christopher",
-              "NASON, Stephen William"
+              "NASON, Stephen William",
+              "RAMALINGAM, Sangeetha"
             ],
             "venue": "Rm 1003, LSK Bldg (75)",
             "fromDate": "2026-02-02",
@@ -45390,6 +44928,7 @@
         "schedule": [
           {
             "instructors": [
+              "LAM, Wing In",
               "RAO, Milind Shankar"
             ],
             "venue": "Rm 1003, LSK Bldg (75)",
@@ -45444,7 +44983,8 @@
         "schedule": [
           {
             "instructors": [
-              "DORAN, Christopher"
+              "DORAN, Christopher",
+              "NG, Sze Long Sharon"
             ],
             "venue": "TBA",
             "fromDate": "2026-02-02",
@@ -66465,8 +66005,8 @@
         "section": "L1",
         "number": "1439",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 13-Apr-2026",
-        "quota": 50,
-        "enroll": 44,
+        "quota": 54,
+        "enroll": 48,
         "waitlist": 5,
         "consent": false,
         "reservedQuota": [
@@ -66487,8 +66027,8 @@
           },
           {
             "name": "ISM",
-            "quota": 36,
-            "enroll": 36
+            "quota": 40,
+            "enroll": 40
           },
           {
             "name": "TLE",
@@ -80111,45 +79651,6 @@
   {
     "career": "RPG",
     "subject": "LIFS",
-    "number": "6420A",
-    "code": "LIFS6420A",
-    "name": "Project Research",
-    "description": "Project research in one of the life science research laboratories under the supervision of a faculty member. Graded P or F. (for Visiting Internship Postgraduate student)",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 1,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "R1",
-        "number": "1502",
-        "remarks": " ",
-        "quota": 10,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "RPG",
-    "subject": "LIFS",
     "number": "6660",
     "code": "LIFS6660",
     "name": "Molecular Medicine",
@@ -81388,53 +80889,6 @@
               "LI, Maocheng"
             ],
             "venue": "Rm 2406, Lift 17-18 (76)",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              4
-            ],
-            "fromTime": "19:00",
-            "toTime": "21:50"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "TPG",
-    "subject": "MAIE",
-    "number": "5533",
-    "code": "MAIE5533",
-    "name": "Artificial Intelligence in Cybersecurity",
-    "description": "This course aims to teach students using artificial intelligence (AI) to solve cybersecurity problems. Students will learn general principles in different cybersecurity domains, e.g., cybersecurity mindsets, cryptographic methods, software security, network security, and hardware security. Moreover, they will also learn how to effectively apply AI techniques to solve problems in cybersecurity domains and contexts.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "ARIN 5303",
-    "credits": 3,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "L1",
-        "number": "1159",
-        "remarks": " ",
-        "quota": 60,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [
-          {
-            "name": "MAIE",
-            "quota": 60,
-            "enroll": 0
-          }
-        ],
-        "schedule": [
-          {
-            "instructors": [
-              "WANG, Shuai"
-            ],
-            "venue": "Rm 5403, Lift 17-18 (134)",
             "fromDate": "2026-02-02",
             "toDate": "2026-05-09",
             "weekdays": [
@@ -95062,45 +94516,6 @@
   {
     "career": "RPG",
     "subject": "MECH",
-    "number": "6950B",
-    "code": "MECH6950B",
-    "name": "Independent Studies",
-    "description": "An independent research project carried out under the supervision of a faculty member. (Only one independent studies course may be used to satisfy the course requirements for any postgraduate program in the Department of Mechanical Engineering.)",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 2,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "R1",
-        "number": "1568",
-        "remarks": " ",
-        "quota": 1,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "RPG",
-    "subject": "MECH",
     "number": "6950C",
     "code": "MECH6950C",
     "name": "Independent Studies",
@@ -100209,45 +99624,6 @@
   {
     "career": "RPG",
     "subject": "MGMT",
-    "number": "6990",
-    "code": "MGMT6990",
-    "name": "MPhil Thesis Research",
-    "description": "Master's thesis research supervised by a faculty member. A successful defense of the thesis leads to Pass. No course credit is assigned.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 0,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "R1",
-        "number": "1581",
-        "remarks": "> For MPhil(MGMT) students only",
-        "quota": 10,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "RPG",
-    "subject": "MGMT",
     "number": "7100",
     "code": "MGMT7100",
     "name": "Behavioral Science",
@@ -103210,45 +102586,6 @@
   {
     "career": "RPG",
     "subject": "NANO",
-    "number": "6100",
-    "code": "NANO6100",
-    "name": "Independent Study in Nano Science and Technology",
-    "description": "An individual in-depth study of a current topic in nano science and technology under the supervision of a faculty member.  For students of NANO program only.  The instructor's approval is required for taking this course. Graded P or F.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 3,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "T1",
-        "number": "1637",
-        "remarks": "> The instructor's approval is required for taking this course.",
-        "quota": 10,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "RPG",
-    "subject": "NANO",
     "number": "6990",
     "code": "NANO6990",
     "name": "MPhil Thesis Research",
@@ -105504,7 +104841,7 @@
         "number": "3985",
         "remarks": " ",
         "quota": 200,
-        "enroll": 184,
+        "enroll": 185,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
