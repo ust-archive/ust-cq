@@ -340,7 +340,7 @@
         "number": "1040",
         "remarks": " ",
         "quota": 72,
-        "enroll": 72,
+        "enroll": 71,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -1237,7 +1237,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHAN, Suk Sun"
+              "CHAN, Suk Sun",
+              "DUAN, Viola"
             ],
             "venue": "Rm 2, 31/F, Tower 1,Millennity",
             "fromDate": "2026-01-26",
@@ -1294,7 +1295,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHAN, Suk Sun"
+              "CHAN, Suk Sun",
+              "DUAN, Viola"
             ],
             "venue": "Rm 2, 31/F, Tower 1,Millennity",
             "fromDate": "2026-01-26",
@@ -1351,7 +1353,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHAN, Suk Sun"
+              "CHAN, Suk Sun",
+              "DUAN, Viola"
             ],
             "venue": "Rm 1007, LSK Bldg (80)",
             "fromDate": "2026-04-11",
@@ -7583,7 +7586,7 @@
         "number": "1081",
         "remarks": " ",
         "quota": 30,
-        "enroll": 21,
+        "enroll": 20,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -7731,7 +7734,7 @@
         "number": "1085",
         "remarks": " ",
         "quota": 30,
-        "enroll": 9,
+        "enroll": 8,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -8901,7 +8904,7 @@
         "number": "1979",
         "remarks": " ",
         "quota": 81,
-        "enroll": 81,
+        "enroll": 82,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -13833,7 +13836,7 @@
         "number": "2163",
         "remarks": " ",
         "quota": 185,
-        "enroll": 141,
+        "enroll": 140,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -13991,7 +13994,7 @@
         "number": "2174",
         "remarks": " ",
         "quota": 170,
-        "enroll": 165,
+        "enroll": 164,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -17606,7 +17609,34 @@
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
-        "schedule": []
+        "schedule": [
+          {
+            "instructors": [
+              "CHAN, Gary Shueng Han"
+            ],
+            "venue": "Rm 6602, Lift 31-32 (60)",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "13:30",
+            "toTime": "14:50"
+          },
+          {
+            "instructors": [
+              "CHAN, Gary Shueng Han"
+            ],
+            "venue": "Rm 6602, Lift 31-32 (60)",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "09:00",
+            "toTime": "10:20"
+          }
+        ]
       }
     ]
   },
@@ -35595,7 +35625,7 @@
         "number": "2912",
         "remarks": " ",
         "quota": 250,
-        "enroll": 183,
+        "enroll": 184,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -36472,21 +36502,6 @@
   {
     "career": "UGRD",
     "subject": "ENGG",
-    "number": "2991E",
-    "code": "ENGG2991E",
-    "name": "Undergraduate Student-initiated Experiential Learning",
-    "description": "This course shall encourage students to carry our projects of their own ideas under guidance of faculty supervisors to apply engineering knowledge they learnt and integrate other expertise. In the end of the term, students are required to submit reports/demonstrations in an open house to show what they have achieved. Project and budget proposal should be submitted to the School of Engineering for application approval. May be repeated for credits if different topics are taken. Graded PP, P or F. Instructor's approval is required for enrollment in the course.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 1,
-    "attributes": [],
-    "classes": []
-  },
-  {
-    "career": "UGRD",
-    "subject": "ENGG",
     "number": "2992E",
     "code": "ENGG2992E",
     "name": "Undergraduate Student-initiated Experiential Learning",
@@ -36522,21 +36537,6 @@
         ]
       }
     ]
-  },
-  {
-    "career": "UGRD",
-    "subject": "ENGG",
-    "number": "2993E",
-    "code": "ENGG2993E",
-    "name": "Undergraduate Student-initiated Experiential Learning",
-    "description": "This course shall encourage students to carry our projects of their own ideas under guidance of faculty supervisors to apply engineering knowledge they learnt and integrate other expertise. In the end of the term, students are required to submit reports/demonstrations in an open house to show what they have achieved. Project and budget proposal should be submitted to the School of Engineering for application approval. May be repeated for credits if different topics are taken. Graded PP, P or F. Instructor's approval is required for enrollment in the course.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 3,
-    "attributes": [],
-    "classes": []
   },
   {
     "career": "UGRD",
@@ -37128,33 +37128,6 @@
             "toTime": null
           }
         ]
-      }
-    ]
-  },
-  {
-    "career": "UGRD",
-    "subject": "ENTR",
-    "number": "4911",
-    "code": "ENTR4911",
-    "name": "IT Entrepreneurship",
-    "description": "Basic elements of starting a new business in information technology; exploiting an \"unfair\" advantage; preparing a business plan; arranging financial support; accounting and legal requirements; exit strategy. Case studies of successful and failed ventures in Hong Kong and elsewhere.",
-    "previousCodes": "",
-    "prerequisites": "COMP 1021 OR COMP 1022P OR COMP 1022Q OR COMP 1023 OR COMP 2011 OR COMP 2012H OR ISOM 3230",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 3,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "L1",
-        "number": "2670",
-        "remarks": " ",
-        "quota": 3,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": []
       }
     ]
   },
@@ -40211,7 +40184,7 @@
         "number": "2710",
         "remarks": " ",
         "quota": 65,
-        "enroll": 61,
+        "enroll": 60,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -42846,14 +42819,14 @@
         "number": "1301",
         "remarks": "> For MSc(FINA); MSc(FA); MSc(IM); FT-MBA and MBA Exchange students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 65,
-        "enroll": 65,
+        "enroll": 64,
         "waitlist": 6,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 56,
-            "enroll": 56
+            "enroll": 55
           },
           {
             "name": "MARK",
@@ -43204,7 +43177,7 @@
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 70,
         "enroll": 70,
-        "waitlist": 22,
+        "waitlist": 21,
         "consent": false,
         "reservedQuota": [
           {
@@ -46134,7 +46107,7 @@
         "number": "4206",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 600,
-        "enroll": 407,
+        "enroll": 406,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -46999,6 +46972,7 @@
           {
             "instructors": [
               "CABOARA, Marco",
+              "CHOY, Chi Ho",
               "FUNG, Eddy",
               "HENDRY, David James",
               "MEGAN, Melissa Jane",
@@ -51161,31 +51135,6 @@
             ],
             "fromTime": "13:00",
             "toTime": "13:50"
-          }
-        ]
-      },
-      {
-        "section": "T3",
-        "number": "2828",
-        "remarks": " ",
-        "quota": 6,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "KAILA, Ilari"
-            ],
-            "venue": "Rm 103, Shaw Auditorium",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              4
-            ],
-            "fromTime": "14:00",
-            "toTime": "14:50"
           }
         ]
       }
@@ -56593,97 +56542,6 @@
   {
     "career": "UGRD",
     "subject": "ISDN",
-    "number": "3004",
-    "code": "ISDN3004",
-    "name": "Advanced Sketching",
-    "description": "The course enhances the visual communication and creativity skills of students through a palette of advanced sketching skills such as how to draw in perspective and; how to develop visual narratives vis-à-vis scripts and storyboards. A larger spectrum of tools and materials will be introduced such as drawing with markers and other mixed-media. The course contains extensive in-studio sketching sessions where students will explore various advanced sketching approaches under the guidance of the instructor; to further develop their individual creativity and visual communication skills. The course requires basic knowledge on sketching.",
-    "previousCodes": "ISDN4000L",
-    "prerequisites": "ISDN 1004",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 2,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "L1",
-        "number": "2959",
-        "remarks": " ",
-        "quota": 30,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "LAU, Brian Hui Wang"
-            ],
-            "venue": "Rm 2590, Lift 27-28",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              1
-            ],
-            "fromTime": "18:00",
-            "toTime": "18:50"
-          }
-        ]
-      },
-      {
-        "section": "LA1",
-        "number": "2960",
-        "remarks": " ",
-        "quota": 30,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "LAU, Brian Hui Wang"
-            ],
-            "venue": "Rm 2590, Lift 27-28",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              2
-            ],
-            "fromTime": "17:00",
-            "toTime": "18:50"
-          }
-        ]
-      },
-      {
-        "section": "T1",
-        "number": "2961",
-        "remarks": " ",
-        "quota": 30,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "LAU, Brian Hui Wang"
-            ],
-            "venue": "Rm 2590, Lift 27-28",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              1
-            ],
-            "fromTime": "19:00",
-            "toTime": "19:50"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "UGRD",
-    "subject": "ISDN",
     "number": "3010",
     "code": "ISDN3010",
     "name": "Academic and Professional Development III",
@@ -59095,7 +58953,7 @@
         "number": "3156",
         "remarks": "> Add/Drop Deadline : 09-Feb-2026",
         "quota": 90,
-        "enroll": 85,
+        "enroll": 84,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -59223,7 +59081,7 @@
         "number": "3165",
         "remarks": " ",
         "quota": 60,
-        "enroll": 60,
+        "enroll": 59,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -60684,7 +60542,7 @@
         "number": "3086",
         "remarks": " ",
         "quota": 60,
-        "enroll": 60,
+        "enroll": 59,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -60812,7 +60670,7 @@
         "number": "3095",
         "remarks": " ",
         "quota": 45,
-        "enroll": 32,
+        "enroll": 31,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -62589,7 +62447,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "CHUNG, Jeffrey"
             ],
             "venue": "TBA",
             "fromDate": "2026-01-29",
@@ -62677,6 +62535,7 @@
         "schedule": [
           {
             "instructors": [
+              "CHUNG, Jeffrey",
               "KWOK, James Sai Ho"
             ],
             "venue": "Rm 1005, LSK Bldg (75)",
@@ -62729,7 +62588,8 @@
         "schedule": [
           {
             "instructors": [
-              "IEONG, Sze Chung Ricci"
+              "IEONG, Sze Chung Ricci",
+              "YAP, William Khin Hoong"
             ],
             "venue": "Rm 1005, LSK Bldg (75)",
             "fromDate": "2026-04-11",
@@ -62786,7 +62646,8 @@
         "schedule": [
           {
             "instructors": [
-              "IEONG, Sze Chung Ricci"
+              "IEONG, Sze Chung Ricci",
+              "TSE, Chris"
             ],
             "venue": "Rm 1014, LSK Bldg (80)",
             "fromDate": "2026-01-31",
@@ -62851,7 +62712,8 @@
         "schedule": [
           {
             "instructors": [
-              "JIA, Jia"
+              "JIA, Jia",
+              "PANG, Ngai Cheung"
             ],
             "venue": "Rm 2003, LSK Bldg",
             "fromDate": "2026-01-30",
@@ -62864,7 +62726,8 @@
           },
           {
             "instructors": [
-              "JIA, Jia"
+              "JIA, Jia",
+              "PANG, Ngai Cheung"
             ],
             "venue": "Rm 2003, LSK Bldg",
             "fromDate": "2026-02-27",
@@ -63040,7 +62903,8 @@
         "schedule": [
           {
             "instructors": [
-              "DIAS, Garvin Percy"
+              "DIAS, Garvin Percy",
+              "NG, Ka Wai Tommy"
             ],
             "venue": "Rm 2003, LSK Bldg",
             "fromDate": "2026-04-01",
@@ -63110,7 +62974,8 @@
         "schedule": [
           {
             "instructors": [
-              "FUNG, Terrance"
+              "FUNG, Terrance",
+              "LAI, Sum Yu"
             ],
             "venue": "TBA",
             "fromDate": "2026-01-27",
@@ -63231,7 +63096,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHANG, Henry"
+              "CHANG, Henry",
+              "TSE, Chris"
             ],
             "venue": "G003, LSK Bldg (75)",
             "fromDate": "2026-04-02",
@@ -63278,7 +63144,8 @@
         "schedule": [
           {
             "instructors": [
-              "KWOK, James Sai Ho"
+              "KWOK, James Sai Ho",
+              "NG, Ka Wai Tommy"
             ],
             "venue": "Rm 1005, LSK Bldg (75)",
             "fromDate": "2026-01-31",
@@ -63291,7 +63158,8 @@
           },
           {
             "instructors": [
-              "KWOK, James Sai Ho"
+              "KWOK, James Sai Ho",
+              "NG, Ka Wai Tommy"
             ],
             "venue": "Rm 1005, LSK Bldg (75)",
             "fromDate": "2026-02-28",
@@ -63374,7 +63242,8 @@
         "schedule": [
           {
             "instructors": [
-              "KWOK, James Sai Ho"
+              "KWOK, James Sai Ho",
+              "NG, Ka Wai Tommy"
             ],
             "venue": "Rm 2003, LSK Bldg",
             "fromDate": "2026-01-26",
@@ -63387,7 +63256,8 @@
           },
           {
             "instructors": [
-              "KWOK, James Sai Ho"
+              "KWOK, James Sai Ho",
+              "NG, Ka Wai Tommy"
             ],
             "venue": "Rm 2003, LSK Bldg",
             "fromDate": "2026-02-23",
@@ -63864,7 +63734,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHAN, Hilton Kwok Hung"
+              "CHAN, Hilton Kwok Hung",
+              "TSE, Chris"
             ],
             "venue": "Rm 2, 31/F, Tower 1,Millennity",
             "fromDate": "2026-01-30",
@@ -63877,7 +63748,8 @@
           },
           {
             "instructors": [
-              "CHAN, Hilton Kwok Hung"
+              "CHAN, Hilton Kwok Hung",
+              "TSE, Chris"
             ],
             "venue": "Rm 2, 31/F, Tower 1,Millennity",
             "fromDate": "2026-02-05",
@@ -63890,7 +63762,8 @@
           },
           {
             "instructors": [
-              "CHAN, Hilton Kwok Hung"
+              "CHAN, Hilton Kwok Hung",
+              "TSE, Chris"
             ],
             "venue": "Rm 2, 31/F, Tower 1,Millennity",
             "fromDate": "2026-02-26",
@@ -63991,7 +63864,8 @@
         "schedule": [
           {
             "instructors": [
-              "DIAS, Garvin Percy"
+              "DIAS, Garvin Percy",
+              "GU, Sophie J Y"
             ],
             "venue": "Rm 2003, LSK Bldg",
             "fromDate": "2026-01-26",
@@ -64004,7 +63878,8 @@
           },
           {
             "instructors": [
-              "DIAS, Garvin Percy"
+              "DIAS, Garvin Percy",
+              "GU, Sophie J Y"
             ],
             "venue": "Rm 2003, LSK Bldg",
             "fromDate": "2026-02-23",
@@ -64040,7 +63915,8 @@
         "schedule": [
           {
             "instructors": [
-              "DIAS, Garvin Percy"
+              "DIAS, Garvin Percy",
+              "GU, Sophie J Y"
             ],
             "venue": "Rm 1001, LSK Bldg (75)",
             "fromDate": "2026-02-08",
@@ -64113,7 +63989,8 @@
         "schedule": [
           {
             "instructors": [
-              "KOH, Tat Koon"
+              "KOH, Tat Koon",
+              "WAN, On Yu"
             ],
             "venue": "G003, LSK Bldg (75)",
             "fromDate": "2026-04-02",
@@ -64126,7 +64003,8 @@
           },
           {
             "instructors": [
-              "KOH, Tat Koon"
+              "KOH, Tat Koon",
+              "WAN, On Yu"
             ],
             "venue": "G003, LSK Bldg (75)",
             "fromDate": "2026-04-16",
@@ -64295,6 +64173,7 @@
         "schedule": [
           {
             "instructors": [
+              "LAI, Sum Yu",
               "WANG, Jiying"
             ],
             "venue": "G001, LSK Bldg (75)",
@@ -64308,6 +64187,7 @@
           },
           {
             "instructors": [
+              "LAI, Sum Yu",
               "WANG, Jiying"
             ],
             "venue": "G001, LSK Bldg (75)",
@@ -64355,7 +64235,8 @@
         "schedule": [
           {
             "instructors": [
-              "FUNG, Chi Pun"
+              "FUNG, Chi Pun",
+              "LAI, Sum Yu"
             ],
             "venue": "TBA",
             "fromDate": "2026-01-28",
@@ -64368,7 +64249,8 @@
           },
           {
             "instructors": [
-              "FUNG, Chi Pun"
+              "FUNG, Chi Pun",
+              "LAI, Sum Yu"
             ],
             "venue": "TBA",
             "fromDate": "2026-02-08",
@@ -64381,7 +64263,8 @@
           },
           {
             "instructors": [
-              "FUNG, Chi Pun"
+              "FUNG, Chi Pun",
+              "LAI, Sum Yu"
             ],
             "venue": "TBA",
             "fromDate": "2026-02-25",
@@ -64394,7 +64277,8 @@
           },
           {
             "instructors": [
-              "FUNG, Chi Pun"
+              "FUNG, Chi Pun",
+              "LAI, Sum Yu"
             ],
             "venue": "TBA",
             "fromDate": "2026-03-18",
@@ -64453,6 +64337,7 @@
         "schedule": [
           {
             "instructors": [
+              "CHAN, Wing Yan",
               "JAISINGH, Jeevan"
             ],
             "venue": "Rm 2, 31/F, Tower 1,Millennity",
@@ -64466,6 +64351,7 @@
           },
           {
             "instructors": [
+              "CHAN, Wing Yan",
               "JAISINGH, Jeevan"
             ],
             "venue": "Rm 2, 31/F, Tower 1,Millennity",
@@ -64479,6 +64365,7 @@
           },
           {
             "instructors": [
+              "CHAN, Wing Yan",
               "JAISINGH, Jeevan"
             ],
             "venue": "G012, LSK Bldg (199)",
@@ -64515,6 +64402,7 @@
         "schedule": [
           {
             "instructors": [
+              "CHAN, Wing Yan",
               "JAISINGH, Jeevan"
             ],
             "venue": "Rm 1005, LSK Bldg (75)",
@@ -64528,6 +64416,7 @@
           },
           {
             "instructors": [
+              "CHAN, Wing Yan",
               "JAISINGH, Jeevan"
             ],
             "venue": "Rm 1005, LSK Bldg (75)",
@@ -64541,6 +64430,7 @@
           },
           {
             "instructors": [
+              "CHAN, Wing Yan",
               "JAISINGH, Jeevan"
             ],
             "venue": "TBA",
@@ -64608,7 +64498,8 @@
         "schedule": [
           {
             "instructors": [
-              "LEE, Dongwon"
+              "LEE, Dongwon",
+              "SETHI, Aryan"
             ],
             "venue": "G003, LSK Bldg (75)",
             "fromDate": "2026-04-10",
@@ -66039,6 +65930,7 @@
         "schedule": [
           {
             "instructors": [
+              "WONG, Hei Tung",
               "YANG, Xiaodong"
             ],
             "venue": "Rm 1003, LSK Bldg (75)",
@@ -66111,7 +66003,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "NG, Ka Wai Tommy"
             ],
             "venue": "Rm 1003, LSK Bldg (75)",
             "fromDate": "2026-04-11",
@@ -66173,6 +66065,7 @@
         "schedule": [
           {
             "instructors": [
+              "LAI, Sum Yu",
               "ZHENG, Rong"
             ],
             "venue": "Rm 2001, LSK Bldg",
@@ -66186,6 +66079,7 @@
           },
           {
             "instructors": [
+              "LAI, Sum Yu",
               "ZHENG, Rong"
             ],
             "venue": "Rm 2001, LSK Bldg",
@@ -66253,7 +66147,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHEN, Yanzhen"
+              "CHEN, Yanzhen",
+              "PANG, Ngai Cheung"
             ],
             "venue": "G003, LSK Bldg (75)",
             "fromDate": "2026-04-08",
@@ -66335,7 +66230,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "PANG, Ngai Cheung"
             ],
             "venue": "TBA",
             "fromDate": "2026-03-31",
@@ -66348,7 +66243,7 @@
           },
           {
             "instructors": [
-              "TBA"
+              "PANG, Ngai Cheung"
             ],
             "venue": "TBA",
             "fromDate": "2026-04-14",
@@ -77453,8 +77348,8 @@
         "section": "LA1",
         "number": "3467",
         "remarks": " ",
-        "quota": 130,
-        "enroll": 130,
+        "quota": 131,
+        "enroll": 131,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -77479,8 +77374,8 @@
         "section": "T1",
         "number": "3468",
         "remarks": " ",
-        "quota": 130,
-        "enroll": 130,
+        "quota": 131,
+        "enroll": 131,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -78851,7 +78746,7 @@
         "number": "4513",
         "remarks": " ",
         "quota": 2,
-        "enroll": 1,
+        "enroll": 2,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -79120,45 +79015,6 @@
           {
             "instructors": [
               "TBA"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "UGRD",
-    "subject": "LIFS",
-    "number": "4973",
-    "code": "LIFS4973",
-    "name": "Biotechnology Project Research I",
-    "description": "Students will undertake a research project of their choice in an area of biotechnology under faculty supervision: design of experiments, analysis of data, submission of a written report. Approval of the course instructor is needed for students to enroll in this course. For BIOT students only.",
-    "previousCodes": "",
-    "prerequisites": "LIFS 3110",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 3,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "LA1",
-        "number": "3504",
-        "remarks": " ",
-        "quota": 1,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "LI, Laam"
             ],
             "venue": "TBA",
             "fromDate": "2026-02-02",
@@ -80364,7 +80220,7 @@
         "number": "1541",
         "remarks": "> For MSc(MAFM) students only.",
         "quota": 130,
-        "enroll": 59,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -84808,7 +84664,7 @@
         "number": "3588",
         "remarks": " ",
         "quota": 135,
-        "enroll": 128,
+        "enroll": 127,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -85066,7 +84922,7 @@
         "number": "3606",
         "remarks": " ",
         "quota": 120,
-        "enroll": 105,
+        "enroll": 106,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -85256,7 +85112,7 @@
         "number": "3617",
         "remarks": " ",
         "quota": 45,
-        "enroll": 44,
+        "enroll": 43,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -85906,7 +85762,7 @@
         "number": "3643",
         "remarks": " ",
         "quota": 40,
-        "enroll": 27,
+        "enroll": 28,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -86264,7 +86120,7 @@
         "number": "4490",
         "remarks": " ",
         "quota": 50,
-        "enroll": 39,
+        "enroll": 40,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -86290,7 +86146,7 @@
         "number": "4491",
         "remarks": " ",
         "quota": 50,
-        "enroll": 39,
+        "enroll": 40,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -86395,7 +86251,7 @@
         "number": "3662",
         "remarks": " ",
         "quota": 122,
-        "enroll": 122,
+        "enroll": 121,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -86596,7 +86452,7 @@
         "number": "3672",
         "remarks": " ",
         "quota": 41,
-        "enroll": 41,
+        "enroll": 40,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -87044,7 +86900,7 @@
             "instructors": [
               "YAN, Min"
             ],
-            "venue": "Rm 2306, Lift 17-18 (111)",
+            "venue": "Rm 2502, Lift 25-26 (120)",
             "fromDate": "2026-02-02",
             "toDate": "2026-05-09",
             "weekdays": [
@@ -89999,7 +89855,7 @@
         "number": "4571",
         "remarks": " ",
         "quota": 1,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -92025,7 +91881,7 @@
         "number": "3814",
         "remarks": " ",
         "quota": 184,
-        "enroll": 177,
+        "enroll": 176,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -96690,7 +96546,7 @@
         "number": "3917",
         "remarks": " ",
         "quota": 50,
-        "enroll": 48,
+        "enroll": 47,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -104841,7 +104697,7 @@
         "number": "3985",
         "remarks": " ",
         "quota": 200,
-        "enroll": 185,
+        "enroll": 184,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -106587,45 +106443,6 @@
   {
     "career": "UGRD",
     "subject": "PHYS",
-    "number": "2090A",
-    "code": "PHYS2090A",
-    "name": "Directed Studies in Physics I",
-    "description": "This course covers special topics selected by the instructor on the basis of individual student's request. For students in the second year of study under the four-year degree only. Instructor's approval is required for enrollment in the course. May be repeated for credits.",
-    "previousCodes": "",
-    "prerequisites": "CGA at 2.70 or above",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 1,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "T1",
-        "number": "4056",
-        "remarks": " ",
-        "quota": 10,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "HAN, Yilong"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "UGRD",
-    "subject": "PHYS",
     "number": "2090B",
     "code": "PHYS2090B",
     "name": "Directed Studies in Physics I",
@@ -107173,84 +106990,6 @@
   {
     "career": "UGRD",
     "subject": "PHYS",
-    "number": "3090A",
-    "code": "PHYS3090A",
-    "name": "Directed Studies in Physics II",
-    "description": "This course covers special topics selected by the instructor on the basis of individual student's request. For students in their third year of study under the four-year degree only. The instructor's approval is required for taking this course. May be repeated for credits.",
-    "previousCodes": "",
-    "prerequisites": "CGA at 2.70 or above",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 1,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "T1",
-        "number": "4075",
-        "remarks": " ",
-        "quota": 10,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "HAN, Yilong"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "UGRD",
-    "subject": "PHYS",
-    "number": "3090B",
-    "code": "PHYS3090B",
-    "name": "Directed Studies in Physics II",
-    "description": "This course covers special topics selected by the instructor on the basis of individual student's request.  For students in their third year of study under the four-year degree only. The instructor's approval is required for taking this course. May be repeated for credits.",
-    "previousCodes": "",
-    "prerequisites": "CGA at 2.70 or above",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 1,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "T1",
-        "number": "4076",
-        "remarks": " ",
-        "quota": 10,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "HAN, Yilong"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "UGRD",
-    "subject": "PHYS",
     "number": "3142",
     "code": "PHYS3142",
     "name": "Computational Methods in Physics",
@@ -107754,45 +107493,6 @@
         "remarks": " ",
         "quota": 30,
         "enroll": 2,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "HAN, Yilong"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "UGRD",
-    "subject": "PHYS",
-    "number": "4090B",
-    "code": "PHYS4090B",
-    "name": "Directed Studies in Physics III",
-    "description": "This course covers special topics selected by the instructor on the basis of individual student's request. For students in their fourth year of study only. The instructor's approval is required for taking this course. May be repeated for credits.",
-    "previousCodes": "",
-    "prerequisites": "CGA at 2.70 or above",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 1,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "T1",
-        "number": "4097",
-        "remarks": " ",
-        "quota": 30,
-        "enroll": 0,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -113637,7 +113337,7 @@
         "number": "4230",
         "remarks": " ",
         "quota": 120,
-        "enroll": 68,
+        "enroll": 67,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -116698,30 +116398,6 @@
             "toTime": null
           }
         ]
-      },
-      {
-        "section": "L8",
-        "number": "4215",
-        "remarks": "> The class is delivered in an experiential learning mode",
-        "quota": 6,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "ABEYNAYAKE, H.I. Malinda M.",
-              "CHAU, Ying"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [],
-            "fromTime": null,
-            "toTime": null
-          }
-        ]
       }
     ]
   },
@@ -116896,7 +116572,7 @@
         "number": "4334",
         "remarks": " ",
         "quota": 100,
-        "enroll": 71,
+        "enroll": 72,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
