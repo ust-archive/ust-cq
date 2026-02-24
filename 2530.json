@@ -3696,7 +3696,7 @@
         "number": "1068",
         "remarks": " ",
         "quota": 20,
-        "enroll": 17,
+        "enroll": 16,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -3743,7 +3743,7 @@
         "number": "4353",
         "remarks": " ",
         "quota": 40,
-        "enroll": 28,
+        "enroll": 27,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -3915,14 +3915,14 @@
         "number": "1135",
         "remarks": " ",
         "quota": 110,
-        "enroll": 105,
+        "enroll": 104,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ARIN",
             "quota": 110,
-            "enroll": 105
+            "enroll": 104
           }
         ],
         "schedule": [
@@ -5268,8 +5268,8 @@
         "section": "T1",
         "number": "1923",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 3; Spring: 3",
-        "quota": 2,
-        "enroll": 2,
+        "quota": 3,
+        "enroll": 3,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -18422,14 +18422,14 @@
         "number": "1147",
         "remarks": " ",
         "quota": 76,
-        "enroll": 66,
+        "enroll": 65,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "CSE",
             "quota": 56,
-            "enroll": 50
+            "enroll": 49
           }
         ],
         "schedule": [
@@ -22622,6 +22622,7 @@
           {
             "instructors": [
               "DU, Xin",
+              "LEUNG, Ka Wing",
               "WONG, Alan Chi",
               "YANG, Long"
             ],
@@ -22665,7 +22666,9 @@
           {
             "instructors": [
               "KO, Richard",
-              "TAM, Sunny"
+              "LEUNG, Ka Wing",
+              "TAM, Sunny",
+              "YEUNG, Rigil Kent"
             ],
             "venue": "Rm 5583, Lift 29-30 (80)",
             "fromDate": "2026-02-02",
@@ -22706,6 +22709,7 @@
         "schedule": [
           {
             "instructors": [
+              "LEUNG, Ka Wing",
               "TAM, Sunny"
             ],
             "venue": "Rm 1010, LSK Bldg (80)",
@@ -22748,7 +22752,8 @@
           {
             "instructors": [
               "BAO, Jing",
-              "KO, Richard"
+              "TAM, Sunny",
+              "TANG, Haifeng"
             ],
             "venue": "Rm 2404, Lift 17-18 (81)",
             "fromDate": "2026-02-02",
@@ -24423,7 +24428,7 @@
         "number": "2630",
         "remarks": " ",
         "quota": 55,
-        "enroll": 54,
+        "enroll": 53,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -24474,7 +24479,7 @@
         "number": "2634",
         "remarks": " ",
         "quota": 55,
-        "enroll": 54,
+        "enroll": 53,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -34000,7 +34005,7 @@
         "number": "2556",
         "remarks": " ",
         "quota": 60,
-        "enroll": 33,
+        "enroll": 34,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -34026,7 +34031,7 @@
         "number": "2557",
         "remarks": " ",
         "quota": 60,
-        "enroll": 33,
+        "enroll": 34,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -36413,7 +36418,7 @@
         "number": "4192",
         "remarks": " ",
         "quota": 900,
-        "enroll": 566,
+        "enroll": 567,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -41616,7 +41621,7 @@
         "number": "1300",
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 63,
-        "enroll": 33,
+        "enroll": 32,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -43265,7 +43270,7 @@
         "number": "1304",
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 63,
-        "enroll": 12,
+        "enroll": 10,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -43465,14 +43470,14 @@
         "number": "1306",
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 65,
-        "enroll": 39,
+        "enroll": 38,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 60,
-            "enroll": 36
+            "enroll": 35
           },
           {
             "name": "MIMT",
@@ -43623,14 +43628,14 @@
         "number": "1297",
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 65,
-        "enroll": 23,
+        "enroll": 25,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 64,
-            "enroll": 22
+            "enroll": 24
           },
           {
             "name": "FOFB",
@@ -44030,7 +44035,7 @@
       {
         "section": "L1",
         "number": "1572",
-        "remarks": "> Instructor : WOO, Patricia\n> For MSc(FOFB) students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 02-Feb-2026",
+        "remarks": "> For MSc(FOFB) students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 02-Feb-2026",
         "quota": 40,
         "enroll": 21,
         "waitlist": 0,
@@ -44060,7 +44065,8 @@
         "schedule": [
           {
             "instructors": [
-              "HU, Zhixin"
+              "HU, Zhixin",
+              "WOO, Yuk Ying Patricia"
             ],
             "venue": "TBA",
             "fromDate": "2026-01-26",
@@ -44073,7 +44079,8 @@
           },
           {
             "instructors": [
-              "HU, Zhixin"
+              "HU, Zhixin",
+              "WOO, Yuk Ying Patricia"
             ],
             "venue": "TBA",
             "fromDate": "2026-02-23",
@@ -44436,7 +44443,7 @@
       {
         "section": "L1",
         "number": "1593",
-        "remarks": ">  Instructor : WOO, Patricia\n> For MSc(FOFB) students only\n> Venue : United Conference Centre, 10/F, United Centre, 95 Queensway, Admiralty, Hong Kong\n> Add/Drop Deadline : 06-Apr-2026",
+        "remarks": "> For MSc(FOFB) students only\n> Venue : United Conference Centre, 10/F, United Centre, 95 Queensway, Admiralty, Hong Kong\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 40,
         "enroll": 22,
         "waitlist": 0,
@@ -44461,7 +44468,8 @@
         "schedule": [
           {
             "instructors": [
-              "HU, Zhixin"
+              "HU, Zhixin",
+              "WOO, Yuk Ying Patricia"
             ],
             "venue": "TBA",
             "fromDate": "2026-04-02",
@@ -44474,7 +44482,8 @@
           },
           {
             "instructors": [
-              "HU, Zhixin"
+              "HU, Zhixin",
+              "WOO, Yuk Ying Patricia"
             ],
             "venue": "Rm 6602, Lift 31-32 (60)",
             "fromDate": "2026-04-11",
@@ -44487,7 +44496,8 @@
           },
           {
             "instructors": [
-              "HU, Zhixin"
+              "HU, Zhixin",
+              "WOO, Yuk Ying Patricia"
             ],
             "venue": "TBA",
             "fromDate": "2026-05-07",
@@ -44500,7 +44510,8 @@
           },
           {
             "instructors": [
-              "HU, Zhixin"
+              "HU, Zhixin",
+              "WOO, Yuk Ying Patricia"
             ],
             "venue": "Rm 6602, Lift 31-32 (60)",
             "fromDate": "2026-05-09",
@@ -44513,7 +44524,8 @@
           },
           {
             "instructors": [
-              "HU, Zhixin"
+              "HU, Zhixin",
+              "WOO, Yuk Ying Patricia"
             ],
             "venue": "Rm 6602, Lift 31-32 (60)",
             "fromDate": "2026-05-23",
@@ -47285,7 +47297,7 @@
         "number": "1328",
         "remarks": "> For MA(CC) students only",
         "quota": 57,
-        "enroll": 57,
+        "enroll": 59,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -48607,7 +48619,7 @@
         "number": "2757",
         "remarks": " ",
         "quota": 100,
-        "enroll": 75,
+        "enroll": 76,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -52051,7 +52063,7 @@
         "number": "1331",
         "remarks": " ",
         "quota": 30,
-        "enroll": 28,
+        "enroll": 27,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -63203,14 +63215,14 @@
         "number": "1438",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 67,
-        "enroll": 65,
+        "enroll": 64,
         "waitlist": 1,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 63,
-            "enroll": 62
+            "enroll": 61
           },
           {
             "name": "FINA",
@@ -66140,7 +66152,7 @@
         "number": "1432",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 50,
-        "enroll": 49,
+        "enroll": 48,
         "waitlist": 25,
         "consent": false,
         "reservedQuota": [
@@ -66167,7 +66179,7 @@
           {
             "name": "TLE",
             "quota": 6,
-            "enroll": 5
+            "enroll": 4
           }
         ],
         "schedule": [
@@ -68094,7 +68106,7 @@
         "number": "3193",
         "remarks": "> The class is delivered in a blended learning mode",
         "quota": 60,
-        "enroll": 50,
+        "enroll": 51,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -80123,7 +80135,7 @@
         "number": "1539",
         "remarks": "> For MSc(MAFM) students only.\n> MAFS 5130 is not co-listing with MSBD 5006 in Spring 2025-26",
         "quota": 85,
-        "enroll": 20,
+        "enroll": 19,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -92573,8 +92585,8 @@
         "section": "L1",
         "number": "3839",
         "remarks": " ",
-        "quota": 114,
-        "enroll": 114,
+        "quota": 115,
+        "enroll": 115,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -92648,8 +92660,8 @@
         "section": "LA3",
         "number": "3844",
         "remarks": " ",
-        "quota": 29,
-        "enroll": 29,
+        "quota": 30,
+        "enroll": 30,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -98425,7 +98437,7 @@
         "number": "1591",
         "remarks": "> For MSc(FOFB) students only\n> Venue : United Conference Centre, 10/F, United Centre, 95 Queensway, Admiralty, Hong Kong\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 47,
-        "enroll": 43,
+        "enroll": 45,
         "waitlist": 1,
         "consent": false,
         "reservedQuota": [
@@ -98437,7 +98449,7 @@
           {
             "name": "FINA",
             "quota": 5,
-            "enroll": 3
+            "enroll": 5
           },
           {
             "name": "FOFB",
@@ -100821,7 +100833,7 @@
         "number": "1712",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 40,
-        "enroll": 36,
+        "enroll": 35,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -100848,7 +100860,7 @@
           {
             "name": "MIMT",
             "quota": 9,
-            "enroll": 7
+            "enroll": 6
           },
           {
             "name": "TLE",
@@ -102568,8 +102580,8 @@
         "section": "L1",
         "number": "3965",
         "remarks": "> The class is delivered in a blended learning mode",
-        "quota": 141,
-        "enroll": 141,
+        "quota": 142,
+        "enroll": 142,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -102610,8 +102622,8 @@
         "section": "L1",
         "number": "3966",
         "remarks": " ",
-        "quota": 176,
-        "enroll": 177,
+        "quota": 178,
+        "enroll": 178,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -107518,7 +107530,7 @@
         "number": "4096",
         "remarks": " ",
         "quota": 30,
-        "enroll": 2,
+        "enroll": 3,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -113436,7 +113448,7 @@
         "number": "4231",
         "remarks": "> The class is delivered in a self-paced online mode",
         "quota": 400,
-        "enroll": 398,
+        "enroll": 399,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
