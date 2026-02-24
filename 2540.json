@@ -4652,7 +4652,7 @@
               5
             ],
             "fromTime": "19:00",
-            "toTime": "22:20"
+            "toTime": "22:30"
           },
           {
             "instructors": [
@@ -4665,7 +4665,7 @@
               2
             ],
             "fromTime": "19:00",
-            "toTime": "22:20"
+            "toTime": "22:30"
           },
           {
             "instructors": [
@@ -4678,7 +4678,7 @@
               7
             ],
             "fromTime": "09:00",
-            "toTime": "12:20"
+            "toTime": "12:30"
           },
           {
             "instructors": [
@@ -4691,7 +4691,7 @@
               5
             ],
             "fromTime": "19:00",
-            "toTime": "22:20"
+            "toTime": "22:30"
           },
           {
             "instructors": [
@@ -4704,7 +4704,7 @@
               2
             ],
             "fromTime": "19:00",
-            "toTime": "22:20"
+            "toTime": "22:30"
           }
         ]
       }
@@ -4761,7 +4761,7 @@
               4
             ],
             "fromTime": "19:00",
-            "toTime": "22:20"
+            "toTime": "22:30"
           }
         ]
       }
@@ -5536,6 +5536,76 @@
             ],
             "fromTime": "09:30",
             "toTime": "12:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "LIFS",
+    "number": "1982",
+    "code": "LIFS1982",
+    "name": "Introduction to Biomedical and Health Science Laboratory Techniques",
+    "description": "This laboratory course will offer a practical introduction to essential experimental techniques widely used in biomedical and healthcare research laboratories. Students will gain hands-on experience in microbiological culture and staining, DNA extraction and quantification, PCR and gel electrophoresis, as well as basic protein purification and protein analysis using SDS-PAGE and western blotting. Throughout the course, particular attention will be paid to good laboratory practice, detailed record-keeping, data integrity, and essential laboratory safety. Instructor’s approval is required for enrolling in the course. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "LIFS 1980",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "LA1",
+        "number": "1214",
+        "remarks": "> Venue: Room 6150\n> Add/Drop Deadline : 15-Jun-2026",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TSE, Yu Chung"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-07-17",
+            "weekdays": [
+              1,
+              3,
+              5
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:50"
+          }
+        ]
+      },
+      {
+        "section": "T1",
+        "number": "1215",
+        "remarks": "> Venue: Room 6150",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TSE, Yu Chung"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-07-17",
+            "weekdays": [
+              1,
+              3,
+              5
+            ],
+            "fromTime": "13:00",
+            "toTime": "13:50"
           }
         ]
       }
@@ -6987,7 +7057,7 @@
               6
             ],
             "fromTime": "09:30",
-            "toTime": "11:20"
+            "toTime": "11:30"
           },
           {
             "instructors": [
@@ -7000,7 +7070,7 @@
               6
             ],
             "fromTime": "09:30",
-            "toTime": "12:50"
+            "toTime": "13:00"
           }
         ]
       }
@@ -8401,7 +8471,7 @@
               7
             ],
             "fromTime": "09:00",
-            "toTime": "12:20"
+            "toTime": "12:30"
           },
           {
             "instructors": [
@@ -8414,7 +8484,7 @@
               7
             ],
             "fromTime": "14:00",
-            "toTime": "17:20"
+            "toTime": "17:30"
           },
           {
             "instructors": [
@@ -8427,7 +8497,7 @@
               7
             ],
             "fromTime": "09:00",
-            "toTime": "12:20"
+            "toTime": "12:30"
           },
           {
             "instructors": [
@@ -8440,7 +8510,7 @@
               7
             ],
             "fromTime": "14:00",
-            "toTime": "17:20"
+            "toTime": "17:30"
           }
         ]
       }
