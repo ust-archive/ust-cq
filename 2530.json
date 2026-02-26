@@ -1156,7 +1156,7 @@
         "number": "1024",
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 30,
-        "enroll": 15,
+        "enroll": 14,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -1168,7 +1168,7 @@
           {
             "name": "MBA",
             "quota": 24,
-            "enroll": 13
+            "enroll": 12
           },
           {
             "name": "MBA Bi-weekly",
@@ -9865,6 +9865,45 @@
   {
     "career": "RPG",
     "subject": "CHEM",
+    "number": "6980B",
+    "code": "CHEM6980B",
+    "name": "Research Project",
+    "description": "An independent research project carried out under the supervision of a faculty member. This course is only available for exchange, visiting and visiting internship students.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4604",
+        "remarks": " ",
+        "quota": 2,
+        "enroll": 2,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "CHEM",
     "number": "6990",
     "code": "CHEM6990",
     "name": "MPhil Thesis Research",
@@ -11044,7 +11083,7 @@
         "number": "2001",
         "remarks": " ",
         "quota": 110,
-        "enroll": 101,
+        "enroll": 102,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -11070,7 +11109,7 @@
         "number": "2002",
         "remarks": " ",
         "quota": 110,
-        "enroll": 101,
+        "enroll": 102,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -12963,7 +13002,7 @@
         "number": "1116",
         "remarks": " ",
         "quota": 37,
-        "enroll": 33,
+        "enroll": 32,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -13289,7 +13328,7 @@
         "number": "1124",
         "remarks": " ",
         "quota": 160,
-        "enroll": 136,
+        "enroll": 135,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -13373,7 +13412,7 @@
         "number": "1126",
         "remarks": " ",
         "quota": 30,
-        "enroll": 26,
+        "enroll": 25,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -13535,7 +13574,7 @@
         "number": "1130",
         "remarks": " ",
         "quota": 220,
-        "enroll": 206,
+        "enroll": 205,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -36484,7 +36523,7 @@
         "number": "4191",
         "remarks": " ",
         "quota": 913,
-        "enroll": 870,
+        "enroll": 872,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -36507,7 +36546,7 @@
         "number": "4192",
         "remarks": " ",
         "quota": 900,
-        "enroll": 566,
+        "enroll": 567,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -42019,7 +42058,7 @@
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 60,
         "enroll": 53,
-        "waitlist": 3,
+        "waitlist": 4,
         "consent": false,
         "reservedQuota": [
           {
@@ -47893,7 +47932,7 @@
         "number": "2739",
         "remarks": " ",
         "quota": 60,
-        "enroll": 40,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -47918,7 +47957,7 @@
         "number": "2740",
         "remarks": " ",
         "quota": 60,
-        "enroll": 40,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -52283,7 +52322,7 @@
         "number": "1335",
         "remarks": "> Co-list with HUMA 4530\n> Venue : Room LG3008",
         "quota": 20,
-        "enroll": 14,
+        "enroll": 13,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -84513,7 +84552,7 @@
         "number": "1871",
         "remarks": "> For MA(SOSC) students only",
         "quota": 41,
-        "enroll": 28,
+        "enroll": 29,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -102913,7 +102952,11 @@
         "schedule": [
           {
             "instructors": [
-              "LAM, Cindy"
+              "LAM, Cindy",
+              "TANG, Shi",
+              "TANG, Yongqi",
+              "XUE, Runze",
+              "ZHANG, Yi"
             ],
             "venue": "UG002, CYT Bldg",
             "fromDate": "2026-02-02",
@@ -104908,7 +104951,7 @@
         "number": "3985",
         "remarks": " ",
         "quota": 200,
-        "enroll": 184,
+        "enroll": 185,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
