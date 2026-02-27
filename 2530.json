@@ -2191,14 +2191,14 @@
         "number": "1018",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 70,
-        "enroll": 70,
+        "enroll": 69,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 70,
-            "enroll": 70
+            "enroll": 69
           }
         ],
         "schedule": [
@@ -7428,8 +7428,8 @@
         "section": "T1",
         "number": "1942",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 3; Spring: 3",
-        "quota": 2,
-        "enroll": 2,
+        "quota": 3,
+        "enroll": 3,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -9831,7 +9831,7 @@
         "number": "4482",
         "remarks": "> Venue: Room 4502\n> Co-list with MECH 6910V",
         "quota": 30,
-        "enroll": 16,
+        "enroll": 15,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -57059,7 +57059,8 @@
         "schedule": [
           {
             "instructors": [
-              "JONEJA, Ajay"
+              "JONEJA, Ajay",
+              "LI, Mitch"
             ],
             "venue": "TBA",
             "fromDate": "2026-02-02",
@@ -57082,7 +57083,8 @@
         "schedule": [
           {
             "instructors": [
-              "JONEJA, Ajay"
+              "JONEJA, Ajay",
+              "LI, Mitch"
             ],
             "venue": "TBA",
             "fromDate": "2026-02-02",
@@ -92527,7 +92529,7 @@
         "number": "3815",
         "remarks": " ",
         "quota": 130,
-        "enroll": 89,
+        "enroll": 88,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
