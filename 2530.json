@@ -9831,7 +9831,7 @@
         "number": "4482",
         "remarks": "> Venue: Room 4502\n> Co-list with MECH 6910V",
         "quota": 30,
-        "enroll": 15,
+        "enroll": 14,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -10075,7 +10075,7 @@
         "number": "1104",
         "remarks": "> For MSc(ANCHEM) students only.",
         "quota": 51,
-        "enroll": 50,
+        "enroll": 51,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -22565,7 +22565,7 @@
         "number": "4373",
         "remarks": "> Class Duration/Dates : 09-Apr-2026 to 10-Apr-2026\n> Add/Drop Deadline : 09-Apr-2026",
         "quota": 10,
-        "enroll": 10,
+        "enroll": 9,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -35451,6 +35451,29 @@
           {
             "instructors": [
               "YANG, Yansong"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "R2",
+        "number": "4605",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CHEN, Qifeng"
             ],
             "venue": "TBA",
             "fromDate": "2026-02-02",
@@ -68697,7 +68720,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "KUSHNAZAROV, Mansurbek"
             ],
             "venue": "Rm 5619, Lift 31-32 (60)",
             "fromDate": "2026-02-02",
@@ -74863,7 +74886,7 @@
         "number": "3386",
         "remarks": " ",
         "quota": 20,
-        "enroll": 19,
+        "enroll": 20,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -102452,7 +102475,7 @@
         "number": "1622",
         "remarks": "> For MSc(DDM) students only.",
         "quota": 80,
-        "enroll": 46,
+        "enroll": 45,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -102477,7 +102500,7 @@
         "number": "1623",
         "remarks": " ",
         "quota": 80,
-        "enroll": 46,
+        "enroll": 45,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
