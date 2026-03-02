@@ -5304,8 +5304,8 @@
         "section": "T1",
         "number": "1923",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 3; Spring: 3",
-        "quota": 3,
-        "enroll": 3,
+        "quota": 4,
+        "enroll": 4,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -12894,7 +12894,7 @@
         "number": "4601",
         "remarks": " ",
         "quota": 3,
-        "enroll": 0,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -12917,7 +12917,7 @@
         "number": "4602",
         "remarks": " ",
         "quota": 3,
-        "enroll": 0,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -21834,8 +21834,8 @@
         "section": "L1",
         "number": "2905",
         "remarks": "> The class is delivered in a blended learning mode",
-        "quota": 60,
-        "enroll": 60,
+        "quota": 61,
+        "enroll": 61,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -42213,6 +42213,34 @@
             ],
             "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-02-26",
+            "toDate": "2026-02-26",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "TANG, Bo",
+              "WANG, Bingyi"
+            ],
+            "venue": "Rm 2001, LSK Bldg",
+            "fromDate": "2026-03-05",
+            "toDate": "2026-03-05",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "18:30",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "TANG, Bo",
+              "WANG, Bingyi"
+            ],
+            "venue": "Rm 2001, LSK Bldg",
+            "fromDate": "2026-03-12",
             "toDate": "2026-03-26",
             "weekdays": [
               4
@@ -51957,7 +51985,7 @@
         "number": "4523",
         "remarks": " ",
         "quota": 60,
-        "enroll": 21,
+        "enroll": 22,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -83801,7 +83829,7 @@
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 60,
         "enroll": 60,
-        "waitlist": 10,
+        "waitlist": 11,
         "consent": false,
         "reservedQuota": [
           {
@@ -102653,7 +102681,7 @@
         "number": "1628",
         "remarks": "> For MSc(PHYS) students only.",
         "quota": 40,
-        "enroll": 26,
+        "enroll": 25,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -103894,7 +103922,7 @@
         "number": "1605",
         "remarks": "> The instructor's approval is required for taking this course.",
         "quota": 20,
-        "enroll": 8,
+        "enroll": 7,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -112929,7 +112957,7 @@
         "number": "4319",
         "remarks": " ",
         "quota": 126,
-        "enroll": 116,
+        "enroll": 117,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
