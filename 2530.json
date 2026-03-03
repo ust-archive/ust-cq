@@ -6660,7 +6660,7 @@
         "number": "1924",
         "remarks": " ",
         "quota": 90,
-        "enroll": 61,
+        "enroll": 60,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6686,7 +6686,7 @@
         "number": "1925",
         "remarks": " ",
         "quota": 90,
-        "enroll": 61,
+        "enroll": 60,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -14811,7 +14811,7 @@
         "number": "2191",
         "remarks": " ",
         "quota": 217,
-        "enroll": 213,
+        "enroll": 212,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -14834,7 +14834,7 @@
         "number": "2192",
         "remarks": " ",
         "quota": 126,
-        "enroll": 125,
+        "enroll": 126,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -35322,7 +35322,7 @@
         "number": "1202",
         "remarks": " ",
         "quota": 10,
-        "enroll": 7,
+        "enroll": 6,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -35844,6 +35844,162 @@
     ]
   },
   {
+    "career": "EXEC",
+    "subject": "EMBA",
+    "number": "5020",
+    "code": "EMBA5020",
+    "name": "Analytical Approach to Uncertainty",
+    "description": "Introduces fundamental probabilistic concepts that enable managers to make critical business decisions in the face of uncertainty.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4609",
+        "remarks": "> Instructor : Prof AL-NAJJAR, Nabil\n> Class Duration/Dates : 05-Feb-2026 to 09-Feb-2026 \n> Add/Drop Deadline : 05-Feb-2026",
+        "quota": 36,
+        "enroll": 36,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-05",
+            "toDate": "2026-02-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "EMBA",
+    "number": "5060",
+    "code": "EMBA5060",
+    "name": "Leadership and Organizations",
+    "description": "Focuses on the skills and ideas behind effective leadership: working well with teams, utilizing your personal and organizational resources, making difficult but critical decisions, and negotiating well, all with a broad, multifaceted outlook.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4610",
+        "remarks": "> Instructor : Prof NORDGREN, Loran\n> Class Duration/Dates : 05-Feb-2026 to 09-Feb-2026 \n> Add/Drop Deadline : 05-Feb-2026",
+        "quota": 36,
+        "enroll": 36,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-05",
+            "toDate": "2026-02-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "EMBA",
+    "number": "5660",
+    "code": "EMBA5660",
+    "name": "Capstone",
+    "description": "This course is intended as a capstone for students' Executive MBA experience. Students will develop an integrated understanding of business planning and strategy and test strategies in a competitive environment.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4607",
+        "remarks": "> Instructor : Prof PRAUSE, Martin\n> Class Duration/Dates : 07-Feb-2026 to 09-Feb-2026 \n> Add/Drop Deadline : 07-Feb-2026",
+        "quota": 27,
+        "enroll": 27,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "DORAN, Christopher"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-07",
+            "toDate": "2026-02-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "EMBA",
+    "number": "5710",
+    "code": "EMBA5710",
+    "name": "Leading a Global Company",
+    "description": "The focus of this class is to provide a thorough understanding of what is involved in leading a global company. Through a combination of lectures, cases and readings, the class will discuss and debate the key ingredients required to establish and manage a global company.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4608",
+        "remarks": "> Instructor : Prof KRAEMER, Harry\n> Class Duration/Dates : 05-Feb-2026 to 07-Feb-2026 \n> Add/Drop Deadline : 05-Feb-2026",
+        "quota": 27,
+        "enroll": 27,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-05",
+            "toDate": "2026-02-07",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "UGRD",
     "subject": "EMIA",
     "number": "2020",
@@ -35900,7 +36056,7 @@
         "number": "2907",
         "remarks": "> The class is delivered in a blended learning mode and experiential learning mode\n> For students enrolled in extended major programs only",
         "quota": 40,
-        "enroll": 37,
+        "enroll": 38,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -35950,7 +36106,7 @@
         "number": "2909",
         "remarks": "> The class is delivered in a blended learning mode and experiential learning mode\n> For students enrolled in extended major programs only",
         "quota": 40,
-        "enroll": 18,
+        "enroll": 17,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -38927,14 +39083,14 @@
         "number": "1250",
         "remarks": "> For MPhil/PhD (AES/ESPM) students only",
         "quota": 60,
-        "enroll": 18,
+        "enroll": 17,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ENVR",
             "quota": 60,
-            "enroll": 13
+            "enroll": 12
           }
         ],
         "schedule": [
@@ -50719,7 +50875,7 @@
         "number": "2804",
         "remarks": " ",
         "quota": 240,
-        "enroll": 205,
+        "enroll": 204,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -50794,7 +50950,7 @@
         "number": "4352",
         "remarks": " ",
         "quota": 60,
-        "enroll": 49,
+        "enroll": 48,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -55839,7 +55995,7 @@
         "number": "1357",
         "remarks": "> For PhD(IIP) students only",
         "quota": 100,
-        "enroll": 93,
+        "enroll": 94,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -80824,7 +80980,7 @@
         "number": "1540",
         "remarks": "> For MSc(MAFM) students only.",
         "quota": 130,
-        "enroll": 55,
+        "enroll": 54,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
