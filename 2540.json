@@ -6295,8 +6295,23 @@
         "consent": false,
         "reservedQuota": [
           {
+            "name": "FOFB",
+            "quota": 1,
+            "enroll": 0
+          },
+          {
+            "name": "ISM",
+            "quota": 4,
+            "enroll": 0
+          },
+          {
             "name": "MARK",
-            "quota": 65,
+            "quota": 55,
+            "enroll": 0
+          },
+          {
+            "name": "MIMT",
+            "quota": 5,
             "enroll": 0
           }
         ],

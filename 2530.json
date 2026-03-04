@@ -3685,7 +3685,7 @@
         "number": "1067",
         "remarks": " ",
         "quota": 20,
-        "enroll": 5,
+        "enroll": 4,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -5466,7 +5466,7 @@
         "number": "1074",
         "remarks": " ",
         "quota": 100,
-        "enroll": 77,
+        "enroll": 80,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5507,7 +5507,7 @@
         "number": "1075",
         "remarks": "> Classes held in LTB",
         "quota": 100,
-        "enroll": 77,
+        "enroll": 79,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6840,7 +6840,7 @@
         "number": "1929",
         "remarks": " ",
         "quota": 70,
-        "enroll": 40,
+        "enroll": 39,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6878,7 +6878,7 @@
         "number": "1930",
         "remarks": " ",
         "quota": 70,
-        "enroll": 40,
+        "enroll": 39,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -18694,14 +18694,14 @@
         "number": "1144",
         "remarks": " ",
         "quota": 76,
-        "enroll": 67,
+        "enroll": 68,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "CSE",
             "quota": 56,
-            "enroll": 53
+            "enroll": 54
           }
         ],
         "schedule": [
@@ -21431,7 +21431,7 @@
         "number": "1750",
         "remarks": " ",
         "quota": 120,
-        "enroll": 71,
+        "enroll": 70,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -21443,7 +21443,7 @@
           {
             "name": "CSIT",
             "quota": 113,
-            "enroll": 64
+            "enroll": 63
           }
         ],
         "schedule": [
@@ -26556,19 +26556,6 @@
             ],
             "fromTime": "09:00",
             "toTime": "12:50"
-          },
-          {
-            "instructors": [
-              "DING, Fei"
-            ],
-            "venue": "Rm 1014, LSK Bldg (80)",
-            "fromDate": "2026-03-28",
-            "toDate": "2026-03-28",
-            "weekdays": [
-              6
-            ],
-            "fromTime": "09:00",
-            "toTime": "12:20"
           }
         ]
       }
@@ -36335,7 +36322,7 @@
         "number": "2912",
         "remarks": " ",
         "quota": 250,
-        "enroll": 187,
+        "enroll": 188,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -63610,7 +63597,7 @@
         "number": "1416",
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Venue : United Conference Centre, 10/F, United Centre, 95 Queensway, Admiralty, Hong Kong\n> Add/Drop Deadline : 09-Mar-2026",
         "quota": 58,
-        "enroll": 33,
+        "enroll": 32,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -63622,7 +63609,7 @@
           {
             "name": "MBA",
             "quota": 50,
-            "enroll": 30
+            "enroll": 29
           },
           {
             "name": "MBA Bi-weekly",
@@ -64525,14 +64512,14 @@
         "number": "1420",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 60,
-        "enroll": 60,
+        "enroll": 59,
         "waitlist": 2,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 60,
-            "enroll": 60
+            "enroll": 59
           }
         ],
         "schedule": [
@@ -77240,7 +77227,7 @@
         "number": "1455",
         "remarks": "> The class is delivered in a blended learning mode\n> For students under SENG and SSCI research postgraduate programs",
         "quota": 24,
-        "enroll": 23,
+        "enroll": 22,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -77318,7 +77305,7 @@
         "number": "1458",
         "remarks": "> The class is delivered in a blended learning mode\n> For students under SENG and SSCI research postgraduate programs",
         "quota": 24,
-        "enroll": 19,
+        "enroll": 20,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -92288,6 +92275,47 @@
   {
     "career": "RPG",
     "subject": "MATH",
+    "number": "6907J",
+    "code": "MATH6907J",
+    "name": "Reading Course: Building IA Agents",
+    "description": "Chapter 1. Introduction to AI Agents; Chapter 2. Fundamentals of Machine Learning; Chapter 3. Introduction to Deep Learning; Chapter 4. Reinforcement Learning and Intelligent Agents; Chapter 5. Multi-Agent Systems and Collaboration; Chapter 6. Project Implementation and Conclusion.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4611",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "YANG, Can"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "14:00",
+            "toTime": "14:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "MATH",
     "number": "6915",
     "code": "MATH6915",
     "name": "Scientific Computation Seminar",
@@ -95284,7 +95312,7 @@
         "number": "1565",
         "remarks": " ",
         "quota": 140,
-        "enroll": 111,
+        "enroll": 112,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -99179,7 +99207,7 @@
         "remarks": "> For PT-MBA; Digital MBA; MBA (Bi-weekly) and MBA Exchange-in students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 60,
         "enroll": 60,
-        "waitlist": 8,
+        "waitlist": 9,
         "consent": false,
         "reservedQuota": [
           {
@@ -111939,24 +111967,24 @@
         "number": "1707",
         "remarks": "> Instructor : KEILHACKER, Kurt\n> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Venue on 3-Mar-2026 to 10-Mar-2026 : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 09-Mar-2026",
         "quota": 55,
-        "enroll": 53,
-        "waitlist": 16,
+        "enroll": 55,
+        "waitlist": 14,
         "consent": false,
         "reservedQuota": [
           {
             "name": "Digital MBA",
-            "quota": 19,
+            "quota": 17,
             "enroll": 17
           },
           {
             "name": "MBA",
-            "quota": 31,
-            "enroll": 31
+            "quota": 32,
+            "enroll": 32
           },
           {
             "name": "MBA Bi-weekly",
-            "quota": 5,
-            "enroll": 5
+            "quota": 6,
+            "enroll": 6
           }
         ],
         "schedule": [
@@ -112354,14 +112382,14 @@
         "number": "1708",
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 09-Mar-2026",
         "quota": 50,
-        "enroll": 49,
-        "waitlist": 8,
+        "enroll": 50,
+        "waitlist": 7,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MBA",
             "quota": 48,
-            "enroll": 47
+            "enroll": 48
           },
           {
             "name": "MBA Bi-weekly",
