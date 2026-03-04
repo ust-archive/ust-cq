@@ -13406,7 +13406,7 @@
         "number": "1125",
         "remarks": " ",
         "quota": 80,
-        "enroll": 69,
+        "enroll": 68,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -15288,7 +15288,7 @@
         "number": "2217",
         "remarks": " ",
         "quota": 88,
-        "enroll": 67,
+        "enroll": 66,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -15398,7 +15398,7 @@
         "number": "2224",
         "remarks": " ",
         "quota": 88,
-        "enroll": 67,
+        "enroll": 66,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -26556,6 +26556,19 @@
             ],
             "fromTime": "09:00",
             "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "DING, Fei"
+            ],
+            "venue": "Rm 1014, LSK Bldg (80)",
+            "fromDate": "2026-03-28",
+            "toDate": "2026-03-28",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
           }
         ]
       }
@@ -32140,7 +32153,7 @@
         "number": "2455",
         "remarks": " ",
         "quota": 453,
-        "enroll": 367,
+        "enroll": 366,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -32497,7 +32510,7 @@
         "number": "2471",
         "remarks": " ",
         "quota": 126,
-        "enroll": 106,
+        "enroll": 105,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -32548,7 +32561,7 @@
         "number": "2475",
         "remarks": " ",
         "quota": 42,
-        "enroll": 26,
+        "enroll": 25,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -32623,7 +32636,7 @@
         "number": "2479",
         "remarks": " ",
         "quota": 42,
-        "enroll": 26,
+        "enroll": 25,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -33071,7 +33084,7 @@
         "number": "2500",
         "remarks": "> The class is delivered in a blended learning mode",
         "quota": 80,
-        "enroll": 62,
+        "enroll": 61,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -33172,7 +33185,7 @@
         "number": "2506",
         "remarks": " ",
         "quota": 20,
-        "enroll": 9,
+        "enroll": 8,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -33934,7 +33947,7 @@
         "number": "2535",
         "remarks": "> Classes held in Room 2128A",
         "quota": 6,
-        "enroll": 6,
+        "enroll": 5,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -36081,7 +36094,7 @@
         "number": "2908",
         "remarks": "> The class is delivered in a blended learning mode and experiential learning mode\n> For students enrolled in extended major programs only",
         "quota": 40,
-        "enroll": 21,
+        "enroll": 20,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -37061,7 +37074,7 @@
         "number": "4191",
         "remarks": " ",
         "quota": 913,
-        "enroll": 872,
+        "enroll": 874,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -37084,7 +37097,7 @@
         "number": "4192",
         "remarks": " ",
         "quota": 900,
-        "enroll": 566,
+        "enroll": 565,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -44275,14 +44288,14 @@
         "number": "1314",
         "remarks": "> Instructor : AU, Paul\n> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 65,
-        "enroll": 39,
+        "enroll": 40,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 65,
-            "enroll": 39
+            "enroll": 40
           }
         ],
         "schedule": [
@@ -67109,8 +67122,7 @@
         "schedule": [
           {
             "instructors": [
-              "PANG, Ngai Cheung",
-              "RAHMEL, Juergen Harald"
+              "PANG, Ngai Cheung"
             ],
             "venue": "TBA",
             "fromDate": "2026-03-31",
@@ -91115,7 +91127,7 @@
         "number": "1546",
         "remarks": " ",
         "quota": 20,
-        "enroll": 9,
+        "enroll": 8,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -91156,7 +91168,7 @@
         "number": "1547",
         "remarks": " ",
         "quota": 40,
-        "enroll": 19,
+        "enroll": 18,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -92540,7 +92552,7 @@
         "number": "1783",
         "remarks": " ",
         "quota": 90,
-        "enroll": 87,
+        "enroll": 86,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -92552,7 +92564,7 @@
           {
             "name": "MCEE",
             "quota": 85,
-            "enroll": 86
+            "enroll": 85
           }
         ],
         "schedule": [
@@ -100436,7 +100448,7 @@
         "remarks": "> Instructor : KWOK, Clement\n> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 35,
+        "waitlist": 36,
         "consent": false,
         "reservedQuota": [
           {
@@ -100504,8 +100516,8 @@
         "section": "R1",
         "number": "4388",
         "remarks": " ",
-        "quota": 2,
-        "enroll": 2,
+        "quota": 3,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -101403,7 +101415,7 @@
         "number": "1718",
         "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 20-Apr-2026",
         "quota": 60,
-        "enroll": 55,
+        "enroll": 56,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -103227,7 +103239,7 @@
         "number": "1631",
         "remarks": "> For MSc(PHYS) students only.",
         "quota": 70,
-        "enroll": 40,
+        "enroll": 39,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -104929,7 +104941,7 @@
         "number": "1358",
         "remarks": " ",
         "quota": 300,
-        "enroll": 243,
+        "enroll": 242,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -105569,7 +105581,7 @@
         "number": "1094",
         "remarks": " ",
         "quota": 90,
-        "enroll": 86,
+        "enroll": 85,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -111596,7 +111608,7 @@
         "remarks": "> Instructor : WONG, Dan\n> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 04-Apr-2026\n> Extended Drop Deadline : 06-Apr-2026",
         "quota": 62,
         "enroll": 58,
-        "waitlist": 13,
+        "waitlist": 12,
         "consent": false,
         "reservedQuota": [
           {
@@ -111985,7 +111997,7 @@
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 20-Apr-2026",
         "quota": 57,
         "enroll": 53,
-        "waitlist": 10,
+        "waitlist": 11,
         "consent": false,
         "reservedQuota": [
           {
@@ -113007,14 +113019,14 @@
         "number": "1682",
         "remarks": "> For FT-MBA students only\n> Add/Drop Deadline : 31-May-2026",
         "quota": 50,
-        "enroll": 1,
+        "enroll": 2,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
           {
             "name": "MBA",
             "quota": 50,
-            "enroll": 1
+            "enroll": 2
           }
         ],
         "schedule": [
