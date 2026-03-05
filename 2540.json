@@ -3173,28 +3173,21 @@
   {
     "career": "TPG",
     "subject": "FINA",
-    "number": "5120",
-    "code": "FINA5120",
-    "name": "Corporate Finance",
-    "description": "Valuation of cash flow streams (PV of cash flow streams, annuities, and perpetuities); valuation of bonds; valuation of stocks using dividend discount model; capital budgeting decisions (NPV, IRR, payback); capital structure; limits to the use of debt (trade-off models); estimation of cost of debt and equity; WACC; terminal value.",
+    "number": "5140",
+    "code": "FINA5140",
+    "name": "Advanced Topics in Financial Management",
+    "description": "Valuation of projects (advanced capital budgeting); estimating cost of capital; risk assessment of projects; decision tree analysis; real option valuation of projects; warrants and convertibles; leasing; dividend policy.",
     "previousCodes": "",
-    "prerequisites": "",
+    "prerequisites": "FINA 5120",
     "corequisites": "",
-    "exclusions": "IMBA 5070",
+    "exclusions": "",
     "credits": 2,
-    "attributes": [
-      {
-        "attribute": "DELI",
-        "value": "BLD",
-        "attributeDescription": "Mode of Delivery",
-        "valueDescription": "[BLD] Blended learning"
-      }
-    ],
+    "attributes": [],
     "classes": [
       {
         "section": "L1",
-        "number": "1211",
-        "remarks": "> The class is delivered in a conventional face-to-face mode\n> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 18-Jun-2026",
+        "number": "1219",
+        "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 18-Jun-2026",
         "quota": 65,
         "enroll": 0,
         "waitlist": 0,
