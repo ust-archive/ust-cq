@@ -42609,14 +42609,14 @@
         "number": "1307",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> For PT-MBA Year 1 students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 75,
-        "enroll": 73,
+        "enroll": 72,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MBA",
             "quota": 75,
-            "enroll": 73
+            "enroll": 72
           }
         ],
         "schedule": [
@@ -48055,7 +48055,7 @@
         "number": "4166",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 40,
-        "enroll": 40,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -48105,7 +48105,7 @@
         "number": "4168",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 39,
-        "enroll": 39,
+        "enroll": 38,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -48717,6 +48717,7 @@
         "schedule": [
           {
             "instructors": [
+              "LI, Ge",
               "TAY, Dennis"
             ],
             "venue": "Lecture Theater K (106)",
@@ -48784,6 +48785,7 @@
         "schedule": [
           {
             "instructors": [
+              "LIN, Shuhan",
               "YIU, Yuk Man Carine"
             ],
             "venue": "G002, CYT Bldg (126)",
@@ -48857,6 +48859,7 @@
         "schedule": [
           {
             "instructors": [
+              "WANG, Yuqi",
               "ZHANG, Min"
             ],
             "venue": "G002, CYT Bldg (126)",
@@ -59763,7 +59766,7 @@
         "number": "2988",
         "remarks": "> Add/Drop Deadline: 09-Feb-2026",
         "quota": 45,
-        "enroll": 43,
+        "enroll": 44,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -59912,8 +59915,8 @@
         "section": "LA06",
         "number": "2996",
         "remarks": " ",
-        "quota": 41,
-        "enroll": 41,
+        "quota": 42,
+        "enroll": 42,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -60320,7 +60323,7 @@
         "number": "3152",
         "remarks": "> Add/Drop Deadline : 09-Feb-2026",
         "quota": 90,
-        "enroll": 89,
+        "enroll": 90,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -60450,7 +60453,7 @@
         "number": "3162",
         "remarks": " ",
         "quota": 60,
-        "enroll": 59,
+        "enroll": 60,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -80835,7 +80838,7 @@
         "number": "1497",
         "remarks": "> For MPhil & PhD (LIFS) students only.",
         "quota": 110,
-        "enroll": 83,
+        "enroll": 84,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -81015,7 +81018,7 @@
         "number": "1501",
         "remarks": "> For MPhil & PhD (LIFS) students only.",
         "quota": 200,
-        "enroll": 185,
+        "enroll": 187,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -92784,47 +92787,6 @@
             "weekdays": [],
             "fromTime": null,
             "toTime": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "RPG",
-    "subject": "MATH",
-    "number": "6907G",
-    "code": "MATH6907G",
-    "name": "Reading Course: Topics on Machine Learning for Financial Applications",
-    "description": "The following topics will be covered: 1. Forex (FX) prediction through machine learning and casual inference; 2. Deep learning for accelerated share repurchasing strategies; 3. Implied CEV volatilities under the SABR model; 4. Optimal hedging through reinforcement learning. Students should seek the course instructor’s approval to take this course.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 2,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "L1",
-        "number": "4553",
-        "remarks": "> Students should seek the course instructor’s approval to take this course.",
-        "quota": 5,
-        "enroll": 1,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "WU, Lixin"
-            ],
-            "venue": "Rm 5508, Lift 25-26 (30)",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
-            "weekdays": [
-              3
-            ],
-            "fromTime": "19:30",
-            "toTime": "21:20"
           }
         ]
       }
