@@ -21922,7 +21922,8 @@
         "schedule": [
           {
             "instructors": [
-              "PANT, Nidhi"
+              "PANT, Nidhi",
+              "ZHANG, Yangyang"
             ],
             "venue": "Rm 2406, Lift 17-18 (76)",
             "fromDate": "2026-02-02",
@@ -63912,7 +63913,7 @@
             ],
             "venue": "TBA",
             "fromDate": "2026-03-05",
-            "toDate": "2026-03-26",
+            "toDate": "2026-03-12",
             "weekdays": [
               4
             ],
@@ -63931,6 +63932,32 @@
             ],
             "fromTime": "14:00",
             "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 1026, LSK Bldg (28)",
+            "fromDate": "2026-03-22",
+            "toDate": "2026-03-22",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-03-26",
+            "toDate": "2026-03-26",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
           }
         ]
       }
@@ -113008,14 +113035,14 @@
         "number": "1708",
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 09-Mar-2026",
         "quota": 50,
-        "enroll": 49,
-        "waitlist": 8,
+        "enroll": 50,
+        "waitlist": 7,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MBA",
             "quota": 48,
-            "enroll": 47
+            "enroll": 48
           },
           {
             "name": "MBA Bi-weekly",
