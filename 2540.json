@@ -129,7 +129,17 @@
         "reservedQuota": [
           {
             "name": "ACCT",
-            "quota": 60,
+            "quota": 58,
+            "enroll": 0
+          },
+          {
+            "name": "ECON",
+            "quota": 1,
+            "enroll": 0
+          },
+          {
+            "name": "FOFB",
+            "quota": 1,
             "enroll": 0
           }
         ],
@@ -183,7 +193,7 @@
       {
         "section": "L1",
         "number": "1045",
-        "remarks": "> Instructor : CHAN, Dennis\n> For MSc(ACCT) students only\n> Add/Drop Deadline : 03-Jun-2026",
+        "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 03-Jun-2026",
         "quota": 60,
         "enroll": 0,
         "waitlist": 0,
@@ -191,14 +201,24 @@
         "reservedQuota": [
           {
             "name": "ACCT",
-            "quota": 60,
+            "quota": 57,
+            "enroll": 0
+          },
+          {
+            "name": "ECON",
+            "quota": 2,
+            "enroll": 0
+          },
+          {
+            "name": "FOFB",
+            "quota": 1,
             "enroll": 0
           }
         ],
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "CHAN, Suk Sun"
             ],
             "venue": "G001, LSK Bldg (75)",
             "fromDate": "2026-06-02",
@@ -212,17 +232,14 @@
           },
           {
             "instructors": [
-              "TBA"
+              "CHAN, Suk Sun"
             ],
-            "venue": "G001, LSK Bldg (75)",
+            "venue": "TBA",
             "fromDate": "2026-06-02",
-            "toDate": "2026-06-12",
-            "weekdays": [
-              2,
-              5
-            ],
-            "fromTime": "14:30",
-            "toTime": "17:50"
+            "toDate": "2026-08-08",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -253,7 +270,17 @@
         "reservedQuota": [
           {
             "name": "ACCT",
-            "quota": 60,
+            "quota": 54,
+            "enroll": 0
+          },
+          {
+            "name": "ECON",
+            "quota": 1,
+            "enroll": 0
+          },
+          {
+            "name": "FOFB",
+            "quota": 5,
             "enroll": 0
           }
         ],
@@ -4958,7 +4985,17 @@
         "reservedQuota": [
           {
             "name": "ACCT",
-            "quota": 60,
+            "quota": 58,
+            "enroll": 0
+          },
+          {
+            "name": "ECON",
+            "quota": 1,
+            "enroll": 0
+          },
+          {
+            "name": "FOFB",
+            "quota": 1,
             "enroll": 0
           }
         ],
@@ -5018,7 +5055,12 @@
         "reservedQuota": [
           {
             "name": "ACCT",
-            "quota": 60,
+            "quota": 59,
+            "enroll": 0
+          },
+          {
+            "name": "FOFB",
+            "quota": 1,
             "enroll": 0
           }
         ],
