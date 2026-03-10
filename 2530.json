@@ -18165,7 +18165,7 @@
         "number": "4422",
         "remarks": " ",
         "quota": 13,
-        "enroll": 9,
+        "enroll": 10,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -35328,8 +35328,8 @@
         "section": "R1",
         "number": "4401",
         "remarks": " ",
-        "quota": 5,
-        "enroll": 5,
+        "quota": 6,
+        "enroll": 6,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -37012,7 +37012,7 @@
         "number": "2912",
         "remarks": " ",
         "quota": 250,
-        "enroll": 189,
+        "enroll": 190,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -53904,6 +53904,45 @@
             "venue": "TBA",
             "fromDate": "2026-02-02",
             "toDate": "2026-05-02",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "HUMA",
+    "number": "6100G",
+    "code": "HUMA6100G",
+    "name": "Independent Study",
+    "description": "Independent study on a particular subject under the supervision of a faculty member; requires readings, tutorial discussions, and submission of one or more research papers; may be repeated for credit if different topics are studied. Regular students are required to enroll in a 3-credit course. Enrollment in a course below 3 credits requires the Division's approval.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "HMMA 6200",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4613",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
             "weekdays": [],
             "fromTime": null,
             "toTime": null
@@ -86460,7 +86499,7 @@
         "number": "3592",
         "remarks": " ",
         "quota": 120,
-        "enroll": 103,
+        "enroll": 104,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -86990,7 +87029,7 @@
         "number": "3622",
         "remarks": " ",
         "quota": 40,
-        "enroll": 36,
+        "enroll": 37,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -100252,7 +100291,7 @@
         "number": "1590",
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Venue from 30-Mar-2026 to 13-Apr-2026 (every Monday) and 27-Apr-2026 (Monday) : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Venue from 4-May-2026 to 25-May-2026 (every Monday) : United Conference Centre, 10/F, United Centre, 95 Queensway, Admiralty, Hong Kong\n> Add/Drop Deadline : 31-Mar-2026",
         "quota": 40,
-        "enroll": 34,
+        "enroll": 33,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -100264,7 +100303,7 @@
           {
             "name": "MBA",
             "quota": 31,
-            "enroll": 27
+            "enroll": 26
           },
           {
             "name": "MBA Bi-weekly",
