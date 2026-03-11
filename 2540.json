@@ -3629,7 +3629,12 @@
         "reservedQuota": [
           {
             "name": "FINA",
-            "quota": 65,
+            "quota": 64,
+            "enroll": 0
+          },
+          {
+            "name": "FOFB",
+            "quota": 1,
             "enroll": 0
           }
         ],
@@ -3825,7 +3830,27 @@
         "reservedQuota": [
           {
             "name": "FINA",
-            "quota": 65,
+            "quota": 53,
+            "enroll": 0
+          },
+          {
+            "name": "FOFB",
+            "quota": 1,
+            "enroll": 0
+          },
+          {
+            "name": "ICSM",
+            "quota": 3,
+            "enroll": 0
+          },
+          {
+            "name": "ISM",
+            "quota": 3,
+            "enroll": 0
+          },
+          {
+            "name": "MIMT",
+            "quota": 5,
             "enroll": 0
           }
         ],
@@ -5594,7 +5619,7 @@
     "previousCodes": "CORE1416C,LANG1113C",
     "prerequisites": "Level 3 in HKDSE Chinese",
     "corequisites": "",
-    "exclusions": "LANG 1421, LANG 1422, LANG 1423, LANG 1424",
+    "exclusions": "LANG 1421, LANG 1422, LANG 1423, LANG 1424, LANG 1425, LANG 1426",
     "credits": 3,
     "attributes": [
       {
