@@ -38925,7 +38925,7 @@
         "number": "2678",
         "remarks": " ",
         "quota": 20,
-        "enroll": 12,
+        "enroll": 11,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -42570,8 +42570,8 @@
             "weekdays": [
               3
             ],
-            "fromTime": "09:00",
-            "toTime": "12:20"
+            "fromTime": "09:30",
+            "toTime": "12:50"
           }
         ]
       },
@@ -42629,14 +42629,14 @@
               "LAM, SW",
               "SAENYASIRI, Ekkachai"
             ],
-            "venue": "Rm 1, 31/F, Tower 1,Millennity",
+            "venue": "Rm 3, 31/F, Tower 1,Millennity",
             "fromDate": "2026-03-25",
             "toDate": "2026-03-25",
             "weekdays": [
               3
             ],
-            "fromTime": "09:00",
-            "toTime": "12:20"
+            "fromTime": "09:30",
+            "toTime": "12:50"
           }
         ]
       },
@@ -52353,7 +52353,7 @@
         "number": "4365",
         "remarks": " ",
         "quota": 120,
-        "enroll": 101,
+        "enroll": 102,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -66183,7 +66183,7 @@
         "remarks": "> For MSc(ISM) students only\n> Will have normal class on 1-May-2026\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 60,
         "enroll": 56,
-        "waitlist": 1,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [
           {
@@ -81244,6 +81244,45 @@
             ],
             "fromTime": "16:00",
             "toTime": "17:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "LIFS",
+    "number": "6420A",
+    "code": "LIFS6420A",
+    "name": "Project Research",
+    "description": "Project research in one of the life science research laboratories under the supervision of a faculty member. Graded P or F. (for Visiting Internship Postgraduate student)",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4614",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
