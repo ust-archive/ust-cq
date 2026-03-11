@@ -23072,6 +23072,84 @@
   },
   {
     "career": "TPG",
+    "subject": "DBAP",
+    "number": "6200",
+    "code": "DBAP6200",
+    "name": "DBA Research Proposal Preparation",
+    "description": "This course will help students to get familiar with literature in the chosen research area, identify appropriate topics for thesis research, and prepare detailed thesis proposals through independent study under the supervision of faculty members. Maybe graded PP.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4615",
+        "remarks": "> Add/Drop Deadline : 14-Feb-2026",
+        "quota": 3,
+        "enroll": 3,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "DBAP",
+    "number": "7980",
+    "code": "DBAP7980",
+    "name": "DBA Thesis Research",
+    "description": "Original and independent DBA research. A successful defense of the thesis leads to the grade Pass. Graded PP, P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 30,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4616",
+        "remarks": "> Add/Drop Deadline : 14-Feb-2026",
+        "quota": 16,
+        "enroll": 16,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
     "subject": "DRAP",
     "number": "5003",
     "code": "DRAP5003",
@@ -45003,14 +45081,14 @@
         "number": "1314",
         "remarks": "> Instructor : AU, Paul\n> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 65,
-        "enroll": 40,
+        "enroll": 39,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 65,
-            "enroll": 40
+            "enroll": 39
           }
         ],
         "schedule": [
@@ -114039,14 +114117,14 @@
         "number": "1684",
         "remarks": "> For FT-MBA Year 1 students only\n> Add/Drop Deadline : 31-May-2026",
         "quota": 50,
-        "enroll": 3,
+        "enroll": 4,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
           {
             "name": "MBA",
             "quota": 50,
-            "enroll": 3
+            "enroll": 4
           }
         ],
         "schedule": [
