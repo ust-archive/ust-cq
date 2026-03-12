@@ -742,6 +742,49 @@
     ]
   },
   {
+    "career": "UGRD",
+    "subject": "BIEN",
+    "number": "1620",
+    "code": "BIEN1620",
+    "name": "Revolutionizing Health: Biomedical Innovations in Everyday Life",
+    "description": "This course offers a comprehensive introduction to biomedical engineering, equipping students with foundational knowledge in basic sciences and human physiology. Key topics include bioinstrumentation, where students explore techniques for measuring physiological parameters such as temperature, blood pressure, and blood composition. The bioimaging segment covers advanced imaging modalities like MRI, CT, and ultrasound, which are vital for diagnostic applications. In biomolecular engineering, students will learn about the working principles and development history of vaccines, antibodies, innovative drug delivery systems, and various gene editing technologies. Additionally, the course also introduces bioinformatics, focusing on genomic sequencing and its significance in modern healthcare. Throughout the course, an engineering and user-centered design approach will guide students, emphasizing the importance of creating solutions that prioritize patient needs and real-world applications. This blend of theory and practical experience prepares students to tackle challenges and fosters an appreciation for the evolving field of biomedica engineering.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "BIEN 1010",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1239",
+        "remarks": "> Add/Drop Deadline: 16-Jul-2026",
+        "quota": 160,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LINARDI, Darwin"
+            ],
+            "venue": "Lecture Theater D (216)",
+            "fromDate": "2026-07-13",
+            "toDate": "2026-08-07",
+            "weekdays": [
+              1,
+              3,
+              5
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "TPG",
     "subject": "BTEC",
     "number": "5210",
