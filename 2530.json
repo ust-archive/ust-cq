@@ -20062,7 +20062,7 @@
         "number": "2096",
         "remarks": " ",
         "quota": 329,
-        "enroll": 321,
+        "enroll": 320,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -20815,7 +20815,7 @@
         "number": "2127",
         "remarks": "> Classes held in Room 2131A",
         "quota": 8,
-        "enroll": 8,
+        "enroll": 7,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -37893,7 +37893,7 @@
         "number": "4192",
         "remarks": " ",
         "quota": 900,
-        "enroll": 565,
+        "enroll": 564,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -43311,7 +43311,7 @@
         "number": "1305",
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 62,
-        "enroll": 49,
+        "enroll": 50,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -43323,7 +43323,7 @@
           {
             "name": "FINA",
             "quota": 54,
-            "enroll": 43
+            "enroll": 44
           },
           {
             "name": "TLE",
@@ -47711,7 +47711,7 @@
         "number": "4207",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
         "quota": 600,
-        "enroll": 406,
+        "enroll": 405,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -68408,12 +68408,25 @@
               "LAM, Leung Yuk Frank"
             ],
             "venue": "Rm 2503, Lift 25-26 (87)",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
+            "fromDate": "2026-02-03",
+            "toDate": "2026-04-28",
             "weekdays": [
               2
             ],
             "fromTime": "19:00",
+            "toTime": "21:50"
+          },
+          {
+            "instructors": [
+              "LAM, Leung Yuk Frank"
+            ],
+            "venue": "Rm 2405, Lift 17-18 (92)",
+            "fromDate": "2026-05-05",
+            "toDate": "2026-05-05",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "18:00",
             "toTime": "21:50"
           }
         ]
