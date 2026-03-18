@@ -10944,5 +10944,122 @@
         ]
       }
     ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "UTOP",
+    "number": "2401",
+    "code": "UTOP2401",
+    "name": "Language Teaching Service-Learning Internship",
+    "description": "This course provides undergraduate students with authentic language teaching experience in collaboration with AIESEC’s global volunteer programs, HKUST’s Center for Language Education, and other partner institutions. Students will engage in structured pre-teaching training, guided consultations, supervised mini teaching with feedback, ongoing reflective practice, and a culminating showcase of their work. The course develops the ability to design, deliver, and evaluate language learning activities for diverse learners; apply effective language teaching strategies to enhance engagement; adapt materials for varied proficiency levels, age groups, and cultural contexts; and operate effectively in international and cross-cultural settings. Students will critically reflect on their teaching and on challenges in intercultural settings. Upon completion, students will be equipped with practical pedagogical skills, reflective capacity, enhanced leadership and communication capabilities to contribute meaningfully as language teachers for community impact. For Year 3 or above students. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [
+      {
+        "attribute": "CC22",
+        "value": "30",
+        "attributeDescription": "Students admitted in 2022-2024",
+        "valueDescription": "Common Core (UxOP-UTOP) for 30-cr prog in 22-24"
+      },
+      {
+        "attribute": "CC25",
+        "value": "44",
+        "attributeDescription": "Students admitted from 2025",
+        "valueDescription": "Common Core (UxOP-UTOP) for 30-cr prog fr 25"
+      },
+      {
+        "attribute": "DELI",
+        "value": "EXP",
+        "attributeDescription": "Mode of Delivery",
+        "valueDescription": "[EXP] Experiential learning"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1240",
+        "remarks": "> Add/Drop Deadline : 13-Jun-2026\n> The class is delivered in a experiential learning mode",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 2127C, Lift 19 (28)",
+            "fromDate": "2026-06-12",
+            "toDate": "2026-06-18",
+            "weekdays": [
+              1,
+              3,
+              4,
+              5
+            ],
+            "fromTime": "09:00",
+            "toTime": "11:50"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 2127C, Lift 19 (28)",
+            "fromDate": "2026-06-12",
+            "toDate": "2026-06-12",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "13:30",
+            "toTime": "15:20"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 2127C, Lift 19 (28)",
+            "fromDate": "2026-06-17",
+            "toDate": "2026-06-18",
+            "weekdays": [
+              3,
+              4
+            ],
+            "fromTime": "13:30",
+            "toTime": "15:20"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 2127C, Lift 19 (28)",
+            "fromDate": "2026-08-03",
+            "toDate": "2026-08-04",
+            "weekdays": [
+              1,
+              2
+            ],
+            "fromTime": "09:00",
+            "toTime": "11:50"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 2127C, Lift 19 (28)",
+            "fromDate": "2026-08-03",
+            "toDate": "2026-08-03",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "13:30",
+            "toTime": "15:20"
+          }
+        ]
+      }
+    ]
   }
 ]
