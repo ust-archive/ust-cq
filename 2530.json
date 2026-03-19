@@ -9930,6 +9930,45 @@
   {
     "career": "RPG",
     "subject": "CHEM",
+    "number": "6980A",
+    "code": "CHEM6980A",
+    "name": "Research Project",
+    "description": "An independent research project carried out under the supervision of a faculty member. This course is only available for exchange, visiting and visiting internship students.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4618",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "CHEM",
     "number": "6980B",
     "code": "CHEM6980B",
     "name": "Research Project",
@@ -19429,7 +19468,7 @@
         "number": "1154",
         "remarks": " ",
         "quota": 270,
-        "enroll": 266,
+        "enroll": 265,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -56728,7 +56767,7 @@
         "number": "1350",
         "remarks": " ",
         "quota": 10,
-        "enroll": 9,
+        "enroll": 10,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -65360,7 +65399,7 @@
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 73,
         "enroll": 73,
-        "waitlist": 17,
+        "waitlist": 16,
         "consent": false,
         "reservedQuota": [
           {
@@ -65832,14 +65871,14 @@
         "number": "1426",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 60,
-        "enroll": 34,
+        "enroll": 33,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ISM",
             "quota": 60,
-            "enroll": 34
+            "enroll": 33
           }
         ],
         "schedule": [
@@ -67285,14 +67324,14 @@
         "number": "1435",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 27-Apr-2026",
         "quota": 60,
-        "enroll": 54,
+        "enroll": 55,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 60,
-            "enroll": 54
+            "enroll": 55
           }
         ],
         "schedule": [
@@ -67852,7 +67891,7 @@
           {
             "name": "FINA",
             "quota": 2,
-            "enroll": 1
+            "enroll": 2
           },
           {
             "name": "FINTECH",
@@ -67867,7 +67906,7 @@
           {
             "name": "ISM",
             "quota": 45,
-            "enroll": 31
+            "enroll": 30
           },
           {
             "name": "MIMT",
@@ -68055,7 +68094,7 @@
       {
         "section": "L1",
         "number": "1422",
-        "remarks": "> For SBM TPG students only\n> Add/Drop Deadline : 13-Apr-2026",
+        "remarks": "> For SBM TPG students only\n> Venue : Room E, 5/F, United Centre, 95 Queensway, Admiralty, Hong Kong\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 60,
         "enroll": 53,
         "waitlist": 18,
@@ -80610,7 +80649,7 @@
         "number": "3498",
         "remarks": " ",
         "quota": 15,
-        "enroll": 6,
+        "enroll": 7,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -84620,7 +84659,7 @@
         "remarks": "> Instructor : Mr HOU, Andre\n> For MSc(MARK) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 65,
         "enroll": 65,
-        "waitlist": 23,
+        "waitlist": 22,
         "consent": false,
         "reservedQuota": [
           {
@@ -100186,14 +100225,14 @@
         "number": "1589",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 20-Apr-2026",
         "quota": 60,
-        "enroll": 57,
+        "enroll": 56,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 58,
-            "enroll": 55
+            "enroll": 54
           },
           {
             "name": "MGMT",
@@ -103027,7 +103066,7 @@
         "number": "1719",
         "remarks": "> Instructor : Dr WONG, Gilbert\n> For MSc(IMT) students only\n> Add/Drop Deadline : 15-May-2026",
         "quota": 40,
-        "enroll": 29,
+        "enroll": 30,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -103044,7 +103083,7 @@
           {
             "name": "MIMT",
             "quota": 34,
-            "enroll": 24
+            "enroll": 25
           }
         ],
         "schedule": [
