@@ -9545,6 +9545,76 @@
   {
     "career": "TPG",
     "subject": "SBMT",
+    "number": "6012E",
+    "code": "SBMT6012E",
+    "name": "Innovation in Healthcare: Entrepreneurial and Investor Perspectives",
+    "description": "Healthcare innovation presents an undeniable opportunity to create impact – both in doing good while doing well. This course examines the complexities and opportunities in healthcare innovation through both strategic and practitioner lenses. It provides a framework to assess and develop healthcare innovation opportunities from both entrepreneur as well investor perspectives. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1242",
+        "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 22-Jun-2026",
+        "quota": 60,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "Digital MBA",
+            "quota": 25,
+            "enroll": 0
+          },
+          {
+            "name": "MBA",
+            "quota": 25,
+            "enroll": 0
+          },
+          {
+            "name": "MBA Bi-weekly",
+            "quota": 10,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "CHEW, Thian"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-16",
+            "toDate": "2026-06-30",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "CHEW, Thian"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-07-10",
+            "toDate": "2026-07-10",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "SBMT",
     "number": "6012I",
     "code": "SBMT6012I",
     "name": "Current Issues in Economic Development in East Asia",
@@ -9633,6 +9703,51 @@
             ],
             "fromTime": "14:00",
             "toTime": "17:30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "SBMT",
+    "number": "6200B",
+    "code": "SBMT6200B",
+    "name": "Independent Study",
+    "description": "Study of selected issues from various departments under the supervision of a faculty member from SBM. (Special permission from the Associate Dean is required for MBA students to take this course.)",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1241",
+        "remarks": "> For Digital MBA students only\n> Add/Drop Deadline : 03-Aug-2026",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "Digital MBA",
+            "quota": 1,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-08-08",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }

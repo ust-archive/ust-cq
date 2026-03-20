@@ -13430,7 +13430,7 @@
         "number": "4385",
         "remarks": " ",
         "quota": 7,
-        "enroll": 6,
+        "enroll": 7,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -22794,7 +22794,7 @@
         "number": "4376",
         "remarks": "> Class Duration/Dates : 23-May-2026 to 24-May-2026\n> Add/Drop Deadline : 23-May-2026",
         "quota": 12,
-        "enroll": 12,
+        "enroll": 11,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -22991,7 +22991,7 @@
         "number": "4381",
         "remarks": "> Class Duration/Dates : 21-May-2026 to 22-May-2026 and 20-Jun-2026 to 21-Jun-2026\n> Add/Drop Deadline : 21-May-2026",
         "quota": 6,
-        "enroll": 6,
+        "enroll": 5,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -23030,8 +23030,8 @@
         "section": "L1",
         "number": "4379",
         "remarks": "> Class Duration/Dates : 09-Apr-2026 to 10-Apr-2026\n> Add/Drop Deadline : 09-Apr-2026",
-        "quota": 14,
-        "enroll": 14,
+        "quota": 15,
+        "enroll": 15,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -43365,7 +43365,7 @@
         "number": "1305",
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 62,
-        "enroll": 50,
+        "enroll": 51,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -43377,7 +43377,7 @@
           {
             "name": "FINA",
             "quota": 54,
-            "enroll": 44
+            "enroll": 45
           },
           {
             "name": "TLE",
@@ -43620,7 +43620,7 @@
         "remarks": "> Instructor : YOO, Paul\n> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 65,
         "enroll": 65,
-        "waitlist": 41,
+        "waitlist": 40,
         "consent": false,
         "reservedQuota": [
           {
@@ -44422,14 +44422,14 @@
         "number": "1301",
         "remarks": "> For MSc(FINA); MSc(FA); MSc(IM); FT-MBA and MBA Exchange students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 65,
-        "enroll": 64,
+        "enroll": 63,
         "waitlist": 6,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 56,
-            "enroll": 55
+            "enroll": 54
           },
           {
             "name": "MARK",
@@ -57104,6 +57104,84 @@
   {
     "career": "EXEC",
     "subject": "IMBA",
+    "number": "6901D",
+    "code": "IMBA6901D",
+    "name": "Geopolitical Competition and Investment Opportunities",
+    "description": "An executive framework for analyzing how geopolitical competition reshapes the global financial order and investment opportunities—linking developments such as the USD system, sanctions, de-dollarization, and digital currencies/CBDCs to asset prices and market shifts, with a focus on implications for China and Hong Kong.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0.5,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4619",
+        "remarks": "> Class Duration/Dates : 07-Mar-2026",
+        "quota": 22,
+        "enroll": 21,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LOU, Dong"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "IMBA",
+    "number": "6901E",
+    "code": "IMBA6901E",
+    "name": "Robotics and Embodied AI",
+    "description": "The purpose of this one-day course is to give the EMBA students an overview of the recent trend and progress\nin robotics and embodied AI. The course will first review the fundamental concepts in perception, planning,\nand action in robotics and the hardware and software systems. Then, recent trend on humanoid robots will\nbe emphasized and discussed in the context of generative AI and data-driven perception and planning. The\ncourse will demonstrate key component technologies such as robot hand, robot head, and learning from\ndemonstrations. Based on the knowledge and discussions, students will be asked to design a business plan for\nhumanoid robot applications.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0.5,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4620",
+        "remarks": "> Class Duration/Dates : 08-Mar-2026",
+        "quota": 24,
+        "enroll": 23,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "ZHANG, Fumin"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-08",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "IMBA",
     "number": "6901F",
     "code": "IMBA6901F",
     "name": "AIGC and Business Intelligence Decision-Making",
@@ -57160,6 +57238,45 @@
         "remarks": "> Class Duration/Dates : 08-Feb-2026",
         "quota": 40,
         "enroll": 40,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "IMBA",
+    "number": "6901H",
+    "code": "IMBA6901H",
+    "name": "Chinese Companies Going Global via M&A Strategies",
+    "description": "This course aims to provide a practical and theoretical understanding of mergers and acquisitions. It examines how M&A supports firm growth, technological development, and market expansion, with particular attention to the evolution and challenges of Chinese companies’ cross-border M&A. Students will also learn the full M&A process, including target selection, due diligence, valuation, financing, deal structuring, negotiation, and post-merger integration, supported by real case studies of successes and failures.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0.5,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4621",
+        "remarks": "> Instructor : Prof CHIN, David\n> Class Duration/Dates : 06-Mar-2026",
+        "quota": 21,
+        "enroll": 21,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -65548,7 +65665,7 @@
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 60,
         "enroll": 60,
-        "waitlist": 4,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [
           {
@@ -67238,7 +67355,7 @@
         "number": "1427",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 60,
-        "enroll": 22,
+        "enroll": 21,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -67250,7 +67367,7 @@
           {
             "name": "GO",
             "quota": 55,
-            "enroll": 19
+            "enroll": 18
           },
           {
             "name": "MARK",
@@ -67324,14 +67441,14 @@
         "number": "1435",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 27-Apr-2026",
         "quota": 60,
-        "enroll": 56,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 60,
-            "enroll": 56
+            "enroll": 58
           }
         ],
         "schedule": [
@@ -67581,14 +67698,14 @@
         "number": "1424",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 60,
-        "enroll": 31,
+        "enroll": 30,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 60,
-            "enroll": 31
+            "enroll": 30
           }
         ],
         "schedule": [
@@ -101642,8 +101759,8 @@
         "section": "R1",
         "number": "4388",
         "remarks": " ",
-        "quota": 3,
-        "enroll": 3,
+        "quota": 4,
+        "enroll": 4,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -102896,14 +103013,14 @@
         "number": "1716",
         "remarks": "> The class is delivered in a real-time online mode\n> For SBM TPG students only",
         "quota": 48,
-        "enroll": 45,
+        "enroll": 46,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 10,
-            "enroll": 9
+            "enroll": 10
           },
           {
             "name": "BA",
