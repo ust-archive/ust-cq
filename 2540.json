@@ -8270,6 +8270,76 @@
   },
   {
     "career": "TPG",
+    "subject": "MGMT",
+    "number": "6501W",
+    "code": "MGMT6501W",
+    "name": "Innovation in Healthcare: Entrepreneurial and Investor Perspectives",
+    "description": "Healthcare innovation presents an undeniable opportunity to create impact – both in doing good while doing well. This course examines the complexities and opportunities in healthcare innovation through both strategic and practitioner lenses. It provides a framework to assess and develop healthcare innovation opportunities from both entrepreneur as well investor perspectives. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1242",
+        "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 22-Jun-2026",
+        "quota": 60,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "Digital MBA",
+            "quota": 25,
+            "enroll": 0
+          },
+          {
+            "name": "MBA",
+            "quota": 25,
+            "enroll": 0
+          },
+          {
+            "name": "MBA Bi-weekly",
+            "quota": 10,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "CHEW, Thian"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-16",
+            "toDate": "2026-06-30",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "CHEW, Thian"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-07-10",
+            "toDate": "2026-07-10",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
     "subject": "MILE",
     "number": "6001",
     "code": "MILE6001",
@@ -9537,76 +9607,6 @@
             ],
             "fromTime": "14:00",
             "toTime": "18:50"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "TPG",
-    "subject": "SBMT",
-    "number": "6012E",
-    "code": "SBMT6012E",
-    "name": "Innovation in Healthcare: Entrepreneurial and Investor Perspectives",
-    "description": "Healthcare innovation presents an undeniable opportunity to create impact – both in doing good while doing well. This course examines the complexities and opportunities in healthcare innovation through both strategic and practitioner lenses. It provides a framework to assess and develop healthcare innovation opportunities from both entrepreneur as well investor perspectives. Graded P or F.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 1,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "L1",
-        "number": "1242",
-        "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 22-Jun-2026",
-        "quota": 60,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [
-          {
-            "name": "Digital MBA",
-            "quota": 25,
-            "enroll": 0
-          },
-          {
-            "name": "MBA",
-            "quota": 25,
-            "enroll": 0
-          },
-          {
-            "name": "MBA Bi-weekly",
-            "quota": 10,
-            "enroll": 0
-          }
-        ],
-        "schedule": [
-          {
-            "instructors": [
-              "CHEW, Thian"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-06-16",
-            "toDate": "2026-06-30",
-            "weekdays": [
-              2
-            ],
-            "fromTime": "19:00",
-            "toTime": "22:20"
-          },
-          {
-            "instructors": [
-              "CHEW, Thian"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-07-10",
-            "toDate": "2026-07-10",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "19:00",
-            "toTime": "22:20"
           }
         ]
       }
