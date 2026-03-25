@@ -43423,14 +43423,14 @@
         "number": "1310",
         "remarks": "> Instructor : CHAN, Dennis\n> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 09-Apr-2026",
         "quota": 65,
-        "enroll": 40,
+        "enroll": 39,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 65,
-            "enroll": 40
+            "enroll": 39
           }
         ],
         "schedule": [
@@ -85333,8 +85333,8 @@
               "WANG, Wenbo"
             ],
             "venue": "Rm 2001, LSK Bldg",
-            "fromDate": "2026-04-13",
-            "toDate": "2026-05-04",
+            "fromDate": "2026-03-30",
+            "toDate": "2026-03-30",
             "weekdays": [
               1
             ],
@@ -85354,6 +85354,20 @@
             ],
             "fromTime": "09:30",
             "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "ONO, Kouta Castillo",
+              "WANG, Wenbo"
+            ],
+            "venue": "Rm 2001, LSK Bldg",
+            "fromDate": "2026-04-20",
+            "toDate": "2026-05-04",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "18:00",
+            "toTime": "21:20"
           }
         ]
       }
@@ -112855,7 +112869,7 @@
         "remarks": "> Instructor : WONG, Dan\n> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 04-Apr-2026\n> Extended Drop Deadline : 06-Apr-2026",
         "quota": 62,
         "enroll": 58,
-        "waitlist": 12,
+        "waitlist": 13,
         "consent": false,
         "reservedQuota": [
           {
