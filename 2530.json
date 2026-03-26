@@ -3352,6 +3352,45 @@
     ]
   },
   {
+    "career": "UGRD",
+    "subject": "AMCC",
+    "number": "4900A",
+    "code": "AMCC4900A",
+    "name": "Independent Study in Arts and Machine Creativity",
+    "description": "Independent studies or projects under the directed guidance of a faculty member. Course requirements include readings on the relevant topic and a research or survey project specifically defined for the research topic. Credits assigned depend on the workload and may be repeated if different topics are taken. Enrollment requires approval of the course instructor. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4622",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "TPG",
     "subject": "AMCC",
     "number": "5150",
@@ -12787,7 +12826,7 @@
         "number": "2067",
         "remarks": " ",
         "quota": 70,
-        "enroll": 59,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -23187,7 +23226,7 @@
         "number": "4616",
         "remarks": "> Add/Drop Deadline : 14-Feb-2026",
         "quota": 16,
-        "enroll": 16,
+        "enroll": 15,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -37924,7 +37963,7 @@
         "number": "4191",
         "remarks": " ",
         "quota": 913,
-        "enroll": 871,
+        "enroll": 872,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -84776,7 +84815,7 @@
         "remarks": "> Instructor : Mr HOU, Andre\n> For MSc(MARK) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 65,
         "enroll": 65,
-        "waitlist": 21,
+        "waitlist": 19,
         "consent": false,
         "reservedQuota": [
           {
@@ -85726,7 +85765,7 @@
         "number": "1525",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 65,
-        "enroll": 61,
+        "enroll": 62,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -85743,7 +85782,7 @@
           {
             "name": "MARK",
             "quota": 56,
-            "enroll": 55
+            "enroll": 56
           },
           {
             "name": "TLE",
@@ -85832,7 +85871,7 @@
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 65,
         "enroll": 61,
-        "waitlist": 9,
+        "waitlist": 8,
         "consent": false,
         "reservedQuota": [
           {
@@ -85914,14 +85953,14 @@
         "number": "1523",
         "remarks": "> Instructor : Mr LIN, Eric\n> For MSc(MARK) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 65,
-        "enroll": 63,
+        "enroll": 62,
         "waitlist": 1,
         "consent": false,
         "reservedQuota": [
           {
             "name": "MARK",
             "quota": 57,
-            "enroll": 55
+            "enroll": 54
           },
           {
             "name": "MIMT",
@@ -100914,13 +100953,12 @@
             ],
             "venue": "Rm 2003, LSK Bldg",
             "fromDate": "2026-06-01",
-            "toDate": "2026-06-02",
+            "toDate": "2026-06-01",
             "weekdays": [
-              1,
-              2
+              1
             ],
             "fromTime": "09:30",
-            "toTime": "12:50"
+            "toTime": "17:50"
           },
           {
             "instructors": [
@@ -100931,14 +100969,13 @@
               "SHIH, Stephen"
             ],
             "venue": "Rm 2003, LSK Bldg",
-            "fromDate": "2026-06-01",
+            "fromDate": "2026-06-02",
             "toDate": "2026-06-02",
             "weekdays": [
-              1,
               2
             ],
-            "fromTime": "14:00",
-            "toTime": "17:20"
+            "fromTime": "09:30",
+            "toTime": "10:30"
           }
         ]
       }
@@ -112868,8 +112905,8 @@
         "number": "1717",
         "remarks": "> Instructor : WONG, Dan\n> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 04-Apr-2026\n> Extended Drop Deadline : 06-Apr-2026",
         "quota": 62,
-        "enroll": 58,
-        "waitlist": 12,
+        "enroll": 59,
+        "waitlist": 11,
         "consent": false,
         "reservedQuota": [
           {
@@ -112880,7 +112917,7 @@
           {
             "name": "MBA",
             "quota": 39,
-            "enroll": 38
+            "enroll": 39
           },
           {
             "name": "MBA Bi-weekly",
