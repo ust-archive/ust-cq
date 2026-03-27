@@ -57354,7 +57354,7 @@
         "number": "1352",
         "remarks": " ",
         "quota": 20,
-        "enroll": 4,
+        "enroll": 5,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -80805,7 +80805,7 @@
         "number": "3498",
         "remarks": " ",
         "quota": 15,
-        "enroll": 7,
+        "enroll": 8,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -91780,6 +91780,45 @@
           {
             "instructors": [
               "LEUNG, Shing Yu"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "MATH",
+    "number": "4983D",
+    "code": "MATH4983D",
+    "name": "Independent Study",
+    "description": "Advanced undergraduate topics independently studied under the supervision of a faculty member. May be repeated for credit if different topics are studied. May be graded P/F or letter grade.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4624",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
             ],
             "venue": "TBA",
             "fromDate": "2026-02-02",
@@ -109867,7 +109906,7 @@
         "number": "4096",
         "remarks": " ",
         "quota": 30,
-        "enroll": 3,
+        "enroll": 4,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
