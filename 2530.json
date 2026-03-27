@@ -18276,7 +18276,8 @@
               "LI, Mo",
               "MA, Xiaojuan",
               "NARECHANIA, Arpit Ajay",
-              "WANG, Wei"
+              "WANG, Wei",
+              "YUAN, Binhang"
             ],
             "venue": "TBA",
             "fromDate": "2026-02-02",
@@ -22672,9 +22673,9 @@
       {
         "section": "L1",
         "number": "4444",
-        "remarks": "> Class Duration/Dates : 21-Mar-2026 to 21-Mar-2026",
+        "remarks": "> Class Duration/Dates : 21-Mar-2026",
         "quota": 42,
-        "enroll": 0,
+        "enroll": 28,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -23186,8 +23187,47 @@
         "section": "R1",
         "number": "4615",
         "remarks": "> Add/Drop Deadline : 14-Feb-2026",
-        "quota": 3,
-        "enroll": 3,
+        "quota": 4,
+        "enroll": 4,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "DBAP",
+    "number": "6300I",
+    "code": "DBAP6300I",
+    "name": "DBA Residential Program",
+    "description": "Students will conduct research under the supervision of their faculty advisors. Students need to be on campus for one to two days for research activities in each regular term. In addition, there should be at least 10 contact hours with the advisors during the term. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4625",
+        "remarks": "> Add/Drop Deadline : 14-Feb-2026",
+        "quota": 20,
+        "enroll": 20,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -23226,7 +23266,7 @@
         "number": "4616",
         "remarks": "> Add/Drop Deadline : 14-Feb-2026",
         "quota": 16,
-        "enroll": 15,
+        "enroll": 16,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -27059,19 +27099,6 @@
             "venue": "Rm 1, 31/F, Tower 1,Millennity",
             "fromDate": "2026-03-24",
             "toDate": "2026-03-24",
-            "weekdays": [
-              2
-            ],
-            "fromTime": "13:30",
-            "toTime": "16:20"
-          },
-          {
-            "instructors": [
-              "RAO, Milind Shankar"
-            ],
-            "venue": "Rm 2, 31/F, Tower 1,Millennity",
-            "fromDate": "2026-03-31",
-            "toDate": "2026-03-31",
             "weekdays": [
               2
             ],
@@ -43967,14 +43994,14 @@
         "number": "1312",
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 12-Apr-2026",
         "quota": 65,
-        "enroll": 36,
+        "enroll": 37,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 65,
-            "enroll": 36
+            "enroll": 37
           }
         ],
         "schedule": [
@@ -44819,7 +44846,7 @@
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 70,
         "enroll": 70,
-        "waitlist": 20,
+        "waitlist": 19,
         "consent": false,
         "reservedQuota": [
           {
@@ -64534,7 +64561,7 @@
         "number": "1436",
         "remarks": "> For MSc(ICSM) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 34,
-        "enroll": 26,
+        "enroll": 25,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -64551,7 +64578,7 @@
           {
             "name": "ICSM",
             "quota": 26,
-            "enroll": 24
+            "enroll": 23
           },
           {
             "name": "TLE",
@@ -64597,7 +64624,7 @@
         "number": "1437",
         "remarks": "> For MSc(ICSM) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 28,
-        "enroll": 24,
+        "enroll": 23,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -64609,7 +64636,7 @@
           {
             "name": "ICSM",
             "quota": 26,
-            "enroll": 22
+            "enroll": 21
           }
         ],
         "schedule": [
@@ -65100,7 +65127,7 @@
       {
         "section": "L1",
         "number": "1429",
-        "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 03-Apr-2026",
+        "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 60,
         "enroll": 55,
         "waitlist": 2,
@@ -66523,7 +66550,7 @@
         "remarks": "> For MSc(ISM) students only\n> Will have normal class on 1-May-2026\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 60,
         "enroll": 56,
-        "waitlist": 2,
+        "waitlist": 1,
         "consent": false,
         "reservedQuota": [
           {
@@ -67968,7 +67995,7 @@
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 54,
         "enroll": 48,
-        "waitlist": 7,
+        "waitlist": 6,
         "consent": false,
         "reservedQuota": [
           {
@@ -68185,7 +68212,7 @@
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 50,
         "enroll": 48,
-        "waitlist": 21,
+        "waitlist": 22,
         "consent": false,
         "reservedQuota": [
           {
@@ -85765,7 +85792,7 @@
         "number": "1525",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 65,
-        "enroll": 60,
+        "enroll": 59,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -85787,7 +85814,7 @@
           {
             "name": "TLE",
             "quota": 4,
-            "enroll": 4
+            "enroll": 3
           }
         ],
         "schedule": [
@@ -100434,14 +100461,14 @@
         "number": "1589",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 20-Apr-2026",
         "quota": 60,
-        "enroll": 54,
+        "enroll": 55,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 58,
-            "enroll": 52
+            "enroll": 53
           },
           {
             "name": "MGMT",
@@ -101167,7 +101194,7 @@
         "remarks": "> For FT-MBA; PT-MBA and MBA Bi-Weekly and MBA Exchange students only\n> Venue from 3-Apr-2026 to 17-Apr-2026 (every Friday) : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Venue from 1-May-2026 to 29-May-2026 (every Friday) : United Conference Centre, 10/F, United Centre, 95 Queensway, Admiralty, Hong Kong \n> Add/Drop Deadline : 04-Apr-2026",
         "quota": 40,
         "enroll": 40,
-        "waitlist": 2,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [
           {
