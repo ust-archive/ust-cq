@@ -6722,6 +6722,155 @@
     ]
   },
   {
+    "career": "TPG",
+    "subject": "MAFS",
+    "number": "5270",
+    "code": "MAFS5270",
+    "name": "Mathematical Market Microstructure",
+    "description": "This course will study special classes of stochastic processes that can capture market behavior at micro level and their practical implications in algorithmic and low-latency trading. Topics covered include structural models of price formation process at microstructure level, information-based vs. inventory-based models, stochastic control and optimization in trading, and real time risk management.",
+    "previousCodes": "MAFS6010G",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1244",
+        "remarks": "> For MSc(MAFM) students only.\n> Add/Drop Deadline : 25-Jun-2026\n> Extended Drop Deadline : 02-Jul-2026",
+        "quota": 80,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CHOU, Hongsong"
+            ],
+            "venue": "Lecture Theater K (106)",
+            "fromDate": "2026-06-20",
+            "toDate": "2026-08-01",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "CHOU, Hongsong"
+            ],
+            "venue": "Lecture Theater K (106)",
+            "fromDate": "2026-06-20",
+            "toDate": "2026-07-25",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "14:30",
+            "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MAFS",
+    "number": "5360",
+    "code": "MAFS5360",
+    "name": "Computing for Finance in Python",
+    "description": "This course teaches Python programming techniques with a strong focus on using mini-projects with industry backgrounds in trading, aiming to equip students with solid program-solving skills in the following contexts: medium- and high-frequency multi-factor model development, OTC trading system development with block-chain technology applied, abnormal trading behavior detection, trading simulator design and development.",
+    "previousCodes": "MAFS6010W",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1245",
+        "remarks": "> For MSc(MAFM) students only.\n> Add/Drop Deadline : 20-Jun-2026\n> Extended Drop Deadline : 27-Jun-2026",
+        "quota": 80,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CHOU, Hongsong"
+            ],
+            "venue": "Lecture Theater K (106)",
+            "fromDate": "2026-06-16",
+            "toDate": "2026-07-07",
+            "weekdays": [
+              2,
+              4
+            ],
+            "fromTime": "19:30",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "CHOU, Hongsong"
+            ],
+            "venue": "Lecture Theater K (106)",
+            "fromDate": "2026-07-14",
+            "toDate": "2026-07-30",
+            "weekdays": [
+              2,
+              4
+            ],
+            "fromTime": "19:30",
+            "toTime": "22:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MAFS",
+    "number": "6100X",
+    "code": "MAFS6100X",
+    "name": "Independent Project",
+    "description": "Completion of an independent project under the supervisor of a faculty in financial mathematics or statistics. Scope may include (i) identifying a non-reference problem and proposing the methods of solution, (ii) acquiring a specific research skill.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1243",
+        "remarks": "> Students should seek the instructor's approval to take this course.\n> Add/Drop Deadline : 20-Jun-2026\n> Extended Drop Deadline : 27-Jun-2026",
+        "quota": 10,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CHOU, Hongsong"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-08-08",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "UGRD",
     "subject": "MARK",
     "number": "2120",
