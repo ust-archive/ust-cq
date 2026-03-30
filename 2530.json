@@ -2058,14 +2058,14 @@
         "number": "1020",
         "remarks": "> Instructor : KPMG Speakers\n> For MSc(ACCT) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 74,
-        "enroll": 67,
+        "enroll": 66,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 74,
-            "enroll": 67
+            "enroll": 66
           }
         ],
         "schedule": [
@@ -38278,7 +38278,7 @@
         "number": "4200",
         "remarks": "> The credit load will usually be spread in the following pattern: Spring: 3; Summer: 1",
         "quota": 30,
-        "enroll": 22,
+        "enroll": 23,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -43699,7 +43699,7 @@
         "remarks": "> Instructor : YOO, Paul\n> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 65,
         "enroll": 65,
-        "waitlist": 26,
+        "waitlist": 25,
         "consent": false,
         "reservedQuota": [
           {
@@ -65142,7 +65142,7 @@
         "number": "1429",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 60,
-        "enroll": 56,
+        "enroll": 55,
         "waitlist": 1,
         "consent": false,
         "reservedQuota": [
@@ -65154,7 +65154,7 @@
           {
             "name": "ICSM",
             "quota": 6,
-            "enroll": 3
+            "enroll": 2
           },
           {
             "name": "ISM",
@@ -65594,14 +65594,14 @@
         "number": "1418",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 73,
-        "enroll": 73,
+        "enroll": 72,
         "waitlist": 8,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 73,
-            "enroll": 73
+            "enroll": 72
           }
         ],
         "schedule": [
@@ -65743,14 +65743,14 @@
         "number": "1420",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 60,
-        "enroll": 56,
+        "enroll": 57,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 60,
-            "enroll": 56
+            "enroll": 57
           }
         ],
         "schedule": [
@@ -66562,14 +66562,14 @@
         "number": "1434",
         "remarks": "> For MSc(ISM) students only\n> Will have normal class on 1-May-2026\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 60,
-        "enroll": 55,
+        "enroll": 54,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 2,
-            "enroll": 1
+            "enroll": 0
           },
           {
             "name": "FOFB",
@@ -68292,7 +68292,7 @@
         "number": "1422",
         "remarks": "> For SBM TPG students only\n> Venue : Room E, 5/F, United Centre, 95 Queensway, Admiralty, Hong Kong\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 60,
-        "enroll": 54,
+        "enroll": 53,
         "waitlist": 20,
         "consent": false,
         "reservedQuota": [
@@ -68314,7 +68314,7 @@
           {
             "name": "ICSM",
             "quota": 5,
-            "enroll": 5
+            "enroll": 4
           },
           {
             "name": "ISM",
@@ -81700,7 +81700,7 @@
         "number": "1478",
         "remarks": "> This course is offered under a course-sharing scheme established jointly by The University of Hong Kong, The Chinese University of Hong Kong, and The Hong Kong University of Science and Technology, under the Joint Centre for Advanced Study.\n> Venue:\n- Prince of Wales Hospital (10:00 - 13:00 on 3, 10, 17 & 24 Jan 2026)\n- LTE, Academic Building, HKUST (10:00 - 12:50 on 31 Jan; 7, 14 & 21 Feb 2026)\n- Queen Mary Hospital (10:30 - 13:30 on 28 Feb; 7, 14 & 21 Mar 2026)\n> Class Start Date: 3 January 2026",
         "quota": 20,
-        "enroll": 0,
+        "enroll": 20,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -85805,7 +85805,7 @@
         "number": "1525",
         "remarks": "> For MSc(MARK) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 65,
-        "enroll": 59,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -85827,7 +85827,7 @@
           {
             "name": "TLE",
             "quota": 4,
-            "enroll": 3
+            "enroll": 2
           }
         ],
         "schedule": [
@@ -91820,6 +91820,45 @@
           {
             "instructors": [
               "LEUNG, Shing Yu"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "MATH",
+    "number": "4981N",
+    "code": "MATH4981N",
+    "name": "Independent Study",
+    "description": "Advanced undergraduate topics independently studied under the supervision of a faculty member. May be repeated for credit if different topics are studied. May be graded P/F or letter grade.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4626",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
             ],
             "venue": "TBA",
             "fromDate": "2026-02-02",
@@ -100832,7 +100871,7 @@
         "remarks": "> For MSc(FOFB) students only\n> Venue : Hong Thai Expo, 5/F United Centre, 95 Queensway, Admiralty, Hong Kong\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 47,
         "enroll": 45,
-        "waitlist": 1,
+        "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
