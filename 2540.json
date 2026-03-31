@@ -5077,6 +5077,125 @@
     ]
   },
   {
+    "career": "UGRD",
+    "subject": "ISOM",
+    "number": "3360",
+    "code": "ISOM3360",
+    "name": "Data Mining for Business Analytics",
+    "description": "This course covers the fundamental concepts, technologies, and applications of business analytics to help firms gain a competitive advantage in the era of Big Data.  Topics include text mining, predictive analytics, search engine strategy, social network analysis, cloud computing, etc. Students will gain hands-on experience with popular data analytical tools.",
+    "previousCodes": "",
+    "prerequisites": "ISOM 2020 OR COMP 1021 OR COMP 1023",
+    "corequisites": "",
+    "exclusions": "COMP 4331, IEDA 3560",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1246",
+        "remarks": "> Instructor : ZHANG, Yue\n> Supervisor : Prof LEE, Dongwon\n> Add/Drop Deadline : 20-Jun-2026",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "IS",
+            "quota": 30,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 1003, LSK Bldg (75)",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-06-29",
+            "weekdays": [
+              1,
+              3,
+              5
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:50"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 1003, LSK Bldg (75)",
+            "fromDate": "2026-07-06",
+            "toDate": "2026-07-08",
+            "weekdays": [
+              1,
+              3
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:50"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 1003, LSK Bldg (75)",
+            "fromDate": "2026-07-10",
+            "toDate": "2026-07-13",
+            "weekdays": [
+              1,
+              5
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          }
+        ]
+      },
+      {
+        "section": "LA1",
+        "number": "1247",
+        "remarks": " ",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "G005, LSK Bldg",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-06-29",
+            "weekdays": [
+              1,
+              3,
+              5
+            ],
+            "fromTime": "18:00",
+            "toTime": "18:50"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "G005, LSK Bldg",
+            "fromDate": "2026-07-06",
+            "toDate": "2026-07-13",
+            "weekdays": [
+              1,
+              3,
+              5
+            ],
+            "fromTime": "18:00",
+            "toTime": "18:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "TPG",
     "subject": "ISOM",
     "number": "5270",
