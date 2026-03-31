@@ -5196,6 +5196,95 @@
     ]
   },
   {
+    "career": "UGRD",
+    "subject": "ISOM",
+    "number": "3400",
+    "code": "ISOM3400",
+    "name": "Business Applications Development in Python",
+    "description": "This course introduces programming concepts and applications using the Python programming language. The applications primarily focus on business contexts. The course covers general programming concepts, object-oriented design, and the use of external Python packages for tasks such as web automation, and building business applications.",
+    "previousCodes": "",
+    "prerequisites": "ISOM 2020",
+    "corequisites": "",
+    "exclusions": "COMP 1021, COMP 1023",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1248",
+        "remarks": "> Instructor : ZHANG, Zhenghan\n> Supervisor : Prof YIN, Zhitao\n> Add/Drop Deadline : 18-Jul-2026",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "IS",
+            "quota": 30,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "G003, LSK Bldg (75)",
+            "fromDate": "2026-07-15",
+            "toDate": "2026-08-05",
+            "weekdays": [
+              1,
+              3,
+              5
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "G003, LSK Bldg (75)",
+            "fromDate": "2026-08-07",
+            "toDate": "2026-08-07",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:50"
+          }
+        ]
+      },
+      {
+        "section": "LA1",
+        "number": "1249",
+        "remarks": " ",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "G005, LSK Bldg",
+            "fromDate": "2026-07-15",
+            "toDate": "2026-08-07",
+            "weekdays": [
+              1,
+              3,
+              5
+            ],
+            "fromTime": "18:00",
+            "toTime": "18:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "TPG",
     "subject": "ISOM",
     "number": "5270",

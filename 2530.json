@@ -1966,7 +1966,7 @@
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 70,
         "enroll": 70,
-        "waitlist": 6,
+        "waitlist": 5,
         "consent": false,
         "reservedQuota": [
           {
@@ -1997,14 +1997,14 @@
         "number": "1026",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 70,
-        "enroll": 59,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 70,
-            "enroll": 59
+            "enroll": 58
           }
         ],
         "schedule": [
@@ -2191,14 +2191,14 @@
         "number": "1018",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 70,
-        "enroll": 66,
+        "enroll": 65,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 70,
-            "enroll": 66
+            "enroll": 65
           }
         ],
         "schedule": [
@@ -26899,7 +26899,7 @@
         "number": "1240",
         "remarks": "> For MSc(ECON) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 80,
-        "enroll": 44,
+        "enroll": 43,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -43456,7 +43456,7 @@
         "number": "1305",
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 62,
-        "enroll": 46,
+        "enroll": 45,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -43468,7 +43468,7 @@
           {
             "name": "FINA",
             "quota": 54,
-            "enroll": 40
+            "enroll": 39
           },
           {
             "name": "TLE",
@@ -43711,7 +43711,7 @@
         "remarks": "> Instructor : YOO, Paul\n> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 65,
         "enroll": 65,
-        "waitlist": 24,
+        "waitlist": 25,
         "consent": false,
         "reservedQuota": [
           {
@@ -44639,7 +44639,7 @@
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 65,
         "enroll": 65,
-        "waitlist": 7,
+        "waitlist": 5,
         "consent": false,
         "reservedQuota": [
           {
@@ -44690,99 +44690,6 @@
             ],
             "fromTime": "09:15",
             "toTime": "12:35"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "TPG",
-    "subject": "FINA",
-    "number": "5730",
-    "code": "FINA5730",
-    "name": "Sustainable Finance and Reporting Strategies in Hong Kong",
-    "description": "This course aims to develop students’ comprehensive knowledge, skills, and understanding of ESG, sustainable finance, and ESG reporting. Particular focus will be placed on the impact of ESG and sustainable finance on listed companies in Hong Kong. This course comprises both formal lectures and guest lectures to allow students to develop solid ESG and green finance knowledge, as well as understand the latest market and regulatory developments in Hong Kong.",
-    "previousCodes": "SBMT6011Q",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "",
-    "credits": 2,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "L1",
-        "number": "1299",
-        "remarks": "> The class is cancelled",
-        "quota": 0,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "HO, Ho Ming Stan"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-03-31",
-            "toDate": "2026-03-31",
-            "weekdays": [
-              2
-            ],
-            "fromTime": "19:00",
-            "toTime": "22:20"
-          },
-          {
-            "instructors": [
-              "HO, Ho Ming Stan"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-04-10",
-            "toDate": "2026-04-10",
-            "weekdays": [
-              5
-            ],
-            "fromTime": "19:00",
-            "toTime": "22:20"
-          },
-          {
-            "instructors": [
-              "HO, Ho Ming Stan"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-04-14",
-            "toDate": "2026-04-14",
-            "weekdays": [
-              2
-            ],
-            "fromTime": "19:00",
-            "toTime": "22:20"
-          },
-          {
-            "instructors": [
-              "HO, Ho Ming Stan"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-04-28",
-            "toDate": "2026-04-28",
-            "weekdays": [
-              2
-            ],
-            "fromTime": "19:00",
-            "toTime": "22:20"
-          },
-          {
-            "instructors": [
-              "HO, Ho Ming Stan"
-            ],
-            "venue": "TBA",
-            "fromDate": "2026-05-05",
-            "toDate": "2026-05-26",
-            "weekdays": [
-              2
-            ],
-            "fromTime": "19:00",
-            "toTime": "22:20"
           }
         ]
       }
@@ -45161,14 +45068,14 @@
         "number": "1306",
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 65,
-        "enroll": 37,
+        "enroll": 36,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 60,
-            "enroll": 36
+            "enroll": 35
           },
           {
             "name": "MIMT",
@@ -45272,14 +45179,14 @@
         "number": "1314",
         "remarks": "> Instructor : AU, Paul\n> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 65,
-        "enroll": 47,
+        "enroll": 49,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 65,
-            "enroll": 47
+            "enroll": 49
           }
         ],
         "schedule": [
@@ -45319,14 +45226,14 @@
         "number": "1297",
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 65,
-        "enroll": 25,
+        "enroll": 23,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FINA",
             "quota": 64,
-            "enroll": 24
+            "enroll": 22
           },
           {
             "name": "FOFB",
@@ -65357,14 +65264,14 @@
         "number": "1425",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 67,
-        "enroll": 63,
+        "enroll": 62,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 67,
-            "enroll": 63
+            "enroll": 62
           }
         ],
         "schedule": [
@@ -65755,14 +65662,14 @@
         "number": "1420",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 60,
-        "enroll": 56,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 60,
-            "enroll": 56
+            "enroll": 58
           }
         ],
         "schedule": [
@@ -66574,7 +66481,7 @@
         "number": "1434",
         "remarks": "> For MSc(ISM) students only\n> Will have normal class on 1-May-2026\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 60,
-        "enroll": 54,
+        "enroll": 55,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -66591,7 +66498,7 @@
           {
             "name": "ISM",
             "quota": 48,
-            "enroll": 47
+            "enroll": 48
           },
           {
             "name": "MIMT",
@@ -67446,7 +67353,7 @@
         "number": "1427",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 60,
-        "enroll": 20,
+        "enroll": 18,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -67458,7 +67365,7 @@
           {
             "name": "GO",
             "quota": 55,
-            "enroll": 17
+            "enroll": 15
           },
           {
             "name": "MARK",
@@ -67789,14 +67696,14 @@
         "number": "1424",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 60,
-        "enroll": 29,
+        "enroll": 25,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 60,
-            "enroll": 29
+            "enroll": 25
           }
         ],
         "schedule": [
@@ -67957,14 +67864,14 @@
         "number": "1421",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 60,
-        "enroll": 47,
+        "enroll": 46,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 60,
-            "enroll": 47
+            "enroll": 46
           }
         ],
         "schedule": [
@@ -68305,7 +68212,7 @@
         "remarks": "> For SBM TPG students only\n> Venue : Room E, 5/F, United Centre, 95 Queensway, Admiralty, Hong Kong\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 60,
         "enroll": 50,
-        "waitlist": 20,
+        "waitlist": 19,
         "consent": false,
         "reservedQuota": [
           {
@@ -84870,7 +84777,7 @@
         "remarks": "> Instructor : Mr HOU, Andre\n> For MSc(MARK) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 65,
         "enroll": 65,
-        "waitlist": 19,
+        "waitlist": 18,
         "consent": false,
         "reservedQuota": [
           {
@@ -113040,7 +112947,7 @@
         "remarks": "> Instructor : WONG, Dan\n> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 04-Apr-2026\n> Extended Drop Deadline : 06-Apr-2026",
         "quota": 62,
         "enroll": 59,
-        "waitlist": 9,
+        "waitlist": 10,
         "consent": false,
         "reservedQuota": [
           {
