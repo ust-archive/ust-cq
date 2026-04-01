@@ -3593,6 +3593,45 @@
     ]
   },
   {
+    "career": "RPG",
+    "subject": "ENVR",
+    "number": "6100A",
+    "code": "ENVR6100A",
+    "name": "Independent Study",
+    "description": "Study on selected topics in environmental science under the supervision of a faculty member. The course may be repeated once for credits if the topic is different. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1250",
+        "remarks": "> For MSc(EVSM) students only\n> Add/Drop Deadline : 16-Jun-2026",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAU, Pui Sang"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-08-08",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "UGRD",
     "subject": "FINA",
     "number": "2203",
@@ -8725,7 +8764,7 @@
           {
             "instructors": [
               "LIANG, Sheila, Xin",
-              "SIMPSON, James Edward Barbour"
+              "SIMPSON, James"
             ],
             "venue": "TBA",
             "fromDate": "2026-06-15",
