@@ -2191,14 +2191,14 @@
         "number": "1018",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 70,
-        "enroll": 58,
+        "enroll": 57,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 70,
-            "enroll": 58
+            "enroll": 57
           }
         ],
         "schedule": [
@@ -43617,7 +43617,7 @@
         "number": "1308",
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 60,
-        "enroll": 55,
+        "enroll": 56,
         "waitlist": 3,
         "consent": false,
         "reservedQuota": [
@@ -43629,7 +43629,7 @@
           {
             "name": "MBA",
             "quota": 35,
-            "enroll": 34
+            "enroll": 35
           },
           {
             "name": "MBA Bi-weekly",
@@ -45801,14 +45801,14 @@
         "number": "1588",
         "remarks": "> For MSc(FOFB) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 40,
-        "enroll": 20,
+        "enroll": 21,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "FOFB",
             "quota": 35,
-            "enroll": 15
+            "enroll": 16
           },
           {
             "name": "MIMT",
@@ -46070,7 +46070,7 @@
         "number": "1593",
         "remarks": "> For MSc(FOFB) students only\n> Venue : United Conference Centre, 10/F, United Centre, 95 Queensway, Admiralty, Hong Kong\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 40,
-        "enroll": 26,
+        "enroll": 25,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -46087,7 +46087,7 @@
           {
             "name": "FOFB",
             "quota": 35,
-            "enroll": 24
+            "enroll": 23
           }
         ],
         "schedule": [
@@ -51112,7 +51112,7 @@
         "number": "2780",
         "remarks": " ",
         "quota": 150,
-        "enroll": 130,
+        "enroll": 129,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -57028,7 +57028,7 @@
         "number": "1357",
         "remarks": "> For PhD(IIP) students only",
         "quota": 100,
-        "enroll": 94,
+        "enroll": 93,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -57040,6 +57040,45 @@
             "venue": "TBA",
             "fromDate": "2026-02-02",
             "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "IMBA",
+    "number": "5070",
+    "code": "IMBA5070",
+    "name": "Corporate Finance",
+    "description": "Explores the strategic financial decisions an organization makes for value creation. The topics include an analysis of capital spending, capital structure, risk management, financial statement analysis and forecasting, corporate restructuring, and understanding and impact of financial institutions on financial decisions.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "FINA 5120",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4628",
+        "remarks": "> Class Duration/Dates : 21-Mar-2026 to 22-Mar-2026",
+        "quota": 48,
+        "enroll": 48,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "NIELSEN, Kasper Meisner"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-03-21",
+            "toDate": "2026-03-22",
             "weekdays": [],
             "fromTime": null,
             "toTime": null
@@ -57118,6 +57157,45 @@
             "venue": "TBA",
             "fromDate": "2026-02-05",
             "toDate": "2026-02-06",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "IMBA",
+    "number": "5590",
+    "code": "IMBA5590",
+    "name": "Leadership and Decision Making",
+    "description": "This course will equip managers with the skills and knowledge needed to make high-quality decisions, distinguishing themselves and their organizations. By providing practical tools and frameworks, participants will enhance their decision-making abilities and drive long-term success. Emphasizing that quality management decisions can be acquired and practiced, this course focuses on the profound impact of leaders' choices and their role in organizational achievements.",
+    "previousCodes": "IMBA6900K",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4627",
+        "remarks": "> Class Duration/Dates : 19-Mar-2026 to 20-Mar-2026",
+        "quota": 55,
+        "enroll": 55,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "WANG, Caroline"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-03-19",
+            "toDate": "2026-03-20",
             "weekdays": [],
             "fromTime": null,
             "toTime": null
@@ -63120,7 +63198,7 @@
         "number": "3118",
         "remarks": " ",
         "quota": 47,
-        "enroll": 46,
+        "enroll": 45,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -63146,7 +63224,7 @@
         "number": "3119",
         "remarks": " ",
         "quota": 47,
-        "enroll": 46,
+        "enroll": 45,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -63374,7 +63452,7 @@
         "number": "3128",
         "remarks": "> The class is delivered in a blended learning mode",
         "quota": 36,
-        "enroll": 36,
+        "enroll": 35,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -63426,7 +63504,7 @@
         "number": "3130",
         "remarks": " ",
         "quota": 66,
-        "enroll": 63,
+        "enroll": 62,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -65193,7 +65271,7 @@
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 67,
         "enroll": 66,
-        "waitlist": 3,
+        "waitlist": 2,
         "consent": false,
         "reservedQuota": [
           {
@@ -65291,14 +65369,14 @@
         "number": "1425",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 67,
-        "enroll": 58,
+        "enroll": 56,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 67,
-            "enroll": 58
+            "enroll": 56
           }
         ],
         "schedule": [
@@ -65629,14 +65707,14 @@
         "number": "1419",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 67,
-        "enroll": 55,
+        "enroll": 54,
         "waitlist": 2,
         "consent": false,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 67,
-            "enroll": 54
+            "enroll": 53
           }
         ],
         "schedule": [
@@ -66013,14 +66091,14 @@
         "number": "1426",
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 60,
-        "enroll": 31,
+        "enroll": 30,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ISM",
             "quota": 60,
-            "enroll": 31
+            "enroll": 30
           }
         ],
         "schedule": [
@@ -67466,14 +67544,14 @@
         "number": "1435",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 27-Apr-2026",
         "quota": 60,
-        "enroll": 60,
+        "enroll": 59,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 60,
-            "enroll": 60
+            "enroll": 59
           }
         ],
         "schedule": [
@@ -67891,14 +67969,14 @@
         "number": "1421",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 60,
-        "enroll": 47,
+        "enroll": 46,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 60,
-            "enroll": 47
+            "enroll": 46
           }
         ],
         "schedule": [
@@ -68021,14 +68099,14 @@
         "number": "1440",
         "remarks": "> Instructor : ZHANG, Dennis\n> For MSc(ISM) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 60,
-        "enroll": 40,
+        "enroll": 39,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 2,
-            "enroll": 1
+            "enroll": 0
           },
           {
             "name": "FINA",
@@ -69036,7 +69114,7 @@
       {
         "section": "L1",
         "number": "4425",
-        "remarks": "> Instructor: LEE, CK",
+        "remarks": " ",
         "quota": 80,
         "enroll": 16,
         "waitlist": 0,
@@ -69051,7 +69129,8 @@
         "schedule": [
           {
             "instructors": [
-              "CHEUNG, Tsz Fai Vincent"
+              "CHEUNG, Tsz Fai Vincent",
+              "LEE, Chee Kwan"
             ],
             "venue": "Rm 1, 30/F, Tower 1,Millennity",
             "fromDate": "2026-02-04",
@@ -69064,7 +69143,8 @@
           },
           {
             "instructors": [
-              "CHEUNG, Tsz Fai Vincent"
+              "CHEUNG, Tsz Fai Vincent",
+              "LEE, Chee Kwan"
             ],
             "venue": "Rm 1, 30/F, Tower 1,Millennity",
             "fromDate": "2026-04-15",
@@ -69077,7 +69157,8 @@
           },
           {
             "instructors": [
-              "CHEUNG, Tsz Fai Vincent"
+              "CHEUNG, Tsz Fai Vincent",
+              "LEE, Chee Kwan"
             ],
             "venue": "Rm 1, 30/F, Tower 1,Millennity",
             "fromDate": "2026-04-18",
@@ -82395,7 +82476,7 @@
           {
             "instructors": [
               "HITIER, Sebastien Georges Frederic",
-              "WANG, Zhixue"
+              "WANG, Josh"
             ],
             "venue": "Lecture Theater F (133)",
             "fromDate": "2026-02-02",
@@ -99084,7 +99165,7 @@
         "number": "3921",
         "remarks": " ",
         "quota": 60,
-        "enroll": 59,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -99138,7 +99219,7 @@
         "number": "3925",
         "remarks": " ",
         "quota": 60,
-        "enroll": 59,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -101068,7 +101149,7 @@
         "number": "1596",
         "remarks": "> For FT-MBA; PT-MBA and MBA Bi-Weekly students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 50,
-        "enroll": 45,
+        "enroll": 44,
         "waitlist": 4,
         "consent": false,
         "reservedQuota": [
@@ -101080,7 +101161,7 @@
           {
             "name": "MBA Bi-weekly",
             "quota": 46,
-            "enroll": 41
+            "enroll": 40
           }
         ],
         "schedule": [
@@ -101586,14 +101667,14 @@
         "number": "1594",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 25,
-        "enroll": 24,
+        "enroll": 21,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 25,
-            "enroll": 24
+            "enroll": 21
           }
         ],
         "schedule": [
@@ -101618,14 +101699,14 @@
         "number": "1595",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 25,
-        "enroll": 16,
+        "enroll": 20,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 25,
-            "enroll": 16
+            "enroll": 20
           }
         ],
         "schedule": [
@@ -101810,7 +101891,7 @@
         "remarks": "> Instructor : KWOK, Clement\n> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 23,
+        "waitlist": 20,
         "consent": false,
         "reservedQuota": [
           {
@@ -106304,7 +106385,7 @@
         "number": "1358",
         "remarks": " ",
         "quota": 300,
-        "enroll": 243,
+        "enroll": 242,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -106614,7 +106695,7 @@
         "number": "1359",
         "remarks": " ",
         "quota": 250,
-        "enroll": 95,
+        "enroll": 94,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -112974,7 +113055,7 @@
         "remarks": "> Instructor : WONG, Dan\n> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 04-Apr-2026\n> Extended Drop Deadline : 06-Apr-2026",
         "quota": 62,
         "enroll": 61,
-        "waitlist": 8,
+        "waitlist": 7,
         "consent": false,
         "reservedQuota": [
           {
@@ -113363,7 +113444,7 @@
         "remarks": "> For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only\n> Add/Drop Deadline : 20-Apr-2026",
         "quota": 57,
         "enroll": 52,
-        "waitlist": 15,
+        "waitlist": 16,
         "consent": false,
         "reservedQuota": [
           {
