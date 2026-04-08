@@ -4026,7 +4026,7 @@
         "number": "1212",
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 09-Jun-2026",
         "quota": 65,
-        "enroll": 0,
+        "enroll": 2,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -4043,7 +4043,7 @@
           {
             "name": "ICSM",
             "quota": 3,
-            "enroll": 0
+            "enroll": 2
           },
           {
             "name": "ISM",
@@ -4109,6 +4109,123 @@
             ],
             "fromTime": "19:00",
             "toTime": "22:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "GFIN",
+    "number": "5050",
+    "code": "GFIN5050",
+    "name": "Applied Corporate Finance and Valuation",
+    "description": "This course focuses on the valuation of companies and the creation of shareholder value by looking at the interplay of corporate strategy and finance.  The course exposes participants to valuation frameworks that can readily be applied to improve business and strategic decision-making.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1254",
+        "remarks": "> Class Duration/Dates : 07-Jun-2026 to 09-Jun-2026\n> Add/Drop Deadline : 07-Jun-2026",
+        "quota": 24,
+        "enroll": 24,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "GOYAL, Vidhan Krishan"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-07",
+            "toDate": "2026-06-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "GFIN",
+    "number": "5400",
+    "code": "GFIN5400",
+    "name": "Asset Allocation",
+    "description": "The course builds on GFIN 5010 Foundations of Investments to provide students with tools and knowledge in global asset allocation. Topics include major investable markets and players, asset allocation, performance evaluation, strategies and performance of hedge funds, and factor models.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "GFIN 5030 (Prior to 2019-20)",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1255",
+        "remarks": "> Class Duration/Dates : 10-Jun-2026 to 11-Jun-2026\n> Add/Drop Deadline : 10-Jun-2026",
+        "quota": 24,
+        "enroll": 24,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "BHATTACHARYA, Utpal"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-10",
+            "toDate": "2026-06-11",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "GFIN",
+    "number": "5500",
+    "code": "GFIN5500",
+    "name": "Behavioral Finance",
+    "description": "A growing strand of research suggests that the standard economic paradigm - rational investors in an efficient market - does not adequately describe behavior in financial markets. Behavioral finance combines the latest findings of behavioral and cognitive psychological theory with conventional economics and finance to provide alternative explanations of financial market behavior. We will examine how psychology of decision making under conditions of risk and uncertainty affects the traditional paradigm, while paying attention to practical applications for portfolio and investment management.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "FINA 5420 (prior to 2020-21)",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1256",
+        "remarks": "> Class Duration/Dates : 11-Jun-2026 to 12-Jun-2026\n> Add/Drop Deadline : 11-Jun-2026",
+        "quota": 24,
+        "enroll": 24,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "MUKHERJEE, Abhiroop"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-11",
+            "toDate": "2026-06-12",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
           }
         ]
       }
@@ -5741,7 +5858,7 @@
         "number": "1203",
         "remarks": "> Instructor : SHI, Jim\n> For MSc(GO) students only\n> Add/Drop Deadline : 20-Jul-2026",
         "quota": 60,
-        "enroll": 0,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -5763,7 +5880,7 @@
           {
             "name": "ICSM",
             "quota": 3,
-            "enroll": 0
+            "enroll": 3
           },
           {
             "name": "ISM",
@@ -5823,7 +5940,7 @@
         "number": "1204",
         "remarks": "> Instructor : JOSEPH, Tobin\n> For MSc(GO) students only\n> Add/Drop Deadline : 22-Jun-2026",
         "quota": 60,
-        "enroll": 1,
+        "enroll": 4,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -5850,7 +5967,7 @@
           {
             "name": "ICSM",
             "quota": 3,
-            "enroll": 0
+            "enroll": 3
           },
           {
             "name": "ISM",
