@@ -2104,6 +2104,49 @@
   {
     "career": "UGRD",
     "subject": "COMP",
+    "number": "1944",
+    "code": "COMP1944",
+    "name": "Artificial Intelligence Ethics",
+    "description": "Artificial intelligence (AI) is disrupting every sphere of our work and lives, bringing unprecedented risks to society. This introductory course surveys the explosive area of AI ethics, illuminating relevant AI concepts with no prior background needed. Fake news bots. AI driven social media displacing traditional journalism. Drone warfare. Elimination of traditional jobs. Privacy‐violating advertising. Monopolistic network effects. Biased AI decision/recognition algorithms. Deepfakes. Autonomous vehicles. Automated hedge fund trading. No area remains untouched. Policy think tanks, governments, and tech companies around the world have started paying serious attention to AI ethics. How will human civilization survive the rise of AI? What are the new rules? What are the ethical frameworks needed to avoid extinction? What are engineers’ and entrepreneurs’ ethical responsibilities?  For students of the Department of Computer Science and Engineering only. Other students may seek instructor’s approval for enrollment in the course.",
+    "previousCodes": "COMP4901M,CORE1234",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1253",
+        "remarks": "> Add/Drop Deadline: 20-Jun-2026",
+        "quota": 60,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "WU, Dekai"
+            ],
+            "venue": "Rm 2503, Lift 25-26 (87)",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-07-10",
+            "weekdays": [
+              1,
+              3,
+              5
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "COMP",
     "number": "3311",
     "code": "COMP3311",
     "name": "Database Management Systems",
@@ -2308,6 +2351,49 @@
               6
             ],
             "fromTime": "16:30",
+            "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "COMP",
+    "number": "4901C",
+    "code": "COMP4901C",
+    "name": "Empathetic AI",
+    "description": "This course examines leading frontiers of AI and NLP, building from the widely acclaimed new MIT Press book Raising AI. Large language models are impressive but still unable to truly understand and share the feelings and thoughts of the human-which is the very definition of empathy. Most of meaning actually lies in what’s not said: the omitted context. True AI breakthroughs will have to emerge from understanding how context contributes to meaning-beyond the simplistic context windows of LLMs. We will design and prototype new empathetic AI understanding models to recognize and measure these deeper levels of meaning. Major societal applications include misinformation theory, information disorder, algorithmic bias, and mental well-being AI.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1252",
+        "remarks": "> Add/Drop Deadline: 20-Jun-2026",
+        "quota": 60,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "WU, Dekai"
+            ],
+            "venue": "Rm 2502, Lift 25-26 (120)",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-07-10",
+            "weekdays": [
+              1,
+              3,
+              5
+            ],
+            "fromTime": "14:00",
             "toTime": "17:20"
           }
         ]
