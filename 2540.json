@@ -3085,6 +3085,51 @@
     ]
   },
   {
+    "career": "TPG",
+    "subject": "EESM",
+    "number": "6910",
+    "code": "EESM6910",
+    "name": "Departmental and Professional Seminar",
+    "description": "Various departmental and professional seminars and workshops presented by postgraduate students, faculty or guest speakers. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1257",
+        "remarks": "> Add/Drop Deadline : 20-Jun-2026\n> Extended Drop Deadline : 27-Jun-2026",
+        "quota": 60,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "EESM",
+            "quota": 60,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-08-08",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "UGRD",
     "subject": "ELEC",
     "number": "1200",
@@ -3341,6 +3386,45 @@
           {
             "instructors": [
               "WOO, Kam Tim"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-08-08",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "ENGG",
+    "number": "6200",
+    "code": "ENGG6200",
+    "name": "MSc Practical Learning and Enrichment",
+    "description": "The course aims to broaden MSc students' horizon and enrich their learning experiences through practice and participating in overseas research internship, professional learning trips and summer programs arranged with partner universities or institutes. Students are required to engage in practical training and research, laboratory work, industrial visits, professional courses and workshops depending on the available opportunities. Graded PP, P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1259",
+        "remarks": " ",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
             ],
             "venue": "TBA",
             "fromDate": "2026-06-15",
@@ -8167,6 +8251,45 @@
         "enroll": 0,
         "waitlist": 0,
         "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-08-08",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MFIT",
+    "number": "5012",
+    "code": "MFIT5012",
+    "name": "FinTech Enrichment Workshops",
+    "description": "The course aims to broaden MSc(FinTech) students’ horizon and develop students’ essential knowledge and skills related to financial technology through participating in a series of enrichment activities. Different speakers, practitioners, or FinTech professionals may be invited to conduct the workshops or engagement activities. Students are required to attend at least six enrichment activities recognized by the program in order to pass this course. Graded PP, P or F.",
+    "previousCodes": "SBMT6020A",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1258",
+        "remarks": "> For MSc(FinTech) students only\n> Add/Drop Deadline : 20-Jun-2026\n> Extended Drop Deadline : 27-Jun-2026",
+        "quota": 130,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
         "reservedQuota": [],
         "schedule": [
           {

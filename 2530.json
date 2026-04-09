@@ -1966,7 +1966,7 @@
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 70,
         "enroll": 70,
-        "waitlist": 4,
+        "waitlist": 5,
         "consent": false,
         "reservedQuota": [
           {
@@ -1997,14 +1997,14 @@
         "number": "1026",
         "remarks": "> For MSc(ACCT) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 70,
-        "enroll": 53,
+        "enroll": 52,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "ACCT",
             "quota": 70,
-            "enroll": 53
+            "enroll": 52
           }
         ],
         "schedule": [
@@ -22900,7 +22900,7 @@
         "number": "4374",
         "remarks": "> Class Duration/Dates : 11-Apr-2026 to 12-Apr-2026\n> Add/Drop Deadline : 11-Apr-2026",
         "quota": 11,
-        "enroll": 11,
+        "enroll": 10,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -23251,9 +23251,9 @@
       {
         "section": "R1",
         "number": "4625",
-        "remarks": "> Add/Drop Deadline : 14-Feb-2026",
+        "remarks": "> Class Duration/Dates : 09-May-2026 to 18-May-2026\n> Add/Drop Deadline : 09-May-2026",
         "quota": 20,
-        "enroll": 20,
+        "enroll": 18,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -23263,8 +23263,8 @@
               "TBA"
             ],
             "venue": "TBA",
-            "fromDate": "2026-02-02",
-            "toDate": "2026-05-09",
+            "fromDate": "2026-05-09",
+            "toDate": "2026-05-18",
             "weekdays": [],
             "fromTime": null,
             "toTime": null
@@ -27487,12 +27487,25 @@
             ],
             "venue": "Rm 1, 31/F, Tower 1,Millennity",
             "fromDate": "2026-04-08",
-            "toDate": "2026-05-27",
+            "toDate": "2026-05-20",
             "weekdays": [
               3
             ],
             "fromTime": "09:00",
             "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "PEGLER, Dominic James"
+            ],
+            "venue": "G009A, CYT Bldg (80)",
+            "fromDate": "2026-05-23",
+            "toDate": "2026-05-23",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "16:30",
+            "toTime": "19:20"
           }
         ]
       }
@@ -68249,7 +68262,7 @@
         "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 50,
         "enroll": 48,
-        "waitlist": 17,
+        "waitlist": 16,
         "consent": false,
         "reservedQuota": [
           {
@@ -94565,7 +94578,7 @@
         "number": "3818",
         "remarks": " ",
         "quota": 122,
-        "enroll": 104,
+        "enroll": 103,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -96431,7 +96444,7 @@
         "number": "3888",
         "remarks": "> The credit load will usually be spread in the following pattern: Fall: 3; Spring: 3",
         "quota": 31,
-        "enroll": 30,
+        "enroll": 29,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
