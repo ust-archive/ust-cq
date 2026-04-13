@@ -3086,6 +3086,106 @@
   },
   {
     "career": "TPG",
+    "subject": "EEMT",
+    "number": "5520",
+    "code": "EEMT5520",
+    "name": "Service Operations Management",
+    "description": "This course will expose students to the diversified service industries and equip them with knowledge and skills of improving productivity and quality of service firms.  Students will learn the latest concepts, techniques, and methodologies in service system design, service level, quality of service, service product life cycle, measurements, design for serviceability, analysis, productivity in services, client satisfaction, training, and services logistics.  They will also learn how to apply the knowledge to decision making in planning, organizing, and managing service operations.\r",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1262",
+        "remarks": "> Add/Drop Deadline : 05-Jun-2026\n> Extended Drop Deadline : 08-Jun-2026",
+        "quota": 70,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "EEM",
+            "quota": 70,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "LAU, Ronald"
+            ],
+            "venue": "G003, LSK Bldg (75)",
+            "fromDate": "2026-06-02",
+            "toDate": "2026-06-23",
+            "weekdays": [
+              2,
+              4
+            ],
+            "fromTime": "19:30",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "LAU, Ronald"
+            ],
+            "venue": "G003, LSK Bldg (75)",
+            "fromDate": "2026-06-06",
+            "toDate": "2026-06-06",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "10:00",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "LAU, Ronald"
+            ],
+            "venue": "G003, LSK Bldg (75)",
+            "fromDate": "2026-06-06",
+            "toDate": "2026-06-20",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "14:00",
+            "toTime": "16:50"
+          },
+          {
+            "instructors": [
+              "LAU, Ronald"
+            ],
+            "venue": "Rm 3003, LSK Bldg",
+            "fromDate": "2026-06-13",
+            "toDate": "2026-06-13",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "10:00",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "LAU, Ronald"
+            ],
+            "venue": "Rm 2003, LSK Bldg",
+            "fromDate": "2026-06-20",
+            "toDate": "2026-06-20",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "10:00",
+            "toTime": "12:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
     "subject": "EESM",
     "number": "6900",
     "code": "EESM6900",
@@ -6578,125 +6678,14 @@
   {
     "career": "UGRD",
     "subject": "LANG",
-    "number": "1513",
-    "code": "LANG1513",
-    "name": "Chinese for Non-Chinese Language Background Students III",
-    "description": "The course is designed for non-Chinese language background students who have completed up to 150 hours of Chinese instruction. It prepares them for an intermediate-level understanding of spoken and written Chinese and equips them with a strong communicative competence in using Chinese in study, work, social and some professional situations. After successfully completing the course, students’ listening, speaking, reading and writing skills will be enhanced, and they will be able to engage in complete, coherent and appropriate conversations and discourse on topics related to study, work, society and professions. They can also understand HSK (Level 3) Chinese vocabulary. Instructor's approval is required for enrollment in the course.",
-    "previousCodes": "",
-    "prerequisites": "",
-    "corequisites": "",
-    "exclusions": "LANG 1123 (prior to 2022-23), LANG 1124 (prior to 2022-23), LANG 1125 (prior to 2022-23), LANG 1126 (prior to 2022-23), LANG 1127 (prior to 2022-23), LANG 1117, LANG  1412, LANG 1413, LANG 1415, LANG 1416, LANG 1421, LANG 1422, LANG 1423, LANG 1424, LANG 1425, LANG 1426, LANG 1514, LANG 1515",
-    "credits": 3,
-    "attributes": [
-      {
-        "attribute": "4Y",
-        "value": "18",
-        "attributeDescription": "Students admitted before 2022",
-        "valueDescription": "Common Core (C-Comm) for 36-credit program"
-      },
-      {
-        "attribute": "CC22",
-        "value": "23",
-        "attributeDescription": "Students admitted in 2022-2024",
-        "valueDescription": "Common Core (C-Comm) for 30-credit prog in 22-24"
-      },
-      {
-        "attribute": "CC25",
-        "value": "36",
-        "attributeDescription": "Students admitted from 2025",
-        "valueDescription": "Common Core (C-Comm) for 30-credit prog fr 25"
-      },
-      {
-        "attribute": "MEDI",
-        "value": "PU",
-        "attributeDescription": "Medium of Instruction",
-        "valueDescription": "[PU] Putonghua"
-      }
-    ],
-    "classes": [
-      {
-        "section": "T01",
-        "number": "1159",
-        "remarks": "> Add/Drop Deadline : 20-Jun-2026",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": true,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2126A, Lift 19 (28)",
-            "fromDate": "2026-06-15",
-            "toDate": "2026-07-10",
-            "weekdays": [
-              1,
-              3,
-              5
-            ],
-            "fromTime": "14:30",
-            "toTime": "17:50"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "UGRD",
-    "subject": "LANG",
-    "number": "2061",
-    "code": "LANG2061",
-    "name": "Professional Writing for the Workplace",
-    "description": "This course offers students the language and communication skills and strategies to adapt their writing to any professional contexts. It increases student awareness of how writing creates change and convinces one to take action, and how audiences, contexts and genre call for different choices in language, organization, format and style. As students explore and analyze business genres, they learn how to shape and adapt their language skills, strategies and communication practices to meet the needs of various internal and external audiences including co-workers, supervisors, management and customers. The course also develops in students the ability to communicate in digital contexts by analyzing and producing texts including on email and social media. Students will develop a repertoire of language and communication skills and strategies and will write for various workplace needs. For all SBM programs, BIBU, MAEC, T&M-DDP, SGFN & QSA students.",
-    "previousCodes": "",
-    "prerequisites": "LANG 1403 OR LANG 1404",
-    "corequisites": "",
-    "exclusions": "ECON 3700, LABU 2040, LABU 2060, LANG 2063",
-    "credits": 3,
-    "attributes": [],
-    "classes": [
-      {
-        "section": "T01",
-        "number": "1162",
-        "remarks": "> Add/Drop Deadline : 20-Jun-2026",
-        "quota": 20,
-        "enroll": 0,
-        "waitlist": 0,
-        "consent": false,
-        "reservedQuota": [],
-        "schedule": [
-          {
-            "instructors": [
-              "TBA"
-            ],
-            "venue": "Rm 2127A, Lift 19 (28)",
-            "fromDate": "2026-06-15",
-            "toDate": "2026-07-10",
-            "weekdays": [
-              1,
-              3,
-              5
-            ],
-            "fromTime": "09:30",
-            "toTime": "12:50"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "career": "UGRD",
-    "subject": "LANG",
-    "number": "2063",
-    "code": "LANG2063",
-    "name": "Writing for Workplace Success",
-    "description": "This course prepares students extensively for persuasive writing in the workplace, enabling them to become effective writers and communicators in a digitally interconnected world. It provides students with a wide exposure to various workplace genres and how these are influenced by the audience, purpose and context. Students learn to write workplace texts and to develop a sensitivity to choose the most appropriate mode and medium to achieve communication goals. The course also offers students a strong linguistic and communication grounding, enabling them to critically analyze various workplace genres and develop the transferable skills and strategies needed to approach any unfamiliar texts. Using rhetorical moves, students learn to organize their writing effectively. This course emphasizes writing as a social process and writing as also team based. Students will equip themselves with strategies to give, receive and respond to feedback, and to collaborate effectively with others.",
+    "number": "2068",
+    "code": "LANG2068",
+    "name": "Speaking with Impact",
+    "description": "This course is designed to enhance students' abilities to craft and deliver compelling speeches using advanced communication strategies and technologies. By merging traditional rhetorical techniques with cutting-edge GenAI, students will learn how to formulate, practice, and deliver speeches across a variety of speaking contexts to audiences of varying sizes and demographics. Effective public speaking transcends mere linguistic skill; even native English speakers can find it challenging. Therefore, this course welcomes students of all language proficiencies and focuses on enhancing linguistic dexterity, boosting confidence, and cultivating personal attributes to maximize stage presence. Activities and assessments will challenge students to forge genuine connections with their listeners, while continuous peer feedback and self-evaluation will develop their abilities to articulate ideas clearly and persuasively. Ultimately, this course enhances spoken communication skills for academic, personal, and professional success.",
     "previousCodes": "",
     "prerequisites": "LANG 1403 OR LANG 1404 OR LANG 1406 OR LANG 1407 OR LANG 1408 OR LANG 1409",
     "corequisites": "",
-    "exclusions": "LANG 2061",
+    "exclusions": "",
     "credits": 3,
     "attributes": [
       {
@@ -6715,9 +6704,9 @@
     "classes": [
       {
         "section": "T01",
-        "number": "1163",
+        "number": "1263",
         "remarks": "> Add/Drop Deadline : 20-Jun-2026",
-        "quota": 20,
+        "quota": 30,
         "enroll": 0,
         "waitlist": 0,
         "consent": false,
@@ -6727,7 +6716,7 @@
             "instructors": [
               "TBA"
             ],
-            "venue": "Rm 2127A, Lift 19 (28)",
+            "venue": "Rm 5508, Lift 25-26 (30)",
             "fromDate": "2026-06-15",
             "toDate": "2026-07-10",
             "weekdays": [
@@ -10339,7 +10328,7 @@
       {
         "section": "L1",
         "number": "1187",
-        "remarks": "> Instructor : YIU, Kenny\n> For PT-MBA and Bi-weekly MBA students only\n> Add/Drop Deadline : 25-May-2026",
+        "remarks": "> Instructor : YIU, Kenny\n> For PT-MBA and Bi-weekly MBA students only\n> Venue on 3-Jun-2026 and 5-Jun-2026 : United Conference Centre, 10/F, United Centre, 95 Queensway, Admiralty, Hong Kong \n> Add/Drop Deadline : 25-May-2026",
         "quota": 60,
         "enroll": 0,
         "waitlist": 0,
@@ -10363,7 +10352,7 @@
               "NASON, Stephen William",
               "SALVACRUZ, Joseph"
             ],
-            "venue": "TBA",
+            "venue": "Rm 3001, LSK Bldg",
             "fromDate": "2026-06-01",
             "toDate": "2026-06-02",
             "weekdays": [
@@ -10395,7 +10384,7 @@
               "NASON, Stephen William",
               "SALVACRUZ, Joseph"
             ],
-            "venue": "TBA",
+            "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-06-06",
             "toDate": "2026-06-06",
             "weekdays": [
@@ -10410,7 +10399,7 @@
               "NASON, Stephen William",
               "SALVACRUZ, Joseph"
             ],
-            "venue": "TBA",
+            "venue": "Rm 2001, LSK Bldg",
             "fromDate": "2026-06-07",
             "toDate": "2026-06-07",
             "weekdays": [
