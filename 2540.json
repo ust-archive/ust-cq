@@ -3242,14 +3242,14 @@
         "number": "1257",
         "remarks": "> Add/Drop Deadline : 20-Jun-2026\n> Extended Drop Deadline : 27-Jun-2026",
         "quota": 107,
-        "enroll": 0,
+        "enroll": 107,
         "waitlist": 0,
-        "consent": false,
+        "consent": true,
         "reservedQuota": [
           {
             "name": "EESM",
-            "quota": 60,
-            "enroll": 0
+            "quota": 107,
+            "enroll": 60
           }
         ],
         "schedule": [
