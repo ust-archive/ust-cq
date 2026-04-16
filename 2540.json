@@ -148,7 +148,7 @@
       {
         "section": "L1",
         "number": "1266",
-        "remarks": "> Instructor : CHEN, Xin\n> Supervisor : Prof WANG, Emily\n> Add/Drop Deadline : 20-Jun-2026",
+        "remarks": "> Instructor : CHEN, Xin\n> Supervisor : Dr LEUNG, Tommy\n> Add/Drop Deadline : 20-Jun-2026",
         "quota": 20,
         "enroll": 0,
         "waitlist": 0,
@@ -1593,6 +1593,166 @@
             "weekdays": [],
             "fromTime": null,
             "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "CIEM",
+    "number": "5180",
+    "code": "CIEM5180",
+    "name": "Construction Technology for Civil Engineering Works",
+    "description": "This course intends to provide an overview of modern construction technology for civil engineering works with special attention paid to recent development trends and major construction works in Hong Kong. The course starts with the design/construction interface and focuses on the Contractor’s perspective. In particular, ground improvements, reclamation works, excavation-lateral support system and modular construction as well as digital construction will be highlighted. With an aim to help students who have limited exposure to construction practice, this course uses a Capstone project to help the students to form a comprehensive view of a construction project, including site layouts, construction practice, contract type, and construction methods. Students would be required to apply the knowledge learned to describe a real-life construction project and critically analyze the construction activities.",
+    "previousCodes": "CIEM6000S",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1268",
+        "remarks": "> Add/Drop Deadline : 25-Jun-2026\n> Extended Drop Deadline : 02-Jul-2026",
+        "quota": 50,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "CIEM",
+            "quota": 50,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "LI, Chao"
+            ],
+            "venue": "Rm 2502, Lift 25-26 (120)",
+            "fromDate": "2026-06-16",
+            "toDate": "2026-07-31",
+            "weekdays": [
+              2,
+              5
+            ],
+            "fromTime": "19:00",
+            "toTime": "21:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "CIEM",
+    "number": "5310",
+    "code": "CIEM5310",
+    "name": "Structural Analysis and Design of Tall Buildings",
+    "description": "Integrated treatment of analytical methods and technical aspects in design of tall building structures, including structural modeling, frames, shear walls, outrigger-braced systems, core-walls, tubular structures, and special topics.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "CIVL 5310 (prior to 2022-23)",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1269",
+        "remarks": "> Add/Drop Deadline : 23-Jun-2026\n> Extended Drop Deadline : 30-Jun-2026",
+        "quota": 50,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "CIEM",
+            "quota": 50,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "KUANG, Jun Shang"
+            ],
+            "venue": "Rm 2502, Lift 25-26 (120)",
+            "fromDate": "2026-06-18",
+            "toDate": "2026-06-25",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "19:00",
+            "toTime": "21:50"
+          },
+          {
+            "instructors": [
+              "KUANG, Jun Shang"
+            ],
+            "venue": "Rm 3207, Lift 21",
+            "fromDate": "2026-07-02",
+            "toDate": "2026-07-02",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "19:00",
+            "toTime": "21:50"
+          },
+          {
+            "instructors": [
+              "KUANG, Jun Shang"
+            ],
+            "venue": "Rm 2502, Lift 25-26 (120)",
+            "fromDate": "2026-07-09",
+            "toDate": "2026-07-30",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "19:00",
+            "toTime": "21:50"
+          },
+          {
+            "instructors": [
+              "KUANG, Jun Shang"
+            ],
+            "venue": "Rm 2502, Lift 25-26 (120)",
+            "fromDate": "2026-06-20",
+            "toDate": "2026-06-27",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "14:30",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "KUANG, Jun Shang"
+            ],
+            "venue": "Rm 3207, Lift 21",
+            "fromDate": "2026-07-04",
+            "toDate": "2026-07-11",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "14:30",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "KUANG, Jun Shang"
+            ],
+            "venue": "Rm 2502, Lift 25-26 (120)",
+            "fromDate": "2026-07-18",
+            "toDate": "2026-07-25",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "14:30",
+            "toTime": "17:20"
           }
         ]
       }
@@ -3796,6 +3956,49 @@
             ],
             "fromTime": "09:30",
             "toTime": "12:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENTR",
+    "number": "3012",
+    "code": "ENTR3012",
+    "name": "Tech startup and entrepreneurs ecosystem: growth and innovation",
+    "description": "This course provides hands-on, practical experience in developing and implementing growth strategies for technology startups and innovative digital services in early stages. Focused on the unique challenges of the entrepreneurial and startups’ ecosystem, students will explore cutting-edge business models and frameworks designed to navigate the uncertain and resource-constrained environment that startups face. The course emphasizes learning through case studies, projects, and interactive workshops, interaction with real practitioners including successful and unsuccessful tech entrepreneurs, venture capitalists, and industry experts, ensuring students gain practical skills that can be applied in entrepreneurial ventures.",
+    "previousCodes": "ENTR4000C",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "GBUS 2030, TEMG 3950",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1267",
+        "remarks": "> Add/Drop Deadline : 20-Jun-2026",
+        "quota": 30,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "PUIG GARRIGO, Coral"
+            ],
+            "venue": "Rm 5402, Lift 17-18 (43)",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-07-10",
+            "weekdays": [
+              1,
+              3,
+              5
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
           }
         ]
       }
@@ -7869,7 +8072,7 @@
         "number": "1199",
         "remarks": "> Instructor : PABARU, Umang \n> For MSc(MARK) students only\n> Add/Drop Deadline : 16-Jun-2026",
         "quota": 65,
-        "enroll": 4,
+        "enroll": 3,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -7881,7 +8084,7 @@
           {
             "name": "ISM",
             "quota": 8,
-            "enroll": 4
+            "enroll": 3
           },
           {
             "name": "MARK",
