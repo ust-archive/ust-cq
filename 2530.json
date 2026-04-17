@@ -16103,7 +16103,7 @@
         "number": "2246",
         "remarks": " ",
         "quota": 110,
-        "enroll": 102,
+        "enroll": 101,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -16188,7 +16188,7 @@
         "number": "2252",
         "remarks": " ",
         "quota": 125,
-        "enroll": 112,
+        "enroll": 111,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -18906,14 +18906,14 @@
         "number": "1144",
         "remarks": " ",
         "quota": 76,
-        "enroll": 66,
+        "enroll": 67,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "CSE",
             "quota": 56,
-            "enroll": 54
+            "enroll": 55
           }
         ],
         "schedule": [
@@ -19347,6 +19347,45 @@
           {
             "instructors": [
               "KWOK, James Tin Yau"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "COMP",
+    "number": "6922C",
+    "code": "COMP6922C",
+    "name": "Research Project",
+    "description": "An independent research project carried out under the supervision of a faculty member. This course is only available for exchange, visiting and visiting internship students.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4633",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CHEN, Hao"
             ],
             "venue": "TBA",
             "fromDate": "2026-02-02",
@@ -23980,7 +24019,7 @@
         "number": "2573",
         "remarks": " ",
         "quota": 70,
-        "enroll": 70,
+        "enroll": 69,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -24174,7 +24213,7 @@
         "number": "2583",
         "remarks": " ",
         "quota": 70,
-        "enroll": 70,
+        "enroll": 69,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -31195,7 +31234,7 @@
         "number": "2383",
         "remarks": " ",
         "quota": 200,
-        "enroll": 199,
+        "enroll": 198,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -31258,7 +31297,7 @@
         "number": "2387",
         "remarks": " ",
         "quota": 50,
-        "enroll": 45,
+        "enroll": 44,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -31366,7 +31405,7 @@
         "number": "2390",
         "remarks": " ",
         "quota": 70,
-        "enroll": 69,
+        "enroll": 68,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -31457,7 +31496,7 @@
         "number": "2394",
         "remarks": " ",
         "quota": 120,
-        "enroll": 119,
+        "enroll": 118,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -31517,7 +31556,7 @@
         "number": "2398",
         "remarks": " ",
         "quota": 40,
-        "enroll": 40,
+        "enroll": 39,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -31585,7 +31624,7 @@
         "number": "2400",
         "remarks": " ",
         "quota": 60,
-        "enroll": 60,
+        "enroll": 59,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -32892,7 +32931,7 @@
         "number": "2455",
         "remarks": " ",
         "quota": 453,
-        "enroll": 365,
+        "enroll": 364,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -38156,7 +38195,7 @@
         "number": "4192",
         "remarks": " ",
         "quota": 900,
-        "enroll": 561,
+        "enroll": 560,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
