@@ -10906,14 +10906,14 @@
         "number": "1190",
         "remarks": "> For PT-MBA Year 2 or above and MBA (Bi-weekly) Year 2 or above students only\n> Add/Drop Deadline: 14-Jun-2026",
         "quota": 1,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
           {
             "name": "MBA",
             "quota": 1,
-            "enroll": 0
+            "enroll": 1
           }
         ],
         "schedule": [
@@ -10995,15 +10995,15 @@
         "section": "R1",
         "number": "1168",
         "remarks": "> For PT-MBA Year 2 or above and MBA (Bi-weekly) Year 2 or above students only\n> Add/Drop Deadline: 13-Jun-2026",
-        "quota": 1,
-        "enroll": 0,
+        "quota": 2,
+        "enroll": 2,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
           {
             "name": "MBA",
-            "quota": 1,
-            "enroll": 0
+            "quota": 2,
+            "enroll": 2
           }
         ],
         "schedule": [
@@ -11014,6 +11014,51 @@
             "venue": "TBA",
             "fromDate": "2026-06-14",
             "toDate": "2026-06-27",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "SBMT",
+    "number": "6320H",
+    "code": "SBMT6320H",
+    "name": "DBi Study Tour - Taiwan",
+    "description": "This course is hosted by partner schools in different countries. The tour gives an overview of doing business, including an introduction to the economy, history, culture and legal framework of the visiting country. Typically, it will include lectures on-campus and off-campus, corporate visits and meeting with local business leaders upon a range of industry sectors which will offer students a unique synthesis between state of the art academic studies and practical, hands-on experience. It is suitable for those who are specifically interested in doing business in the visiting place in future or in international business and enhancing their international experience. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1270",
+        "remarks": "> For PT-MBA Year 2 or above and MBA (Bi-weekly) Year 2 or above students only\n> Add/Drop Deadline : 25-Jul-2026",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [
+          {
+            "name": "MBA",
+            "quota": 1,
+            "enroll": 1
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-07-26",
+            "toDate": "2026-07-31",
             "weekdays": [],
             "fromTime": null,
             "toTime": null
@@ -11041,14 +11086,14 @@
         "number": "1172",
         "remarks": "> For PT-MBA Year 2 or above and MBA (Bi-weekly) Year 2 or above students only\n> Add/Drop Deadline: 30-May-2026",
         "quota": 2,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
           {
             "name": "MBA",
             "quota": 2,
-            "enroll": 0
+            "enroll": 1
           }
         ],
         "schedule": [
@@ -11086,14 +11131,14 @@
         "number": "1171",
         "remarks": "> For PT-MBA Year 2 or above and MBA (Bi-weekly) Year 2 or above students only\n> Add/Drop Deadline: 21-Jun-2026",
         "quota": 1,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
           {
             "name": "MBA Bi-weekly",
             "quota": 1,
-            "enroll": 0
+            "enroll": 1
           }
         ],
         "schedule": [
@@ -11131,14 +11176,14 @@
         "number": "1170",
         "remarks": "> For PT-MBA Year 2 or above and MBA (Bi-weekly) Year 2 or above students only\n> Add/Drop Deadline: 21-Jun-2026",
         "quota": 2,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
           {
             "name": "MBA Bi-weekly",
             "quota": 2,
-            "enroll": 0
+            "enroll": 1
           }
         ],
         "schedule": [
