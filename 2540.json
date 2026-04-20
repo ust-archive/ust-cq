@@ -4034,7 +4034,7 @@
         "section": "L1",
         "number": "1026",
         "remarks": "> Add/Drop Deadline : 18-Jul-2026",
-        "quota": 30,
+        "quota": 35,
         "enroll": 0,
         "waitlist": 0,
         "consent": true,
@@ -8045,7 +8045,7 @@
         "number": "1199",
         "remarks": "> Instructor : PABARU, Umang \n> For MSc(MARK) students only\n> Add/Drop Deadline : 16-Jun-2026",
         "quota": 65,
-        "enroll": 25,
+        "enroll": 26,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -8057,7 +8057,7 @@
           {
             "name": "ISM",
             "quota": 8,
-            "enroll": 3
+            "enroll": 4
           },
           {
             "name": "MARK",
@@ -9533,6 +9533,45 @@
           {
             "instructors": [
               "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-08-08",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MTLE",
+    "number": "6980",
+    "code": "MTLE6980",
+    "name": "Technology Leadership and Entrepreneurship Project",
+    "description": "This 3-term project course is the hallmark of the MSc Program in Technology Leadership and Entrepreneurship. The students will be expected to brainstorm, prototype, and launch an alpha release of a product or a service over the duration of the course. In the first term, students will engage in early stage brainstorming, ideation, team-forming, product contest, pitches, including participation in case competition. In the second term, each team will go through a sustained and concentrated effort in prototype building and complete an alpha-release, or engineering prototype of their product which is launch-ready in the third term. May be graded PP.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1271",
+        "remarks": "> Add/Drop Deadline : 20-Jun-2026\n> Extended Drop Deadline : 27-Jun-2026",
+        "quota": 70,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "JONEJA, Ajay"
             ],
             "venue": "TBA",
             "fromDate": "2026-06-15",
