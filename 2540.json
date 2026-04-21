@@ -2674,6 +2674,45 @@
     ]
   },
   {
+    "career": "UGRD",
+    "subject": "COMP",
+    "number": "4971D",
+    "code": "COMP4971D",
+    "name": "Independent Work",
+    "description": "Independent studies or projects under the directed guidance of a faculty member on a computer science topic. A written report, presentation, and/or an examination are required. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. May be repeated for credits.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 4,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1277",
+        "remarks": "> Add/Drop Deadline: 20-Jun-2026",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "SONG, Yangqiu"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-08-08",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "RPG",
     "subject": "COMP",
     "number": "6211K",
@@ -9482,6 +9521,252 @@
             "instructors": [
               "LIANG, Sheila, Xin",
               "SIMPSON, James"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-08-08",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MIMT",
+    "number": "5010",
+    "code": "MIMT5010",
+    "name": "Market Research for Business Applications",
+    "description": "This course aims to investigate the market research process and its application as a problem-solving tool for management decision making. Methods, techniques, and procedures of market research will be discussed, including topics on defining research problems, designing a research project, and in collecting, analyzing, recording and interpreting data, and report writing and presentation.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "MARK 5310",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1275",
+        "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 29-Jul-2026",
+        "quota": 25,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "SALVACRUZ, Joseph"
+            ],
+            "venue": "Rm 2003, LSK Bldg",
+            "fromDate": "2026-07-28",
+            "toDate": "2026-07-28",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "SALVACRUZ, Joseph"
+            ],
+            "venue": "Rm 2001, LSK Bldg",
+            "fromDate": "2026-07-30",
+            "toDate": "2026-08-11",
+            "weekdays": [
+              2,
+              4,
+              6
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "SALVACRUZ, Joseph"
+            ],
+            "venue": "Rm 2001, LSK Bldg",
+            "fromDate": "2026-08-12",
+            "toDate": "2026-08-12",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MIMT",
+    "number": "5020",
+    "code": "MIMT5020",
+    "name": "Managerial Decision Making",
+    "description": "High quality managerial decisions require quality decision content and quality decision making process. This course focuses on the concepts and techniques that can develop effective decision-making skills for those who will be in management positions, both as individuals and in teams. Emphasis of topics will be put on how to facilitate and formalize the decision-making process, reveal decision-making biases and enable decision analysis to work as a powerful and flexible management tool that can address many types of business problems. It helps students understand what traps might be involved in the decision-making process and what can be done to improve the quality of decisions as a manager.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1274",
+        "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 27-Jul-2026",
+        "quota": 25,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "WONG, Kin Fai Ellick"
+            ],
+            "venue": "Rm 2001, LSK Bldg",
+            "fromDate": "2026-07-27",
+            "toDate": "2026-07-27",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "WONG, Kin Fai Ellick"
+            ],
+            "venue": "Rm 1001, LSK Bldg (75)",
+            "fromDate": "2026-07-28",
+            "toDate": "2026-07-28",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "WONG, Kin Fai Ellick"
+            ],
+            "venue": "Rm 2001, LSK Bldg",
+            "fromDate": "2026-07-30",
+            "toDate": "2026-08-06",
+            "weekdays": [
+              1,
+              2,
+              4,
+              5
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "WONG, Kin Fai Ellick"
+            ],
+            "venue": "Rm 1001, LSK Bldg (75)",
+            "fromDate": "2026-08-10",
+            "toDate": "2026-08-10",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MIMT",
+    "number": "6110",
+    "code": "MIMT6110",
+    "name": "Skill Seminar I",
+    "description": "This skill seminar will be offered to develop the students' essential business and communication skills necessary to work in a global business environment such as communication, teamwork, negotiation and presentation skills. Some possible skill seminars include topics on time management, inter-cultural skills, group work abilities, international negotiation techniques, presentation skills, to name a few.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1276",
+        "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 6-Aug-2026",
+        "quota": 25,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "DORAN, Christopher"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-08-05",
+            "toDate": "2026-08-12",
+            "weekdays": [
+              3,
+              5
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "DORAN, Christopher"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-08-13",
+            "toDate": "2026-08-13",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MIMT",
+    "number": "6300",
+    "code": "MIMT6300",
+    "name": "International Internship",
+    "description": "Students are required to work on a minimum of 10-week international internship to get practical work experience to prepare for graduate employment. The location of international internship together with students' home country, home school and exchange school must cover at least three countries. Students' performance in the internship will be assessed and evaluated by the company upon completion of the internship. Graded PP, P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1273",
+        "remarks": "> For MSc(IMT) students only\n> Add/Drop Deadline : 20-Jun-2026",
+        "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "WONG, Kin Fai Ellick"
             ],
             "venue": "TBA",
             "fromDate": "2026-06-15",
