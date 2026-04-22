@@ -38174,7 +38174,7 @@
         "number": "4191",
         "remarks": " ",
         "quota": 913,
-        "enroll": 871,
+        "enroll": 872,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -68665,6 +68665,45 @@
           {
             "instructors": [
               "XU, Hong"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "ISOM",
+    "number": "6390E",
+    "code": "ISOM6390E",
+    "name": "Independent Study in Information Systems",
+    "description": "Study of selected information and systems management issues under the supervision of a faculty member. This course may be repeated for credit. (Special permission from the Associate Dean is required for MBA students to take this course.)",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4634",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
             ],
             "venue": "TBA",
             "fromDate": "2026-02-02",
@@ -101810,14 +101849,14 @@
         "number": "1594",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 25,
-        "enroll": 17,
+        "enroll": 18,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 25,
-            "enroll": 17
+            "enroll": 18
           }
         ],
         "schedule": [
@@ -101842,14 +101881,14 @@
         "number": "1595",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 25,
-        "enroll": 25,
+        "enroll": 24,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 25,
-            "enroll": 25
+            "enroll": 24
           }
         ],
         "schedule": [
