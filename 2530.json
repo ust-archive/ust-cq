@@ -15070,7 +15070,7 @@
         "number": "2193",
         "remarks": " ",
         "quota": 70,
-        "enroll": 70,
+        "enroll": 69,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -16428,7 +16428,7 @@
         "number": "2258",
         "remarks": " ",
         "quota": 105,
-        "enroll": 103,
+        "enroll": 102,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -16480,7 +16480,7 @@
         "number": "2262",
         "remarks": " ",
         "quota": 99,
-        "enroll": 94,
+        "enroll": 93,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -16809,7 +16809,7 @@
         "number": "2276",
         "remarks": " ",
         "quota": 90,
-        "enroll": 88,
+        "enroll": 87,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -16835,7 +16835,7 @@
         "number": "2275",
         "remarks": "> The class is delivered in a self-paced online mode",
         "quota": 90,
-        "enroll": 88,
+        "enroll": 87,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -17293,7 +17293,7 @@
         "number": "2292",
         "remarks": " ",
         "quota": 70,
-        "enroll": 69,
+        "enroll": 68,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -17319,7 +17319,7 @@
         "number": "2293",
         "remarks": " ",
         "quota": 70,
-        "enroll": 69,
+        "enroll": 68,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -17491,7 +17491,7 @@
         "number": "2297",
         "remarks": " ",
         "quota": 80,
-        "enroll": 60,
+        "enroll": 59,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -17517,7 +17517,7 @@
         "number": "2298",
         "remarks": " ",
         "quota": 80,
-        "enroll": 60,
+        "enroll": 59,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -17977,7 +17977,7 @@
         "number": "2311",
         "remarks": " ",
         "quota": 60,
-        "enroll": 59,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -18015,7 +18015,7 @@
         "number": "2312",
         "remarks": " ",
         "quota": 60,
-        "enroll": 59,
+        "enroll": 58,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -18059,7 +18059,7 @@
         "number": "2313",
         "remarks": " ",
         "quota": 788,
-        "enroll": 766,
+        "enroll": 765,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -18291,7 +18291,7 @@
         "number": "4422",
         "remarks": " ",
         "quota": 13,
-        "enroll": 10,
+        "enroll": 11,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -19466,6 +19466,45 @@
           {
             "instructors": [
               "LI, Mo"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "COMP",
+    "number": "6922S",
+    "code": "COMP6922S",
+    "name": "Research Project",
+    "description": "An independent research project carried out under the supervision of a faculty member. This course is only available for exchange, visiting and visiting internship students.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "4635",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "PAPADOPOULOS, Dimitris"
             ],
             "venue": "TBA",
             "fromDate": "2026-02-02",
@@ -68703,7 +68742,7 @@
         "schedule": [
           {
             "instructors": [
-              "TBA"
+              "HUI, Kai Lung"
             ],
             "venue": "TBA",
             "fromDate": "2026-02-02",
@@ -101849,14 +101888,14 @@
         "number": "1594",
         "remarks": "> For MSc(BA) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 25,
-        "enroll": 18,
+        "enroll": 19,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
           {
             "name": "BA",
             "quota": 25,
-            "enroll": 18
+            "enroll": 19
           }
         ],
         "schedule": [
@@ -116565,7 +116604,7 @@
         "number": "4237",
         "remarks": " ",
         "quota": 126,
-        "enroll": 114,
+        "enroll": 113,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
