@@ -4250,7 +4250,7 @@
         "section": "L1",
         "number": "1006",
         "remarks": "> Add/Drop Deadline : 16-Jul-2026",
-        "quota": 40,
+        "quota": 25,
         "enroll": 20,
         "waitlist": 0,
         "consent": false,
@@ -6709,6 +6709,124 @@
     ]
   },
   {
+    "career": "RPG",
+    "subject": "ISOM",
+    "number": "7000S",
+    "code": "ISOM7000S",
+    "name": "IS Doctoral Seminar: Design Science, IS Economics, and AI and the Future of Work",
+    "description": "Presentation and discussions of current research topics in Information Systems for doctoral students.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1279",
+        "remarks": "> For MPhil and PhD students in IS only\n> Instructor : BURTON-JONES, Andrew\n> Add/Drop Deadline : 23-Jun-2026\n> Extended Drop Deadline : 26-Jun-2026",
+        "quota": 13,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "IS",
+            "quota": 13,
+            "enroll": 0
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "KARAHANNA-RAI, Elena"
+            ],
+            "venue": "Rm 1026, LSK Bldg (28)",
+            "fromDate": "2026-06-22",
+            "toDate": "2026-06-24",
+            "weekdays": [
+              1,
+              2,
+              3
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "KARAHANNA-RAI, Elena"
+            ],
+            "venue": "G005, LSK Bldg",
+            "fromDate": "2026-06-25",
+            "toDate": "2026-06-25",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 1026, LSK Bldg (28)",
+            "fromDate": "2026-06-26",
+            "toDate": "2026-06-29",
+            "weekdays": [
+              1,
+              5,
+              6
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "G005, LSK Bldg",
+            "fromDate": "2026-06-30",
+            "toDate": "2026-06-30",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "GU, Bin"
+            ],
+            "venue": "Rm 1026, LSK Bldg (28)",
+            "fromDate": "2026-07-06",
+            "toDate": "2026-07-08",
+            "weekdays": [
+              1,
+              2,
+              3
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "GU, Bin"
+            ],
+            "venue": "G005, LSK Bldg",
+            "fromDate": "2026-07-10",
+            "toDate": "2026-07-10",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "TPG",
     "subject": "JEVE",
     "number": "6980B",
@@ -7537,7 +7655,7 @@
         "section": "T1",
         "number": "1218",
         "remarks": "> Add/Drop Deadline : 20-Jun-2026",
-        "quota": 1,
+        "quota": 8,
         "enroll": 0,
         "waitlist": 0,
         "consent": true,
