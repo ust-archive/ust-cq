@@ -27320,11 +27320,23 @@
             "instructors": [
               "ZHU, Tao"
             ],
-            "venue": "Rm 1010, LSK Bldg (80)",
+            "venue": "Rm 1009, LSK Bldg (80)",
             "fromDate": "2026-05-04",
+            "toDate": "2026-05-04",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "19:00",
+            "toTime": "21:50"
+          },
+          {
+            "instructors": [
+              "ZHU, Tao"
+            ],
+            "venue": "Rm 1010, LSK Bldg (80)",
+            "fromDate": "2026-05-06",
             "toDate": "2026-05-06",
             "weekdays": [
-              1,
               3
             ],
             "fromTime": "19:00",
@@ -40611,6 +40623,29 @@
           {
             "instructors": [
               "FUNG, Jimmy Chi Hung"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "R2",
+        "number": "4636",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "NING, Zhi"
             ],
             "venue": "TBA",
             "fromDate": "2026-02-02",
@@ -67627,7 +67662,7 @@
         "number": "1427",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 06-Apr-2026",
         "quota": 60,
-        "enroll": 16,
+        "enroll": 17,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -67639,7 +67674,7 @@
           {
             "name": "GO",
             "quota": 55,
-            "enroll": 14
+            "enroll": 15
           },
           {
             "name": "MARK",
@@ -110237,7 +110272,7 @@
         "number": "4096",
         "remarks": " ",
         "quota": 30,
-        "enroll": 5,
+        "enroll": 6,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
