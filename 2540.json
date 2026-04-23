@@ -10290,6 +10290,62 @@
   {
     "career": "TPG",
     "subject": "OCES",
+    "number": "6012C",
+    "code": "OCES6012C",
+    "name": "ISO 14001:2026 Awareness and Introduction",
+    "description": "This introductory course provides a clear and practical overview of the ISO 14000:2026 series of environmental management standards. Students will learn the purpose and structure of ISO 14000:2026, key environmental management principles, leadership and employee responsibilities, risk-based thinking, and the benefits of certification. The course also highlights how environmental performance impacts organizational reputation, operational efficiency, and stakeholder confidence. By the end of the session, attendees will understand the basic requirements of ISO 14000:2026, their role in supporting the organization’s environmental objectives, and the importance of maintaining compliance through documented processes and continuous improvement.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1280",
+        "remarks": "> For MSc(EHS) students only.\n> Add/Drop Deadline: 16-Jun-2026",
+        "quota": 46,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 4504, Lift 25-26 (54)",
+            "fromDate": "2026-06-17",
+            "toDate": "2026-06-18",
+            "weekdays": [
+              3,
+              4
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 4504, Lift 25-26 (54)",
+            "fromDate": "2026-06-17",
+            "toDate": "2026-06-18",
+            "weekdays": [
+              3,
+              4
+            ],
+            "fromTime": "13:30",
+            "toTime": "16:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "OCES",
     "number": "6112",
     "code": "OCES6112",
     "name": "Research Project in Global Marine Resources Management II",
