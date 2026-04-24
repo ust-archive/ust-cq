@@ -8811,6 +8811,45 @@
     ]
   },
   {
+    "career": "UGRD",
+    "subject": "MECH",
+    "number": "4950",
+    "code": "MECH4950",
+    "name": "Co-op Program",
+    "description": "This course is intended to provide final year UG students with practical hands-on training in the form of a co-op program in an engineering company located in Hong Kong or China. Students must obtain approval from the UG Coordinator before enrolling in the course.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 6,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "LA1",
+        "number": "1281",
+        "remarks": "> Add/Drop Deadline: 20-Jun-2026",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-08-08",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "career": "TPG",
     "subject": "MESF",
     "number": "6950A",
@@ -8905,7 +8944,7 @@
       {
         "section": "R1",
         "number": "1258",
-        "remarks": "> For MSc(FinTech) students only\n> Add/Drop Deadline : 20-Jun-2026\n> Extended Drop Deadline : 27-Jun-2026",
+        "remarks": "> For MSc(FinTech) students only\n> Add/Drop Deadline : 05-Jun-2026\n> Extended Drop Deadline : 12-Jun-2026",
         "quota": 130,
         "enroll": 0,
         "waitlist": 0,
