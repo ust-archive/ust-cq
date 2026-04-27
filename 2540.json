@@ -2880,6 +2880,45 @@
   },
   {
     "career": "UGRD",
+    "subject": "DSCT",
+    "number": "4900",
+    "code": "DSCT4900",
+    "name": "Academic and Professional Development",
+    "description": "This course is for academic and professional development of students in the BSc program in Data Science and Technology offered by the Department of Mathematics and Department of Computer Science and Engineering. Activities may include seminars, workshops, advising and sharing sessions, interaction with faculty and teaching staff, and discussion with student peers or alumni. Graded PP, P or F. For DSCT students only.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1282",
+        "remarks": "> Add/Drop Deadline : 20-Jun-2026",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-08-08",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
     "subject": "ECON",
     "number": "1222",
     "code": "ECON1222",
@@ -3331,10 +3370,22 @@
             ],
             "venue": "Rm 1009, LSK Bldg (80)",
             "fromDate": "2026-06-16",
-            "toDate": "2026-07-09",
+            "toDate": "2026-07-07",
             "weekdays": [
-              2,
-              4
+              2
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "TANG, Rui"
+            ],
+            "venue": "Rm 1009, LSK Bldg (80)",
+            "fromDate": "2026-06-16",
+            "toDate": "2026-07-07",
+            "weekdays": [
+              2
             ],
             "fromTime": "14:00",
             "toTime": "17:20"
