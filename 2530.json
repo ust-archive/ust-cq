@@ -93933,6 +93933,47 @@
   {
     "career": "RPG",
     "subject": "MATH",
+    "number": "6907K",
+    "code": "MATH6907K",
+    "name": "Statistical Inference for Large and Complex Networks",
+    "description": "The student will work with the faculty on the analysis of large and complex networks including hypergraph networks and multilayer networks.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "4637",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "XIA, Dong"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-02-02",
+            "toDate": "2026-05-09",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "10:00",
+            "toTime": "10:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "MATH",
     "number": "6915",
     "code": "MATH6915",
     "name": "Scientific Computation Seminar",
@@ -110661,7 +110702,7 @@
         "number": "1644",
         "remarks": " ",
         "quota": 10,
-        "enroll": 3,
+        "enroll": 4,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
