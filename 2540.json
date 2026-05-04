@@ -38,7 +38,7 @@
         "remarks": "> Add/Drop Deadline : 16-Jul-2026",
         "quota": 80,
         "enroll": 80,
-        "waitlist": 3,
+        "waitlist": 4,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -446,23 +446,7 @@
         "enroll": 61,
         "waitlist": 4,
         "consent": false,
-        "reservedQuota": [
-          {
-            "name": "Digital MBA",
-            "quota": 2,
-            "enroll": 0
-          },
-          {
-            "name": "MBA",
-            "quota": 26,
-            "enroll": 26
-          },
-          {
-            "name": "MBA Bi-weekly",
-            "quota": 37,
-            "enroll": 35
-          }
-        ],
+        "reservedQuota": [],
         "schedule": [
           {
             "instructors": [
@@ -2030,7 +2014,7 @@
         "number": "1049",
         "remarks": "> Add/Drop Deadline: 20-Jun-2026\n> Extended Drop Deadline: 27-Jun-2026",
         "quota": 5,
-        "enroll": 1,
+        "enroll": 2,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -2069,7 +2053,7 @@
         "number": "1050",
         "remarks": "> Add/Drop Deadline: 20-Jun-2026\n> Extended Drop Deadline: 27-Jun-2026",
         "quota": 5,
-        "enroll": 0,
+        "enroll": 1,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -3010,7 +2994,7 @@
         "number": "1054",
         "remarks": "> Add/Drop Deadline : 16-Jul-2026",
         "quota": 40,
-        "enroll": 21,
+        "enroll": 22,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -3064,7 +3048,7 @@
         "number": "1055",
         "remarks": " ",
         "quota": 40,
-        "enroll": 21,
+        "enroll": 22,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -3138,7 +3122,7 @@
         "remarks": "> Add/Drop Deadline : 16-Jul-2026",
         "quota": 40,
         "enroll": 40,
-        "waitlist": 2,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -3165,7 +3149,7 @@
         "remarks": " ",
         "quota": 40,
         "enroll": 40,
-        "waitlist": 2,
+        "waitlist": 3,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -3924,7 +3908,7 @@
         "number": "1260",
         "remarks": "> Add/Drop Deadline: 22-Jun-2026",
         "quota": 60,
-        "enroll": 8,
+        "enroll": 9,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -4555,19 +4539,19 @@
         "section": "L1",
         "number": "1195",
         "remarks": "> For FT-MBA; PT-MBA; MBA Bi-Weekly and DI-MBA students only\n> Add/Drop Deadline : 08-Aug-2026",
-        "quota": 65,
+        "quota": 67,
         "enroll": 63,
         "waitlist": 12,
         "consent": false,
         "reservedQuota": [
           {
             "name": "Digital MBA",
-            "quota": 5,
+            "quota": 6,
             "enroll": 5
           },
           {
             "name": "MBA",
-            "quota": 27,
+            "quota": 28,
             "enroll": 27
           },
           {
@@ -4704,7 +4688,7 @@
         "number": "1212",
         "remarks": "> For MSc(FINA), MSc(FA) and MSc(IM) students only\n> Add/Drop Deadline : 09-Jun-2026",
         "quota": 65,
-        "enroll": 40,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -4726,7 +4710,7 @@
           {
             "name": "ISM",
             "quota": 3,
-            "enroll": 2
+            "enroll": 3
           },
           {
             "name": "MIMT",
@@ -5231,7 +5215,7 @@
         "number": "1167",
         "remarks": "> Add/Drop Deadline : 20-Jun-2026",
         "quota": 100,
-        "enroll": 22,
+        "enroll": 23,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6740,7 +6724,7 @@
         "number": "1177",
         "remarks": "> For FT-MBA; PT-MBA; MBA Bi-Weekly and DI-MBA students only\n> Add/Drop Deadline : 22-Jun-2026",
         "quota": 65,
-        "enroll": 43,
+        "enroll": 44,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -6752,7 +6736,7 @@
           {
             "name": "MBA",
             "quota": 30,
-            "enroll": 23
+            "enroll": 24
           },
           {
             "name": "MBA Bi-weekly",
@@ -6797,7 +6781,7 @@
         "number": "1203",
         "remarks": "> Instructor : SHI, Jim\n> For MSc(GO) students only\n> Add/Drop Deadline : 20-Jul-2026",
         "quota": 60,
-        "enroll": 56,
+        "enroll": 57,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -6824,7 +6808,7 @@
           {
             "name": "ISM",
             "quota": 5,
-            "enroll": 4
+            "enroll": 5
           }
         ],
         "schedule": [
@@ -6879,7 +6863,7 @@
         "number": "1204",
         "remarks": "> Instructor : JOSEPH, Tobin\n> For MSc(GO) students only\n> Add/Drop Deadline : 22-Jun-2026",
         "quota": 60,
-        "enroll": 54,
+        "enroll": 55,
         "waitlist": 12,
         "consent": false,
         "reservedQuota": [
@@ -6911,7 +6895,7 @@
           {
             "name": "ISM",
             "quota": 5,
-            "enroll": 4
+            "enroll": 5
           },
           {
             "name": "MIMT",
@@ -8653,8 +8637,8 @@
         "section": "L1",
         "number": "1199",
         "remarks": "> Instructor : PABARU, Umang \n> For MSc(MARK) students only\n> Add/Drop Deadline : 16-Jun-2026",
-        "quota": 65,
-        "enroll": 28,
+        "quota": 37,
+        "enroll": 32,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -8666,11 +8650,11 @@
           {
             "name": "ISM",
             "quota": 8,
-            "enroll": 4
+            "enroll": 8
           },
           {
             "name": "MARK",
-            "quota": 51,
+            "quota": 23,
             "enroll": 23
           },
           {
@@ -8846,7 +8830,7 @@
         "remarks": "> Add/Drop Deadline : 16-Jul-2026",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 13,
+        "waitlist": 14,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -8873,7 +8857,7 @@
         "remarks": " ",
         "quota": 50,
         "enroll": 50,
-        "waitlist": 13,
+        "waitlist": 14,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -9536,7 +9520,7 @@
         "remarks": "> > The class is delivered in a conventional face-to-face mode\n> For FT-MBA; PT-MBA; MBA Bi-Weekly and DI-MBA students only\n> Add/Drop Deadline : 08-Aug-2026",
         "quota": 65,
         "enroll": 63,
-        "waitlist": 22,
+        "waitlist": 21,
         "consent": false,
         "reservedQuota": [
           {
@@ -9546,12 +9530,12 @@
           },
           {
             "name": "MBA",
-            "quota": 27,
+            "quota": 28,
             "enroll": 27
           },
           {
             "name": "MBA Bi-weekly",
-            "quota": 33,
+            "quota": 32,
             "enroll": 31
           }
         ],
@@ -9898,7 +9882,7 @@
         "number": "1216",
         "remarks": "> Instructor : DING, Celia\n> For SBM TPG students only\n> Add/Drop Deadline : 17-Jun-2026",
         "quota": 44,
-        "enroll": 27,
+        "enroll": 29,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
@@ -9920,7 +9904,7 @@
           {
             "name": "ISM",
             "quota": 10,
-            "enroll": 5
+            "enroll": 7
           },
           {
             "name": "MIMT",
@@ -9965,24 +9949,24 @@
         "section": "L1",
         "number": "1217",
         "remarks": "> Instructor : MACINTOSH, Andrew \n> For FT-MBA; PT-MBA; MBA Bi-Weekly and Digital MBA students only\n> Add/Drop Deadline : 12-Aug-2026",
-        "quota": 60,
+        "quota": 66,
         "enroll": 59,
         "waitlist": 24,
         "consent": false,
         "reservedQuota": [
           {
             "name": "Digital MBA",
-            "quota": 25,
+            "quota": 30,
             "enroll": 25
           },
           {
             "name": "MBA",
-            "quota": 24,
+            "quota": 26,
             "enroll": 24
           },
           {
             "name": "MBA Bi-weekly",
-            "quota": 11,
+            "quota": 10,
             "enroll": 10
           }
         ],
@@ -10030,17 +10014,17 @@
         "reservedQuota": [
           {
             "name": "Digital MBA",
-            "quota": 20,
+            "quota": 18,
             "enroll": 16
           },
           {
             "name": "MBA",
-            "quota": 30,
+            "quota": 33,
             "enroll": 30
           },
           {
             "name": "MBA Bi-weekly",
-            "quota": 10,
+            "quota": 9,
             "enroll": 8
           }
         ],
@@ -10458,7 +10442,7 @@
         "number": "1271",
         "remarks": "> Add/Drop Deadline : 20-Jun-2026\n> Extended Drop Deadline : 27-Jun-2026",
         "quota": 70,
-        "enroll": 21,
+        "enroll": 24,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
@@ -11067,7 +11051,7 @@
         "number": "1140",
         "remarks": "> Add/Drop Deadline : 22-Jun-2026",
         "quota": 20,
-        "enroll": 11,
+        "enroll": 12,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -11119,7 +11103,7 @@
         "number": "1142",
         "remarks": " ",
         "quota": 40,
-        "enroll": 15,
+        "enroll": 16,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -11715,17 +11699,17 @@
         "reservedQuota": [
           {
             "name": "Digital MBA",
-            "quota": 20,
+            "quota": 21,
             "enroll": 20
           },
           {
             "name": "MBA",
-            "quota": 30,
+            "quota": 31,
             "enroll": 30
           },
           {
             "name": "MBA Bi-weekly",
-            "quota": 10,
+            "quota": 8,
             "enroll": 8
           }
         ],
@@ -12466,7 +12450,7 @@
         "number": "1012",
         "remarks": "> The class is delivered in a self-paced online mode\n> For course details, please visit https://gohkust-my.sharepoint.com/:b:/g/personal/sodora_ust_hk/IQAulZmmpgD3SKP8530FeCo-AayZMn29khMJBCUrl7FkiFo?e=mlcM0k\n> Add/Drop Deadline : 20-Jun-2026",
         "quota": 400,
-        "enroll": 197,
+        "enroll": 198,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -12908,7 +12892,7 @@
         "number": "1027",
         "remarks": "> The class is delivered in a experiential learning mode\n> Add/Drop Deadline : 20-Jun-2026",
         "quota": 20,
-        "enroll": 3,
+        "enroll": 4,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [],
