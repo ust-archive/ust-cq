@@ -22897,7 +22897,7 @@
         "number": "4375",
         "remarks": "> Class Duration/Dates : 21-May-2026 to 22-May-2026\n> Add/Drop Deadline : 21-May-2026",
         "quota": 11,
-        "enroll": 9,
+        "enroll": 7,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -22938,7 +22938,7 @@
         "number": "4376",
         "remarks": "> Class Duration/Dates : 23-May-2026 to 24-May-2026\n> Add/Drop Deadline : 23-May-2026",
         "quota": 12,
-        "enroll": 10,
+        "enroll": 9,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -68128,14 +68128,14 @@
         "number": "1410",
         "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 09-May-2026",
         "quota": 143,
-        "enroll": 143,
+        "enroll": 142,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
           {
             "name": "GO",
             "quota": 143,
-            "enroll": 143
+            "enroll": 142
           }
         ],
         "schedule": [
@@ -68519,7 +68519,7 @@
       {
         "section": "L1",
         "number": "1422",
-        "remarks": "> For SBM TPG students only\n> Venue on 31-Mar-2026 and 14-Apr-2026 to 19-May-2026 : Room E, 5/F, United Centre, 95 Queensway, Admiralty, Hong Kong\n> Add/Drop Deadline : 13-Apr-2026",
+        "remarks": "> For SBM TPG students only\n> Venue on 31-Mar-2026, 14-Apr-2026 to 5-May-2026 and 19-May-2026 : Room E, 5/F, United Centre, 95 Queensway, Admiralty, Hong Kong\n> Add/Drop Deadline : 13-Apr-2026",
         "quota": 60,
         "enroll": 43,
         "waitlist": 0,
@@ -68588,6 +68588,34 @@
             ],
             "venue": "TBA",
             "fromDate": "2026-04-14",
+            "toDate": "2026-05-05",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "PANG, Ngai Cheung",
+              "RAHMEL, Juergen Harald"
+            ],
+            "venue": "Rm 1, 31/F, Tower 1,Millennity",
+            "fromDate": "2026-05-17",
+            "toDate": "2026-05-17",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "PANG, Ngai Cheung",
+              "RAHMEL, Juergen Harald"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-05-19",
             "toDate": "2026-05-19",
             "weekdays": [
               2
