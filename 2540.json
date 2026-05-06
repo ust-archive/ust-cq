@@ -80,7 +80,7 @@
         "number": "1264",
         "remarks": "> The class is delivered in a conventional face-to-face mode\n> Instructor : JIN, Tian\n> Supervisor : Prof TANG, Chao\n> Add/Drop Deadline : 20-Jun-2026",
         "quota": 20,
-        "enroll": 10,
+        "enroll": 11,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -193,7 +193,7 @@
         "number": "1038",
         "remarks": "> Add/Drop Deadline : 20-Jun-2026",
         "quota": 70,
-        "enroll": 4,
+        "enroll": 5,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -3200,7 +3200,7 @@
         "number": "1057",
         "remarks": "> For MSc(ECON) & PPOL students only\n> Add/Drop Deadline : 14-Jul-2026",
         "quota": 60,
-        "enroll": 15,
+        "enroll": 16,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -3212,7 +3212,7 @@
           {
             "name": "PPOL",
             "quota": 30,
-            "enroll": 2
+            "enroll": 3
           }
         ],
         "schedule": [
@@ -3864,6 +3864,52 @@
   {
     "career": "UGRD",
     "subject": "ENGG",
+    "number": "2800",
+    "code": "ENGG2800",
+    "name": "SENG Cooperative Education Program",
+    "description": "This course is intended to enhance engineering students’ career readiness by combining classroom-based education with practical work experience. By taking any two standalone career development programs offered by the Career Center or those as recognized by the School, students are required to apply the skills and knowledge learnt in a full-time coop work experience for a single employer for at least 4 months. Approval from the course coordinator is required for enrollment in the course. For SENG Year 2 students or above only. Graded P, PP or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [
+      {
+        "attribute": "DELI",
+        "value": "EXP",
+        "attributeDescription": "Mode of Delivery",
+        "valueDescription": "[EXP] Experiential learning"
+      }
+    ],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1299",
+        "remarks": "> Add/Drop Deadline: 20-Jun-2026",
+        "quota": 100,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "SIU, Wai Sze Grace"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-08-08",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENGG",
     "number": "2900H",
     "code": "ENGG2900H",
     "name": "Community Services Project: STEAM Project for the Community",
@@ -3880,6 +3926,201 @@
         "number": "1106",
         "remarks": "> The credit load will usually be spread in the following pattern: Summer: 1; Fall: 1\n> Add/Drop Deadline: 20-Jun-2026",
         "quota": 20,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "WOO, Kam Tim"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-08-08",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENGG",
+    "number": "3961J",
+    "code": "ENGG3961J",
+    "name": "Robotics Special Project: RoboMasters 2026 Robot Contest",
+    "description": "RoboMasters Robot Contest is a robot competition platform created for young engineers. Participating teams will get out of the classroom and independently develop and manufacture robots for the shooting confrontation. The contest will provide them with an opportunity to obtain precious practical skills and use strategic thinking, combine theories with practice and create advanced smart robots through fierce competition. Each year, new game field, rules of competition (https://www.robomaster.com/en-US/robo/rm) and a new technical challenge are introduced to the competition. Enrollment in the project course may require instructor's approval. May be graded PP.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1294",
+        "remarks": "> The credit load will usually be spread in the following pattern: Spring: 3; Summer: 1\n> Add/Drop Deadline: 20-Jun-2026",
+        "quota": 0,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LEUNG, Suk Wai Winnie"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-08-08",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENGG",
+    "number": "3961K",
+    "code": "ENGG3961K",
+    "name": "Robotics Special Project: ABU ROBOCON 2026",
+    "description": "The Asia-Pacific Robot Contest (ABU Robocon) is a robot competition for tertiary education students. Student teams will design and manufacture robots for tackling different missions and challenges which are provided by the organizer. Normally, a project report is required. Enrollment in the project course may require instructor's approval. May be graded PP.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1295",
+        "remarks": "> The credit load will usually be spread in the following pattern: Spring: 3; Summer: 1\n> Add/Drop Deadline: 20-Jun-2026",
+        "quota": 0,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "WOO, Kam Tim"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-08-08",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENGG",
+    "number": "3961L",
+    "code": "ENGG3961L",
+    "name": "Robotics Special Project: MATE ROV Competition 2026",
+    "description": "The Marine Advanced Technology Education (MATE) Remotely Operated Vehicle (ROV) Competition is an international competition for young engineers. Student teams will design and manufacture the underwater robot for tackling different missions and challenges which are provided by the organizer. Normally, a project report is required. Enrollment in the project course may require instructor's approval. May be graded PP.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1296",
+        "remarks": "> The credit load will usually be spread in the following pattern: Spring: 3; Summer: 1\n> Add/Drop Deadline: 20-Jun-2026",
+        "quota": 0,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "WOO, Kam Tim"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-08-08",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENGG",
+    "number": "3961M",
+    "code": "ENGG3961M",
+    "name": "Robotics Special Project: Intelligent Racing Competition 2026",
+    "description": "Student teams will design and manufacture racing model cars to tackle various missions and challenges provided by the organizer. Each team will create a programmable car, competing against other school teams to showcase their engineering and design skills. Typically, a project report is required to document the design process, strategies, and outcomes of their projects. This initiative not only promotes teamwork and creativity but also allows students to apply their knowledge in a practical, competitive environment. Enrollment in the project course may require instructor's approval. May be graded PP.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1297",
+        "remarks": "> The credit load will usually be spread in the following pattern: Spring: 3; Summer: 1\n> Add/Drop Deadline: 20-Jun-2026",
+        "quota": 0,
+        "enroll": 0,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "WOO, Kam Tim"
+            ],
+            "venue": "TBA",
+            "fromDate": "2026-06-15",
+            "toDate": "2026-08-08",
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENGG",
+    "number": "3961N",
+    "code": "ENGG3961N",
+    "name": "Robotics Special Project: Unmanned Aerial Vehicle Competition 2026",
+    "description": "There are various of Unmanned Aerial Vehicle Competition in the world. Student teams will design and manufacture the drones for tackling different missions and challenges which are provided by the organizer. Normally, a project report is required. Enrollment in the project course may require instructor's approval. May be graded PP.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1298",
+        "remarks": "> The credit load will usually be spread in the following pattern: Spring: 3; Summer: 1\n> Add/Drop Deadline: 20-Jun-2026",
+        "quota": 0,
         "enroll": 0,
         "waitlist": 0,
         "consent": true,
@@ -4259,7 +4500,7 @@
         "number": "1009",
         "remarks": "> The class is delivered in a experiential learning mode\n> Add/Drop Deadline : 16-Jul-2026",
         "quota": 60,
-        "enroll": 47,
+        "enroll": 48,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5036,7 +5277,7 @@
         "number": "1278",
         "remarks": "> Add/Drop Deadline: 20-Jun-2026",
         "quota": 100,
-        "enroll": 44,
+        "enroll": 43,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5304,7 +5545,7 @@
         "remarks": "> Add/Drop Deadline : 20-Jun-2026",
         "quota": 20,
         "enroll": 20,
-        "waitlist": 22,
+        "waitlist": 23,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -5346,7 +5587,7 @@
         "remarks": " ",
         "quota": 20,
         "enroll": 20,
-        "waitlist": 22,
+        "waitlist": 23,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -5440,7 +5681,7 @@
         "number": "1005",
         "remarks": "> Add/Drop Deadline : 20-Jun-2026",
         "quota": 100,
-        "enroll": 34,
+        "enroll": 35,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6275,7 +6516,7 @@
         "remarks": "> Instructor : ZHANG, Yue\n> Supervisor : Prof LEE, Dongwon\n> Add/Drop Deadline : 20-Jun-2026",
         "quota": 30,
         "enroll": 6,
-        "waitlist": 12,
+        "waitlist": 11,
         "consent": false,
         "reservedQuota": [
           {
@@ -6336,7 +6577,7 @@
         "remarks": " ",
         "quota": 30,
         "enroll": 6,
-        "waitlist": 12,
+        "waitlist": 11,
         "consent": false,
         "reservedQuota": [],
         "schedule": [
@@ -7549,7 +7790,7 @@
         "number": "1108",
         "remarks": "> Add/Drop Deadline : 15-Jun-2026",
         "quota": 120,
-        "enroll": 12,
+        "enroll": 13,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -11189,7 +11430,7 @@
         "number": "1207",
         "remarks": "> Add/Drop Deadline : 11-Jun-2026\n> Extended Drop Deadline : 16-Jun-2026",
         "quota": 40,
-        "enroll": 12,
+        "enroll": 11,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -12456,7 +12697,7 @@
         "number": "1012",
         "remarks": "> The class is delivered in a self-paced online mode\n> For course details, please visit https://gohkust-my.sharepoint.com/:b:/g/personal/sodora_ust_hk/IQAulZmmpgD3SKP8530FeCo-AayZMn29khMJBCUrl7FkiFo?e=mlcM0k\n> Add/Drop Deadline : 20-Jun-2026",
         "quota": 400,
-        "enroll": 211,
+        "enroll": 213,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -12576,7 +12817,7 @@
         "number": "1007",
         "remarks": "> Add/Drop Deadline : 20-Jun-2026",
         "quota": 300,
-        "enroll": 81,
+        "enroll": 82,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],

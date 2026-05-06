@@ -300,7 +300,7 @@
         "number": "1038",
         "remarks": " ",
         "quota": 72,
-        "enroll": 71,
+        "enroll": 70,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -24533,7 +24533,7 @@
         "number": "2599",
         "remarks": " ",
         "quota": 60,
-        "enroll": 60,
+        "enroll": 59,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -24779,7 +24779,7 @@
         "number": "2611",
         "remarks": " ",
         "quota": 60,
-        "enroll": 60,
+        "enroll": 59,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -41899,7 +41899,7 @@
         "number": "2705",
         "remarks": " ",
         "quota": 70,
-        "enroll": 62,
+        "enroll": 61,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -49464,7 +49464,7 @@
         "number": "4366",
         "remarks": " ",
         "quota": 150,
-        "enroll": 62,
+        "enroll": 61,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -60556,7 +60556,7 @@
         "number": "2986",
         "remarks": "> Add/Drop Deadline: 09-Feb-2026",
         "quota": 45,
-        "enroll": 45,
+        "enroll": 44,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -60731,7 +60731,7 @@
         "number": "2996",
         "remarks": " ",
         "quota": 42,
-        "enroll": 42,
+        "enroll": 41,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -102008,9 +102008,23 @@
             ],
             "venue": "Rm 3, 31/F, Tower 1,Millennity",
             "fromDate": "2026-04-02",
-            "toDate": "2026-05-21",
+            "toDate": "2026-05-14",
             "weekdays": [
               4
+            ],
+            "fromTime": "14:15",
+            "toTime": "17:35"
+          },
+          {
+            "instructors": [
+              "BARRIOS, Marcela",
+              "CHOI, Joon Nak"
+            ],
+            "venue": "Rm 3, 31/F, Tower 1,Millennity",
+            "fromDate": "2026-05-18",
+            "toDate": "2026-05-18",
+            "weekdays": [
+              1
             ],
             "fromTime": "14:15",
             "toTime": "17:35"
@@ -102040,9 +102054,23 @@
             ],
             "venue": "Rm 3, 31/F, Tower 1,Millennity",
             "fromDate": "2026-04-02",
-            "toDate": "2026-05-21",
+            "toDate": "2026-05-14",
             "weekdays": [
               4
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "BARRIOS, Marcela",
+              "CHOI, Joon Nak"
+            ],
+            "venue": "Rm 3, 31/F, Tower 1,Millennity",
+            "fromDate": "2026-05-18",
+            "toDate": "2026-05-18",
+            "weekdays": [
+              1
             ],
             "fromTime": "19:00",
             "toTime": "22:20"
