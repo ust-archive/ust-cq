@@ -446,7 +446,18 @@
         "enroll": 65,
         "waitlist": 1,
         "consent": false,
-        "reservedQuota": [],
+        "reservedQuota": [
+          {
+            "name": "MBA",
+            "quota": 28,
+            "enroll": 26
+          },
+          {
+            "name": "MBA Bi-weekly",
+            "quota": 37,
+            "enroll": 35
+          }
+        ],
         "schedule": [
           {
             "instructors": [
@@ -3189,7 +3200,7 @@
         "number": "1057",
         "remarks": "> For MSc(ECON) & PPOL students only\n> Add/Drop Deadline : 14-Jul-2026",
         "quota": 60,
-        "enroll": 14,
+        "enroll": 15,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -3201,7 +3212,7 @@
           {
             "name": "PPOL",
             "quota": 30,
-            "enroll": 1
+            "enroll": 2
           }
         ],
         "schedule": [
@@ -3594,14 +3605,14 @@
         "number": "1257",
         "remarks": "> Add/Drop Deadline : 20-Jun-2026\n> Extended Drop Deadline : 27-Jun-2026",
         "quota": 110,
-        "enroll": 110,
+        "enroll": 108,
         "waitlist": 0,
         "consent": true,
         "reservedQuota": [
           {
             "name": "EESM",
             "quota": 110,
-            "enroll": 63
+            "enroll": 61
           }
         ],
         "schedule": [
@@ -5025,7 +5036,7 @@
         "number": "1278",
         "remarks": "> Add/Drop Deadline: 20-Jun-2026",
         "quota": 100,
-        "enroll": 45,
+        "enroll": 44,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5594,7 +5605,7 @@
         "number": "1091",
         "remarks": "> Add/Drop Deadline: 20-Jun-2026",
         "quota": 100,
-        "enroll": 49,
+        "enroll": 50,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -5621,7 +5632,7 @@
         "number": "1092",
         "remarks": " ",
         "quota": 100,
-        "enroll": 49,
+        "enroll": 50,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -6382,14 +6393,14 @@
         "number": "1248",
         "remarks": "> Instructor : ZHANG, Zhenghan\n> Supervisor : Prof YIN, Zhitao\n> Add/Drop Deadline : 18-Jul-2026",
         "quota": 30,
-        "enroll": 1,
+        "enroll": 2,
         "waitlist": 10,
         "consent": false,
         "reservedQuota": [
           {
             "name": "IS",
             "quota": 30,
-            "enroll": 1
+            "enroll": 2
           }
         ],
         "schedule": [
@@ -6428,7 +6439,7 @@
         "number": "1249",
         "remarks": " ",
         "quota": 30,
-        "enroll": 1,
+        "enroll": 2,
         "waitlist": 10,
         "consent": false,
         "reservedQuota": [],
@@ -6724,7 +6735,7 @@
         "number": "1177",
         "remarks": "> For FT-MBA; PT-MBA; MBA Bi-Weekly and DI-MBA students only\n> Add/Drop Deadline : 22-Jun-2026",
         "quota": 65,
-        "enroll": 43,
+        "enroll": 44,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [
@@ -6741,7 +6752,7 @@
           {
             "name": "MBA Bi-weekly",
             "quota": 10,
-            "enroll": 6
+            "enroll": 7
           }
         ],
         "schedule": [
@@ -8715,7 +8726,7 @@
         "number": "1197",
         "remarks": "> For PGD/MA(SOSC) students only\n> Add/Drop Deadline : 20-Jun-2026\n> Extended Drop Deadline : 27-Jun-2026",
         "quota": 34,
-        "enroll": 20,
+        "enroll": 21,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -9353,7 +9364,7 @@
         "number": "1068",
         "remarks": "> Add/Drop Deadline : 20-Jun-2026",
         "quota": 60,
-        "enroll": 21,
+        "enroll": 22,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -10631,7 +10642,7 @@
         "number": "1123",
         "remarks": "> Add/Drop Deadline : 16-Jul-2026",
         "quota": 25,
-        "enroll": 7,
+        "enroll": 8,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -10829,7 +10840,7 @@
         "number": "1130",
         "remarks": "> Add/Drop Deadline : 22-Jun-2026",
         "quota": 120,
-        "enroll": 25,
+        "enroll": 24,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
@@ -12445,7 +12456,7 @@
         "number": "1012",
         "remarks": "> The class is delivered in a self-paced online mode\n> For course details, please visit https://gohkust-my.sharepoint.com/:b:/g/personal/sodora_ust_hk/IQAulZmmpgD3SKP8530FeCo-AayZMn29khMJBCUrl7FkiFo?e=mlcM0k\n> Add/Drop Deadline : 20-Jun-2026",
         "quota": 400,
-        "enroll": 209,
+        "enroll": 211,
         "waitlist": 0,
         "consent": false,
         "reservedQuota": [],
