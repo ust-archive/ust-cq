@@ -1,0 +1,3926 @@
+[
+  {
+    "career": "RPG",
+    "subject": "CENG",
+    "number": "6900C",
+    "code": "CENG6900C",
+    "name": "Independent Study",
+    "description": "Selected topics in chemical engineering studied under the supervision of a faculty member. Graded P or F.",
+    "previousCodes": "CENG690C",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "CENG 6800",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1084",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": null,
+    "subject": "CHEM",
+    "number": "6000T",
+    "code": "CHEM6000T",
+    "name": "Chemistry Seminar",
+    "description": "Series of seminar topics presented by students, faculty and visiting speakers; may be repeated for credit. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1082",
+        "remarks": "> Add/Drop Deadline : 09-Jan-2021\n> Extended Drop Deadline : 16-Jan-2021",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "CIVL",
+    "number": "2020",
+    "code": "CIVL2020",
+    "name": "Industrial and BIM Training",
+    "description": "A practical training course in an industrial simulated environment. For students of the Civil and Environmental Engineering Department only. Graded P, PP or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1087",
+        "remarks": " ",
+        "quota": 147,
+        "enroll": 145,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "CIVL",
+    "number": "3020",
+    "code": "CIVL3020",
+    "name": "Internship Training",
+    "description": "For students of the Civil and Environmental Engineering Department only. Internship training provides students the opportunity to gain professional experience and to apply theories to real-life situations. Students are required to complete a minimum of six weeks on-the-job training in civil engineering consulting firms, contractors, developers or relevant government departments, or an equivalent of 5-week mock construction training under the supervision of professional practitioners. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "CIVL 2020",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1014",
+        "remarks": "> Add/Drop Deadline : 09-Jan-2021",
+        "quota": 20,
+        "enroll": 16,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": null,
+    "subject": "CIVL",
+    "number": "6050W",
+    "code": "CIVL6050W",
+    "name": "Civil Engineering Seminar I",
+    "description": "Discussion of current research by faculty members, and guest lectures on recent advances in civil engineering. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1073",
+        "remarks": "> Add/Drop Deadline : 09-Jan-2021\n> Extended Drop Deadline : 16-Jan-2021",
+        "quota": 5,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "COMP",
+    "number": "1029C",
+    "code": "COMP1029C",
+    "name": "C Programming Bridging Course",
+    "description": "This course introduces the C programming language. It is intended for students who already have some experience in computer programming but wish to learn how to apply those programming skills to the C language. The course covers basic programming topics, such as variables, control, loops, and functions, to more advanced topics. Students explore these by self-learning of course materials together with guided programming exercises. Students without the prerequisites but possess relevant programming knowledge may seek instructor's approval for enrolling in the course. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "COMP 1021 OR COMP 1022P OR COMP 1022Q (prior to 2020-21) OR ISOM 3230 OR ISOM 3320",
+    "corequisites": "",
+    "exclusions": "COMP 2011, COMP 2012H",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1015",
+        "remarks": "> Add/Drop Deadline : 09-Jan-2021",
+        "quota": 70,
+        "enroll": 70,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAM, Gibson"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "LA1",
+        "number": "1016",
+        "remarks": " ",
+        "quota": 70,
+        "enroll": 70,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAM, Gibson"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "COMP",
+    "number": "1029J",
+    "code": "COMP1029J",
+    "name": "Java Programming Bridging Course",
+    "description": "This course introduces the Java programming language. It is intended for students who already have some experience in computer programming but wish to learn how to apply those programming skills to the Java language. The course covers basic programming topics such as variables, control statements, loops, functions, and object-oriented programming concepts. Students explore these by self-learning of course materials together with guided programming exercises. Students without the prerequisites but possess relevant programming knowledge may seek instructor's approval for enrolling in the course. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "COMP 1021 OR COMP 1022Q (prior to 2020-21) OR ISOM 3230",
+    "corequisites": "",
+    "exclusions": "COMP 1022P, COMP 3021, ISOM 3320",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1017",
+        "remarks": "> Add/Drop Deadline : 09-Jan-2021",
+        "quota": 70,
+        "enroll": 70,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAM, Gibson"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "LA1",
+        "number": "1018",
+        "remarks": " ",
+        "quota": 70,
+        "enroll": 70,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAM, Gibson"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "COMP",
+    "number": "1029P",
+    "code": "COMP1029P",
+    "name": "Python Programming Bridging Course",
+    "description": "This course introduces the Python programming language. It is intended for students who already have some experience in computer programming but wish to learn how to apply those programming skills to the Python language. The course covers basic programming topics, such as variables, functions and loops, to more advanced topics. Students explore these by self-learning of course materials together with guided programming exercises. Students without the prerequisites but possess relevant programming knowledge may seek instructor's approval for enrolling in the course. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "COMP 1022P OR COMP 1022Q (prior to 2020-21) OR ISOM 3230 OR ISOM 3320",
+    "corequisites": "",
+    "exclusions": "COMP 1021",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1019",
+        "remarks": "> Add/Drop Deadline : 09-Jan-2021",
+        "quota": 70,
+        "enroll": 70,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAM, Gibson"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "LA1",
+        "number": "1020",
+        "remarks": " ",
+        "quota": 70,
+        "enroll": 70,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAM, Gibson"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "COMP",
+    "number": "1029V",
+    "code": "COMP1029V",
+    "name": "Excel VBA Programming Bridging Course",
+    "description": "This course introduces the VBA programming language, in the context of Microsoft Excel. It is intended for students who already have some experience in computer programming but wish to learn how to apply those programming skills to VBA, within Excel. The course covers basic programming topics, such as variables, functions and loops, to more advanced topics. Appropriate features of the Excel program are also covered. Students explore these by self-learning of course materials together with guided programming exercises. Students without the prerequisites but possess relevant programming knowledge may seek instructor's approval for enrolling in the course. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "COMP 1021 OR COMP 1022P OR ISOM 3320",
+    "corequisites": "",
+    "exclusions": "COMP 1022Q (prior to 2020-21), ISOM 3230",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1021",
+        "remarks": "> Add/Drop Deadline : 09-Jan-2021",
+        "quota": 70,
+        "enroll": 68,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAM, Gibson"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "LA1",
+        "number": "1022",
+        "remarks": " ",
+        "quota": 70,
+        "enroll": 68,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAM, Gibson"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "COMP",
+    "number": "4971A",
+    "code": "COMP4971A",
+    "name": "Independent Work",
+    "description": "Independent studies or projects under the directed guidance of a faculty member on a computer science topic. A written report, presentation, and/or an examination are required. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. May be repeated for credits.",
+    "previousCodes": "COMP390A",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1079",
+        "remarks": "> Add/Drop Deadline : 09-Jan-2021",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CHENG, Siu Wing"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "COMP",
+    "number": "4971F",
+    "code": "COMP4971F",
+    "name": "Independent Work",
+    "description": "Independent studies or projects under the directed guidance of a faculty member on a computer science topic. A written report, presentation, and/or an examination are required. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. May be repeated for credits.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1083",
+        "remarks": "> Add/Drop Deadline : 09-Jan-2021",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CHAN, Gary Shueng Han"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "COMP",
+    "number": "4981H",
+    "code": "COMP4981H",
+    "name": "Final Year Thesis",
+    "description": "Students are expected to conduct research under the supervision of a faculty member, summarize their work in an individual thesis and make a defense at the end. Credit load will be spread over the year. For students in the BEng in Computer Science and BEng in Computer Engineering programs under the four-year degree only. Instructor's approval is required for enrollment in the course.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "COMP 4981",
+    "credits": 6,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1063",
+        "remarks": "> Add/Drop Deadline : 09-Jan-2021",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": null,
+    "subject": "ECON",
+    "number": "4999R",
+    "code": "ECON4999R",
+    "name": "International Trade",
+    "description": "In this course, we shall study the causes and consequences of international trade, the political economy of trade and trade policies. Course consists of two parts. Part I discusses the pattern of international trade, why nations trade, what they trade, and who gains from trade. Part II analyzes the motives for countries to implement policies that restrict international trade, and the welfare implications of those trade policies. Economic models will be used extensively to analyze the questions whenever necessary, and the application of these models to the real world would also be emphasized. Real world issues and policies will be discussed throughout the course. These include trade agreements, trade war, World Trade Organization, and so on. The cases in the textbook would be frequently used to illustrate how the theory is applied to the real world.",
+    "previousCodes": "",
+    "prerequisites": "(ECON 3014 AND ECON 3024) OR (ECON 3113 AND ECON 3123)",
+    "corequisites": "",
+    "exclusions": "ECON 4364",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1050",
+        "remarks": "> Instructor : WANG, Pang Paul\n> Supervisor : Prof LAI, Edwin\n> Add/Drop Deadline : 07-Jan-2021",
+        "quota": 20,
+        "enroll": 8,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 1009, LSK Bldg (80)",
+            "fromDate": "2021-01-04",
+            "toDate": "2021-01-27",
+            "weekdays": [
+              1,
+              3
+            ],
+            "fromTime": "09:00",
+            "toTime": "11:50"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "Rm 1009, LSK Bldg (80)",
+            "fromDate": "2021-01-28",
+            "toDate": "2021-01-28",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "09:00",
+            "toTime": "11:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "ECON",
+    "number": "5343",
+    "code": "ECON5343",
+    "name": "Open Economy Macroeconomics",
+    "description": "The course will cover macroeconomic models of exchange rates and international capital flows. This includes the connection between monetary policy and foreign exchange markets, models of long-term growth and the real exchange rates, and business cycle models of the balance of payments.",
+    "previousCodes": "ECON6110C",
+    "prerequisites": "ECON 5140 OR ECON 5250",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1054",
+        "remarks": "> For MSc(ECON) students only\n> Add/Drop Deadline : 07-Jan-2021",
+        "quota": 92,
+        "enroll": 91,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "COOK, David Edward"
+            ],
+            "venue": "Rm 1007, LSK Bldg (80)",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [
+              2,
+              4
+            ],
+            "fromTime": "10:00",
+            "toTime": "13:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "ECON",
+    "number": "5410",
+    "code": "ECON5410",
+    "name": "Value Investing from an Economic Perspective",
+    "description": "This course will introduce the precepts of value investing.  It will focus on the equity market, and begin with the classic Graham and Dodd investing criteria.  This includes stock search; valuation; and design of optimal portfolio.  Innovations to the classic criteria as well as use of derivates in the portfolio will be introduced.",
+    "previousCodes": "ECON541,ECON610C",
+    "prerequisites": "ECON 5400",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1049",
+        "remarks": "> For MSc(ECON) students only\n> Add/Drop Deadline : 16-Jan-2021",
+        "quota": 50,
+        "enroll": 50,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "RAO, Milind Shankar"
+            ],
+            "venue": "Rm 1001, LSK Bldg (70)",
+            "fromDate": "2021-01-16",
+            "toDate": "2021-01-16",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "RAO, Milind Shankar"
+            ],
+            "venue": "Rm 1001, LSK Bldg (70)",
+            "fromDate": "2021-01-16",
+            "toDate": "2021-01-16",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "14:00",
+            "toTime": "16:50"
+          },
+          {
+            "instructors": [
+              "RAO, Milind Shankar"
+            ],
+            "venue": "Rm 1001, LSK Bldg (70)",
+            "fromDate": "2021-01-17",
+            "toDate": "2021-01-17",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "RAO, Milind Shankar"
+            ],
+            "venue": "Rm 1001, LSK Bldg (70)",
+            "fromDate": "2021-01-17",
+            "toDate": "2021-01-17",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "14:00",
+            "toTime": "16:50"
+          },
+          {
+            "instructors": [
+              "RAO, Milind Shankar"
+            ],
+            "venue": "Rm 1032, LSK Bldg (45)",
+            "fromDate": "2021-01-23",
+            "toDate": "2021-01-24",
+            "weekdays": [
+              6,
+              7
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "RAO, Milind Shankar"
+            ],
+            "venue": "Rm 1032, LSK Bldg (45)",
+            "fromDate": "2021-01-23",
+            "toDate": "2021-01-24",
+            "weekdays": [
+              6,
+              7
+            ],
+            "fromTime": "14:00",
+            "toTime": "16:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "EMBA",
+    "number": "5020",
+    "code": "EMBA5020",
+    "name": "Analytical Approach to Uncertainty",
+    "description": "Introduces fundamental probabilistic concepts that enable managers to make critical business decisions in the face of uncertainty.",
+    "previousCodes": "EMBA502",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1090",
+        "remarks": "> Class Duration/Dates : 23-Jan-2021 to 23-Mar-2021\n> Add/Drop Deadline : 23-Jan-2021",
+        "quota": 26,
+        "enroll": 26,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "T1",
+        "number": "1092",
+        "remarks": " ",
+        "quota": 26,
+        "enroll": 26,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "EXEC",
+    "subject": "EMBA",
+    "number": "5060",
+    "code": "EMBA5060",
+    "name": "Leadership and Organizations",
+    "description": "Focuses on the skills and ideas behind effective leadership: working well with teams, utilizing your personal and organizational resources, making difficult but critical decisions, and negotiating well, all with a broad, multifaceted outlook.",
+    "previousCodes": "EMBA506",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1091",
+        "remarks": "> Class Duration/Dates : 23-Jan-2021 to 23-Mar-2021\n> Add/Drop Deadline : 23-Jan-2021",
+        "quota": 14,
+        "enroll": 14,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENGG",
+    "number": "1900",
+    "code": "ENGG1900",
+    "name": "Service Learning Program",
+    "description": "With the collaboration of local or non-local NGO and support from the School of Engineering, students enrolled in this program would be provided an opportunity to engage themselves in community service. Lectures, talks or training sessions will be provided to students to build up their communication skills and/or broaden their horizon. Students should also fulfill the requirements set by the NGO. At the end of the Program, students are required to submit report, reflective paper, group projects or to make a presentation as appropriate. They may also be required to make evaluation. Cantonese may be used in off-campus trainings, in some situations. Enrollment in this course requires instructor's approval. Students may not repeat the course for credits. Graded P or F. Maybe graded PP.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1010",
+        "remarks": "> Course sub-title: STEAM Tutor Development\n> Add/Drop Deadline : 09-Jan-2021",
+        "quota": 30,
+        "enroll": 8,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "WOO, Kam Tim"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENGG",
+    "number": "2010",
+    "code": "ENGG2010",
+    "name": "Engineering Seminar Series",
+    "description": "This course is designed for non-freshman students in the School of Engineering to promote the awareness of the role of engineers and the impact of engineering in the society. As a continuation of ENGG 1010, students are required to attend a few seminars from a series of seminars offered by the school each year. The seminars cover areas including the ethical and environmental responsibilities as an engineer, the importance and the considerations of safety and health related issues in engineering designs and solutions, and in general the impact of engineering to the society. This course helps to provide the needed components for meeting the accreditation requirement and also helps to broaden the students' horizon in different engineering disciplines. For SENG students not in their first year of study only. Graded P or F. May be graded PP.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1086",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENGG",
+    "number": "3960E",
+    "code": "ENGG3960E",
+    "name": "Robotics Special Project: Development of Robot Design Contest Course",
+    "description": "This course aims at providing students experiential learning experience through design teaching material for beginners in robotics. Students in this course have to work in groups. Enrollment in the project course may require instructor's approval.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1051",
+        "remarks": "> Add/Drop Deadline : 09-Jan-2021",
+        "quota": 30,
+        "enroll": 17,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "WOO, Kam Tim"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": null,
+    "subject": "ENTR",
+    "number": "4901Q",
+    "code": "ENTR4901Q",
+    "name": "Student-led Entrepreneurship Acceleration Project",
+    "description": "Many successful IT startups begin in university years. This is a project course led by students to accelerate their entrepreneurship endeavor under the guidance and advice of a faculty member. Students work in team of size 2 to 3 to develop an idea from its scratch to become viable in market. In the process, students work on ideation, prototyping, making presentations, developing operation strategies, conducting experimental trials, designing market survey, collecting user feedbacks, writing business plan, and soft-launching and pivoting the product or services. Written reports, presentations, and/or business/operation plan are required. May be repeated for credits if different topics are taken. Instructor's approval is required for enrollment in the course.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [
+      {
+        "attribute": "DELI",
+        "value": "EXP",
+        "attributeDescription": "Mode of Delivery",
+        "valueDescription": "[EXP] Experiential learning"
+      }
+    ],
+    "classes": [
+      {
+        "section": "LA1",
+        "number": "1001",
+        "remarks": "> Add/Drop Deadline : 09-Jan-2021",
+        "quota": 20,
+        "enroll": 2,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENVR",
+    "number": "2900",
+    "code": "ENVR2900",
+    "name": "Internship/Service Learning",
+    "description": "The internship/service learning provides students a first-hand understanding of interconnected sectors of environment, business and society. Students will be working in teams enabling them to practice teamwork, communication and professional skills. The internship is a structured professional work experience in which students can apply their knowledge to problems and situations relevant to their professional preparation. Service learning benefits students by providing the opportunity to apply knowledge and skills to improve our community and solve real-world community problems as well as civic problems. The credit may be earned part-time during summer months. Students are required to take a pre-internship/service orientation session. May be repeated for credits if different topics are taken, but the total credits may not exceed two. Instructor's approval is required for enrollment in the course. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "LA1",
+        "number": "1074",
+        "remarks": " ",
+        "quota": 8,
+        "enroll": 8,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENVR",
+    "number": "2900A",
+    "code": "ENVR2900A",
+    "name": "Internship/Service Learning",
+    "description": "The internship/service learning provides students a first-hand understanding of interconnected sectors of environment, business and society. Students will be working in teams enabling them to practice teamwork, communication and professional skills. The internship is a structured professional work experience in which students can apply their knowledge to problems and situations relevant to their professional preparation. Service learning benefits students by providing the opportunity to apply knowledge and skills to improve our community and solve real-world community problems as well as civic problems. The credit may be earned part-time during summer months. Students are required to take a pre-internship/service orientation session. May be repeated for credits if different topics are taken, but the total credits may not exceed two. Instructor's approval is required for enrollment in the course. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "LA1",
+        "number": "1075",
+        "remarks": " ",
+        "quota": 3,
+        "enroll": 3,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ENVR",
+    "number": "3001",
+    "code": "ENVR3001",
+    "name": "Academic and Professional Development II",
+    "description": "This is second course of the series designed to assist students in developing attributes necessary for professional growth. This course is a one-year course designed to provide academic advising to students, to enhance their understanding of the latest environment topics, and to improve their communication skills. Students are required to attend discussion sessions with advisors and selected seminars. For EVMT students only. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "ENVR 2001",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1062",
+        "remarks": " ",
+        "quota": 2,
+        "enroll": 2,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAU, Pui Sang"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "EVSM",
+    "number": "6950A",
+    "code": "EVSM6950A",
+    "name": "MSc Project",
+    "description": "An independent project on selected topics in environmental science under the supervision of a faculty member. Participation of external organizations in these projects will be particularly encouraged. The responsibility of control, administration and assessment of the projects rests with the University. The course may be repeated once for credits. This course is for MSc students only. Approval from instructor is required.",
+    "previousCodes": "EVSM695A",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1029",
+        "remarks": "> Add/Drop Deadline : 09-Jan-2021\n> Extended Drop Deadline : 16-Jan-2021",
+        "quota": 10,
+        "enroll": 2,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "GFIN",
+    "number": "5010",
+    "code": "GFIN5010",
+    "name": "Foundations of Investments",
+    "description": "This course provides an introduction to modern asset pricing theory. We begin by briefly reviewing portfolio theory. We then move on to discussing current determinants of asset prices such as cash risk and liquidity. One of the course's goals is to apply asset pricing theories to investment decision-making. A second goal is to prepare students for upcoming courses. A third goal is to build a fundamental knowledge of fixed income and derivatives products.",
+    "previousCodes": "GFIN501",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1060",
+        "remarks": "> For MSc(GFIN) students only\n> Class Duration/Dates : 18-Jan-2021 to 21-Jan-2021\n> Add/Drop Deadline : 18-Jan-2021",
+        "quota": 20,
+        "enroll": 20,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "YU, Jialin"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "GFIN",
+    "number": "5020",
+    "code": "GFIN5020",
+    "name": "Foundations of Corporate Finance",
+    "description": "The aim of the course is to provide students with a comprehensive overview of the financing and investment decisions made by firms.  It covers capital budgeting, dividend policy, financing policy and managerial incentives.",
+    "previousCodes": "GFIN502",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1059",
+        "remarks": "> For MSc(GFIN) students only\n> Class Duration/Dates : 14-Jan-2021 to 17-Jan-2021\n> Add/Drop Deadline : 14-Jan-2021",
+        "quota": 20,
+        "enroll": 20,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "NIELSEN, Kasper Meisner"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "IEDA",
+    "number": "1991",
+    "code": "IEDA1991",
+    "name": "Industrial Experience",
+    "description": "Full-time internship training for a period of at least 4 weeks in an organization or company recognized by the Department for providing qualified internship training relevant to the industrial engineering and decision analytics. Students must also complete the USTSIEB Safety Training module. For IEDA students in their second year of study or above only. Students should seek approval of the internship coordinator for enrollment in the course. Graded P or F. May be graded PP.",
+    "previousCodes": "IELM1991",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "IEDA 1990",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1064",
+        "remarks": " ",
+        "quota": 26,
+        "enroll": 23,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "IEDA",
+    "number": "4920",
+    "code": "IEDA4920",
+    "name": "Decision Analytics Final Year Project",
+    "description": "This is a one-year course undertaken by students in their final year. The course will require students to engage in a company sponsored project that provides practical experience to the students on topics they have learnt in their major courses. The project requires regular involvement by a specific professional in the sponsoring company, and will be supervised by a faculty in the department. Depending on the complexity of the project and the capacity of the sponsoring company, the project may be undertaken by either a single student, or a group with a maximum of four students. For projects with multiple members in a group, the role and deliverables of each student must be clearly laid out at the outset. For DA students in their fourth year of study only. May be graded PP.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "IEDA 4901, IEDA 4960",
+    "credits": 6,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1089",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": null,
+    "subject": "ISDN",
+    "number": "6100",
+    "code": "ISDN6100",
+    "name": "Industrial Internship",
+    "description": "This course will provide students with hands-on industrial experience in Mainland China or other places within the industry, government or research centers for a minimum of 2 months. The industrial internship experience will form an integral part of students' thesis writing in non-technical perspectives. Graded P or F.",
+    "previousCodes": "ENGG6100",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1061",
+        "remarks": " ",
+        "quota": 15,
+        "enroll": 14,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ISOM",
+    "number": "1090",
+    "code": "ISOM1090",
+    "name": "Social Media: Collective Intelligence & Creativity",
+    "description": "This course provides an analysis of the power of social media, such as Facebook, twitter, blogs, mashups, wikis, etc.  It examines how social media can facilitate creativity and collective intelligence, through enhanced information sharing and online collaboration among netizens; ultimately building the social pool of knowledge.  It also examines the downside of this participatory culture.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [
+      {
+        "attribute": "",
+        "value": "",
+        "attributeDescription": "",
+        "valueDescription": "Common Core (SA special list) for 10&11 3Yprograms"
+      },
+      {
+        "attribute": "",
+        "value": "",
+        "attributeDescription": "",
+        "valueDescription": "Common Core (SA) for 2010 & 2011 3Y programs"
+      },
+      {
+        "attribute": "",
+        "value": "",
+        "attributeDescription": "",
+        "valueDescription": "Common Core (SA) for 2012 3Y programs"
+      },
+      {
+        "attribute": "",
+        "value": "",
+        "attributeDescription": "",
+        "valueDescription": "Common Core (SA) for 4Y programs"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1036",
+        "remarks": "> Add/Drop Deadline : 07-Jan-2021",
+        "quota": 120,
+        "enroll": 119,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TEH, Jack Her Hock"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-04",
+            "toDate": "2021-01-06",
+            "weekdays": [
+              1,
+              3
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "TEH, Jack Her Hock"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-08",
+            "toDate": "2021-01-25",
+            "weekdays": [
+              1,
+              3,
+              5
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ISOM",
+    "number": "1380",
+    "code": "ISOM1380",
+    "name": "Technology and Innovation: Social and Business Perspectives",
+    "description": "This course describes the development of technology and innovation from social and business perspectives.  It covers the technology side of innovations, how an invention can be developed into a successful commercial product, the role of innovation in society and how innovations are created from a socioeconomic perspective.  It highlights that successful development and adoption of innovative products relies not only on the technology itself but also a complex process that is subject to the impact of cultural, political, economic and managerial factors.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [
+      {
+        "attribute": "",
+        "value": "",
+        "attributeDescription": "",
+        "valueDescription": "Common Core (SA special list) for 10&11 3Yprograms"
+      },
+      {
+        "attribute": "",
+        "value": "",
+        "attributeDescription": "",
+        "valueDescription": "Common Core (SA) for 2010 & 2011 3Y programs"
+      },
+      {
+        "attribute": "",
+        "value": "",
+        "attributeDescription": "",
+        "valueDescription": "Common Core (SA) for 2012 3Y programs"
+      },
+      {
+        "attribute": "",
+        "value": "",
+        "attributeDescription": "",
+        "valueDescription": "Common Core (SA) for 4Y programs"
+      },
+      {
+        "attribute": "",
+        "value": "",
+        "attributeDescription": "",
+        "valueDescription": "Common Core (SSC-SA) for 4Y programs"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1037",
+        "remarks": "> Add/Drop Deadline : 07-Jan-2021",
+        "quota": 120,
+        "enroll": 120,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "HONG, Se Joon"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-05",
+            "toDate": "2021-01-07",
+            "weekdays": [
+              2,
+              4
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "HONG, Se Joon"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-08",
+            "toDate": "2021-01-26",
+            "weekdays": [
+              2,
+              4,
+              5
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ISOM",
+    "number": "1700",
+    "code": "ISOM1700",
+    "name": "Critical Issues in Business Operations",
+    "description": "The course will focus on how business organizations should create and sustain value for different stakeholders in the society by designing, optimizing, and improving the operations. Successful businesses have demonstrated their sustainable competitiveness by maintaining a balanced view of economic prosperity, environmental stewardship, and social responsibility. This course will also examine how the changing perspectives of stakeholders (like government and consumers) affect the business decisions and operations.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [
+      {
+        "attribute": "",
+        "value": "",
+        "attributeDescription": "",
+        "valueDescription": "Common Core (SA special list) for 10&11 3Yprograms"
+      },
+      {
+        "attribute": "",
+        "value": "",
+        "attributeDescription": "",
+        "valueDescription": "Common Core (SA) for 2010 & 2011 3Y programs"
+      },
+      {
+        "attribute": "",
+        "value": "",
+        "attributeDescription": "",
+        "valueDescription": "Common Core (SA) for 2012 3Y programs"
+      },
+      {
+        "attribute": "",
+        "value": "",
+        "attributeDescription": "",
+        "valueDescription": "Common Core (SA) for 4Y programs"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1033",
+        "remarks": "> The class is delivered in an online mode\n> Add/Drop Deadline : 15-Jan-2021",
+        "quota": 261,
+        "enroll": 224,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAU, Ronald"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-14",
+            "toDate": "2021-01-29",
+            "weekdays": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ISOM",
+    "number": "2400",
+    "code": "ISOM2400",
+    "name": "Global Information Infrastructure and Policy",
+    "description": "This course provides a panorama review of the global information infrastructure from technology, policy, social and business perspectives. Key issues include next generation information infrastructure, Internet of things, anti-spamming legislation, universal service, digital convergence, network interconnection, the WTO’s agreement on telecommunications, cloud computing, green ICT, and regulatory environment of multimedia services. It will also address the increasing importance of Web 2.0-enabled information infrastructure in business innovation.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [
+      {
+        "attribute": "",
+        "value": "",
+        "attributeDescription": "",
+        "valueDescription": "Common Core (S&T) for 2010 & 2011 3Y programs"
+      },
+      {
+        "attribute": "",
+        "value": "",
+        "attributeDescription": "",
+        "valueDescription": "Common Core (SA special list) for 10&11 3Yprograms"
+      },
+      {
+        "attribute": "",
+        "value": "",
+        "attributeDescription": "",
+        "valueDescription": "Common Core (SA) for 2010 & 2011 3Y programs"
+      },
+      {
+        "attribute": "",
+        "value": "",
+        "attributeDescription": "",
+        "valueDescription": "Common Core (S&T) for 2012 3Y programs"
+      },
+      {
+        "attribute": "",
+        "value": "",
+        "attributeDescription": "",
+        "valueDescription": "Common Core (SA) for 2012 3Y programs"
+      },
+      {
+        "attribute": "",
+        "value": "",
+        "attributeDescription": "",
+        "valueDescription": "Common Core (S&T) for 4Y programs"
+      },
+      {
+        "attribute": "",
+        "value": "",
+        "attributeDescription": "",
+        "valueDescription": "Common Core (SA) for 4Y programs"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1038",
+        "remarks": "> Add/Drop Deadline : 05-Jan-2021",
+        "quota": 120,
+        "enroll": 120,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "XU, Yan"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-04",
+            "toDate": "2021-01-08",
+            "weekdays": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "XU, Yan"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-14",
+            "toDate": "2021-01-20",
+            "weekdays": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "XU, Yan"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-25",
+            "toDate": "2021-01-25",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ISOM",
+    "number": "3390",
+    "code": "ISOM3390",
+    "name": "Business Programming in R",
+    "description": "This course provides an introduction to business programming using R. Students will learn the programming concepts and syntax of R and develop R scripts for business applications. This course will cover practical issues for programming in R and provide working examples of emerging business applications, including Web crawling, text analytics, social network analysis, online advertising, and implementations of data mining algorithms.",
+    "previousCodes": "ISOM3000A",
+    "prerequisites": "(ISOM 3230 OR ISOM 3320 OR ISOM 3400) AND ISOM 3360",
+    "corequisites": "",
+    "exclusions": "RMBI 3010",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1039",
+        "remarks": "> Add/Drop Deadline : 07-Jan-2021",
+        "quota": 60,
+        "enroll": 38,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "JIA, Jia"
+            ],
+            "venue": "Rm 1001, LSK Bldg (70)",
+            "fromDate": "2021-01-04",
+            "toDate": "2021-01-22",
+            "weekdays": [
+              1,
+              3,
+              5
+            ],
+            "fromTime": "10:00",
+            "toTime": "11:50"
+          },
+          {
+            "instructors": [
+              "JIA, Jia"
+            ],
+            "venue": "Rm 1001, LSK Bldg (70)",
+            "fromDate": "2021-01-04",
+            "toDate": "2021-01-22",
+            "weekdays": [
+              1,
+              3,
+              5
+            ],
+            "fromTime": "13:00",
+            "toTime": "14:50"
+          },
+          {
+            "instructors": [
+              "JIA, Jia"
+            ],
+            "venue": "Rm 1001, LSK Bldg (70)",
+            "fromDate": "2021-01-25",
+            "toDate": "2021-01-25",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "10:00",
+            "toTime": "11:50"
+          },
+          {
+            "instructors": [
+              "JIA, Jia"
+            ],
+            "venue": "Rm 1001, LSK Bldg (70)",
+            "fromDate": "2021-01-25",
+            "toDate": "2021-01-25",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "13:00",
+            "toTime": "13:50"
+          }
+        ]
+      },
+      {
+        "section": "LA1",
+        "number": "1040",
+        "remarks": " ",
+        "quota": 60,
+        "enroll": 38,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "YEUNG, Chi Shing"
+            ],
+            "venue": "G005, LSK Bldg",
+            "fromDate": "2021-01-04",
+            "toDate": "2021-01-22",
+            "weekdays": [
+              1,
+              3,
+              5
+            ],
+            "fromTime": "15:00",
+            "toTime": "15:50"
+          },
+          {
+            "instructors": [
+              "YEUNG, Chi Shing"
+            ],
+            "venue": "G005, LSK Bldg",
+            "fromDate": "2021-01-25",
+            "toDate": "2021-01-25",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "14:00",
+            "toTime": "14:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ISOM",
+    "number": "4100",
+    "code": "ISOM4100",
+    "name": "Information Systems Auditing",
+    "description": "The course provides a comprehensive approach for auditing information systems. It covers fundamental concepts of risk management for Information Systems (IS) auditors to perform risk assessment, and risk analysis at various business levels, including systems, administrative and organizational levels. The course also covers business cases for students to study, and provides opportunities for them to apply their IS auditing skills to solve those cases from IS auditing perspectives. Typical solutions to those cases are effective, reasonable, and practical controls. Other IS auditing practices, such as compliance audit and governance audit, and auditing system development life cycle are covered as well, in order to provide a holistic training of IS auditing to students.",
+    "previousCodes": "",
+    "prerequisites": "ACCT 2010 and ISOM 2010",
+    "corequisites": "",
+    "exclusions": "ISOM 4200",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1041",
+        "remarks": "> Add/Drop Deadline : 07-Jan-2021",
+        "quota": 60,
+        "enroll": 59,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "KWOK, James Sai Ho"
+            ],
+            "venue": "Rm 1005, LSK Bldg (70)",
+            "fromDate": "2021-01-05",
+            "toDate": "2021-01-07",
+            "weekdays": [
+              2,
+              4
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "KWOK, James Sai Ho"
+            ],
+            "venue": "Rm 1005, LSK Bldg (70)",
+            "fromDate": "2021-01-09",
+            "toDate": "2021-01-26",
+            "weekdays": [
+              2,
+              4,
+              6
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "ISOM",
+    "number": "4740",
+    "code": "ISOM4740",
+    "name": "Enterprise Resource Management",
+    "description": "Basic concepts and practices of enterprise resource management; popular enterprise resource planning software packages, such as SAP R/3 for discussing and building integrated business solutions.",
+    "previousCodes": "",
+    "prerequisites": "ISOM 2700",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [
+      {
+        "attribute": "DELI",
+        "value": "BLD",
+        "attributeDescription": "Mode of Delivery",
+        "valueDescription": "[BLD] Blended learning"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1034",
+        "remarks": "> The class is delivered in a blended learning mode\n> Add/Drop Deadline : 15-Jan-2021",
+        "quota": 70,
+        "enroll": 52,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAU, Ronald"
+            ],
+            "venue": "G021, LSK Bldg",
+            "fromDate": "2021-01-14",
+            "toDate": "2021-01-29",
+            "weekdays": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "ISOM",
+    "number": "5020",
+    "code": "ISOM5020",
+    "name": "Information and Technology Management",
+    "description": "A general manager's perspective on the strategic roles of information and technology in companies, overview of enabling technologies, how information systems are developed and managed, and how to make technology management decisions.",
+    "previousCodes": "ISOM502,ISMT502",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "IMBA 5120, ISOM 5100",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1007",
+        "remarks": "> For MBA (BI-weekly) students only\n> Add/Drop Deadline : 09-Jan-2021",
+        "quota": 70,
+        "enroll": 54,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "MBA Bi-weekly",
+            "quota": 70,
+            "enroll": 54
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "JAISINGH, Jeevan"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-09",
+            "toDate": "2021-01-09",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "JAISINGH, Jeevan"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-09",
+            "toDate": "2021-01-09",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "14:30",
+            "toTime": "17:50"
+          },
+          {
+            "instructors": [
+              "JAISINGH, Jeevan"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-10",
+            "toDate": "2021-01-10",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "JAISINGH, Jeevan"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-10",
+            "toDate": "2021-01-10",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "JAISINGH, Jeevan"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-23",
+            "toDate": "2021-01-23",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "JAISINGH, Jeevan"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-23",
+            "toDate": "2021-01-23",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "14:30",
+            "toTime": "17:50"
+          },
+          {
+            "instructors": [
+              "JAISINGH, Jeevan"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-24",
+            "toDate": "2021-01-24",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "JAISINGH, Jeevan"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-24",
+            "toDate": "2021-01-24",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "ISOM",
+    "number": "5220",
+    "code": "ISOM5220",
+    "name": "FinTech Regulation and Compliance",
+    "description": "This course provides students with frameworks, concepts, and background to understand the role of regulation, compliance and assurance in FinTech markets from both technology and business perspectives. The course will also examine the perspectives of government officials, investors, managers, and consumers in how they benefit from, guide, and influence the evolution of regulation and associated compliance activities.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1048",
+        "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 06-Jan-2021",
+        "quota": 68,
+        "enroll": 59,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "ISOM",
+            "quota": 65,
+            "enroll": 56
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "CLARK, Theodore Henry King"
+            ],
+            "venue": "G003, LSK Bldg (70)",
+            "fromDate": "2021-01-02",
+            "toDate": "2021-01-23",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "CLARK, Theodore Henry King"
+            ],
+            "venue": "G003, LSK Bldg (70)",
+            "fromDate": "2021-01-02",
+            "toDate": "2021-01-23",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "14:30",
+            "toTime": "17:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "ISOM",
+    "number": "5370",
+    "code": "ISOM5370",
+    "name": "Technology and Innovation Management",
+    "description": "Technology and innovation management (TIM) plays an important role in enhancing the competitiveness of firms, industries, and even nations.  This course provides a comprehensive introduction to TIM from strategic perspectives and addresses key issues such as technology and innovation decision making, open innovation system, lead user innovation, intellectual property portfolio management, and national innovation system.  Specifically, it will highlight how technology can facilitate corporate innovation.  Students will obtain basic skills in formulating TIM-based competitive strategies.",
+    "previousCodes": "ISOM537,ISMT537,ISMT610R",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1047",
+        "remarks": "> For MSc(ISM) students only\n> Add/Drop Deadline : 06-Jan-2021",
+        "quota": 52,
+        "enroll": 38,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "ISOM",
+            "quota": 50,
+            "enroll": 36
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "KIM, Yongsuk"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-05",
+            "toDate": "2021-01-28",
+            "weekdays": [
+              2,
+              4
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "ISOM",
+    "number": "5720",
+    "code": "ISOM5720",
+    "name": "ERP and Enterprise Systems Management",
+    "description": "Concepts and practices of enterprise resource management; enterprise resource planning systems and applications, integrated systems approach to managing major business processes, business information reports and analyses.",
+    "previousCodes": "ISOM564,ISMT564",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "ISOM 4740",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1005",
+        "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 04-Jan-2021",
+        "quota": 61,
+        "enroll": 50,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAU, Ronald"
+            ],
+            "venue": "G001, LSK Bldg (70)",
+            "fromDate": "2021-01-02",
+            "toDate": "2021-01-23",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "LAU, Ronald"
+            ],
+            "venue": "G021, LSK Bldg",
+            "fromDate": "2021-01-02",
+            "toDate": "2021-01-23",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": null,
+    "subject": "ISOM",
+    "number": "6790J",
+    "code": "ISOM6790J",
+    "name": "Logistics Management",
+    "description": "Business logistics is the set of all activities involved in the flow of goods, services, and related information through an organization and through the supply chain to the market. The course is designed to introduce you to problems, models, and solution methodologies in business logistics.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1006",
+        "remarks": "> For MSc(GO) students only\n> Add/Drop Deadline : 06-Jan-2021",
+        "quota": 60,
+        "enroll": 56,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "YU, Man"
+            ],
+            "venue": "G003, LSK Bldg (70)",
+            "fromDate": "2021-01-04",
+            "toDate": "2021-01-07",
+            "weekdays": [
+              1,
+              4
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "YU, Man"
+            ],
+            "venue": "G003, LSK Bldg (70)",
+            "fromDate": "2021-01-11",
+            "toDate": "2021-01-15",
+            "weekdays": [
+              1,
+              3,
+              5
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "YU, Man"
+            ],
+            "venue": "G003, LSK Bldg (70)",
+            "fromDate": "2021-01-19",
+            "toDate": "2021-01-21",
+            "weekdays": [
+              2,
+              4
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "YU, Man"
+            ],
+            "venue": "G003, LSK Bldg (70)",
+            "fromDate": "2021-01-27",
+            "toDate": "2021-01-27",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "LIFS",
+    "number": "6660",
+    "code": "LIFS6660",
+    "name": "Molecular Medicine",
+    "description": "This joint course offered under the HKU-CUHK-HKUST Centre for Advanced Study will give an introduction to basic concepts as well as modern techniques and technologies in Molecular Medicine. Cancer as well as neurodegenerative diseases will be used as disease models in most of the examples covered in the course. Classes will be held in the campus of the university concerned for that part of the course offered.",
+    "previousCodes": "BISC666",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1072",
+        "remarks": "> This course is offered under a course-sharing scheme established jointly by The University of Hong Kong, The Chinese University of Hong Kong, and The Hong Kong University of Science and Technology, under the Joint Centre for Advanced Study. \n> Venue: \n- TBA, CUHK (10:00 - 13:00 on 2, 9, 16 & 23 Jan 2021)\n- TBA, HKUST (10:00 - 12:50 on 30 Jan; 6, 20 & 27 Feb 2021)\n- TBA, HKU (10:30 - 13:30 on 6, 13, 20 & 27 Mar 2021)\n> Add/Drop Deadline : 06-Jan-2021",
+        "quota": 20,
+        "enroll": 20,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-02",
+            "toDate": "2021-01-23",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "10:00",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "HUANG, Pingbo",
+              "NGUYEN, Tuan Anh",
+              "QI, Robert Zhong",
+              "XIA, Jun"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-30",
+            "toDate": "2021-01-30",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "10:00",
+            "toTime": "12:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "MATH",
+    "number": "1012",
+    "code": "MATH1012",
+    "name": "Calculus IA",
+    "description": "This is an introductory course in one-variable calculus, the first in the Calculus I and II sequence, designed for students that have not taken HKDSE Mathematics Extended Module M1 or M2. Topics include functions and their limits, continuity, derivatives and rules of differentiation, applications of derivatives, and basic integral calculus.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "Level 3 or above in HKDSE Mathematics Extended Module M1 or M2; AL Pure Mathematics; AL Applied Mathematics; MATH 1003, MATH 1013, MATH 1014, MATH 1020, MATH 1023, MATH 1024",
+    "credits": 4,
+    "attributes": [
+      {
+        "attribute": "",
+        "value": "",
+        "attributeDescription": "",
+        "valueDescription": "Common Core (QR) for 4Y programs"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1070",
+        "remarks": "> Add/Drop Deadline : 09-Jan-2021\n> Students are required to seek instructor's approval to take this course",
+        "quota": 20,
+        "enroll": 18,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAM, Tsz Kin"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-04",
+            "toDate": "2021-01-29",
+            "weekdays": [
+              1,
+              3,
+              5
+            ],
+            "fromTime": "10:00",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "LAM, Tsz Kin"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-04",
+            "toDate": "2021-01-29",
+            "weekdays": [
+              1,
+              3,
+              5
+            ],
+            "fromTime": "15:30",
+            "toTime": "16:20"
+          }
+        ]
+      },
+      {
+        "section": "T1A",
+        "number": "1071",
+        "remarks": " ",
+        "quota": 20,
+        "enroll": 18,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAM, Tsz Kin"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-04",
+            "toDate": "2021-01-29",
+            "weekdays": [
+              1,
+              3,
+              5
+            ],
+            "fromTime": "14:30",
+            "toTime": "15:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "MATH",
+    "number": "1013",
+    "code": "MATH1013",
+    "name": "Calculus IB",
+    "description": "This is an introductory course in one-variable calculus, the first in the Calculus I and II sequence, designed for students that have taken HKDSE Mathematics Extended Module M1/M2. Topics include functions and their limits, continuity, derivatives and rules of differentiation, applications of derivatives, and basic integral calculus.",
+    "previousCodes": "",
+    "prerequisites": "Level 3 or above in HKDSE Mathematics Extended Module M1/M2",
+    "corequisites": "",
+    "exclusions": "AL Pure Mathematics; AL Applied Mathematics; MATH 1003, MATH 1012, MATH 1014, MATH 1020, MATH 1023, MATH 1024",
+    "credits": 3,
+    "attributes": [
+      {
+        "attribute": "",
+        "value": "",
+        "attributeDescription": "",
+        "valueDescription": "Common Core (QR) for 4Y programs"
+      }
+    ],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1068",
+        "remarks": "> Add/Drop Deadline : 09-Jan-2021\n> Students are required to seek instructor's approval to take this course",
+        "quota": 15,
+        "enroll": 5,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAM, Tsz Kin"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-04",
+            "toDate": "2021-01-29",
+            "weekdays": [
+              1,
+              3,
+              5
+            ],
+            "fromTime": "10:00",
+            "toTime": "12:50"
+          }
+        ]
+      },
+      {
+        "section": "T1A",
+        "number": "1069",
+        "remarks": " ",
+        "quota": 15,
+        "enroll": 5,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAM, Tsz Kin"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-04",
+            "toDate": "2021-01-29",
+            "weekdays": [
+              1,
+              3,
+              5
+            ],
+            "fromTime": "14:30",
+            "toTime": "15:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": null,
+    "subject": "MATH",
+    "number": "4984N",
+    "code": "MATH4984N",
+    "name": "Independent Study: Mathematical Aspect of Combinatorial Game",
+    "description": "We investigate how one can use basic combinatorial theory and computer programming technique (Python) to analyse the combinatorial game. Students may further develop the techniques to deepen the study of the game, or study other combinatorial games. Students should seek the course instructor's approval to take this course.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1076",
+        "remarks": "> Add/Drop Deadline : 09-Jan-2021",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "JING, Bing-yi"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "MECH",
+    "number": "1990",
+    "code": "MECH1990",
+    "name": "Industrial Training",
+    "description": "A practical training course in an industrial simulated environment. For students of the Mechanical and Aerospace Engineering Department only. Graded P, PP or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 0,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1088",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MGCS",
+    "number": "5036",
+    "code": "MGCS5036",
+    "name": "Western Opera and Asia",
+    "description": "For almost four hundred years opera was the dominant form of public entertainment as well as the pinnacle of musical and theatrical arts in the West. This course aims to make opera more enjoyable and understandable and to look at depictions and representations of Asian cultures in traditional Western opera across various cultures and time periods. This course will briefly examine the development of Western opera and their related literary texts and then closely discuss selected operas that depict Asian exoticism. By watching and analyzing opera, the students will learn to understand the relationship between music, literature, drama, and culture and also come to understand how these works promoted either a common cultural understanding or a reductionist or even prejudiced viewpoint with regard to Asia. Prior knowledge or experience of Western opera or classical music is not required.",
+    "previousCodes": "MGCS6000E",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1031",
+        "remarks": "> For MSc(GCS) students only\n> Add/Drop Deadline : 05-Jan-2021\n> Extended Drop Deadline : 07-Jan-2021",
+        "quota": 38,
+        "enroll": 37,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "DROSCHA, Isaac David"
+            ],
+            "venue": "G004, CYT Bldg (30)",
+            "fromDate": "2021-01-04",
+            "toDate": "2021-01-04",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "15:00",
+            "toTime": "17:50"
+          },
+          {
+            "instructors": [
+              "DROSCHA, Isaac David"
+            ],
+            "venue": "LTL, CYT Bldg (354)",
+            "fromDate": "2021-01-05",
+            "toDate": "2021-01-28",
+            "weekdays": [
+              2,
+              3,
+              4
+            ],
+            "fromTime": "15:00",
+            "toTime": "17:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": null,
+    "subject": "MGCS",
+    "number": "6000G",
+    "code": "MGCS6000G",
+    "name": "China and Africa",
+    "description": "China has become the world's second largest economy at a time of unprecedented connectivity and its global interactions are more extensive now than at any time in the country's history. Africa is the continent with the largest number of countries, fastest growing population and greatest resources. Its relationship with China is constantly discussed. This course will consider the most talked-about topics within the China/Africa discourse, particularly those dealing with the political economy and person-to-person relationships between China and Africa and Chinese and Africans. Most lectures are presented online, outside the classroom. After an initial lecture on relevant theories of development, class time will be exclusively devoted to discussing the lecture videos, with the classroom discussions led by teams of students, and to papers written and presented by student teams.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1032",
+        "remarks": "> For MSc(GCS) students only\n> Add/Drop Deadline : 18-Jan-2021\n> Extended Drop Deadline : 20-Jan-2021",
+        "quota": 25,
+        "enroll": 22,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "SAUTMAN, Barry Victor"
+            ],
+            "venue": "Rm 1409, Lift 25-26 (60)",
+            "fromDate": "2021-01-16",
+            "toDate": "2021-01-30",
+            "weekdays": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "fromTime": "19:00",
+            "toTime": "20:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MGMT",
+    "number": "5110",
+    "code": "MGMT5110",
+    "name": "Managerial Communication",
+    "description": "Communication skill ranks at the top of contributors to job effectiveness, satisfaction and success.  Managerial communication gives students an opportunity to improve students' ability to communicate efficiently and effectively as a manager and to develop those critical communication capabilities that students will need as a business leader.",
+    "previousCodes": "MGMT511,SBMT511",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1023",
+        "remarks": "> For FT-MBA Year 1 and PT-MBA Year 1 students only\n> Add/Drop Deadline : 11-Jan-2021",
+        "quota": 24,
+        "enroll": 21,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "MBA",
+            "quota": 24,
+            "enroll": 21
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "WANG, Caroline"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-07",
+            "toDate": "2021-01-07",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "WANG, Caroline"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-07",
+            "toDate": "2021-01-07",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "WANG, Caroline"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-13",
+            "toDate": "2021-01-13",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "WANG, Caroline"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-13",
+            "toDate": "2021-01-13",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "WANG, Caroline"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-18",
+            "toDate": "2021-01-21",
+            "weekdays": [
+              1,
+              4
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "WANG, Caroline"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-18",
+            "toDate": "2021-01-21",
+            "weekdays": [
+              1,
+              4
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          }
+        ]
+      },
+      {
+        "section": "L2",
+        "number": "1024",
+        "remarks": "> For FT-MBA Year 1 students only\n> Add/Drop Deadline : 11-Jan-2021",
+        "quota": 24,
+        "enroll": 16,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "MBA",
+            "quota": 24,
+            "enroll": 16
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "WANG, Caroline"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-11",
+            "toDate": "2021-01-14",
+            "weekdays": [
+              1,
+              4
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "WANG, Caroline"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-11",
+            "toDate": "2021-01-14",
+            "weekdays": [
+              1,
+              4
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "WANG, Caroline"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-19",
+            "toDate": "2021-01-19",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "09:30",
+            "toTime": "12:50"
+          },
+          {
+            "instructors": [
+              "WANG, Caroline"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-19",
+            "toDate": "2021-01-19",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "WANG, Caroline"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-22",
+            "toDate": "2021-01-22",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "09:00",
+            "toTime": "11:50"
+          },
+          {
+            "instructors": [
+              "WANG, Caroline"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-22",
+            "toDate": "2021-01-22",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "13:30",
+            "toTime": "17:20"
+          }
+        ]
+      },
+      {
+        "section": "L3",
+        "number": "1025",
+        "remarks": "> For PT-MBA Year 1 students only\n> Add/Drop Deadline : 11-Jan-2021",
+        "quota": 25,
+        "enroll": 25,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "MBA",
+            "quota": 25,
+            "enroll": 25
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "WANG, Caroline"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-09",
+            "toDate": "2021-01-23",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "WANG, Caroline"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-09",
+            "toDate": "2021-01-23",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "WANG, Caroline"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-26",
+            "toDate": "2021-01-27",
+            "weekdays": [
+              2,
+              3
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          }
+        ]
+      },
+      {
+        "section": "L4",
+        "number": "1026",
+        "remarks": "> For PT-MBA Year 1 students only\n> Add/Drop Deadline : 11-Jan-2021",
+        "quota": 24,
+        "enroll": 20,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "MBA",
+            "quota": 24,
+            "enroll": 17
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "LI, Edward Siu Leung"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-09",
+            "toDate": "2021-01-23",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "LI, Edward Siu Leung"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-09",
+            "toDate": "2021-01-23",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "LI, Edward Siu Leung"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-26",
+            "toDate": "2021-01-27",
+            "weekdays": [
+              2,
+              3
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "MGMT",
+    "number": "5640",
+    "code": "MGMT5640",
+    "name": "Time to Lead",
+    "description": "This course will help students reflect on their learning in the MBA program and prepare them for their leadership roles in the future. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "MGMT 5210",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1008",
+        "remarks": "> For MBA (BI-weekly) students only\n> Add/Drop Deadline : 09-Jan-2021",
+        "quota": 75,
+        "enroll": 72,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "MBA Bi-weekly",
+            "quota": 75,
+            "enroll": 72
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "NASON, Stephen William",
+              "NEW, Christopher Mitya"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "RPG",
+    "subject": "PPOL",
+    "number": "6000A",
+    "code": "PPOL6000A",
+    "name": "Independent Study",
+    "description": "Independent study in a designated subject under direct guidance of a faculty member to provide students the advanced knowledge and research skill sets on a public policy topic. Required readings, tutorial discussions, and submission of report(s) will be used for assessment. The course may be repeated for credit if different topics are studied. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1080",
+        "remarks": " ",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "WU, Xun"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": null,
+    "subject": "SBMT",
+    "number": "2200P",
+    "code": "SBMT2200P",
+    "name": "Social Enterprise Internship Program",
+    "description": "The course is intended to give business undergraduate students an opportunity to gain exposure in the area of social entrepreneurship and apply their knowledge to solve real-world challenges facing these organizations. It is conducted in the form of an internship program at a designated social enterprise under the supervision of the School of Business and Management. Approval from the course coordinator is needed prior to enrolling in the course. Graded P or F. Students may repeat the course for credits if different topics are taken.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1043",
+        "remarks": "> Add/Drop Deadline: 09-Jan-2021",
+        "quota": 50,
+        "enroll": 34,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAFON-VINAIS, Veronique J A"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": null,
+    "subject": "SBMT",
+    "number": "3200N",
+    "code": "SBMT3200N",
+    "name": "Corporate Project",
+    "description": "Students apply skills and knowledge learned from business courses to focus on specific projects in a business corporation setting. Students will work on group projects sponsored by participating corporations and supervised by faculty members. Approval from the course coordinator is needed prior to enrolling in the course. Graded PP, P or F. Students may repeat the course for credits if different topics are taken.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1044",
+        "remarks": "> Project: Carousell\n> The credit load will usually be spread in the following pattern: Fall: 1; Winter: 1 \n> Add/Drop Deadline: 09-Jan-2021",
+        "quota": 20,
+        "enroll": 5,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAFON-VINAIS, Veronique J A"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "T2",
+        "number": "1045",
+        "remarks": "> Project: P&G\n> The credit load will usually be spread in the following pattern: Fall: 1; Winter: 1 \n> Add/Drop Deadline: 09-Jan-2021",
+        "quota": 20,
+        "enroll": 10,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAFON-VINAIS, Veronique J A"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "T3",
+        "number": "1046",
+        "remarks": "> Project: sensory ZERO\n> The credit load will usually be spread in the following pattern: Fall: 1; Winter: 1 \n> Add/Drop Deadline: 09-Jan-2021",
+        "quota": 20,
+        "enroll": 5,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAFON-VINAIS, Veronique J A"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": null,
+    "subject": "SBMT",
+    "number": "3200O",
+    "code": "SBMT3200O",
+    "name": "Corporate Project",
+    "description": "Students apply skills and knowledge learned from business courses to focus on specific projects in a business corporation setting. Students will work on group projects sponsored by participating corporations and supervised by Faculty members. Approval from the course coordinator is needed prior to enrolling in the course. Graded PP, P or F. Students may repeat the course for credits if different topics are taken.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1055",
+        "remarks": "> Project: Bank of East Asia\n> The credit load will usually be spread in the following pattern: Winter: 1; Spring: 1\n> Add/Drop Deadline: 09-Jan-2021",
+        "quota": 20,
+        "enroll": 5,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAFON-VINAIS, Veronique J A"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "T2",
+        "number": "1056",
+        "remarks": "> Project: Nike Hong Kong\n> The credit load will usually be spread in the following pattern: Winter: 1; Spring: 1\n> Add/Drop Deadline : 09-Jan-2021",
+        "quota": 20,
+        "enroll": 6,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAFON-VINAIS, Veronique J A"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      },
+      {
+        "section": "T3",
+        "number": "1057",
+        "remarks": "> Project: New World Development Company Limited\n> The credit load will usually be spread in the following pattern: Winter: 1; Spring: 1\n> Add/Drop Deadline : 09-Jan-2021",
+        "quota": 20,
+        "enroll": 5,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LAFON-VINAIS, Veronique J A"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": null,
+    "subject": "SBMT",
+    "number": "3300G",
+    "code": "SBMT3300G",
+    "name": "Business Competitions",
+    "description": "In each business competition engaged by students themselves, students will be required to examine the conceptual and practical aspects of business policies and policy decision making by utilizing all the concepts, theories and tools that they learned in previous courses. This 1-credit course is offered in recognition of the students' outstanding performance in their participation of business competitions. Approval from the course coordinator is needed prior to enrolling in the course.  Graded P or F. Students may repeat the course for credits if different case competitions are taken.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "T1",
+        "number": "1042",
+        "remarks": "> Add/Drop Deadline: 09-Jan-2021",
+        "quota": 70,
+        "enroll": 61,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "HUANG, Allen Hao"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "SBMT",
+    "number": "5300",
+    "code": "SBMT5300",
+    "name": "Enhancing Professional Skills",
+    "description": "It aims at helping MBA students work intensively on developing or improving some key presentation skills which will be useful to them throughout their business careers. Simply put, the essence of Enhancing Professional Skills as “Making a Logical, Effective and Persuasive Business Presentation\". Graded P or F.",
+    "previousCodes": "SBMT6010B",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1011",
+        "remarks": "> For FT-MBA students only\n> Add/Drop Deadline : 11-Jan-2021",
+        "quota": 30,
+        "enroll": 30,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "MBA",
+            "quota": 30,
+            "enroll": 30
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "DORAN, Christopher",
+              "FRANKLIN, Laurence Craig",
+              "NASON, Stephen William",
+              "SALVACRUZ, Joseph"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-25",
+            "toDate": "2021-01-25",
+            "weekdays": [
+              1
+            ],
+            "fromTime": "09:00",
+            "toTime": "21:50"
+          },
+          {
+            "instructors": [
+              "DORAN, Christopher",
+              "FRANKLIN, Laurence Craig",
+              "NASON, Stephen William",
+              "SALVACRUZ, Joseph"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-26",
+            "toDate": "2021-01-26",
+            "weekdays": [
+              2
+            ],
+            "fromTime": "09:00",
+            "toTime": "21:50"
+          },
+          {
+            "instructors": [
+              "DORAN, Christopher",
+              "FRANKLIN, Laurence Craig",
+              "NASON, Stephen William",
+              "SALVACRUZ, Joseph"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-27",
+            "toDate": "2021-01-27",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "09:00",
+            "toTime": "21:50"
+          },
+          {
+            "instructors": [
+              "DORAN, Christopher",
+              "FRANKLIN, Laurence Craig",
+              "NASON, Stephen William",
+              "SALVACRUZ, Joseph"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-28",
+            "toDate": "2021-01-28",
+            "weekdays": [
+              4
+            ],
+            "fromTime": "09:00",
+            "toTime": "21:50"
+          },
+          {
+            "instructors": [
+              "DORAN, Christopher",
+              "FRANKLIN, Laurence Craig",
+              "NASON, Stephen William",
+              "SALVACRUZ, Joseph"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-29",
+            "toDate": "2021-01-29",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "09:00",
+            "toTime": "18:50"
+          },
+          {
+            "instructors": [
+              "DORAN, Christopher",
+              "FRANKLIN, Laurence Craig",
+              "NASON, Stephen William",
+              "SALVACRUZ, Joseph"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-31",
+            "toDate": "2021-01-31",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "09:00",
+            "toTime": "21:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "TPG",
+    "subject": "SBMT",
+    "number": "5760",
+    "code": "SBMT5760",
+    "name": "Financial and Money Markets from Macroeconomic Perspectives",
+    "description": "The course will discuss the main financial markets, their characteristics and how they are linked to the economy. It starts by explaining how global financial markets are structured and how this structure services both borrowers and investors. Asset classes for investor funds are reviewed before the focus turns to the macroeconomic environment. Fixed income, equities, commodities and real estate are also covered in detail and students will explore how hedge funds and private equity firms create value for their stakeholders.",
+    "previousCodes": "SBMT6010W",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 2,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1009",
+        "remarks": "> Instructor : JOHNSON, Paul\n> For FT-MBA Year 1 and PT-MBA students only\n> Add/Drop Deadline : 16-Jan-2021",
+        "quota": 70,
+        "enroll": 57,
+        "waitlist": 0,
+        "consent": false,
+        "reservedQuota": [
+          {
+            "name": "MBA",
+            "quota": 70,
+            "enroll": 56
+          }
+        ],
+        "schedule": [
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-16",
+            "toDate": "2021-01-23",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-16",
+            "toDate": "2021-01-23",
+            "weekdays": [
+              6
+            ],
+            "fromTime": "14:00",
+            "toTime": "17:20"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-17",
+            "toDate": "2021-01-24",
+            "weekdays": [
+              7
+            ],
+            "fromTime": "09:00",
+            "toTime": "12:20"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-20",
+            "toDate": "2021-01-20",
+            "weekdays": [
+              3
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          },
+          {
+            "instructors": [
+              "TBA"
+            ],
+            "venue": "TBA",
+            "fromDate": "2021-01-29",
+            "toDate": "2021-01-29",
+            "weekdays": [
+              5
+            ],
+            "fromTime": "19:00",
+            "toTime": "22:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "SHSS",
+    "number": "1020A",
+    "code": "SHSS1020A",
+    "name": "Humanities and Social Science Internship",
+    "description": "This course aims to provide students with internship educational opportunities locally and globally. Under the guidance of the course coordinator, students will undertake training and supervised internships with our potential collaborators (including government departments, NGOs, museums, media and press, cultural industries, social enterprises, social service organizations, business firms, and public corporations). Course assessment will be based on students' written reports and supervisors' evaluation. Cantonese may be used in off-campus trainings and internships, in some situations. May be repeated for credits. For students of GCS and QSA program only. Instructor's approval is required for enrolling in the course. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1077",
+        "remarks": " ",
+        "quota": 12,
+        "enroll": 12,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "YIU, Yuk Man Carine"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "SHSS",
+    "number": "1020B",
+    "code": "SHSS1020B",
+    "name": "Humanities and Social Science Internship",
+    "description": "This course aims to provide students with internship educational opportunities locally and globally. Under the guidance of the course coordinator, students will undertake training and supervised internships with our potential collaborators (including government departments, NGOs, museums, media and press, cultural industries, social enterprises, social service organizations, business firms, and public corporations). Course assessment will be based on students' written reports and supervisors' evaluation. Cantonese may be used in off-campus trainings and internships, in some situations. May be repeated for credits. For students of GCS and QSA program only. Instructor's approval is required for enrolling in the course. Graded P or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1078",
+        "remarks": " ",
+        "quota": 2,
+        "enroll": 2,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "YIU, Yuk Man Carine"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "SOSC",
+    "number": "3700A",
+    "code": "SOSC3700A",
+    "name": "Quantitative Social Analysis Practicum",
+    "description": "The course is intended to prepare students for the Quantitative Social Analysis Capstone Project by giving them practical experience in the quantitative analysis of social data by independently applying skills acquired in their required and elective methods courses. Students will either conduct a small research project related to the theme of a topical course in the Division of Social Science in which they are concurrently enrolled, or complete an internship that involves application of skills learned in their methods courses. Enrolled students will meet as a class at regular intervals during the semester and submit a final report. Students who plan to carry out a project are expected to be simultaneously enrolled in a topical Social Science course. Graded P or F. May be only taken twice. For QSA students only. Instructor's approval is required for enrolling in the course.",
+    "previousCodes": "",
+    "prerequisites": "SOSC 2400",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "LA1",
+        "number": "1027",
+        "remarks": "> Add/Drop Deadline : 09-Jan-2021",
+        "quota": 10,
+        "enroll": 6,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CAMPBELL, Cameron Dougall"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "SOSC",
+    "number": "3700B",
+    "code": "SOSC3700B",
+    "name": "Quantitative Social Analysis Practicum",
+    "description": "The course is intended to prepare students for the Quantitative Social Analysis Capstone Project by giving them practical experience in the quantitative analysis of social data by independently applying skills acquired in their required and elective methods courses. Students will either conduct a small research project related to the theme of a topical course in the Division of Social Science in which they are concurrently enrolled, or complete an internship that involves application of skills learned in their methods courses. Enrolled students will meet as a class at regular intervals during the semester and submit a final report. Students who plan to carry out a project are expected to be simultaneously enrolled in a topical Social Science course. Graded P or F. May be only taken twice. For QSA students only. Instructor's approval is required for enrolling in the course.",
+    "previousCodes": "",
+    "prerequisites": "SOSC 2400",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 1,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "LA1",
+        "number": "1028",
+        "remarks": "> Add/Drop Deadline : 09-Jan-2021",
+        "quota": 10,
+        "enroll": 8,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CAMPBELL, Cameron Dougall"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": "UGRD",
+    "subject": "SOSC",
+    "number": "4110",
+    "code": "SOSC4110",
+    "name": "Capstone Project",
+    "description": "The capstone project aims to prepare students for conducting independent research in quantitative social science. Students will choose a topic, identify appropriate data and methodologies, design and execute an analysis, and write up and present the results. For the project, students will have a faculty mentor in Social Science to advise them on substantive aspects of the work, and optionally a co-mentor in Social Science or Math to advise them on methodological issues. For QSA students in their fourth year of study with approval of the course instructor. Graded DI, PA or F.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "R1",
+        "number": "1067",
+        "remarks": "> Add/Drop Deadline : 09-Jan-2021",
+        "quota": 1,
+        "enroll": 1,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "CAMPBELL, Cameron Dougall"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": null,
+    "subject": "TEMG",
+    "number": "4952A",
+    "code": "TEMG4952A",
+    "name": "Special Project: Financial Investment Prototyping for UBS Zurich",
+    "description": "The financial services industry is undergoing a paradigm shift.  Emerging technologies like AI, ML, IoT and Blockchain, combined with customer expectations raised by the likes of Amazon and Uber are redefining how financial institutions deliver services.  From the sea of startups happening around the world everyday, UBS Zurich needs a tool to efficiently and effectively identify high potential fintech and high-tech firms to enhance her own capabilities as well as incorporation into investment portfolio for her clients. Case challenge is, “How might we develop a tool to help UBS Zurich identify high potential venture investment opportunities using investment data in Crunchbase?”  Students will be organized into teams, responsible for Web GUI front-end, server back-end using ML/Stat models and overall project management, business analysis, quality assurance of code development. This course is for T&M-DDP; students only. Enrollment in the project course requires approval of the course instructor.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1065",
+        "remarks": " ",
+        "quota": 30,
+        "enroll": 30,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LIN, Betty Fwei-chien"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career": null,
+    "subject": "TEMG",
+    "number": "4960F",
+    "code": "TEMG4960F",
+    "name": "Special Project: IBPC2021 Reimagine Education during COVID-19 and Beyond",
+    "description": "COVID-19 pandemic has created the largest disruption of education systems in history, affecting 1.6 billion learners in more than 190 countries and all continents. Case challenge is, “How might we reimagine education during COVID-19 and Beyond?”  Students will be equipped through a combination of online learning, in-person workshops, experience sharing by EdTech industry leaders and startup founders.  There will 6 days when each team will receive 2 hours of private coaching by industry experts or VC, for potentially meeting over 10 industry executives. Enrollment in the project course requires approval of the course instructor.",
+    "previousCodes": "",
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "credits": 3,
+    "attributes": [],
+    "classes": [
+      {
+        "section": "L1",
+        "number": "1066",
+        "remarks": " ",
+        "quota": 30,
+        "enroll": 30,
+        "waitlist": 0,
+        "consent": true,
+        "reservedQuota": [],
+        "schedule": [
+          {
+            "instructors": [
+              "LIN, Betty Fwei-chien"
+            ],
+            "venue": "TBA",
+            "fromDate": null,
+            "toDate": null,
+            "weekdays": [],
+            "fromTime": null,
+            "toTime": null
+          }
+        ]
+      }
+    ]
+  }
+]
